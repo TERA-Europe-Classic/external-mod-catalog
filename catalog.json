@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "updated_at": "2026-04-18T16:50:00Z",
+  "mods": [
+    {
+      "id": "classicplus.shinra",
+      "kind": "external",
+      "name": "Shinra Meter (Classic+)",
+      "author": "TERA-Europe-Classic, based on Gothos/neowutran/michaelcarno/LukasTD lineage",
+      "short_description": "Real-time DPS overlay and encounter log for TERA Classic+.",
+      "long_description": "Shinra Meter reads decrypted game packets over a local mirror socket (127.0.0.1:7803) exposed by the Classic+ launcher's Noctenium proxy. It does NOT perform wire-level packet capture, so no WinPcap/Npcap driver is required.\n\nFeatures:\n- Live DPS overlay (per-player, per-skill, per-encounter)\n- Damage / healing / abnormality breakdown\n- Encounter log + Excel + 7z-compressed JSON export\n- D3D9 in-game overlay\n- TTS, Discord RPC, Twitch chat integrations\n\nThis Classic+ variant pins the game release version to 10002 (v100.02) so every release-gated packet reader in EachSkillResult / Login / SpawnNpc works correctly against Classic+ wire data.",
+      "category": "meter",
+      "license": "MIT",
+      "credits": "Originally by Gothos (TeraDamageMeter). Forked by Gl0, Yukikoo, and neowutran (ShinraMeter). Ported to .NET 8 by michaelcarno (Shinra Beta). Continued by LukasTD (Yurian/Evervyn branches). Classic+ connection protocol, v100.02 pinning, telemetry strip, and JSON export fix by TERA-Europe-Classic. Logo: Se7en-Hellas. Opcode dumps: GoneUp, dezmen. Nostrum/companion tooling: Foglio1024.",
+      "version": "3.0.0-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/ShinraMeter/releases/download/v3.0.0-classicplus/ShinraMeter-v3.0.0-classicplus.zip",
+      "sha256": "67b808d8a5cfd747c97c1a42801226cbb59c464dab2c781ae9251eaeadf309c5",
+      "size_bytes": 53875093,
+      "source_url": "https://github.com/TERA-Europe-Classic/ShinraMeter",
+      "icon_url": "https://raw.githubusercontent.com/TERA-Europe-Classic/ShinraMeter/main/DamageMeter.UI/Resources/brand-icon.png",
+      "screenshots": [],
+      "executable_relpath": "ShinraMeter.exe",
+      "auto_launch_default": true,
+      "settings_folder": "%APPDATA%/ShinraMeter",
+      "updated_at": "2026-04-18T16:50:00Z"
+    },
+    {
+      "id": "classicplus.tcc",
+      "kind": "external",
+      "name": "TCC (Classic+)",
+      "author": "TERA-Europe-Classic, based on Foglio1024/Tera-custom-cooldowns",
+      "short_description": "Read-only cooldown tracker, party buffs, and boss gauges for TERA Classic+.",
+      "long_description": "TCC (Tera Custom Cooldowns) is a multi-purpose UI overlay: class-specific cooldown tracker, group window, class HUD, buff bars, boss gauge, chat window, notification system, and more.\n\nThis Classic+ variant is **read-only**. The upstream version brokers many outbound RPCs (LFG accept/decline, Moongourd player lookups, guild BAM webhooks, Firebase/Cloud telemetry, chat slash-commands); all of those are stripped in our fork. What remains reads packets from the launcher's 127.0.0.1:7803 mirror socket and renders the overlay. No outbound game or third-party traffic.\n\nTurn windows on/off in Settings. The meter, cooldown tracker, and group window are the most common picks.",
+      "category": "overlay",
+      "license": "GPL-3.0-or-later",
+      "credits": "Original by Foglio1024 (https://github.com/Foglio1024/Tera-custom-cooldowns). Discord/Mumble integration design and countless packet fixes by the TCC community. Classic+ variant: read-only strip, v100.02 pinning, ClassicPlusSniffer on 127.0.0.1:7803, compat shims for deleted LFG/Moongourd/Firebase/Cloud/Discord-webhook paths, empty UserControls for deleted XAML tags, Dragablz .NET 4.8 retarget — all by TERA-Europe-Classic.",
+      "version": "2.0.0-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.0-classicplus/TCC-v2.0.0-classicplus.zip",
+      "sha256": "ebb7b4d9ccf6fb04773611659bf63559f4a6cfa9474012efe7ac436e64acb581",
+      "size_bytes": 3783326,
+      "source_url": "https://github.com/TERA-Europe-Classic/TCC",
+      "icon_url": "https://raw.githubusercontent.com/TERA-Europe-Classic/TCC/main/TCC.Core/Resources/icon.png",
+      "screenshots": [],
+      "executable_relpath": "TCC.exe",
+      "auto_launch_default": true,
+      "settings_folder": "%APPDATA%/TCC",
+      "updated_at": "2026-04-18T16:50:00Z"
+    }
+  ]
+}
