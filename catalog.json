@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-18T16:50:00Z",
+  "updated_at": "2026-04-18T20:30:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -17,12 +17,11 @@
       "sha256": "67b808d8a5cfd747c97c1a42801226cbb59c464dab2c781ae9251eaeadf309c5",
       "size_bytes": 53875093,
       "source_url": "https://github.com/TERA-Europe-Classic/ShinraMeter",
-      "icon_url": "https://raw.githubusercontent.com/TERA-Europe-Classic/ShinraMeter/main/DamageMeter.UI/Resources/brand-icon.png",
       "screenshots": [],
       "executable_relpath": "ShinraMeter.exe",
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/ShinraMeter",
-      "updated_at": "2026-04-18T16:50:00Z"
+      "updated_at": "2026-04-18T20:30:00Z"
     },
     {
       "id": "classicplus.tcc",
@@ -39,12 +38,51 @@
       "sha256": "ebb7b4d9ccf6fb04773611659bf63559f4a6cfa9474012efe7ac436e64acb581",
       "size_bytes": 3783326,
       "source_url": "https://github.com/TERA-Europe-Classic/TCC",
-      "icon_url": "https://raw.githubusercontent.com/TERA-Europe-Classic/TCC/main/TCC.Core/Resources/icon.png",
       "screenshots": [],
       "executable_relpath": "TCC.exe",
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/TCC",
-      "updated_at": "2026-04-18T16:50:00Z"
+      "updated_at": "2026-04-18T20:30:00Z"
+    },
+    {
+      "id": "psina.postprocess",
+      "kind": "gpk",
+      "name": "PostProcess — gunner-effect cleanup",
+      "author": "Псина (community contributor via TERA Europe Classic Discord)",
+      "short_description": "PostProcess effect tweak shared on the Community UI mods channel.",
+      "long_description": "Part of Псина's 'removing gunner from the game' pack — replaces stock PostProcess effects with a cleaner variant. Drop into `S1Game\\CookedPC\\` (or the Classic+ launcher's Mods folder once the mapper patcher ships in Phase C).\n\nUntil auto-patching lands, the launcher just downloads the .gpk and shows it in the Installed list so you always know which file came from where. Copy it into the game manually for now.",
+      "category": "effects",
+      "license": "Unknown — community-shared on Discord without an explicit license. Credit the uploader and use at your own risk.",
+      "credits": "Uploaded by Псина on the TERA Europe Classic Discord 'Community UI mods :3' channel. If you are the original author and would prefer the entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog. GPK tooling: lunchduck/GPK_RePack; novadrop (vezel-dev) for modern parsing.",
+      "version": "2026-04",
+      "download_url": "https://web.tera-germany.de/classic/classicplus/mods/PostProcess.gpk",
+      "sha256": "a58dfbabaab8a0abf718a9f9253703d15f379a9ad9323ca2643243e790e086da",
+      "size_bytes": 10862386,
+      "source_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog",
+      "screenshots": [],
+      "target_patch": "v100.02",
+      "composite_flag": true,
+      "updated_at": "2026-04-18T20:30:00Z"
+    },
+    {
+      "id": "psina.gage-monster-hp",
+      "kind": "gpk",
+      "name": "Monster HP gauge — rainbow party bar",
+      "author": "Псина (based on miyo-ni's Tumblr concept)",
+      "short_description": "Restyles the monster HP gauge into a colourful party HP bar layout.",
+      "long_description": "Restyles the stock monster HP gauge (`S1UI_GageMonsterHp.gpk`) into the 'rainbow party HP bar' concept. Based on miyo-ni's original Tumblr design post. Drop into `S1Game\\CookedPC\\` (or the Classic+ launcher's Mods folder once the mapper patcher ships in Phase C).\n\nUntil auto-patching lands, the launcher just downloads the .gpk and shows it in the Installed list so you always know which file came from where. Copy it into the game manually for now.",
+      "category": "ui",
+      "license": "Unknown — community-shared on Discord without an explicit license. Credit the uploader and use at your own risk.",
+      "credits": "Uploaded by Псина on the TERA Europe Classic Discord 'Community UI mods :3' channel. Visual design adapted from miyo-ni's Tumblr post: https://www.tumblr.com/miyo-ni/688571598862794752/rainbow-hp-bar-group-uwu. If you are the original author and would prefer the entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog. GPK tooling: lunchduck/GPK_RePack.",
+      "version": "2026-04",
+      "download_url": "https://web.tera-germany.de/classic/classicplus/mods/S1UI_GageMonsterHp.gpk",
+      "sha256": "bab59cae7036659f84974a9dff3c4f8612e712ee823a0ff8308b5543fce35665",
+      "size_bytes": 55542,
+      "source_url": "https://www.tumblr.com/miyo-ni/688571598862794752/rainbow-hp-bar-group-uwu",
+      "screenshots": [],
+      "target_patch": "v100.02",
+      "composite_flag": true,
+      "updated_at": "2026-04-18T20:30:00Z"
     }
   ]
 }
