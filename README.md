@@ -7,9 +7,47 @@ mod manager.
 ## Format
 
 `catalog.json` is a single file the launcher fetches, caches for 1 h,
-and renders in the Browse tab. Schema and field definitions are
-documented in the launcher repo under `docs/mod-manager/DESIGN.md`
-(§ "Catalog entry schema" and § "Credit / attribution requirements").
+and renders in the Browse tab.
+
+## Schema
+
+Top level: `{ "version": number, "updated_at": "ISO-8601", "mods": [ ... ] }`.
+
+Each `mods[]` entry has the fields below. The CI gate at
+`scripts/check-readme-schema.mjs` fails any PR where this table
+diverges from the actual set of keys used across every entry in
+`catalog.json` — so this table is the authoritative schema, and
+`catalog.json` is the authoritative truth about what we've shipped.
+
+<!-- schema-table-begin -->
+| Field | Type | Required | Scope | Notes |
+|---|---|---|---|---|
+| `id` | string | required | both | Stable catalog id, e.g. `classicplus.shinra`. |
+| `kind` | `"external"` \| `"gpk"` | required | both | External app or GPK patch. |
+| `name` | string | required | both | Display name shown in the launcher row. |
+| `author` | string | required | both | Mod author. Never omit. |
+| `short_description` | string | required | both | One-line description for the row. |
+| `long_description` | string | optional | both | Full README-style body for the detail panel. Default `""`. |
+| `category` | string | optional | both | Category chip grouping (UI, gameplay, etc.). Default `""`. |
+| `license` | string | required | both | SPDX identifier or freeform. Use `"Unknown"` if truly unknown — never omit. |
+| `credits` | string | required | both | Freeform attribution rendered verbatim in the detail panel. |
+| `version` | string | required | both | Semver or publisher version string. Drives update detection. |
+| `download_url` | string (HTTPS URL) | required | both | Direct download for the binary. HTTPS only; no embedded credentials. |
+| `sha256` | string (64-char hex) | required | both | Lowercase hex SHA-256 of the downloaded bytes. |
+| `size_bytes` | integer (positive) | optional | both | Expected byte size. Default `0`. |
+| `source_url` | string | optional | both | Source-of-truth URL (GitHub, Tumblr, etc.) shown as "View source" in the detail panel. |
+| `screenshots` | string[] | optional | both | Screenshot URLs for the detail panel. Default `[]`. |
+| `executable_relpath` | string | required for external | external-only | Relative path to the executable inside the extracted zip. |
+| `auto_launch_default` | boolean | optional | external-only | Fresh install defaults to auto-launching with the game. Default `false`. |
+| `settings_folder` | string | optional | external-only | OS-specific settings dir template, e.g. `%APPDATA%\\ShinraMeter`. Used by the uninstall flow. |
+| `target_patch` | string | optional | gpk-only | Target TERA patch the GPK was authored against. |
+| `composite_flag` | boolean | optional | gpk-only | Whether the mapper composite flag must flip. |
+| `updated_at` | string (ISO-8601) | optional | both | Last publisher update. Default `""`. |
+<!-- schema-table-end -->
+
+### Legacy pointer
+
+Earlier docs pointed here for the schema definition: `docs/mod-manager/DESIGN.md` in the launcher repo. That file has not shipped; the table above replaces it.
 
 ## Contributor rules
 
