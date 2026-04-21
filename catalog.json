@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-04-20T03:35:00Z",
+  "updated_at": "2026-04-21T00:02:09Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -33,16 +33,16 @@
       "category": "overlay",
       "license": "GPL-3.0-or-later",
       "credits": "Original by Foglio1024 (https://github.com/Foglio1024/Tera-custom-cooldowns). Discord/Mumble integration design and countless packet fixes by the TCC community. Classic+ variant: read-only strip, v100.02 pinning, ClassicPlusSniffer on 127.0.0.1:7803, compat shims for deleted LFG/Moongourd/Firebase/Cloud/Discord-webhook paths, empty UserControls for deleted XAML tags, Dragablz .NET 4.8 retarget — all by TERA-Europe-Classic.",
-      "version": "2.0.3-classicplus",
-      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.3-classicplus/TCC-v2.0.3-classicplus.zip",
-      "sha256": "faaf5c7e8477ed0776d9cf9e80727ed30e69e77125153722b65fbda94cfc9568",
-      "size_bytes": 6035069,
+      "version": "2.0.4-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.4-classicplus/TCC-v2.0.4-classicplus.zip",
+      "sha256": "5adb6312b0556cf2c3ff30fab7063a6bd4f0311664d20de34292567235ffdac7",
+      "size_bytes": 6108807,
       "source_url": "https://github.com/TERA-Europe-Classic/TCC",
       "screenshots": [],
       "executable_relpath": "TCC.exe",
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/TCC",
-      "updated_at": "2026-04-20T12:14:36Z"
+      "updated_at": "2026-04-21T00:02:09Z"
     },
     {
       "id": "psina.postprocess",
