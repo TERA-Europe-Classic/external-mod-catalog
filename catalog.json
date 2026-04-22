@@ -12,16 +12,16 @@
       "category": "meter",
       "license": "MIT",
       "credits": "Originally created by Gothos and maintained by the ShinraMeter community. This Classic+ version is updated and maintained by TERA Europe Classic.",
-      "version": "3.0.4-classicplus",
-      "download_url": "https://github.com/TERA-Europe-Classic/ShinraMeter/releases/download/v3.0.4-classicplus/ShinraMeter-v3.0.4-classicplus.zip",
-      "sha256": "46288331b7615f443b10671fa29d5acd7ac07b95f85a33eac1024ce9ec1acd7e",
-      "size_bytes": 53874430,
+      "version": "3.0.5-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/ShinraMeter/releases/download/v3.0.5-classicplus/ShinraMeter-v3.0.5-classicplus.zip",
+      "sha256": "91dc6c74619a1d673b3f024b64d5e346053dede9f66045ca28b6445d8ebcae12",
+      "size_bytes": 53869164,
       "source_url": "https://github.com/TERA-Europe-Classic/ShinraMeter",
       "screenshots": [],
       "executable_relpath": "ShinraMeter.exe",
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/ShinraMeter",
-      "updated_at": "2026-04-22T05:22:29Z"
+      "updated_at": "2026-04-22T16:23:08Z"
     },
     {
       "id": "classicplus.tcc",
