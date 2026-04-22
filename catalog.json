@@ -33,16 +33,16 @@
       "category": "overlay",
       "license": "GPL-3.0-or-later",
       "credits": "Originally created by Foglio1024 and the TCC community. This Classic+ version is maintained by TERA Europe Classic with a focus on essential game features.",
-      "version": "2.0.6-classicplus",
-      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.6-classicplus/TCC-v2.0.6-classicplus.zip",
-      "sha256": "209eb5fd530ed47d9cc0c1a2ff5d110ee30c5f1c15b3095bfdc058206cefada5",
-      "size_bytes": 6109452,
+      "version": "2.0.7-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.7-classicplus/TCC-v2.0.7-classicplus.zip",
+      "sha256": "bfeb0d6d798228a8a12f38f870031143d14949c387ceb77fdbeb878df7584204",
+      "size_bytes": 6125061,
       "source_url": "https://github.com/TERA-Europe-Classic/TCC",
       "screenshots": [],
       "executable_relpath": "TCC.exe",
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/TCC",
-      "updated_at": "2026-04-21T13:56:35Z"
+      "updated_at": "2026-04-22T08:00:00Z"
     },
     {
       "id": "psina.postprocess",
