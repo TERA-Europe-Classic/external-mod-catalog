@@ -344,8 +344,7 @@
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
       "compatibility_notes": "Conflicts with other Community-window restyles. Pick one Foglio restyle per UI window — combining two restyles for the same window will leave the second-installed one effective.",
-      "before_image": "https://raw.githubusercontent.com/Foglio1024/Tera-restyle/master/preview/community-vanilla.png",
-      "featured_image": "https://raw.githubusercontent.com/Foglio1024/Tera-restyle/master/preview/community-restyled.png"
+      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle"
     },
     {
       "id": "foglio1024.restyle-ep-window",

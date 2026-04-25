@@ -45,7 +45,6 @@ diverges from the actual set of keys used across every entry in
 | `updated_at` | string (ISO-8601) | optional | both | Last publisher update. Default `""`. |
 | `tagline` | string | optional | both | One-line punchy hook (≤90 chars). Row cards display this; falls back to `short_description` when missing. |
 | `featured_image` | string (HTTPS URL) | optional | both | Hero image at the top of the detail panel. 16:9 preferred, ≥1200w. For restyles, the "after" shot. |
-| `before_image` | string (HTTPS URL) | optional | both | Restyles only — paired "before" shot for side-by-side compare. Renders only when `featured_image` is also present. |
 | `tags` | string[] | optional | both | Searchable badges (e.g. `["minimap","quality-of-life","foglio"]`). Distinct from `category`. |
 | `gpk_files` | string[] | optional | both | GPK files this mod replaces (e.g. `["S1UI_Chat2.gpk"]`). Power-user info shown in Details row. |
 | `compatibility_notes` | string (markdown) | optional | both | Conflicts / patch caveats. Rendered in a yellow callout above screenshots. |
