@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-05-01T22:00:00Z",
+  "updated_at": "2026-05-01T22:30:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -467,17 +467,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by foglio1024 at https://github.com/foglio1024/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/foglio1024/tera-restyle/master/InventoryWindow/p95/S1UI_InventoryWindow.gpk",
-      "sha256": "69d4f66826fbf8611cea93103f0029401480f1cfb6a304afacc02b9f4ef3eda7",
-      "size_bytes": 1027946,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-inventory.S1UI_InventoryWindow.roundtrip.gpk",
+      "sha256": "8453810f64565cede3c07ab01387a478b1c4b1ef149c5ed26d1245282bec5c39",
+      "size_bytes": 6355042,
       "source_url": "https://github.com/foglio1024/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T22:30:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "compatible_arch": "x64",
+      "target_object_path": "S1UI_InventoryWindow.InventoryWindow",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "foglio1024.restyle-minimap",
@@ -489,17 +492,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by foglio1024 at https://github.com/foglio1024/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/foglio1024/tera-restyle/master/MiniMap/p90/S1UI_MiniMap.gpk",
-      "sha256": "e4afc7afdb125a9ed1afee8a2202e1680356e45b2dda4f2576dac7dad6b667f9",
-      "size_bytes": 778634,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-minimap.S1UI_MiniMap.roundtrip.gpk",
+      "sha256": "1a066274d2bf0cbd3a1901502dad2725f0e061756bd88129a8292ed1052bb509",
+      "size_bytes": 5445763,
       "source_url": "https://github.com/foglio1024/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T22:30:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "compatible_arch": "x64",
+      "target_object_path": "S1UI_MiniMap.MiniMap",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "foglio1024.restyle-paperdoll",
@@ -1091,17 +1097,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by foglio1024 at https://github.com/foglio1024/badGUILoader. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/foglio1024/badGUILoader/master/S1UI_UpdateNotification.gpk",
-      "sha256": "ec470822e9b65924b3f8fc168c6aa5c9ac0cb0187f4962176d0296f3ed08ab85",
-      "size_bytes": 189765,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.badgui-loader.S1UI_UpdateNotification.roundtrip.gpk",
+      "sha256": "4e3c0f2192f65391f9c24975edb06554be920cd663bdbec0c3a7d4949ec9c5c6",
+      "size_bytes": 5204238,
       "source_url": "https://github.com/foglio1024/badGUILoader",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T22:30:00Z",
       "tagline": "Modded GPK for badGUI",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/7d499854e270b16a57cc128c3fbc3c1808cface7866f0c6ce3b735267d972ba6/foglio1024/badGUILoader"
+      "featured_image": "https://opengraph.githubassets.com/7d499854e270b16a57cc128c3fbc3c1808cface7866f0c6ce3b735267d972ba6/foglio1024/badGUILoader",
+      "compatible_arch": "x64",
+      "target_object_path": "S1UI_UpdateNotification.UpdateNotification",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "foglio1024.s1ui-chat2-p75",
@@ -3495,14 +3504,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by foglio1024 at https://github.com/Foglio1024/tera-modern-ui. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_EpWindow/S1UI_EpWindow.gpk",
-      "sha256": "622a400570ff60ab9050acf413d123c156550a4a23f3edbce16348a89b392ff4",
-      "size_bytes": 999310,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-ep-window.S1UI_EpWindow.roundtrip.gpk",
+      "sha256": "432acd27aa22ad050b00408e16d3ae9a5e0eb858c2864a3744d0a6c1035a1713",
+      "size_bytes": 8082486,
       "source_url": "https://github.com/Foglio1024/tera-modern-ui",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-05-01T22:30:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
       "gpk_files": [
@@ -3510,7 +3519,10 @@
       ],
       "tags": [
         "gpk"
-      ]
+      ],
+      "compatible_arch": "x64",
+      "target_object_path": "S1UI_EpWindow.EpWindow",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "foglio1024.modern-ui-equipment-combine",
