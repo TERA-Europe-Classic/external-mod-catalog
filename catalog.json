@@ -492,7 +492,7 @@
       "last_verified_patch": "patch 110",
       "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
       "compatible_arch": "x64",
-      "target_object_path": "S1UI_InventoryWindow.InventoryWindow",
+      "target_object_path": "S1UI_InventoryWindow.Inventory",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
