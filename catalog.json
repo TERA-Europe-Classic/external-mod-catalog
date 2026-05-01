@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-04-30T05:30:00Z",
+  "updated_at": "2026-05-01T20:30:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -504,23 +504,36 @@
     {
       "id": "foglio1024.restyle-paperdoll",
       "kind": "gpk",
-      "name": "Restyle: PaperDoll",
+      "name": "Restyle: PaperDoll (x64 port)",
       "author": "foglio1024",
-      "short_description": "Restyled character equipment window.",
-      "long_description": "A restyled version of the character equipment window.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
+      "short_description": "Foglio's restyled character equipment window — x64 port for v100.02 client.",
+      "long_description": "A modern restyled version of the character equipment / paperdoll window, originally by Foglio1024.\n\n**This is an x64 port of foglio's x32-only mod.** Foglio's original `S1UI_PaperDoll.gpk` is file_version 610 (Classic x32) and cannot be byte-dropped onto v100.02 (x64). The TERA-Europe-Classic team extracted the modded SWF from foglio's `PaperDoll/p79/S1UI_PaperDoll79.gpk` and spliced it into a v100-native GFxMovieInfo wrapper, then re-emitted as a TMM-format composite GPK.\n\n**May not look exactly as foglio intended.** Some texture object names were renumbered between Classic and v100, so a small subset of slot decorations may render differently than in foglio's screenshots. The core SWF (silhouettes adapt to v100 numeric race/sex coding, slot frame designs for filled and hover states) renders correctly.\n\n**Empty equipment slots are intentionally invisible until hover** — foglio's documented minimalist design intent. See Risenio's \"visible clears\" community variant on foglio's wiki for the opposite preference.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown",
-      "credits": "Published by foglio1024 at https://github.com/foglio1024/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/foglio1024/tera-restyle/master/PaperDoll/p95/S1UI_PaperDoll.gpk",
-      "sha256": "7f890f4b3fff3f7b12f617063c909f4868b8e648d26b93abcc21c110f656c4e1",
-      "size_bytes": 1245088,
+      "credits": "Originally by foglio1024 (https://github.com/foglio1024/tera-restyle). Adapted to v100.02 (x64) by the TERA-Europe-Classic team — modded SWF spliced into a v100-native wrapper. \"Visible clears\" alternative variant for always-visible empty slot frames is by Risenio per foglio's wiki. If you are the author and would prefer this entry removed, reattributed, or replaced with a different upstream URL, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/paperdoll-x64-port-2026-05-01/RestylePaperdoll.gpk",
+      "sha256": "324d4bcdb1bc3647d67837f4a603f0ad92bda1ec489e8203c54e56005888d3c0",
+      "size_bytes": 8339580,
       "source_url": "https://github.com/foglio1024/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
-      "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
-      "last_verified_patch": "patch 110",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T20:30:00Z",
+      "tagline": "Foglio's PaperDoll restyle, x64-ported for v100.02. May differ slightly from foglio's screenshots.",
+      "last_verified_patch": "v100.02",
+      "compatibility_notes": "**Adapted for x64 from foglio's x32 mod — may not look exactly as intended.** Empty equipment slots are intentionally invisible until hover (foglio's design intent). Locked tier-2 perimeter slots use vanilla padlock graphics. Conflicts with `foglio1024.modern-ui-jewels-fix-paperdoll` and `taorelia.restyle-paperdoll` — pick one paperdoll restyle at a time.",
+      "tags": [
+        "foglio",
+        "ui",
+        "paperdoll",
+        "character-window",
+        "restyle",
+        "x64-port"
+      ],
+      "gpk_files": [
+        "S1UI_PaperDoll.gpk"
+      ],
       "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle"
     },
     {
