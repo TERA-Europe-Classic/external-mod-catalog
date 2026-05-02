@@ -79,7 +79,9 @@
         "S1UI_PartyWindow_2.gpk",
         "S1UI_ShortCut.gpk"
       ],
-      "compatibility_notes": "Mod content (PostProcess.gpk) targets a package whose primary objects don't exist in v100 vanilla — engine wouldn't load it. Catalog gpk_files lists 7 unrelated S1UI files which is also a data-quality issue."
+      "compatibility_notes": "Mod content (PostProcess.gpk) targets a package whose primary objects don't exist in v100 vanilla — engine wouldn't load it. Catalog gpk_files lists 7 unrelated S1UI files which is also a data-quality issue.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PostProcess.gpk"
     },
     {
       "id": "psina.gage-monster-hp",
@@ -1176,7 +1178,9 @@
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
       "featured_image": "https://opengraph.githubassets.com/2e7f1898476ab35273ed8eac9c8cfb3d6f07b69f2919837758fc5d58990ca677/foglio1024/toolbox-client-mods",
-      "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference."
+      "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "TexturedFonts.gpk"
     },
     {
       "id": "foglio1024.toolbox-thinkblob",
@@ -1452,7 +1456,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "PostProcess package doesn't exist in v100 PkgMapper (renamed to S1_Technique.PostProcessNesting.* in newer client)."
+      "compatibility_notes": "PostProcess package doesn't exist in v100 PkgMapper (renamed to S1_Technique.PostProcessNesting.* in newer client).",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PostProcess.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-enchant",
@@ -1480,7 +1486,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Modded GPK targets a single StaticMesh (SM) export but foglio's source GPK doesn't have a matching named export — likely a bytewise-different format."
+      "compatibility_notes": "Modded GPK targets a single StaticMesh (SM) export but foglio's source GPK doesn't have a matching named export — likely a bytewise-different format.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Enchant.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-awaken-archer",
@@ -1508,7 +1516,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Same as fps-pack-fx-enchant: modded source has SM export with mismatched name to vanilla's SM.<class>_<...>_SM_dup."
+      "compatibility_notes": "Same as fps-pack-fx-enchant: modded source has SM export with mismatched name to vanilla's SM.<class>_<...>_SM_dup.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Awaken_Archer.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-awaken-berserker",
@@ -1536,7 +1546,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Same as fps-pack-fx-enchant."
+      "compatibility_notes": "Same as fps-pack-fx-enchant.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Awaken_Berserker.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-awaken-sorcerer",
@@ -1564,7 +1576,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Same as fps-pack-fx-enchant."
+      "compatibility_notes": "Same as fps-pack-fx-enchant.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Awaken_Sorcerer.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-awaken-priest",
@@ -1592,7 +1606,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Same as fps-pack-fx-enchant."
+      "compatibility_notes": "Same as fps-pack-fx-enchant.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Awaken_Priest.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-awaken-lancer",
@@ -1620,7 +1636,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Same as fps-pack-fx-enchant."
+      "compatibility_notes": "Same as fps-pack-fx-enchant.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Awaken_Lancer.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-awaken-slayer",
@@ -1648,7 +1666,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Same as fps-pack-fx-enchant."
+      "compatibility_notes": "Same as fps-pack-fx-enchant.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Awaken_Slayer.gpk"
     },
     {
       "id": "owyn.fps-pack-fx-awaken-warrior",
@@ -1676,7 +1696,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatibility_notes": "Same as fps-pack-fx-enchant."
+      "compatibility_notes": "Same as fps-pack-fx-enchant.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "FX_Awaken_Warrior.gpk"
     },
     {
       "id": "catannadev.pink-crosshair",
@@ -3603,7 +3625,9 @@
         "pantypon"
       ],
       "compatibility_notes": "Targets Event_BaseBody package which doesn't exist in v100 PkgMapper.",
-      "updated_at": "2026-05-02T01:00:00Z"
+      "updated_at": "2026-05-02T01:00:00Z",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Event_BaseBody.patched.gpk"
     },
     {
       "id": "pantypon.fairy-stump-mount",
@@ -3786,7 +3810,9 @@
         "artexlib"
       ],
       "compatibility_notes": "Targets BrawlerChadBlocking package which doesn't exist in v100 (mod-author named the package after their own mod identifier; only valid as a Type-D drop-in which the patch flow doesn't support).",
-      "updated_at": "2026-05-02T01:00:00Z"
+      "updated_at": "2026-05-02T01:00:00Z",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "BrawlerChadBlocking.gpk"
     },
     {
       "id": "artexlib.gray-college-backpack",
@@ -3814,7 +3840,9 @@
         "artexlib"
       ],
       "compatibility_notes": "Targets GucciBackpack package which doesn't exist in v100 (Type-D mod, mod-author-named package).",
-      "updated_at": "2026-05-02T01:00:00Z"
+      "updated_at": "2026-05-02T01:00:00Z",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "GucciBackpack.gpk"
     },
     {
       "id": "artexlib.lancer-gigachad-block",
@@ -3842,7 +3870,9 @@
         "artexlib"
       ],
       "compatibility_notes": "Targets LancerGigaChadBlock package which doesn't exist in v100 (Type-D mod).",
-      "updated_at": "2026-05-02T01:00:00Z"
+      "updated_at": "2026-05-02T01:00:00Z",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "LancerGigaChadBlock.gpk"
     },
     {
       "id": "artexlib.white-valkyrie-helmet",
@@ -3870,7 +3900,9 @@
         "artexlib"
       ],
       "compatibility_notes": "Targets PinkValkyrieHelmet package which doesn't exist in v100 (Type-D mod).",
-      "updated_at": "2026-05-02T01:00:00Z"
+      "updated_at": "2026-05-02T01:00:00Z",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PinkValkyrieHelmet.gpk"
     },
     {
       "id": "foglio1024.modern-ui-community-window",
