@@ -644,17 +644,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by foglio1024 at https://github.com/foglio1024/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/foglio1024/tera-restyle/master/ServantStorageWindow/p90/S1UI_ServantStorageWindow.gpk",
-      "sha256": "e7352ea7f36e33cb5650d714133575b02ad5a81744809ebfa9a08f1a68d6de18",
-      "size_bytes": 1230089,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-servant-storage.S1UI_ServantStorageWindow.roundtrip.gpk",
+      "sha256": "453155d8b5229161bce0f0ae119ae9857305d179ac1681a8e3d0e9ad9428dffd",
+      "size_bytes": 7749845,
       "source_url": "https://github.com/foglio1024/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "target_object_path": "S1UI_ServantStorageWindow.ServantStorageWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "foglio1024.restyle-skill-window",
@@ -3862,14 +3865,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by foglio1024 at https://github.com/Foglio1024/tera-modern-ui. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Foglio1024/tera-modern-ui/master/Modern_ServantStorageWindow/S1UI_ServantStorageWindow.gpk",
-      "sha256": "5d2e065779667af8e2cf397a97e701a7f9b00b011a36cd068c282897e28573d5",
-      "size_bytes": 1208278,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-servant-storage.S1UI_ServantStorageWindow.roundtrip.gpk",
+      "sha256": "23e382e3923e60343cf25f933dbc2cdd2aad5629b3a80ba51e0b8fbb6d8fb73a",
+      "size_bytes": 7734075,
       "source_url": "https://github.com/Foglio1024/tera-modern-ui",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
       "gpk_files": [
@@ -3877,7 +3880,10 @@
       ],
       "tags": [
         "gpk"
-      ]
+      ],
+      "target_object_path": "S1UI_ServantStorageWindow.ServantStorageWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "foglio1024.modern-ui-store-window",
