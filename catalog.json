@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-05-01T23:00:00Z",
+  "updated_at": "2026-05-02T01:00:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -67,7 +67,7 @@
       "source_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "JSON catalog of external mods consumed by the Classic+ launcher",
       "last_verified_patch": "patch 115",
       "gpk_files": [
@@ -78,7 +78,9 @@
         "S1UI_PartyWindow_1.gpk",
         "S1UI_PartyWindow_2.gpk",
         "S1UI_ShortCut.gpk"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Mod content (PostProcess.gpk) targets a package whose primary objects don't exist in v100 vanilla — engine wouldn't load it. Catalog gpk_files lists 7 unrelated S1UI files which is also a data-quality issue. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "psina.gage-monster-hp",
@@ -334,7 +336,7 @@
       "source_url": "https://github.com/teralove/TERA-UI-Mods",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "TERA UI Mods",
       "last_verified_patch": "patch 100",
       "gpk_files": [
@@ -345,7 +347,9 @@
         "tera-mods",
         "tera-online"
       ],
-      "featured_image": "https://opengraph.githubassets.com/b8b9a80248441563c113e3a8a9cada696241ea72476ce2db79cd55fb2918a5f9/teralove/TERA-UI-Mods"
+      "featured_image": "https://opengraph.githubassets.com/b8b9a80248441563c113e3a8a9cada696241ea72476ce2db79cd55fb2918a5f9/teralove/TERA-UI-Mods",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets PartyWindowRaidInfo widget; foglio's modded GPK has 17 internal Texture2D exports that need a per-export port pipeline (not just SWF splice). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "foglio1024.restyle-community-window",
@@ -1316,13 +1320,13 @@
       "source_url": "https://github.com/Taorelia/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-05-01T23:00:00Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
       "target_object_path": "S1UI_InventoryWindow.Inventory",
-      "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatible_arch": "x32",
+      "compatibility_notes": "Modded GPK has internal export named 'Inventory' (no _dup suffix) but contains 50 Inventory_I* texture exports — would need a per-texture port pipeline beyond --gfx-swap scope. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "taorelia.restyle-paperdoll",
@@ -1441,7 +1445,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1449,7 +1453,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "PostProcess package doesn't exist in v100 PkgMapper (renamed to S1_Technique.PostProcessNesting.* in newer client). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-enchant",
@@ -1468,7 +1474,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1476,7 +1482,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Modded GPK targets a single StaticMesh (SM) export but foglio's source GPK doesn't have a matching named export — likely a bytewise-different format. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-archer",
@@ -1495,7 +1503,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1503,7 +1511,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Same as fps-pack-fx-enchant: modded source has SM export with mismatched name to vanilla's SM.<class>_<...>_SM_dup. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-berserker",
@@ -1522,7 +1532,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1530,7 +1540,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-sorcerer",
@@ -1549,7 +1561,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1557,7 +1569,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-priest",
@@ -1576,7 +1590,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1584,7 +1598,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-lancer",
@@ -1603,7 +1619,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1611,7 +1627,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-slayer",
@@ -1630,7 +1648,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1638,7 +1656,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-warrior",
@@ -1657,7 +1677,7 @@
       "source_url": "https://github.com/Owyn/fps-pack",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Full pack of effect minimizing and disabling gpk mods to increase FPS",
       "last_verified_patch": "patch 100",
       "tags": [
@@ -1665,7 +1685,9 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack"
+      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "catannadev.pink-crosshair",
@@ -1928,13 +1950,15 @@
       ],
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "Removes the artisan mastery icons from name plates. (GPK mod)",
       "last_verified_patch": "patch 95",
       "tags": [
         "tera-proxy"
       ],
-      "featured_image": "https://raw.githubusercontent.com/teralove/remove-artisan-icons/master/artisan_mastery_icons.png"
+      "featured_image": "https://raw.githubusercontent.com/teralove/remove-artisan-icons/master/artisan_mastery_icons.png",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export so --gfx-swap can't pair them. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "merusira.atlas-clean-onscreen-messages",
@@ -2661,7 +2685,10 @@
         "classic-era",
         "cosmetic",
         "pantypon"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "updated_at": "2026-05-02T01:00:00Z"
     },
     {
       "id": "pantypon.hana-reward-tier",
@@ -3587,7 +3614,10 @@
         "classic-era",
         "cosmetic",
         "pantypon"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets Event_BaseBody package which doesn't exist in v100 PkgMapper. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "updated_at": "2026-05-02T01:00:00Z"
     },
     {
       "id": "pantypon.fairy-stump-mount",
@@ -3768,7 +3798,10 @@
         "classic-era",
         "animation",
         "artexlib"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets BrawlerChadBlocking package which doesn't exist in v100 (mod-author named the package after their own mod identifier; only valid as a Type-D drop-in which the patch flow doesn't support). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "updated_at": "2026-05-02T01:00:00Z"
     },
     {
       "id": "artexlib.gray-college-backpack",
@@ -3794,7 +3827,10 @@
         "classic-era",
         "cosmetic",
         "artexlib"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets GucciBackpack package which doesn't exist in v100 (Type-D mod, mod-author-named package). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "updated_at": "2026-05-02T01:00:00Z"
     },
     {
       "id": "artexlib.lancer-gigachad-block",
@@ -3820,7 +3856,10 @@
         "classic-era",
         "animation",
         "artexlib"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets LancerGigaChadBlock package which doesn't exist in v100 (Type-D mod). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "updated_at": "2026-05-02T01:00:00Z"
     },
     {
       "id": "artexlib.white-valkyrie-helmet",
@@ -3846,7 +3885,10 @@
         "classic-era",
         "cosmetic",
         "artexlib"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Targets PinkValkyrieHelmet package which doesn't exist in v100 (Type-D mod). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "updated_at": "2026-05-02T01:00:00Z"
     },
     {
       "id": "foglio1024.modern-ui-community-window",
@@ -4615,7 +4657,7 @@
       "source_url": "https://github.com/DeathDefying/UI-Remover",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-05-02T01:00:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/DeathDefying/UI-Remover",
       "gpk_files": [
@@ -4623,7 +4665,9 @@
       ],
       "tags": [
         "gpk"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Catalog data quality issue: the URL points to S1UI_QuestTaskInfo.gpk but the file content is a ProgressBar/FlightGauge mod (only ProgressBar_I* exports). Mod target unclear. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
     },
     {
       "id": "deathdefying.ui-remover-tera-rewards",
