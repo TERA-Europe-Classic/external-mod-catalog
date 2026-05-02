@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-05-02T00:30:00Z",
+  "updated_at": "2026-05-01T23:00:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -89,17 +89,20 @@
       "long_description": "Turns the monster HP bar into a brighter party-style layout inspired by miyo-ni's original concept.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — community-shared on Discord without an explicit license. Credit the uploader and use at your own risk.",
-      "credits": "Shared by Псина in the TERA Europe Classic Discord community and based on miyo-ni's original Tumblr design. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://web.tera-germany.de/classic/classicplus/mods/S1UI_GageMonsterHp.gpk",
-      "sha256": "bab59cae7036659f84974a9dff3c4f8612e712ee823a0ff8308b5543fce35665",
-      "size_bytes": 55542,
+      "credits": "Shared by Псина in the TERA Europe Classic Discord community and based on miyo-ni's original Tumblr design. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/psina.gage-monster-hp.S1UI_GageMonsterHp.roundtrip.gpk",
+      "sha256": "a9656bebbee502e6c677685e773bff729cb3f3b7edd16c2de587c1ba437ba846",
+      "size_bytes": 1106199,
       "source_url": "https://www.tumblr.com/miyo-ni/688571598862794752/rainbow-hp-bar-group-uwu",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "featured_image": "https://64.media.tumblr.com/67a7d4f74b817c5e3fa0b9f0baca6bc9/5ce78b0ab9e4f59d-1f/s2048x3072_c0,0,99942,100000/84e92c12207b58b35a1e8af803911162def7d05f.png",
-      "tagline": "miyo-niJul 1, 2022rainbow HP bar party uwuS1UI_GageMonsterHp.gpkПосмотреть и скачать с Ян…"
+      "tagline": "miyo-niJul 1, 2022rainbow HP bar party uwuS1UI_GageMonsterHp.gpkПосмотреть и скачать с Ян…",
+      "target_object_path": "S1UI_GageMonsterHp.GageMonsterHp",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "neowutran.s1ui-chat2",
@@ -110,15 +113,15 @@
       "long_description": "Gives the chat window a cleaner layout with automatic support for inspecting other players.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by neowutran. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/neowutran/S1UI_chat2/master/S1UI_Chat2.gpk",
-      "sha256": "2fa00b81d3168d6cec7295c80799fbf16774290259ef705bc29a9e2a61929903",
-      "size_bytes": 310419,
+      "credits": "Published by neowutran. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/neowutran.s1ui-chat2.S1UI_Chat2.roundtrip.gpk",
+      "sha256": "90896112ec05489869741e6d3fcbe71622eee1506997e4210eccb9e29693298d",
+      "size_bytes": 4361603,
       "source_url": "https://github.com/neowutran/S1UI_chat2",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
       "tags": [
         "mmo",
@@ -126,7 +129,10 @@
         "reverse-engineering",
         "tera"
       ],
-      "featured_image": "https://opengraph.githubassets.com/5ed01d9ca215ad851b9adf31c1f75d0c8ac4f780abf54dc1aa66442a54ee05a7/neowutran/S1UI_chat2"
+      "featured_image": "https://opengraph.githubassets.com/5ed01d9ca215ad851b9adf31c1f75d0c8ac4f780abf54dc1aa66442a54ee05a7/neowutran/S1UI_chat2",
+      "target_object_path": "S1UI_Chat2.Chat2",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "saltymonkey.message-clean",
@@ -137,15 +143,15 @@
       "long_description": "Removes combat messages like skill resets and enchantments, as well as item acquisition spam, for a cleaner gameplay experience.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-clean-onscreen-messages. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-onscreen-messages/master/S1UI_Message.gpk",
-      "sha256": "ed4a48d70f710a1a30141f5fee5361e9169257614ae08a08352582a2e3d789a7",
-      "size_bytes": 554802,
+      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-clean-onscreen-messages. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.message-clean.S1UI_Message.roundtrip.gpk",
+      "sha256": "7258b146ab918bcd22ecd437cced940b710193d4ca4716bd950ea280c0deec48",
+      "size_bytes": 16145944,
       "source_url": "https://github.com/SaltyMonkey/tera-online-clean-onscreen-messages",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "GPK mod. Can remove annoying on screen messages from glyphs and etc",
       "last_verified_patch": "patch 103",
       "tags": [
@@ -153,7 +159,10 @@
         "tera-online",
         "tera-toolbox"
       ],
-      "featured_image": "https://opengraph.githubassets.com/bc409a747d38a43e5bc1716a97d7db7616ef5747ba0ba57bad085dd86817a71d/SaltyMonkey/tera-online-clean-onscreen-messages"
+      "featured_image": "https://opengraph.githubassets.com/bc409a747d38a43e5bc1716a97d7db7616ef5747ba0ba57bad085dd86817a71d/SaltyMonkey/tera-online-clean-onscreen-messages",
+      "target_object_path": "S1UI_Message.Message",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "saltymonkey.message-centered",
@@ -164,15 +173,15 @@
       "long_description": "A centered version of the cleaner on-screen message window.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by SaltyMonkey. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/SaltyMonkey/tera-online-centered-clean-onscreen-messages/master/S1UI_Message.gpk",
-      "sha256": "e4d38e7ab1d912861066ccb0bbc78737b372354129a7fe73ad2246d6d86d0b13",
-      "size_bytes": 508083,
+      "credits": "Published by SaltyMonkey. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.message-centered.S1UI_Message.roundtrip.gpk",
+      "sha256": "2c7374aa6a50f06e8bf220ecd196b75a5959ebfb47dbac5f33eec86a2469de5a",
+      "size_bytes": 16105731,
       "source_url": "https://github.com/SaltyMonkey/tera-online-centered-clean-onscreen-messages",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "tera-online-centered-clean-onscreen-messages",
       "last_verified_patch": "patch 103",
       "tags": [
@@ -180,7 +189,10 @@
         "tera-online",
         "tera-toolbox"
       ],
-      "featured_image": "https://opengraph.githubassets.com/f7149505b2f1b71a127bd2d6c3f1f342cb806cdf5725d9d15b59a03b517acfd3/SaltyMonkey/tera-online-centered-clean-onscreen-messages"
+      "featured_image": "https://opengraph.githubassets.com/f7149505b2f1b71a127bd2d6c3f1f342cb806cdf5725d9d15b59a03b517acfd3/SaltyMonkey/tera-online-centered-clean-onscreen-messages",
+      "target_object_path": "S1UI_Message.Message",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "saltymonkey.overlaymap-fixed",
@@ -191,15 +203,15 @@
       "long_description": "Fixes the UI overlay map that broke after patch 103.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-fixed-overlay-map. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/SaltyMonkey/tera-online-fixed-overlay-map/master/S1UI_OverlayMap2.gpk",
-      "sha256": "797efc1a981fcb683470ce73da6b03d619bc75631ee472a94edf4f9c79e9548f",
-      "size_bytes": 954908,
+      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-fixed-overlay-map. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.overlaymap-fixed.S1UI_OverlayMap2.roundtrip.gpk",
+      "sha256": "a4b99fb4bf7b89b2f90b5f0e6bcb4d19ed6973a1911497a3848285d8d3cea2fd",
+      "size_bytes": 47332780,
       "source_url": "https://github.com/SaltyMonkey/tera-online-fixed-overlay-map",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Fixed UI overlay map for Tera online which broken since p103",
       "last_verified_patch": "patch 103",
       "tags": [
@@ -207,7 +219,10 @@
         "tera-toolbox",
         "tera-toolbox-mods"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d8a569abe5982da299c23afbdf2f908fe409628d01b39d31c0800d19bd864267/SaltyMonkey/tera-online-fixed-overlay-map"
+      "featured_image": "https://opengraph.githubassets.com/d8a569abe5982da299c23afbdf2f908fe409628d01b39d31c0800d19bd864267/SaltyMonkey/tera-online-fixed-overlay-map",
+      "target_object_path": "S1UI_OverlayMap2.OverlayMap2",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "saltymonkey.gageboss-extended",
@@ -218,15 +233,15 @@
       "long_description": "Default boss gauge with added QoL indicators.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-extended-boss-bar. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/SaltyMonkey/tera-online-extended-boss-bar/master/S1UI_GageBoss.gpk",
-      "sha256": "c262a79e949bc9c72891f34c1793fb0dbdd541fc84e9e04062cf8951230b7818",
-      "size_bytes": 293018,
+      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-extended-boss-bar. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.gageboss-extended.S1UI_GageBoss.roundtrip.gpk",
+      "sha256": "57a52e52b664a0c61ae4dec3ad225578da06bddd750c4d3619c40a4568890cb8",
+      "size_bytes": 2408748,
       "source_url": "https://github.com/SaltyMonkey/tera-online-extended-boss-bar",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Default boss bar GPK with additional QoL features",
       "last_verified_patch": "patch 103",
       "tags": [
@@ -234,7 +249,10 @@
         "tera-online",
         "tera-toolbox"
       ],
-      "featured_image": "https://opengraph.githubassets.com/e93395d33789bd10b48a45e6a625d4ad690313ba3a735d8e232c647cc55d57aa/SaltyMonkey/tera-online-extended-boss-bar"
+      "featured_image": "https://opengraph.githubassets.com/e93395d33789bd10b48a45e6a625d4ad690313ba3a735d8e232c647cc55d57aa/SaltyMonkey/tera-online-extended-boss-bar",
+      "target_object_path": "S1UI_GageBoss.GageBoss",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "saltymonkey.characterwindow-clean",
@@ -245,15 +263,15 @@
       "long_description": "Removes decorative elements and animations from the character health and mana display for a simpler look.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-clean-character-bar. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/SaltyMonkey/tera-online-clean-character-bar/master/S1UI_CharacterWindow.gpk",
-      "sha256": "2832bdc46ceed61493cd44b43f9da450ada494894bec4f2c126f81b5c56cb3dc",
-      "size_bytes": 438833,
+      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-clean-character-bar. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.characterwindow-clean.S1UI_CharacterWindow.roundtrip.gpk",
+      "sha256": "295ab1dff7b429c6578d0dcf29d3ba187039a5ce41c60acc27e4c4a9a09ef6a0",
+      "size_bytes": 8316310,
       "source_url": "https://github.com/SaltyMonkey/tera-online-clean-character-bar",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Default character window GPK with removed elements and animations",
       "last_verified_patch": "patch 103",
       "tags": [
@@ -261,7 +279,10 @@
         "tera-online",
         "tera-toolbox"
       ],
-      "featured_image": "https://opengraph.githubassets.com/01e6de82337b9dcbd0d2375a4ded5e154954540840ebee97387c5b69f5732e38/SaltyMonkey/tera-online-clean-character-bar"
+      "featured_image": "https://opengraph.githubassets.com/01e6de82337b9dcbd0d2375a4ded5e154954540840ebee97387c5b69f5732e38/SaltyMonkey/tera-online-clean-character-bar",
+      "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "teralove.partywindowraidinfo",
@@ -272,15 +293,15 @@
       "long_description": "Adds raid group information to the party window.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by teralove at https://github.com/teralove/TERA-UI-Mods. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/teralove/TERA-UI-Mods/master/S1UI_PartyWindowRaidInfo_01/S1UI_PartyWindowRaidInfo.gpk",
-      "sha256": "3b1233a2f981721bca1db16d2dbab375fa9529fc619ba9aa4221d3b31b389aac",
-      "size_bytes": 334315,
+      "credits": "Published by teralove at https://github.com/teralove/TERA-UI-Mods. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/teralove.partywindowraidinfo.S1UI_PartyWindowRaidInfo.roundtrip.gpk",
+      "sha256": "b975e667fb95b124902ff01e4f2bda50628795682818b98f0bdde8a897206013",
+      "size_bytes": 2019361,
       "source_url": "https://github.com/teralove/TERA-UI-Mods",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI Mods",
       "last_verified_patch": "patch 100",
       "gpk_files": [
@@ -291,7 +312,10 @@
         "tera-mods",
         "tera-online"
       ],
-      "featured_image": "https://opengraph.githubassets.com/b8b9a80248441563c113e3a8a9cada696241ea72476ce2db79cd55fb2918a5f9/teralove/TERA-UI-Mods"
+      "featured_image": "https://opengraph.githubassets.com/b8b9a80248441563c113e3a8a9cada696241ea72476ce2db79cd55fb2918a5f9/teralove/TERA-UI-Mods",
+      "target_object_path": "S1UI_PartyWindowRaidInfo.PartyWindowRaidInfo",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "teralove.targetinfo",
@@ -1235,17 +1259,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by Taorelia at https://github.com/Taorelia/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Taorelia/tera-restyle/master/CommunityWindow/S1UI_CommunityWindow.gpk",
-      "sha256": "3428cd77b090f040d614ae81b1635b4d9a8762864c73eb01292b527d95d1bbf2",
-      "size_bytes": 625592,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-community.S1UI_CommunityWindow.roundtrip.gpk",
+      "sha256": "82b7c739f09bb589e545479ec4a7ff1a4f72e036ae65760fd90333c28e840d8f",
+      "size_bytes": 5356456,
       "source_url": "https://github.com/Taorelia/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "target_object_path": "S1UI_CommunityWindow.CommunityWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "taorelia.restyle-guild",
@@ -1257,17 +1284,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by Taorelia at https://github.com/Taorelia/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Taorelia/tera-restyle/master/GuildWindow/S1UI_GuildWindow.gpk",
-      "sha256": "1641add4955c3487913473c9639a42e82a07639fa9beb41cff741b3ad41fbc08",
-      "size_bytes": 3522540,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-guild.S1UI_GuildWindow.roundtrip.gpk",
+      "sha256": "4606ae5f731b9fdbd486dd6b2e601e61de8f81865ed405f7ad33f93363b6d74e",
+      "size_bytes": 12429143,
       "source_url": "https://github.com/Taorelia/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "target_object_path": "S1UI_GuildWindow.GuildWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "taorelia.restyle-inventory",
@@ -1301,17 +1331,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by Taorelia at https://github.com/Taorelia/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Taorelia/tera-restyle/master/PaperDoll/S1UI_PaperDoll.gpk",
-      "sha256": "0c1d6a22caf34c40f4ecccdd605cd700d7841268ff614ee3f1ae62e3ebb319d8",
-      "size_bytes": 1237237,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-paperdoll.S1UI_PaperDoll.roundtrip.gpk",
+      "sha256": "d9ee71154b4eff5551cd78af85d39d9b98b0f2688f7105348ab2ffb920f73206",
+      "size_bytes": 6220407,
       "source_url": "https://github.com/Taorelia/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "target_object_path": "S1UI_PaperDoll.PaperDoll",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "taorelia.restyle-warehouse",
@@ -1323,17 +1356,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by Taorelia at https://github.com/Taorelia/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Taorelia/tera-restyle/master/WareHouseWindow/S1UI_WareHouseWindow.gpk",
-      "sha256": "cce64de530c5d52e9e8b10730577085684f251f567a459b47c83a754ba91fd5f",
-      "size_bytes": 729480,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-warehouse.S1UI_WareHouseWindow.roundtrip.gpk",
+      "sha256": "f60eab87bd24483b34226e10e1bfd0a175f748eb56c7df1435aef59cae97b96d",
+      "size_bytes": 5394705,
       "source_url": "https://github.com/Taorelia/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "target_object_path": "S1UI_WareHouseWindow.WareHouseWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "taorelia.restyle-interaction-popup",
@@ -1345,17 +1381,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by Taorelia at https://github.com/Taorelia/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Taorelia/tera-restyle/master/InteractionPopup/S1UI_InteractionPopup.gpk",
-      "sha256": "d9d3c198b729cb1281e83353397185d3bbd113af2ed4447cb8a7519e1034e6bc",
-      "size_bytes": 638260,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-interaction-popup.S1UI_InteractionPopup.roundtrip.gpk",
+      "sha256": "a5ae0fa1a757099a2b2fbe04b7b0c3cb27b669b974bc4049d6d996adf2cc5bcb",
+      "size_bytes": 4631098,
       "source_url": "https://github.com/Taorelia/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "target_object_path": "S1UI_InteractionPopup.InteractionPopup",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "taorelia.restyle-production-create",
@@ -1367,17 +1406,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by Taorelia at https://github.com/Taorelia/tera-restyle. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/Taorelia/tera-restyle/master/ProductionCreatePopUp/S1UI_ProductionCreatePopUp.gpk",
-      "sha256": "a7f802ea29747154ecfbce6b24d462afc358e902b0cbf2701c504e57f1f97270",
-      "size_bytes": 314045,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-production-create.S1UI_ProductionCreatePopUp.roundtrip.gpk",
+      "sha256": "fa28a0085c950d860064f5063192f23c86caaff0d1cb447b0cf0d4a15d178c6e",
+      "size_bytes": 449002,
       "source_url": "https://github.com/Taorelia/tera-restyle",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle"
+      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "target_object_path": "S1UI_ProductionCreatePopUp.ProductionCreatePopUp",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "owyn.fps-pack-postprocess",
@@ -1632,14 +1674,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Pink-crossair. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Pink-crossair/master/S1UI_Crosshair.gpk",
-      "sha256": "55d16273fe364be6652293040ee6cb0bd38a83002c26b48936189e60a5e2f149",
-      "size_bytes": 1577612,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.pink-crosshair.S1UI_Crosshair.roundtrip.gpk",
+      "sha256": "79e138228f5ea8a90294221b0ad1217b7a3cff0d91e451222e3731c7f3b0d3cb",
+      "size_bytes": 1643548,
       "source_url": "https://github.com/CatAnnaDev/Pink-crossair",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1647,7 +1689,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/3a1e38845c1476b1076b976c77d39be317514417fc8dc3aa02cc0e5876c522ce/CatAnnaDev/Pink-crossair"
+      "featured_image": "https://opengraph.githubassets.com/3a1e38845c1476b1076b976c77d39be317514417fc8dc3aa02cc0e5876c522ce/CatAnnaDev/Pink-crossair",
+      "target_object_path": "S1UI_Crosshair.Crosshair",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "catannadev.red-crosshair",
@@ -1659,14 +1704,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Red-crosshair. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Red-crosshair/master/S1UI_Crosshair.gpk",
-      "sha256": "5cfab1dcf0b15574104ec5d5d7187ef7da73d42029959ca44efb301ec5b3ae66",
-      "size_bytes": 1577610,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.red-crosshair.S1UI_Crosshair.roundtrip.gpk",
+      "sha256": "79e138228f5ea8a90294221b0ad1217b7a3cff0d91e451222e3731c7f3b0d3cb",
+      "size_bytes": 1643548,
       "source_url": "https://github.com/CatAnnaDev/Red-crosshair",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1675,7 +1720,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/ad65b9e48d0cc9db7be43a35349484576db999952107ab9cd52eb002601bb7a7/CatAnnaDev/Red-crosshair"
+      "featured_image": "https://opengraph.githubassets.com/ad65b9e48d0cc9db7be43a35349484576db999952107ab9cd52eb002601bb7a7/CatAnnaDev/Red-crosshair",
+      "target_object_path": "S1UI_Crosshair.Crosshair",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "catannadev.pink-hp-bar",
@@ -1687,14 +1735,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Pink-Hp-bar. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Pink-Hp-bar/master/S1UI_CharacterWindow.gpk",
-      "sha256": "4ff8db05f1e370831cbbcb81109cbb5fa0c540e34f9f8bc680ae8066585f0ae2",
-      "size_bytes": 21100,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.pink-hp-bar.S1UI_CharacterWindow.roundtrip.gpk",
+      "sha256": "3aba73ab2f55909db59d3f4aac2efa882516adc67fa4ac5e893ea9ab156e1571",
+      "size_bytes": 8344119,
       "source_url": "https://github.com/CatAnnaDev/Pink-Hp-bar",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1702,7 +1750,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/a949580004e33b477cb770ea2b85a5931eb60e14addd9ef80c86d6d7d6eaad0d/CatAnnaDev/Pink-Hp-bar"
+      "featured_image": "https://opengraph.githubassets.com/a949580004e33b477cb770ea2b85a5931eb60e14addd9ef80c86d6d7d6eaad0d/CatAnnaDev/Pink-Hp-bar",
+      "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "catannadev.colored-hp-bar",
@@ -1714,14 +1765,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Colored-hp-bar. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Colored-hp-bar/master/S1UI_CharacterWindow.gpk",
-      "sha256": "2d0752a6d542dbd05f21f11698d1a1ace34700983b5dd7c9708f57cd0690e3fd",
-      "size_bytes": 39829,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.colored-hp-bar.S1UI_CharacterWindow.roundtrip.gpk",
+      "sha256": "3aba73ab2f55909db59d3f4aac2efa882516adc67fa4ac5e893ea9ab156e1571",
+      "size_bytes": 8344119,
       "source_url": "https://github.com/CatAnnaDev/Colored-hp-bar",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1729,7 +1780,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/e35fe73068ddc7f5616a59aa5b6aeaf388191133bf92b085e473a42fe95a3a95/CatAnnaDev/Colored-hp-bar"
+      "featured_image": "https://opengraph.githubassets.com/e35fe73068ddc7f5616a59aa5b6aeaf388191133bf92b085e473a42fe95a3a95/CatAnnaDev/Colored-hp-bar",
+      "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "catannadev.colored-hp-bar-2",
@@ -1741,14 +1795,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Colored-hp-bar-2. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Colored-hp-bar-2/master/S1UI_CharacterWindow.gpk",
-      "sha256": "56b7eba61ee5bcd6ead1a39d8beacd5bf7133c457bb358f374c10518df5be68e",
-      "size_bytes": 39797,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.colored-hp-bar-2.S1UI_CharacterWindow.roundtrip.gpk",
+      "sha256": "3aba73ab2f55909db59d3f4aac2efa882516adc67fa4ac5e893ea9ab156e1571",
+      "size_bytes": 8344119,
       "source_url": "https://github.com/CatAnnaDev/Colored-hp-bar-2",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1756,7 +1810,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/8e5ba7740658edecc958f951e59d7aa182657f1841f5c6b4e4a3cdb72ae53fbf/CatAnnaDev/Colored-hp-bar-2"
+      "featured_image": "https://opengraph.githubassets.com/8e5ba7740658edecc958f951e59d7aa182657f1841f5c6b4e4a3cdb72ae53fbf/CatAnnaDev/Colored-hp-bar-2",
+      "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "catannadev.yellow-orange-hp-bar",
@@ -1768,14 +1825,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Yellow-Orange-hp-bar. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Yellow-Orange-hp-bar/master/S1UI_CharacterWindow.gpk",
-      "sha256": "31bd69520cd72fc3e0338471b1c683eda2b34578a137f12ffc947ee545e0775a",
-      "size_bytes": 21114,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.yellow-orange-hp-bar.S1UI_CharacterWindow.roundtrip.gpk",
+      "sha256": "3aba73ab2f55909db59d3f4aac2efa882516adc67fa4ac5e893ea9ab156e1571",
+      "size_bytes": 8344119,
       "source_url": "https://github.com/CatAnnaDev/Yellow-Orange-hp-bar",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1783,7 +1840,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/20905a1394d93f393fa8abefb63fd57d697b14861901149bd0526f2163a206d2/CatAnnaDev/Yellow-Orange-hp-bar"
+      "featured_image": "https://opengraph.githubassets.com/20905a1394d93f393fa8abefb63fd57d697b14861901149bd0526f2163a206d2/CatAnnaDev/Yellow-Orange-hp-bar",
+      "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "catannadev.pink-loading-progress",
@@ -1795,14 +1855,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Pink-LoadingProgress. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Pink-LoadingProgress/master/S1UI_LoadingProgress.gpk",
-      "sha256": "6d2ae92fd8913b4b889ec848864eced253cc3039480b2370132f287c1a6b76e9",
-      "size_bytes": 264598,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.pink-loading-progress.S1UI_LoadingProgress.roundtrip.gpk",
+      "sha256": "40fced858f17570d3684cba7d2ca8c9431b60fa02324ff5dffd8c72794d2cca9",
+      "size_bytes": 268985,
       "source_url": "https://github.com/CatAnnaDev/Pink-LoadingProgress",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1810,7 +1870,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/0090718ec2f3ef6cc9ea2f00b256dc62696a90eaebb6c11db6096c6afc2e992f/CatAnnaDev/Pink-LoadingProgress"
+      "featured_image": "https://opengraph.githubassets.com/0090718ec2f3ef6cc9ea2f00b256dc62696a90eaebb6c11db6096c6afc2e992f/CatAnnaDev/Pink-LoadingProgress",
+      "target_object_path": "S1UI_LoadingProgress.LoadingProgress",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "catannadev.red-loading-progress",
@@ -1822,14 +1885,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by CatAnnaDev at https://github.com/CatAnnaDev/Red-LoadingProgress. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/CatAnnaDev/Red-LoadingProgress/master/S1UI_LoadingProgress.gpk",
-      "sha256": "9eb5490c21ead43b1671f5e89fd7e911aa25d75e880294619a0bbc068661249f",
-      "size_bytes": 264598,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.red-loading-progress.S1UI_LoadingProgress.roundtrip.gpk",
+      "sha256": "40fced858f17570d3684cba7d2ca8c9431b60fa02324ff5dffd8c72794d2cca9",
+      "size_bytes": 268985,
       "source_url": "https://github.com/CatAnnaDev/Red-LoadingProgress",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
       "tags": [
         "tera",
@@ -1837,7 +1900,10 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/1d1c574a3b2ecab16d0cdc77eec8d0a8b84c96fd0b0c0a17b06e8c27ae815c1c/CatAnnaDev/Red-LoadingProgress"
+      "featured_image": "https://opengraph.githubassets.com/1d1c574a3b2ecab16d0cdc77eec8d0a8b84c96fd0b0c0a17b06e8c27ae815c1c/CatAnnaDev/Red-LoadingProgress",
+      "target_object_path": "S1UI_LoadingProgress.LoadingProgress",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "teralove.remove-artisan-icons",
@@ -1877,17 +1943,20 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by merusira at https://github.com/merusira/tera-toolbox-atlas. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/merusira/tera-toolbox-atlas/master/patch100/mods/Clear%20onscreen%20messages/S1UI_Message.gpk",
-      "sha256": "ed4a48d70f710a1a30141f5fee5361e9169257614ae08a08352582a2e3d789a7",
-      "size_bytes": 554802,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/merusira.atlas-clean-onscreen-messages.S1UI_Message.roundtrip.gpk",
+      "sha256": "7258b146ab918bcd22ecd437cced940b710193d4ca4716bd950ea280c0deec48",
+      "size_bytes": 16145944,
       "source_url": "https://github.com/merusira/tera-toolbox-atlas",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TeraAtlas",
       "last_verified_patch": "patch 115",
-      "featured_image": "https://raw.githubusercontent.com/merusira/tera-toolbox-atlas/master/bin/gui/assets/banner-omni.png"
+      "featured_image": "https://raw.githubusercontent.com/merusira/tera-toolbox-atlas/master/bin/gui/assets/banner-omni.png",
+      "target_object_path": "S1UI_Message.Message",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.cheerleader-shorts",
@@ -2520,10 +2589,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Hana%20Reward%20Tier/S1UI_Benefit.gpk",
-      "sha256": "f9270365bcf38503d091a636efcababfbbcff2195a1cd1b8483ba0116631264e",
-      "size_bytes": 391353,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.hana-reward-tier.S1UI_Benefit.roundtrip.gpk",
+      "sha256": "c32a4245945b91e91a3d62926fb5c837fad8dc4e5811b85ae633333e2d5b0686",
+      "size_bytes": 379214,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2535,7 +2604,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_Benefit.Benefit",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-boss-hp-bar",
@@ -2547,10 +2620,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Boss%20HP%20Bar/S1UI_GageBoss.gpk",
-      "sha256": "5abc22517ce910382b302f753713bf1f50c7cca90b954cfa195ced4dc9cfabaa",
-      "size_bytes": 778812,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-boss-hp-bar.S1UI_GageBoss.roundtrip.gpk",
+      "sha256": "350670a79efe4ca54e50d9ed0e2ea07999cb6236762cdec3d835f4cabab37b22",
+      "size_bytes": 2406643,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2562,7 +2635,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_GageBoss.GageBoss",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-chat-window",
@@ -2574,10 +2651,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Chat%20Window/S1UI_Chat2.gpk",
-      "sha256": "9229aac37d5065b69b398af1b3fea9d895f2f5496c3b88a06e0593617181e3e1",
-      "size_bytes": 362502,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-chat-window.S1UI_Chat2.roundtrip.gpk",
+      "sha256": "c9be18abcdbff9dbd3f78e14ff1142d8225d18edfcfd32d5c91c621b5c746111",
+      "size_bytes": 4404343,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2589,7 +2666,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_Chat2.Chat2",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-controller-ui",
@@ -2601,10 +2682,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Controller%20UI/S1UI_GameControllerShortCut.gpk",
-      "sha256": "a68400bc3b68f4bc2b0953d5308beaf954c4483bba19299979ce22bb4d156373",
-      "size_bytes": 336089,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-controller-ui.S1UI_GameControllerShortCut.roundtrip.gpk",
+      "sha256": "c107b21a252a7f7990fa907fe097cc1eff34342ec0396521b547fb7ed72a7296",
+      "size_bytes": 4310225,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2619,7 +2700,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_GameControllerShortCut.GameControllerShortCut",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-exp-bar",
@@ -2631,10 +2716,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Exp%20Bar/S1UI_ExpBar.gpk",
-      "sha256": "3f9ce8aa79b0d142a084404a3c89f26cf112070d627105ae74788c4437cda6fd",
-      "size_bytes": 185779,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-exp-bar.S1UI_ExpBar.roundtrip.gpk",
+      "sha256": "20e929df470be113eb397d1bf7b6918d6ee11e621a5698e7a08818ccbbce796e",
+      "size_bytes": 186209,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2645,7 +2730,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_ExpBar.ExpBar",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-heart-hp-mp",
@@ -2657,10 +2746,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Heart%20HP%20MP/S1UI_CharacterWindow.gpk",
-      "sha256": "3e87c8c155173de97c36a832483bea671c5d5f22d1d6205b0c1ccb5585f4ff86",
-      "size_bytes": 1407073,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-heart-hp-mp.S1UI_CharacterWindow.roundtrip.gpk",
+      "sha256": "ed44bd0b890230524ccf94df9367e3d413194ebc71f511ac92923461f0cab0a7",
+      "size_bytes": 8763749,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2672,7 +2761,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-hearts-crosshair",
@@ -2684,10 +2777,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Hearts%20Crosshair/S1UI_Crosshair.gpk",
-      "sha256": "ae2ca6266c195df980830c887b37b152cfbe422f21156faf3ea4ff490f792cea",
-      "size_bytes": 104699,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-hearts-crosshair.S1UI_Crosshair.roundtrip.gpk",
+      "sha256": "2aebbde33d016949227ccaac001dc59f89b6cb2fc815e1890c593604f37e7d93",
+      "size_bytes": 633303,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2699,7 +2792,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_Crosshair.Crosshair",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-main-menu",
@@ -2711,10 +2808,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Main%20Menu/S1UI_MainMenu.gpk",
-      "sha256": "73eafe1e9cd39051e197ade04f12ad98acd065c7ec7117a7120a5228b3ffaa56",
-      "size_bytes": 385951,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-main-menu.S1UI_MainMenu.roundtrip.gpk",
+      "sha256": "481b93f2f14158ec6076da3b9ba36d028bb24caf10fa5e47703c8aede2e60b10",
+      "size_bytes": 407038,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2725,7 +2822,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_MainMenu.MainMenu",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-party-member-hp-bar",
@@ -2737,10 +2838,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Party%20Member%20HP%20Bar/S1UI_GageMonsterHp.gpk",
-      "sha256": "2f467ad41b96055c58d90d055ac722c6c687d23deea822bf32d688112dea938c",
-      "size_bytes": 30393,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-party-member-hp-bar.S1UI_GageMonsterHp.roundtrip.gpk",
+      "sha256": "97b2a51d1fd93264e8b0f76218660535fce9aae652860f562549ac4666045b1d",
+      "size_bytes": 1105964,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2752,7 +2853,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_GageMonsterHp.GageMonsterHp",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-skill-slots-main",
@@ -2764,10 +2869,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Skill%20Slots/S1UI_TestQuickSlot.gpk",
-      "sha256": "dbf7beb80c0b6c70caf1ecf1eb83cf25459401e75e91d85565363184de185488",
-      "size_bytes": 501500,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-main.S1UI_TestQuickSlot.roundtrip.gpk",
+      "sha256": "039a430b20d6cd14b710374d0da42bb73bff6e08367a1d88de9d226abd22d076",
+      "size_bytes": 1312271,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2779,7 +2884,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_TestQuickSlot.TestQuickSlot",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-skill-slots-ex",
@@ -2791,10 +2900,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Skill%20Slots/S1UI_TestQuickSlotEx.gpk",
-      "sha256": "25acf5f8169258a1d8be3e8edb73125d5f65c6963e78c36b2c60d186a81d3a0c",
-      "size_bytes": 465602,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-ex.S1UI_TestQuickSlotEx.roundtrip.gpk",
+      "sha256": "0121fc2bfde65025e819944fc45d5bc0a55e5599a59106390bebaad1dc073696",
+      "size_bytes": 1289952,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2806,7 +2915,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_TestQuickSlotEx.TestQuickSlotEx",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.pink-skill-slots-ex2",
@@ -2818,10 +2931,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Skill%20Slots/S1UI_TestQuickSlotEx2.gpk",
-      "sha256": "1f76b8c2479d5e319cba0bb8980def119ca7a432fb6e0e8a86b5df44109bab3f",
-      "size_bytes": 472350,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-ex2.S1UI_TestQuickSlotEx2.roundtrip.gpk",
+      "sha256": "f6cae257e971c64b949e0b33cab19dfbdb37665c48403f8f8d2e24142edeecac",
+      "size_bytes": 1296700,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2833,7 +2946,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_TestQuickSlotEx2.TestQuickSlotEx2",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.simplified-pastel-ui",
@@ -2845,10 +2962,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Simplified%20Pastel%20UI/S1UI_CharacterWindow.gpk",
-      "sha256": "7e7ef1e35249892d48ba49056af258f3b3228d664b6cf2f6be29ca33ecc7cc33",
-      "size_bytes": 1858157,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.simplified-pastel-ui.S1UI_CharacterWindow.roundtrip.gpk",
+      "sha256": "9a8ce52c37540135661257539a934fb25693b430633b7640b4e419bcb951a40f",
+      "size_bytes": 6408862,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2859,7 +2976,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.static-heart-crosshair",
@@ -2871,10 +2992,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Static%20Heart%20Crosshair/S1UI_Crosshair.gpk",
-      "sha256": "14a9bbe1ff5f98db6eb78bc62b8418bcf18374e747cb12a15f48d543df440314",
-      "size_bytes": 230624,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.static-heart-crosshair.S1UI_Crosshair.roundtrip.gpk",
+      "sha256": "f960ede1f8e429429b3fd3a5bdce375892f8bf6c6f190f70a7cd431d803a2be5",
+      "size_bytes": 105138,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2886,7 +3007,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_Crosshair.Crosshair",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.yunicorn-defense-pop-up",
@@ -2898,10 +3023,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Yunicorn%20Defense%20Pop%20Up/S1UI_Message.gpk",
-      "sha256": "8272ac2eacb4d6ad97e20a8ded769dfee2f3a27acc32438fc16cc0496cacee81",
-      "size_bytes": 3746393,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.yunicorn-defense-pop-up.S1UI_Message.roundtrip.gpk",
+      "sha256": "e646dda3514a53dbee0d6b1299b3943a08d4b76d70f20c2f70d76702197c187e",
+      "size_bytes": 16058289,
       "source_url": "https://github.com/pantypon/tera-client-ui-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -2913,7 +3038,11 @@
         "classic-era",
         "ui",
         "pantypon"
-      ]
+      ],
+      "target_object_path": "S1UI_Message.Message",
+      "compatible_arch": "x64",
+      "updated_at": "2026-05-01T23:00:00Z",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.archer-pink-slingshot",
@@ -3989,14 +4118,14 @@
       "category": "qol",
       "license": "Unknown",
       "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-instant-join-tba-mode. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tba-mode/master/S1UI_GameModeSelectScene.gpk",
-      "sha256": "ebd96e4d899a9a983c0ab4174450271dd2459024bcf151b0f72755fadafc58dd",
-      "size_bytes": 797482,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.instant-join-tba-mode.S1UI_GameModeSelectScene.roundtrip.gpk",
+      "sha256": "ca9bf4de83db3af79e76402f7ff27a39da10eea3f10e12e4e020707322b8e1e1",
+      "size_bytes": 3964514,
       "source_url": "https://github.com/SaltyMonkey/tera-online-instant-join-tba-mode",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/SaltyMonkey/tera-online-instant-join-tba-mode",
       "gpk_files": [
@@ -4004,7 +4133,10 @@
       ],
       "tags": [
         "gpk"
-      ]
+      ],
+      "target_object_path": "S1UI_GameModeSelectScene.GameModeSelectScene",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "saltymonkey.instant-join-tera-mode",
@@ -4016,14 +4148,14 @@
       "category": "qol",
       "license": "Unknown",
       "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-instant-join-tera-mode. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/SaltyMonkey/tera-online-instant-join-tera-mode/master/S1UI_GameModeSelectScene.gpk",
-      "sha256": "0e8310507b8925671a55dbc0576b9179b3155dc63831b4951a770117b4a4384b",
-      "size_bytes": 797482,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.instant-join-tera-mode.S1UI_GameModeSelectScene.roundtrip.gpk",
+      "sha256": "83b4ecb4d5e3f7df732738c775e9b586792419462028e24dc401390658931c31",
+      "size_bytes": 3964514,
       "source_url": "https://github.com/SaltyMonkey/tera-online-instant-join-tera-mode",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/SaltyMonkey/tera-online-instant-join-tera-mode",
       "gpk_files": [
@@ -4031,7 +4163,10 @@
       ],
       "tags": [
         "gpk"
-      ]
+      ],
+      "target_object_path": "S1UI_GameModeSelectScene.GameModeSelectScene",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "pantypon.dyeable-housekeeper-fix",
