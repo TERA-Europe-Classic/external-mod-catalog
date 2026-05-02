@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-05-01T23:00:00Z",
+  "updated_at": "2026-05-02T00:30:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -874,9 +874,11 @@
       "source_url": "https://github.com/foglio1024/tera-modern-ui",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/9d7d061f34c9ba80f1928446e5013bea8e05c12bdd1d8b8e01205d5a425ecabf/foglio1024/tera-modern-ui"
+      "featured_image": "https://opengraph.githubassets.com/9d7d061f34c9ba80f1928446e5013bea8e05c12bdd1d8b8e01205d5a425ecabf/foglio1024/tera-modern-ui",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Not portable to v100. Foglio's Icon_Items.gpk is a Classic-era full-package replacement with 4074 Texture2D entries; v100 routes Icon_Items through a composite mapper with thousands of objects, so a per-icon port pipeline would be required and is out of scope. The launcher's UI will show this mod as incompatible. To use foglio's intended jewel-icon remaps, install the original Modern_JewelsFix package on a Classic client."
     },
     {
       "id": "foglio1024.ui-remover-bosswindow",
@@ -1144,9 +1146,11 @@
       "source_url": "https://github.com/foglio1024/toolbox-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-18T20:21:17Z",
+      "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/2e7f1898476ab35273ed8eac9c8cfb3d6f07b69f2919837758fc5d58990ca677/foglio1024/toolbox-client-mods"
+      "featured_image": "https://opengraph.githubassets.com/2e7f1898476ab35273ed8eac9c8cfb3d6f07b69f2919837758fc5d58990ca677/foglio1024/toolbox-client-mods",
+      "compatible_arch": "x32",
+      "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference."
     },
     {
       "id": "foglio1024.toolbox-thinkblob",
