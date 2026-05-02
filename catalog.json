@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-05-01T23:00:00Z",
+  "updated_at": "2026-05-02T01:30:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -4686,7 +4686,7 @@
       "source_url": "https://github.com/DeathDefying/UI-Remover",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-04-25T00:00:00Z",
+      "updated_at": "2026-05-02T01:30:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/DeathDefying/UI-Remover",
       "gpk_files": [
@@ -4694,7 +4694,9 @@
       ],
       "tags": [
         "gpk"
-      ]
+      ],
+      "compatible_arch": "x32",
+      "compatibility_notes": "Catalog data quality issue: URL points to remove_TeraRewards/S1UI_Benefit.gpk but the file is a ProgressBar/FlightGauge mod (only ProgressBar_I* exports, no Benefit widget). Target widget S1UI_Benefit.Benefit doesn't exist in v100 PkgMapper either. Cannot be auto-ported. Marked compatible_arch=x32."
     }
   ]
 }
