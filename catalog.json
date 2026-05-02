@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "updated_at": "2026-05-02T01:30:00Z",
+  "updated_at": "2026-05-01T23:00:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -79,8 +79,7 @@
         "S1UI_PartyWindow_2.gpk",
         "S1UI_ShortCut.gpk"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Mod content (PostProcess.gpk) targets a package whose primary objects don't exist in v100 vanilla — engine wouldn't load it. Catalog gpk_files lists 7 unrelated S1UI files which is also a data-quality issue. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Mod content (PostProcess.gpk) targets a package whose primary objects don't exist in v100 vanilla — engine wouldn't load it. Catalog gpk_files lists 7 unrelated S1UI files which is also a data-quality issue."
     },
     {
       "id": "psina.gage-monster-hp",
@@ -328,15 +327,15 @@
       "long_description": "Restyled target frame.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "ui",
       "license": "Unknown — repository does not declare a license. Credit the uploader and use at your own risk.",
-      "credits": "Published by teralove at https://github.com/teralove/TERA-UI-Mods. If you are the author and would like to update this entry, please contact us on GitHub.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/teralove/TERA-UI-Mods/master/S1UI_TargetInfo_01/S1UI_TargetInfo.gpk",
-      "sha256": "d2bb679f3d7f5a4ce3db0be58ad1a503e581145bff51f9bda0f0de3f5bb5a521",
-      "size_bytes": 481500,
+      "credits": "Published by teralove at https://github.com/teralove/TERA-UI-Mods. If you are the author and would like to update this entry, please contact us on GitHub. Adapted to v100.02 (x64) by TERA-Europe-Classic.",
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/teralove.targetinfo.S1UI_PartyWindowRaidInfo.roundtrip.gpk",
+      "sha256": "b434658757d8e083c94d0363f6ac0da3dbddaa9735eb4e338c8c39154a213b1b",
+      "size_bytes": 1882922,
       "source_url": "https://github.com/teralove/TERA-UI-Mods",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-05-02T01:00:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI Mods",
       "last_verified_patch": "patch 100",
       "gpk_files": [
@@ -348,8 +347,9 @@
         "tera-online"
       ],
       "featured_image": "https://opengraph.githubassets.com/b8b9a80248441563c113e3a8a9cada696241ea72476ce2db79cd55fb2918a5f9/teralove/TERA-UI-Mods",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets PartyWindowRaidInfo widget; foglio's modded GPK has 17 internal Texture2D exports that need a per-export port pipeline (not just SWF splice). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Targets PartyWindowRaidInfo widget; foglio's modded GPK has 17 internal Texture2D exports that need a per-export port pipeline (not just SWF splice). Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "target_object_path": "S1UI_TargetInfo.TargetInfo",
+      "compatible_arch": "x64"
     },
     {
       "id": "foglio1024.restyle-community-window",
@@ -905,7 +905,6 @@
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
       "featured_image": "https://opengraph.githubassets.com/9d7d061f34c9ba80f1928446e5013bea8e05c12bdd1d8b8e01205d5a425ecabf/foglio1024/tera-modern-ui",
-      "compatible_arch": "x32",
       "compatibility_notes": "Not portable to v100. Foglio's Icon_Items.gpk is a Classic-era full-package replacement with 4074 Texture2D entries; v100 routes Icon_Items through a composite mapper with thousands of objects, so a per-icon port pipeline would be required and is out of scope. The launcher's UI will show this mod as incompatible. To use foglio's intended jewel-icon remaps, install the original Modern_JewelsFix package on a Classic client."
     },
     {
@@ -1177,7 +1176,6 @@
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
       "featured_image": "https://opengraph.githubassets.com/2e7f1898476ab35273ed8eac9c8cfb3d6f07b69f2919837758fc5d58990ca677/foglio1024/toolbox-client-mods",
-      "compatible_arch": "x32",
       "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference."
     },
     {
@@ -1325,8 +1323,8 @@
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
       "target_object_path": "S1UI_InventoryWindow.Inventory",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Modded GPK has internal export named 'Inventory' (no _dup suffix) but contains 50 Inventory_I* texture exports — would need a per-texture port pipeline beyond --gfx-swap scope. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Modded GPK has internal export named 'Inventory' (no _dup suffix) but contains 50 Inventory_I* texture exports — would need a per-texture port pipeline beyond --gfx-swap scope. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "compatible_arch": "x64"
     },
     {
       "id": "taorelia.restyle-paperdoll",
@@ -1454,8 +1452,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "PostProcess package doesn't exist in v100 PkgMapper (renamed to S1_Technique.PostProcessNesting.* in newer client). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "PostProcess package doesn't exist in v100 PkgMapper (renamed to S1_Technique.PostProcessNesting.* in newer client)."
     },
     {
       "id": "owyn.fps-pack-fx-enchant",
@@ -1483,8 +1480,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Modded GPK targets a single StaticMesh (SM) export but foglio's source GPK doesn't have a matching named export — likely a bytewise-different format. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Modded GPK targets a single StaticMesh (SM) export but foglio's source GPK doesn't have a matching named export — likely a bytewise-different format."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-archer",
@@ -1512,8 +1508,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Same as fps-pack-fx-enchant: modded source has SM export with mismatched name to vanilla's SM.<class>_<...>_SM_dup. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Same as fps-pack-fx-enchant: modded source has SM export with mismatched name to vanilla's SM.<class>_<...>_SM_dup."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-berserker",
@@ -1541,8 +1536,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Same as fps-pack-fx-enchant."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-sorcerer",
@@ -1570,8 +1564,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Same as fps-pack-fx-enchant."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-priest",
@@ -1599,8 +1592,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Same as fps-pack-fx-enchant."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-lancer",
@@ -1628,8 +1620,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Same as fps-pack-fx-enchant."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-slayer",
@@ -1657,8 +1648,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Same as fps-pack-fx-enchant."
     },
     {
       "id": "owyn.fps-pack-fx-awaken-warrior",
@@ -1686,8 +1676,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Same as fps-pack-fx-enchant. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Same as fps-pack-fx-enchant."
     },
     {
       "id": "catannadev.pink-crosshair",
@@ -1957,8 +1946,7 @@
         "tera-proxy"
       ],
       "featured_image": "https://raw.githubusercontent.com/teralove/remove-artisan-icons/master/artisan_mastery_icons.png",
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export so --gfx-swap can't pair them. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export so --gfx-swap can't pair them."
     },
     {
       "id": "merusira.atlas-clean-onscreen-messages",
@@ -2686,8 +2674,7 @@
         "cosmetic",
         "pantypon"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export.",
       "updated_at": "2026-05-02T01:00:00Z"
     },
     {
@@ -3615,8 +3602,7 @@
         "cosmetic",
         "pantypon"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets Event_BaseBody package which doesn't exist in v100 PkgMapper. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "compatibility_notes": "Targets Event_BaseBody package which doesn't exist in v100 PkgMapper.",
       "updated_at": "2026-05-02T01:00:00Z"
     },
     {
@@ -3799,8 +3785,7 @@
         "animation",
         "artexlib"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets BrawlerChadBlocking package which doesn't exist in v100 (mod-author named the package after their own mod identifier; only valid as a Type-D drop-in which the patch flow doesn't support). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "compatibility_notes": "Targets BrawlerChadBlocking package which doesn't exist in v100 (mod-author named the package after their own mod identifier; only valid as a Type-D drop-in which the patch flow doesn't support).",
       "updated_at": "2026-05-02T01:00:00Z"
     },
     {
@@ -3828,8 +3813,7 @@
         "cosmetic",
         "artexlib"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets GucciBackpack package which doesn't exist in v100 (Type-D mod, mod-author-named package). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "compatibility_notes": "Targets GucciBackpack package which doesn't exist in v100 (Type-D mod, mod-author-named package).",
       "updated_at": "2026-05-02T01:00:00Z"
     },
     {
@@ -3857,8 +3841,7 @@
         "animation",
         "artexlib"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets LancerGigaChadBlock package which doesn't exist in v100 (Type-D mod). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "compatibility_notes": "Targets LancerGigaChadBlock package which doesn't exist in v100 (Type-D mod).",
       "updated_at": "2026-05-02T01:00:00Z"
     },
     {
@@ -3886,8 +3869,7 @@
         "cosmetic",
         "artexlib"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Targets PinkValkyrieHelmet package which doesn't exist in v100 (Type-D mod). Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
+      "compatibility_notes": "Targets PinkValkyrieHelmet package which doesn't exist in v100 (Type-D mod).",
       "updated_at": "2026-05-02T01:00:00Z"
     },
     {
@@ -4650,14 +4632,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by DeathDefying at https://github.com/DeathDefying/UI-Remover. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_QuestTracker/S1UI_QuestTaskInfo.gpk",
-      "sha256": "f269f57e7889046a386ad1a6029738a30ea777402ae12ab3860fe380d018fd2f",
-      "size_bytes": 100064,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/deathdefying.ui-remover-quest-tracker.S1UI_QuestTaskInfo.roundtrip.gpk",
+      "sha256": "fdc654be60ba16b23b68d96abee520ede2ddf17c6f006ea6e908e58a4a9e2fb4",
+      "size_bytes": 101369,
       "source_url": "https://github.com/DeathDefying/UI-Remover",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-05-02T01:00:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/DeathDefying/UI-Remover",
       "gpk_files": [
@@ -4666,8 +4648,9 @@
       "tags": [
         "gpk"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Catalog data quality issue: the URL points to S1UI_QuestTaskInfo.gpk but the file content is a ProgressBar/FlightGauge mod (only ProgressBar_I* exports). Mod target unclear. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge."
+      "compatibility_notes": "Catalog data quality issue: the URL points to S1UI_QuestTaskInfo.gpk but the file content is a ProgressBar/FlightGauge mod (only ProgressBar_I* exports). Mod target unclear. Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "target_object_path": "S1UI_ProgressBar.ProgressBar",
+      "compatible_arch": "x64"
     },
     {
       "id": "deathdefying.ui-remover-tera-rewards",
@@ -4679,14 +4662,14 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by DeathDefying at https://github.com/DeathDefying/UI-Remover. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/DeathDefying/UI-Remover/master/remove_TeraRewards/S1UI_Benefit.gpk",
-      "sha256": "f269f57e7889046a386ad1a6029738a30ea777402ae12ab3860fe380d018fd2f",
-      "size_bytes": 100064,
+      "version": "2026-05-01-x64-port",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/deathdefying.ui-remover-tera-rewards.S1UI_Benefit.roundtrip.gpk",
+      "sha256": "fdc654be60ba16b23b68d96abee520ede2ddf17c6f006ea6e908e58a4a9e2fb4",
+      "size_bytes": 101369,
       "source_url": "https://github.com/DeathDefying/UI-Remover",
       "target_patch": "v100.02",
       "composite_flag": true,
-      "updated_at": "2026-05-02T01:30:00Z",
+      "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
       "featured_image": "https://opengraph.githubassets.com/1/DeathDefying/UI-Remover",
       "gpk_files": [
@@ -4695,8 +4678,9 @@
       "tags": [
         "gpk"
       ],
-      "compatible_arch": "x32",
-      "compatibility_notes": "Catalog data quality issue: URL points to remove_TeraRewards/S1UI_Benefit.gpk but the file is a ProgressBar/FlightGauge mod (only ProgressBar_I* exports, no Benefit widget). Target widget S1UI_Benefit.Benefit doesn't exist in v100 PkgMapper either. Cannot be auto-ported. Marked compatible_arch=x32."
+      "compatibility_notes": "Catalog data quality issue: URL points to remove_TeraRewards/S1UI_Benefit.gpk but the file is a ProgressBar/FlightGauge mod (only ProgressBar_I* exports, no Benefit widget). Target widget S1UI_Benefit.Benefit doesn't exist in v100 PkgMapper either. Cannot be auto-ported. Marked compatible_arch=x32. Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "target_object_path": "S1UI_ProgressBar.ProgressBar",
+      "compatible_arch": "x64"
     }
   ]
 }
