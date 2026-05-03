@@ -3815,10 +3815,9 @@
         "animation",
         "artexlib"
       ],
-      "compatibility_notes": "Targets BrawlerChadBlocking package which doesn't exist in v100 (mod-author named the package after their own mod identifier; only valid as a Type-D drop-in which the patch flow doesn't support).",
+      "compatibility_notes": "Internal composite UID identifies this as a S1UI_Message.Message_I207 override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "BrawlerChadBlocking.gpk"
+      "target_object_path": "S1UI_Message.Message_I207"
     },
     {
       "id": "artexlib.gray-college-backpack",
@@ -3845,10 +3844,9 @@
         "cosmetic",
         "artexlib"
       ],
-      "compatibility_notes": "Targets GucciBackpack package which doesn't exist in v100 (Type-D mod, mod-author-named package).",
+      "compatibility_notes": "Internal composite UID identifies this as a Acc_403.Skel.Attach_403_skel override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "GucciBackpack.gpk"
+      "target_object_path": "Acc_403.Skel.Attach_403_skel"
     },
     {
       "id": "artexlib.lancer-gigachad-block",
@@ -3875,10 +3873,9 @@
         "animation",
         "artexlib"
       ],
-      "compatibility_notes": "Targets LancerGigaChadBlock package which doesn't exist in v100 (Type-D mod).",
+      "compatibility_notes": "Internal composite UID identifies this as a S1UI_Message.Message_I1CF override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "LancerGigaChadBlock.gpk"
+      "target_object_path": "S1UI_Message.Message_I1CF"
     },
     {
       "id": "artexlib.white-valkyrie-helmet",
@@ -3905,10 +3902,9 @@
         "cosmetic",
         "artexlib"
       ],
-      "compatibility_notes": "Targets PinkValkyrieHelmet package which doesn't exist in v100 (Type-D mod).",
+      "compatibility_notes": "Internal composite UID identifies this as a Acc_262.Skel.Switch_Aman_M_Hair03_262 override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "PinkValkyrieHelmet.gpk"
+      "target_object_path": "Acc_262.Skel.Switch_Aman_M_Hair03_262"
     },
     {
       "id": "foglio1024.modern-ui-community-window",
