@@ -3818,8 +3818,7 @@
       "compatibility_notes": "Internal composite UID identifies this as a S1UI_Message.Message_I207 override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
       "target_object_path": "S1UI_Message.Message_I207",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "BrawlerChadBlocking.gpk"
+      "deploy_strategy": "composite_redirect"
     },
     {
       "id": "artexlib.gray-college-backpack",
@@ -3849,8 +3848,7 @@
       "compatibility_notes": "Internal composite UID identifies this as a Acc_403.Skel.Attach_403_skel override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
       "target_object_path": "Acc_403.Skel.Attach_403_skel",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "GucciBackpack.gpk"
+      "deploy_strategy": "composite_redirect"
     },
     {
       "id": "artexlib.lancer-gigachad-block",
@@ -3880,8 +3878,7 @@
       "compatibility_notes": "Internal composite UID identifies this as a S1UI_Message.Message_I1CF override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
       "target_object_path": "S1UI_Message.Message_I1CF",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "LancerGigaChadBlock.gpk"
+      "deploy_strategy": "composite_redirect"
     },
     {
       "id": "artexlib.white-valkyrie-helmet",
@@ -3911,8 +3908,7 @@
       "compatibility_notes": "Internal composite UID identifies this as a Acc_262.Skel.Switch_Aman_M_Hair03_262 override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
       "updated_at": "2026-05-02T01:00:00Z",
       "target_object_path": "Acc_262.Skel.Switch_Aman_M_Hair03_262",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "PinkValkyrieHelmet.gpk"
+      "deploy_strategy": "composite_redirect"
     },
     {
       "id": "foglio1024.modern-ui-community-window",
