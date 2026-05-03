@@ -907,7 +907,9 @@
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
       "featured_image": "https://opengraph.githubassets.com/9d7d061f34c9ba80f1928446e5013bea8e05c12bdd1d8b8e01205d5a425ecabf/foglio1024/tera-modern-ui",
-      "compatibility_notes": "Not portable to v100. Foglio's Icon_Items.gpk is a Classic-era full-package replacement with 4074 Texture2D entries; v100 routes Icon_Items through a composite mapper with thousands of objects, so a per-icon port pipeline would be required and is out of scope. The launcher's UI will show this mod as incompatible. To use foglio's intended jewel-icon remaps, install the original Modern_JewelsFix package on a Classic client."
+      "compatibility_notes": "Not portable to v100. Foglio's Icon_Items.gpk is a Classic-era full-package replacement with 4074 Texture2D entries; v100 routes Icon_Items through a composite mapper with thousands of objects, so a per-icon port pipeline would be required and is out of scope. The launcher's UI will show this mod as incompatible. To use foglio's intended jewel-icon remaps, install the original Modern_JewelsFix package on a Classic client.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Icon_Items.gpk"
     },
     {
       "id": "foglio1024.ui-remover-bosswindow",
@@ -1968,7 +1970,9 @@
         "tera-proxy"
       ],
       "featured_image": "https://raw.githubusercontent.com/teralove/remove-artisan-icons/master/artisan_mastery_icons.png",
-      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export so --gfx-swap can't pair them."
+      "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export so --gfx-swap can't pair them.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Icon_System.gpk"
     },
     {
       "id": "merusira.atlas-clean-onscreen-messages",
@@ -2697,7 +2701,9 @@
         "pantypon"
       ],
       "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export.",
-      "updated_at": "2026-05-02T01:00:00Z"
+      "updated_at": "2026-05-02T01:00:00Z",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Icon_System.gpk"
     },
     {
       "id": "pantypon.hana-reward-tier",
