@@ -36,18 +36,12 @@ diverges from the actual set of keys used across every entry in
 | `sha256` | string (64-char hex) | required | both | Lowercase hex SHA-256 of the downloaded bytes. |
 | `size_bytes` | integer (positive) | optional | both | Expected byte size. Default `0`. |
 | `source_url` | string | optional | both | Source-of-truth URL (GitHub, Tumblr, etc.) shown as "View source" in the detail panel. |
-| `screenshots` | string[] | optional | both | Screenshot URLs for the detail panel. Default `[]`. |
 | `executable_relpath` | string | required for external | external-only | Relative path to the executable inside the extracted zip. |
 | `auto_launch_default` | boolean | optional | external-only | Fresh install defaults to auto-launching with the game. Default `false`. |
 | `settings_folder` | string | optional | external-only | OS-specific settings dir template, e.g. `%APPDATA%\\ShinraMeter`. Used by the uninstall flow. |
-| `target_patch` | string | optional | gpk-only | Target TERA patch the GPK was authored against. |
-| `composite_flag` | boolean | optional | gpk-only | Whether the mapper composite flag must flip. |
 | `updated_at` | string (ISO-8601) | optional | both | Last publisher update. Default `""`. |
 | `tagline` | string | optional | both | One-line punchy hook (≤90 chars). Row cards display this; falls back to `short_description` when missing. |
 | `featured_image` | string (HTTPS URL) | optional | both | Hero image at the top of the detail panel. 16:9 preferred, ≥1200w. For restyles, the "after" shot. |
-| `tags` | string[] | optional | both | Searchable badges (e.g. `["minimap","quality-of-life","foglio"]`). Distinct from `category`. |
-| `gpk_files` | string[] | optional | both | GPK files this mod replaces (e.g. `["S1UI_Chat2.gpk"]`). Power-user info shown in Details row. |
-| `compatibility_notes` | string (markdown) | optional | both | Conflicts / patch caveats. Rendered in a yellow callout above screenshots. |
 | `last_verified_patch` | string | optional | both | Last patch the mod was confirmed working on, e.g. `"patch 113"`. |
 | `download_count` | integer | optional | both | Stub for future telemetry; the launcher does NOT render this yet. |
 <!-- schema-table-end -->
