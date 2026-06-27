@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "updated_at": "2026-06-27T00:16:28Z",
+  "updated_at": "2026-06-27T00:52:59Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -12,15 +12,15 @@
       "category": "meter",
       "license": "MIT",
       "credits": "Originally created by Gothos and maintained by the ShinraMeter community. This Classic+ version is updated and maintained by TERA Europe Classic.",
-      "version": "3.0.13-classicplus",
-      "download_url": "https://github.com/TERA-Europe-Classic/ShinraMeter/releases/download/v3.0.13-classicplus/ShinraMeter-v3.0.13-classicplus.zip",
-      "sha256": "2dc613753c7c11c4f2b128de1e704063110b33ffe7794342027dec765d1a00cc",
-      "size_bytes": 54333585,
+      "version": "3.0.14-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/ShinraMeter/releases/download/v3.0.14-classicplus/ShinraMeter-v3.0.14-classicplus.zip",
+      "sha256": "26ba92f4071d17ec73da95013ded1783b99fe88c0cec5a6f4623c1ec61f86c78",
+      "size_bytes": 54338072,
       "source_url": "https://github.com/TERA-Europe-Classic/ShinraMeter",
       "executable_relpath": "ShinraMeter.exe",
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/ShinraMeter",
-      "updated_at": "2026-06-27T00:16:28Z",
+      "updated_at": "2026-06-27T00:52:59Z",
       "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers",
       "last_verified_patch": "patch 115",
       "download_count": 0,
