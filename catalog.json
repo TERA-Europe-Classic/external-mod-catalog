@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "updated_at": "2026-06-28T12:26:01Z",
+  "updated_at": "2026-06-28T13:42:33Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -36,15 +36,15 @@
       "category": "overlay",
       "license": "GPL-3.0-or-later",
       "credits": "Originally created by Foglio1024 and the TCC community. This Classic+ version is maintained by TERA Europe Classic with a focus on essential game features.",
-      "version": "2.0.10-classicplus",
-      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.10-classicplus/TCC-v2.0.10-classicplus.zip",
-      "sha256": "2c8cbc525731ed196c9972f0036477b1778dc2724e4d2f41b6da0dc2c2fbbdd4",
-      "size_bytes": 6155741,
+      "version": "2.0.11-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.11-classicplus/TCC-v2.0.11-classicplus.zip",
+      "sha256": "6fec4107ecd4fda21b4d5aa441777abef1728a8e71ccd4c9acd03939138b8873",
+      "size_bytes": 6156372,
       "source_url": "https://github.com/TERA-Europe-Classic/TCC",
       "executable_relpath": "TCC.exe",
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/TCC",
-      "updated_at": "2026-06-28T12:26:01Z",
+      "updated_at": "2026-06-28T13:42:33Z",
       "featured_image": "https://img.shields.io/badge/Donate-PayPal-blue.svg",
       "tagline": "[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/foglio…",
       "last_verified_patch": "patch 115",
