@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "updated_at": "2026-06-30T19:12:37Z",
   "mods": [
     {
@@ -36,8 +36,8 @@
       "category": "overlay",
       "license": "GPL-3.0-or-later",
       "credits": "Originally created by Foglio1024 and the TCC community. This Classic+ version is maintained by TERA Europe Classic with a focus on essential game features.",
-      "version": "2.0.25-classicplus",
-      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.25-classicplus/TCC-v2.0.25-classicplus.zip",
+      "version": "2.0.26-classicplus",
+      "download_url": "https://github.com/TERA-Europe-Classic/TCC/releases/download/v2.0.26-classicplus/TCC-v2.0.26-classicplus.zip",
       "sha256": "3d7b4642447430396415286b6fbe32b56816f58cb90d8fe9e0ebd9fe2eff0ed5",
       "size_bytes": 5836112,
       "source_url": "https://github.com/TERA-Europe-Classic/TCC",
