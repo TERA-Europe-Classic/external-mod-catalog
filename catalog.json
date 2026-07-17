@@ -1,6 +1,6 @@
 {
-  "version": 18,
-  "updated_at": "2026-06-30T19:12:37Z",
+  "version": 19,
+  "updated_at": "2026-07-17T20:30:00Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -48,6 +48,29 @@
       "featured_image": "https://img.shields.io/badge/Donate-PayPal-blue.svg",
       "tagline": "[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/foglio…",
       "last_verified_patch": "patch 115",
+      "download_count": 0
+    },
+    {
+      "id": "yupi.elin-matching-ears-tails",
+      "kind": "gpk",
+      "name": "Elin Matching Ears & Tails",
+      "author": "Yupi",
+      "short_description": "Gives Elins ears and tails that match each hairstyle's color.",
+      "long_description": "Replaces the Elin ear and tail textures so they match the color of every hairstyle, instead of the default mismatched look.\n\nCovers all Elin hairstyles (278 texture variants). Install, enable, and launch the game — no manual file copying needed.\n\nOriginal mod by Yupi. Rehosted unmodified for the Classic+ launcher.",
+      "category": "appearance",
+      "credits": "Created by Yupi (yupimods.tumblr.com). Rehosted unmodified for TERA Europe Classic+.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mod-elin-matching-ears-tails-v1.0.0/ElinMatchingEarsTails.gpk",
+      "sha256": "4b451fff19563f039d9dd0f9ef6120d105e56b919eda38e417d8d4f333815449",
+      "size_bytes": 405721985,
+      "source_url": "https://yupimods.tumblr.com/post/629878286921629696/elin-matching-ears-tail-no-bunny-this-is-a",
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": ["ElinMatchingEarsTails.gpk"],
+      "tagline": "Elin ears & tails recolored to match every hairstyle",
+      "tags": ["elin", "appearance", "texture", "yupi"],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-17T20:30:00Z",
       "download_count": 0
     }
   ]
