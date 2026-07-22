@@ -1,6 +1,6 @@
 {
-  "version": 24,
-  "updated_at": "2026-07-20T10:05:00Z",
+  "version": 25,
+  "updated_at": "2026-07-22T23:10:40Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -351,6 +351,42 @@
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
       "download_count": 0
+    },
+    {
+      "id": "lukas.thinkblob-mount",
+      "kind": "gpk",
+      "name": "Thinkblob Mount",
+      "author": "Foglio1024 (original thinkblob mod), x64 port by Lukas",
+      "version": "1.3",
+      "category": "other",
+      "tags": [],
+      "gpk_files": [
+        "thinkblob-tfc-payload.bin"
+      ],
+      "compatible_arch": "x64",
+      "composite_flag": true,
+      "deploy_strategy": "tfc_patch",
+      "target_object_path": "9dc1ecae_20294dea_z0154.Skel.Awaken_SpiritKing_Skel_dup",
+      "short_description": "Thrall Lord mount with foglio's thinking blob face. Patches the streamed texture cache in place; fully reversible.",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-lukas.thinkblob-mount-v1.3/thinkblob-tfc-payload.bin",
+      "sha256": "585c34f64fbdcf8c3d530d6aa6eadaf701675db861c68b0e3752a9e0b51fd068",
+      "size_bytes": 523808,
+      "updated_at": "2026-07-22T23:10:40Z",
+      "tfc_file": "WorldTextures038.tfc",
+      "tfc_spans": [
+        {
+          "tfc_offset": 63182180,
+          "size": 413210,
+          "payload_offset": 0,
+          "vanilla_sha256": "ee700e1400d2dc68141ccb4d118ef9d2302fc449d01006d6db7796049951cc43"
+        },
+        {
+          "tfc_offset": 63071582,
+          "size": 110598,
+          "payload_offset": 413210,
+          "vanilla_sha256": "e37c77319ce443428e9360660fa4bb95a9166096db0c5f0a8afe34ef4e9ae2ed"
+        }
+      ]
     }
   ]
 }
