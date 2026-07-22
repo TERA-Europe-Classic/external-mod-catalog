@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "updated_at": "2026-07-22T23:10:40Z",
+  "version": 26,
+  "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
       "id": "classicplus.shinra",
@@ -79,7 +79,9 @@
       ],
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-17T20:30:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "featured_image": "https://64.media.tumblr.com/4a6d0230e62bad4adb4bde24c641214a/44b3817b87da73ed-00/s1280x1920/60f1fac4d1d711cda1fa06a3b8a225e39704c7b6.png",
+      "icon_url": "https://64.media.tumblr.com/4a6d0230e62bad4adb4bde24c641214a/44b3817b87da73ed-00/s1280x1920/60f1fac4d1d711cda1fa06a3b8a225e39704c7b6.png"
     },
     {
       "id": "yupi.genshin-mona",
