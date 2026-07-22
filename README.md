@@ -44,6 +44,16 @@ diverges from the actual set of keys used across every entry in
 | `featured_image` | string (HTTPS URL) | optional | both | Hero image at the top of the detail panel. 16:9 preferred, ≥1200w. For restyles, the "after" shot. |
 | `last_verified_patch` | string | optional | both | Last patch the mod was confirmed working on, e.g. `"patch 113"`. |
 | `download_count` | integer | optional | both | Stub for future telemetry; the launcher does NOT render this yet. |
+| `icon_url` | string (HTTPS URL) | optional | both | Small square icon for the row/list. Falls back to `featured_image` when missing. |
+| `tags` | string[] | optional | both | Searchable badges, e.g. `["ui","foglio"]`. Distinct from `category`. Default `[]`. |
+| `compatibility_notes` | string | optional | both | Markdown callout ("Conflicts with X", "Broken on patch Y"). |
+| `compatible_arch` | `"x32"` \| `"x64"` | optional | gpk-only | Binary arch of the GPK. Surfaces an "incompatible" badge when it disagrees with the client. |
+| `composite_flag` | boolean | optional | gpk-only | True when the mod targets composite-packaged resources. |
+| `gpk_files` | string[] | optional | gpk-only | Files this mod deploys, e.g. `["RestylePaperdoll.gpk"]`. For `tfc_patch`, the single span-payload filename. |
+| `deploy_strategy` | `"composite_patch"` \| `"dropin"` \| `"composite_redirect"` \| `"tmm"` \| `"tfc_patch"` | optional | gpk-only | How the launcher deploys the GPK. `None` = `composite_patch`. |
+| `target_object_path` | string | optional | gpk-only | Composite object path a `composite_redirect` mod targets (`Package.Object`). |
+| `tfc_file` | string | optional | gpk-only | Vanilla texture cache a `tfc_patch` mod patches, e.g. `WorldTextures038.tfc`. |
+| `tfc_spans` | object[] | optional | gpk-only | `tfc_patch` regions: `{ tfc_offset, size, payload_offset, vanilla_sha256 }`. Install verifies the vanilla hash, backs up, then writes; uninstall restores byte-perfect. |
 <!-- schema-table-end -->
 
 ### Legacy pointer
