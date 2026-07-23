@@ -1,5 +1,5 @@
 {
-  "version": 39,
+  "version": 40,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -45,8 +45,8 @@
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/TCC",
       "updated_at": "2026-07-20T10:05:00Z",
-      "featured_image": "https://img.shields.io/badge/Donate-PayPal-blue.svg",
-      "tagline": "[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/foglio…",
+      "featured_image": "https://opengraph.githubassets.com/1/TERA-Europe-Classic/TCC",
+      "tagline": "Custom cooldowns, boss gauges and party UI",
       "last_verified_patch": "patch 115",
       "download_count": 0
     },
@@ -537,7 +537,10 @@
       "gpk_files": [
         "RGB_scarf.gpk"
       ],
-      "featured_image": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/rgb-scarf-preview.gif"
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/htmslf.rgb-scarf/cover.png",
+      "screenshots": [
+        "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/rgb-scarf-preview.gif"
+      ]
     },
     {
       "id": "norukjerky.kitty-socks",
