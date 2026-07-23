@@ -1,5 +1,5 @@
 {
-  "version": 102,
+  "version": 103,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -463,7 +463,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/Icon_Skills.gpk",
           "loose_vanilla_sha256": "ed0a22e33c7a841451a4906b2c41c70717adb5042e42025d3efc446c57d342fe"
         }
-      ]
+      ],
+      "credits": "Original Think Blob mod by Foglio1024 (toolbox-era SpiritKing mount); x64 port, TFC/spec/icon engineering by Lukas for the Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog."
     },
     {
       "id": "justcrazy.green-crosshair",
@@ -3286,30 +3287,6 @@
       "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "TexturedFonts.gpk"
-    },
-    {
-      "id": "foglio1024.toolbox-thinkblob",
-      "kind": "gpk",
-      "name": "Toolbox Client Mod: Think Blob (SpiritKing)",
-      "author": "foglio1024",
-      "short_description": "Replaces Awakened SpiritKing summon with think-blob meme.",
-      "long_description": "Replaces Awakened SpiritKing summon with think-blob meme.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
-      "category": "fun",
-      "license": "Unknown",
-      "credits": "Published by foglio1024 at https://github.com/foglio1024/toolbox-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.toolbox-thinkblob.Awaken_SpiritKing.roundtrip.gpk",
-      "sha256": "758146c2ec7585aa035983c46950088e44ea724843d6f5c43330c9d781c9b63e",
-      "size_bytes": 860461,
-      "source_url": "https://github.com/foglio1024/toolbox-client-mods",
-      "target_patch": "v100.02",
-      "composite_flag": true,
-      "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 103",
-      "featured_image": "https://raw.githubusercontent.com/foglio1024/toolbox-client-mods/master/thinkblob/preview.png",
-      "target_object_path": "Awaken_SpiritKing.Skel.Awaken_SpiritKing_Skel",
-      "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
     },
     {
       "id": "foglio1024.badgui-loader",
