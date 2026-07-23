@@ -1,5 +1,5 @@
 {
-  "version": 119,
+  "version": 120,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -6009,40 +6009,6 @@
       "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoGAAwAAwBSJYwCdADzgC+BAAAA9r5hhxCrwpEo6WtXrDQclwnC5C34KjC+m1hDsmj9lIAA",
       "replaces": "Replaces the Priest staff in the PC_Weapons_Event03 event weapon-skin family (iceglow look). Check: that event staff skin on Priest.",
       "tagline": "Replaces the Priest staff in the PC_Weapons_Event03 event weapon-skin family (iceglow l..."
-    },
-    {
-      "id": "pantypon.sorcerer-gloomy-bear-patches",
-      "kind": "gpk",
-      "name": "Sorcerer Gloomy Bear Patches (PC_Weapons_Event)",
-      "author": "pantypon",
-      "short_description": "Gloomy bear-patch disc model for Sorcerer.",
-      "long_description": "**Replaces:** Replaces the Sorcerer variant of the seasonal event weapon skin (R_Event_Season_Dual_01 family). Check: seasonal event disc skin on Sorcerer.\n\nGloomy bear-patch disc model for Sorcerer.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
-      "category": "weapons",
-      "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-weapon-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.sorcerer-gloomy-bear-patches.PC_Weapons_Event.roundtrip.gpk",
-      "sha256": "0eb57cc520f5c55c9c31f7e07486117dd228b87b8770d26013fffa5b4b7b004f",
-      "size_bytes": 5254,
-      "source_url": "https://github.com/pantypon/tera-client-weapon-mods",
-      "target_patch": "v32.04",
-      "composite_flag": true,
-      "gpk_files": [
-        "PC_Weapons_Event.gpk"
-      ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Sorcerer%20Gloomy%20Bear%20Patches/Gloomy%20Bear%20Patches%20Model.png",
-      "tags": [
-        "classic-era",
-        "weapon",
-        "pantypon"
-      ],
-      "target_object_path": "PC_Weapons_Event.Tex.Silver.R_Event_Season_Dual_01_spec_Silver",
-      "compatible_arch": "x64",
-      "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
-      "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAwAAwBSJQBOj+ACzmh7L8ygAP2PMjA+Vr4sTpWOFLJCjx+lXJO3UW/nfntyP0OOR5EutSvVLbKdqLoVODbmhyMTsAAA",
-      "replaces": "Replaces the Sorcerer variant of the seasonal event weapon skin (R_Event_Season_Dual_01 family). Check: seasonal event disc skin on Sorcerer.",
-      "tagline": "Replaces the Sorcerer variant of the seasonal event weapon skin (R_Event_Season_Dual_01..."
     },
     {
       "id": "pantypon.castanic-female-pink-horns-hair",
