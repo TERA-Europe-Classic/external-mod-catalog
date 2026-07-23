@@ -1,5 +1,5 @@
 {
-  "version": 120,
+  "version": 121,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -542,7 +542,9 @@
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/justcrazy.green-crosshair/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAACQAQCdASoMAAwAAwBSJZwAAuP2CAAA/vpvZ1m+9ef7vgAA",
       "replaces": "Replaces the combat crosshair reticle textures (S1UI_Crosshair composite objects) with a green version. Check: crosshair in action-combat aim.",
-      "size_bytes": 3151652
+      "size_bytes": 3151652,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-justcrazy.green-crosshair-v1.0.0/ffe86d35_16eb0d8e_1d73c.gpk",
+      "sha256": "ae13b63c69cbef3df0be234fa6945ed5a1494e029fa5db8f02d224c145e4eac4"
     },
     {
       "id": "htmslf.rgb-scarf",
@@ -845,7 +847,9 @@
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/novatera.jp-voice-pack/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAcAAwBSJYwAAueAl9ccAAD+98Uxe8yQpSXTcSJKCS257ZO8QAAA",
       "replaces": "Replaces character combat/emote voices with the Japanese voice-over: Castanic female, High Elf female and Human female packs. Check: emotes or combat shouts on those characters.",
-      "size_bytes": 16308270
+      "size_bytes": 16308270,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCFemale_Voice01_07_cast.gpk",
+      "sha256": "d7ba12d7d9d8da21305ef03969b12b97500ba40f3d337a2a9d315eb8c37ac08d"
     },
     {
       "id": "mtforum.strawberry-melody-2-5",
