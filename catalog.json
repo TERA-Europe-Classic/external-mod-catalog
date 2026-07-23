@@ -1,5 +1,5 @@
 {
-  "version": 37,
+  "version": 38,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -785,8 +785,8 @@
       "kind": "gpk",
       "name": "Strawberry Melody 2.5",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Strawberry Melody 2.5 — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Strawberry Melody 2.5: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Strawberry Melody 2.5 — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Strawberry Melody 2.5: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -799,7 +799,7 @@
       "gpk_files": [
         "Strawberry_Melody_2.5.gpk"
       ],
-      "tagline": "Menma's TERA classic: Strawberry Melody 2.5",
+      "tagline": "From Tsun's backup: Strawberry Melody 2.5",
       "tags": [
         "appearance",
         "eyes",
@@ -815,8 +815,8 @@
       "kind": "gpk",
       "name": "Brownee",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Brownee — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Brownee: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Brownee — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Brownee: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -829,7 +829,7 @@
       "gpk_files": [
         "Brownee.gpk"
       ],
-      "tagline": "Menma's TERA classic: Brownee",
+      "tagline": "From Tsun's backup: Brownee",
       "tags": [
         "appearance",
         "eyes",
@@ -845,8 +845,8 @@
       "kind": "gpk",
       "name": "DarkYoukai",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "DarkYoukai — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "DarkYoukai: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "DarkYoukai — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "DarkYoukai: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -859,7 +859,7 @@
       "gpk_files": [
         "DarkYoukai.gpk"
       ],
-      "tagline": "Menma's TERA classic: DarkYoukai",
+      "tagline": "From Tsun's backup: DarkYoukai",
       "tags": [
         "appearance",
         "eyes",
@@ -875,8 +875,8 @@
       "kind": "gpk",
       "name": "Enchantress",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Enchantress — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Enchantress: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Enchantress — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Enchantress: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -889,7 +889,7 @@
       "gpk_files": [
         "Enchantress.gpk"
       ],
-      "tagline": "Menma's TERA classic: Enchantress",
+      "tagline": "From Tsun's backup: Enchantress",
       "tags": [
         "appearance",
         "eyes",
@@ -905,8 +905,8 @@
       "kind": "gpk",
       "name": "Goldie",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Goldie — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Goldie: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Goldie — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Goldie: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -919,7 +919,7 @@
       "gpk_files": [
         "Goldie.gpk"
       ],
-      "tagline": "Menma's TERA classic: Goldie",
+      "tagline": "From Tsun's backup: Goldie",
       "tags": [
         "appearance",
         "eyes",
@@ -935,8 +935,8 @@
       "kind": "gpk",
       "name": "Indigo",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Indigo — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Indigo: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Indigo — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Indigo: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -949,7 +949,7 @@
       "gpk_files": [
         "Indigo.gpk"
       ],
-      "tagline": "Menma's TERA classic: Indigo",
+      "tagline": "From Tsun's backup: Indigo",
       "tags": [
         "appearance",
         "eyes",
@@ -965,8 +965,8 @@
       "kind": "gpk",
       "name": "Starry",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Starry — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Starry: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Starry — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Starry: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -979,7 +979,7 @@
       "gpk_files": [
         "Starry.gpk"
       ],
-      "tagline": "Menma's TERA classic: Starry",
+      "tagline": "From Tsun's backup: Starry",
       "tags": [
         "appearance",
         "eyes",
@@ -995,8 +995,8 @@
       "kind": "gpk",
       "name": "SterlingSilver CastanicF",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "SterlingSilver CastanicF — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "SterlingSilver CastanicF: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "SterlingSilver CastanicF — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "SterlingSilver CastanicF: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1009,7 +1009,7 @@
       "gpk_files": [
         "SterlingSilver_CastanicF.gpk"
       ],
-      "tagline": "Menma's TERA classic: SterlingSilver CastanicF",
+      "tagline": "From Tsun's backup: SterlingSilver CastanicF",
       "tags": [
         "appearance",
         "eyes",
@@ -1025,8 +1025,8 @@
       "kind": "gpk",
       "name": "Sweet Memories",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Sweet Memories — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Sweet Memories: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Sweet Memories — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Sweet Memories: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1039,7 +1039,7 @@
       "gpk_files": [
         "Sweet_Memories.gpk"
       ],
-      "tagline": "Menma's TERA classic: Sweet Memories",
+      "tagline": "From Tsun's backup: Sweet Memories",
       "tags": [
         "appearance",
         "eyes",
@@ -1055,8 +1055,8 @@
       "kind": "gpk",
       "name": "Turquoise",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Turquoise — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Turquoise: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Turquoise — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Turquoise: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1069,7 +1069,7 @@
       "gpk_files": [
         "Turquoise.gpk"
       ],
-      "tagline": "Menma's TERA classic: Turquoise",
+      "tagline": "From Tsun's backup: Turquoise",
       "tags": [
         "appearance",
         "eyes",
@@ -1085,8 +1085,8 @@
       "kind": "gpk",
       "name": "hearteyes",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "hearteyes — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "hearteyes: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "hearteyes — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "hearteyes: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1099,7 +1099,7 @@
       "gpk_files": [
         "hearteyes.gpk"
       ],
-      "tagline": "Menma's TERA classic: hearteyes",
+      "tagline": "From Tsun's backup: hearteyes",
       "tags": [
         "appearance",
         "eyes",
@@ -1115,8 +1115,8 @@
       "kind": "gpk",
       "name": "DarkIce CastanicF",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "DarkIce CastanicF — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "DarkIce CastanicF: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "DarkIce CastanicF — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "DarkIce CastanicF: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1129,7 +1129,7 @@
       "gpk_files": [
         "DarkIce_CastanicF.gpk"
       ],
-      "tagline": "Menma's TERA classic: DarkIce CastanicF",
+      "tagline": "From Tsun's backup: DarkIce CastanicF",
       "tags": [
         "appearance",
         "eyes",
@@ -1145,8 +1145,8 @@
       "kind": "gpk",
       "name": "NightBlue",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "NightBlue — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "NightBlue: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "NightBlue — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "NightBlue: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1159,7 +1159,7 @@
       "gpk_files": [
         "NightBlue.gpk"
       ],
-      "tagline": "Menma's TERA classic: NightBlue",
+      "tagline": "From Tsun's backup: NightBlue",
       "tags": [
         "appearance",
         "eyes",
@@ -1175,8 +1175,8 @@
       "kind": "gpk",
       "name": "Pink eyes",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Pink eyes — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Pink eyes: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Pink eyes — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Pink eyes: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1189,7 +1189,7 @@
       "gpk_files": [
         "Pink_eyes.gpk"
       ],
-      "tagline": "Menma's TERA classic: Pink eyes",
+      "tagline": "From Tsun's backup: Pink eyes",
       "tags": [
         "appearance",
         "eyes",
@@ -1205,8 +1205,8 @@
       "kind": "gpk",
       "name": "Sunset",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Sunset — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Sunset: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Sunset — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Sunset: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1219,7 +1219,7 @@
       "gpk_files": [
         "Sunset.gpk"
       ],
-      "tagline": "Menma's TERA classic: Sunset",
+      "tagline": "From Tsun's backup: Sunset",
       "tags": [
         "appearance",
         "eyes",
@@ -1235,8 +1235,8 @@
       "kind": "gpk",
       "name": "hauntercatseye",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "hauntercatseye — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "hauntercatseye: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "hauntercatseye — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "hauntercatseye: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1249,7 +1249,7 @@
       "gpk_files": [
         "hauntercatseye.gpk"
       ],
-      "tagline": "Menma's TERA classic: hauntercatseye",
+      "tagline": "From Tsun's backup: hauntercatseye",
       "tags": [
         "appearance",
         "eyes",
@@ -1265,8 +1265,8 @@
       "kind": "gpk",
       "name": "haunterdreamyeyes",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "haunterdreamyeyes — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "haunterdreamyeyes: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "haunterdreamyeyes — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "haunterdreamyeyes: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1279,7 +1279,7 @@
       "gpk_files": [
         "haunterdreamyeyes.gpk"
       ],
-      "tagline": "Menma's TERA classic: haunterdreamyeyes",
+      "tagline": "From Tsun's backup: haunterdreamyeyes",
       "tags": [
         "appearance",
         "eyes",
@@ -1295,8 +1295,8 @@
       "kind": "gpk",
       "name": "pretty eyes mod",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "pretty eyes mod — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "pretty eyes mod: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "pretty eyes mod — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "pretty eyes mod: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1309,7 +1309,7 @@
       "gpk_files": [
         "pretty_eyes_mod.gpk"
       ],
-      "tagline": "Menma's TERA classic: pretty eyes mod",
+      "tagline": "From Tsun's backup: pretty eyes mod",
       "tags": [
         "appearance",
         "eyes",
@@ -1325,8 +1325,8 @@
       "kind": "gpk",
       "name": "valentines eyes 2.0 mod",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "valentines eyes 2.0 mod — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "valentines eyes 2.0 mod: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "valentines eyes 2.0 mod — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "valentines eyes 2.0 mod: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1339,7 +1339,7 @@
       "gpk_files": [
         "valentines_eyes_2.0_mod.gpk"
       ],
-      "tagline": "Menma's TERA classic: valentines eyes 2.0 mod",
+      "tagline": "From Tsun's backup: valentines eyes 2.0 mod",
       "tags": [
         "appearance",
         "eyes",
@@ -1355,8 +1355,8 @@
       "kind": "gpk",
       "name": "valentines eyes 2.0pink mod",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "valentines eyes 2.0pink mod — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "valentines eyes 2.0pink mod: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "valentines eyes 2.0pink mod — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "valentines eyes 2.0pink mod: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1369,7 +1369,7 @@
       "gpk_files": [
         "valentines_eyes_2.0pink_mod.gpk"
       ],
-      "tagline": "Menma's TERA classic: valentines eyes 2.0pink mod",
+      "tagline": "From Tsun's backup: valentines eyes 2.0pink mod",
       "tags": [
         "appearance",
         "eyes",
@@ -1385,8 +1385,8 @@
       "kind": "gpk",
       "name": "valentines eyes mod",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "valentines eyes mod — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "valentines eyes mod: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "valentines eyes mod — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "valentines eyes mod: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1399,7 +1399,7 @@
       "gpk_files": [
         "valentines_eyes_mod.gpk"
       ],
-      "tagline": "Menma's TERA classic: valentines eyes mod",
+      "tagline": "From Tsun's backup: valentines eyes mod",
       "tags": [
         "appearance",
         "eyes",
@@ -1415,8 +1415,8 @@
       "kind": "gpk",
       "name": "Bunny v2",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Bunny v2 — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Bunny v2: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Bunny v2 — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Bunny v2: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1429,7 +1429,7 @@
       "gpk_files": [
         "Bunny_v2.gpk"
       ],
-      "tagline": "Menma's TERA classic: Bunny v2",
+      "tagline": "From Tsun's backup: Bunny v2",
       "tags": [
         "appearance",
         "eyes",
@@ -1445,8 +1445,8 @@
       "kind": "gpk",
       "name": "Crystal BBrwon",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Crystal BBrwon — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Crystal BBrwon: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Crystal BBrwon — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Crystal BBrwon: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1459,7 +1459,7 @@
       "gpk_files": [
         "Crystal_BBrwon.gpk"
       ],
-      "tagline": "Menma's TERA classic: Crystal BBrwon",
+      "tagline": "From Tsun's backup: Crystal BBrwon",
       "tags": [
         "appearance",
         "eyes",
@@ -1475,8 +1475,8 @@
       "kind": "gpk",
       "name": "EmoPrincess Elin",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "EmoPrincess Elin — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "EmoPrincess Elin: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "EmoPrincess Elin — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "EmoPrincess Elin: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1489,7 +1489,7 @@
       "gpk_files": [
         "EmoPrincess_Elin.gpk"
       ],
-      "tagline": "Menma's TERA classic: EmoPrincess Elin",
+      "tagline": "From Tsun's backup: EmoPrincess Elin",
       "tags": [
         "appearance",
         "eyes",
@@ -1505,8 +1505,8 @@
       "kind": "gpk",
       "name": "Hu Tao eyes",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Hu Tao eyes — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Hu Tao eyes: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Hu Tao eyes — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Hu Tao eyes: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1519,7 +1519,7 @@
       "gpk_files": [
         "Hu_Tao_eyes.gpk"
       ],
-      "tagline": "Menma's TERA classic: Hu Tao eyes",
+      "tagline": "From Tsun's backup: Hu Tao eyes",
       "tags": [
         "appearance",
         "eyes",
@@ -1535,8 +1535,8 @@
       "kind": "gpk",
       "name": "Hu Tao eyes 11 05",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Hu Tao eyes 11 05 — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Hu Tao eyes 11 05: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Hu Tao eyes 11 05 — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Hu Tao eyes 11 05: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1549,7 +1549,7 @@
       "gpk_files": [
         "Hu_Tao_eyes_11_-_05.gpk"
       ],
-      "tagline": "Menma's TERA classic: Hu Tao eyes 11 05",
+      "tagline": "From Tsun's backup: Hu Tao eyes 11 05",
       "tags": [
         "appearance",
         "eyes",
@@ -1565,8 +1565,8 @@
       "kind": "gpk",
       "name": "Hu Tao eyeses",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Hu Tao eyeses — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Hu Tao eyeses: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Hu Tao eyeses — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Hu Tao eyeses: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1579,7 +1579,7 @@
       "gpk_files": [
         "Hu_Tao_eyeses.gpk"
       ],
-      "tagline": "Menma's TERA classic: Hu Tao eyeses",
+      "tagline": "From Tsun's backup: Hu Tao eyeses",
       "tags": [
         "appearance",
         "eyes",
@@ -1595,8 +1595,8 @@
       "kind": "gpk",
       "name": "PadamPadam CastanicF",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "PadamPadam CastanicF — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "PadamPadam CastanicF: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "PadamPadam CastanicF — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "PadamPadam CastanicF: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1609,7 +1609,7 @@
       "gpk_files": [
         "PadamPadam_CastanicF.gpk"
       ],
-      "tagline": "Menma's TERA classic: PadamPadam CastanicF",
+      "tagline": "From Tsun's backup: PadamPadam CastanicF",
       "tags": [
         "appearance",
         "eyes",
@@ -1625,8 +1625,8 @@
       "kind": "gpk",
       "name": "Plum",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Plum — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Plum: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Plum — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Plum: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1639,7 +1639,7 @@
       "gpk_files": [
         "Plum.gpk"
       ],
-      "tagline": "Menma's TERA classic: Plum",
+      "tagline": "From Tsun's backup: Plum",
       "tags": [
         "appearance",
         "eyes",
@@ -1655,8 +1655,8 @@
       "kind": "gpk",
       "name": "Skull Emogi 11 5",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Skull Emogi 11 5 — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Skull Emogi 11 5: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Skull Emogi 11 5 — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Skull Emogi 11 5: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1669,7 +1669,7 @@
       "gpk_files": [
         "Skull_Emogi_11_5.gpk"
       ],
-      "tagline": "Menma's TERA classic: Skull Emogi 11 5",
+      "tagline": "From Tsun's backup: Skull Emogi 11 5",
       "tags": [
         "appearance",
         "eyes",
@@ -1685,8 +1685,8 @@
       "kind": "gpk",
       "name": "Zombie patch",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Zombie patch — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Zombie patch: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Zombie patch — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Zombie patch: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1699,7 +1699,7 @@
       "gpk_files": [
         "Zombie_patch.gpk"
       ],
-      "tagline": "Menma's TERA classic: Zombie patch",
+      "tagline": "From Tsun's backup: Zombie patch",
       "tags": [
         "appearance",
         "eyes",
@@ -1715,8 +1715,8 @@
       "kind": "gpk",
       "name": "Amethyst",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Amethyst — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Amethyst: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Amethyst — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Amethyst: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1729,7 +1729,7 @@
       "gpk_files": [
         "Amethyst.gpk"
       ],
-      "tagline": "Menma's TERA classic: Amethyst",
+      "tagline": "From Tsun's backup: Amethyst",
       "tags": [
         "appearance",
         "eyes",
@@ -1745,8 +1745,8 @@
       "kind": "gpk",
       "name": "Dragon",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Dragon — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Dragon: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Dragon — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Dragon: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1759,7 +1759,7 @@
       "gpk_files": [
         "Dragon.gpk"
       ],
-      "tagline": "Menma's TERA classic: Dragon",
+      "tagline": "From Tsun's backup: Dragon",
       "tags": [
         "appearance",
         "eyes",
@@ -1775,8 +1775,8 @@
       "kind": "gpk",
       "name": "Dragon no shine",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Dragon no shine — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Dragon no shine: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Dragon no shine — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Dragon no shine: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1789,7 +1789,7 @@
       "gpk_files": [
         "Dragon_no-shine.gpk"
       ],
-      "tagline": "Menma's TERA classic: Dragon no shine",
+      "tagline": "From Tsun's backup: Dragon no shine",
       "tags": [
         "appearance",
         "eyes",
@@ -1805,8 +1805,8 @@
       "kind": "gpk",
       "name": "Honey",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Honey — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Honey: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Honey — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Honey: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1819,7 +1819,7 @@
       "gpk_files": [
         "Honey.gpk"
       ],
-      "tagline": "Menma's TERA classic: Honey",
+      "tagline": "From Tsun's backup: Honey",
       "tags": [
         "appearance",
         "eyes",
@@ -1835,8 +1835,8 @@
       "kind": "gpk",
       "name": "Light green eyes",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Light green eyes — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Light green eyes: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Light green eyes — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Light green eyes: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1849,7 +1849,7 @@
       "gpk_files": [
         "Light_green_eyes.gpk"
       ],
-      "tagline": "Menma's TERA classic: Light green eyes",
+      "tagline": "From Tsun's backup: Light green eyes",
       "tags": [
         "appearance",
         "eyes",
@@ -1865,8 +1865,8 @@
       "kind": "gpk",
       "name": "PinkPinkPink",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "PinkPinkPink — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "PinkPinkPink: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "PinkPinkPink — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "PinkPinkPink: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1879,7 +1879,7 @@
       "gpk_files": [
         "PinkPinkPink.gpk"
       ],
-      "tagline": "Menma's TERA classic: PinkPinkPink",
+      "tagline": "From Tsun's backup: PinkPinkPink",
       "tags": [
         "appearance",
         "eyes",
@@ -1895,8 +1895,8 @@
       "kind": "gpk",
       "name": "Red",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Red — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Red: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Red — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Red: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1909,7 +1909,7 @@
       "gpk_files": [
         "Red.gpk"
       ],
-      "tagline": "Menma's TERA classic: Red",
+      "tagline": "From Tsun's backup: Red",
       "tags": [
         "appearance",
         "eyes",
@@ -1925,8 +1925,8 @@
       "kind": "gpk",
       "name": "RoyalAmber CastanicF",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "RoyalAmber CastanicF — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "RoyalAmber CastanicF: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "RoyalAmber CastanicF — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "RoyalAmber CastanicF: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1939,7 +1939,7 @@
       "gpk_files": [
         "RoyalAmber_CastanicF.gpk"
       ],
-      "tagline": "Menma's TERA classic: RoyalAmber CastanicF",
+      "tagline": "From Tsun's backup: RoyalAmber CastanicF",
       "tags": [
         "appearance",
         "eyes",
@@ -1955,8 +1955,8 @@
       "kind": "gpk",
       "name": "cosmicGreenPink",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "cosmicGreenPink — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "cosmicGreenPink: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "cosmicGreenPink — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "cosmicGreenPink: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1969,7 +1969,7 @@
       "gpk_files": [
         "cosmicGreenPink.gpk"
       ],
-      "tagline": "Menma's TERA classic: cosmicGreenPink",
+      "tagline": "From Tsun's backup: cosmicGreenPink",
       "tags": [
         "appearance",
         "eyes",
@@ -1985,8 +1985,8 @@
       "kind": "gpk",
       "name": "cosmicPink",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "cosmicPink — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "cosmicPink: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "cosmicPink — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "cosmicPink: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -1999,7 +1999,7 @@
       "gpk_files": [
         "cosmicPink.gpk"
       ],
-      "tagline": "Menma's TERA classic: cosmicPink",
+      "tagline": "From Tsun's backup: cosmicPink",
       "tags": [
         "appearance",
         "eyes",
@@ -2015,8 +2015,8 @@
       "kind": "gpk",
       "name": "COTTON CANDY",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "COTTON CANDY — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "COTTON CANDY: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "COTTON CANDY — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "COTTON CANDY: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -2029,7 +2029,7 @@
       "gpk_files": [
         "COTTON_CANDY.gpk"
       ],
-      "tagline": "Menma's TERA classic: COTTON CANDY",
+      "tagline": "From Tsun's backup: COTTON CANDY",
       "tags": [
         "appearance",
         "eyes",
@@ -2045,8 +2045,8 @@
       "kind": "gpk",
       "name": "Cosmic Nurse",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Cosmic Nurse — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Cosmic Nurse: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Cosmic Nurse — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Cosmic Nurse: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -2059,7 +2059,7 @@
       "gpk_files": [
         "Cosmic_Nurse.gpk"
       ],
-      "tagline": "Menma's TERA classic: Cosmic Nurse",
+      "tagline": "From Tsun's backup: Cosmic Nurse",
       "tags": [
         "appearance",
         "eyes",
@@ -2075,8 +2075,8 @@
       "kind": "gpk",
       "name": "Mioh Makeup F9A3",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Mioh Makeup F9A3 — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Mioh Makeup F9A3: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Mioh Makeup F9A3 — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Mioh Makeup F9A3: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -2089,7 +2089,7 @@
       "gpk_files": [
         "Mioh_Makeup_F9A3.gpk"
       ],
-      "tagline": "Menma's TERA classic: Mioh Makeup F9A3",
+      "tagline": "From Tsun's backup: Mioh Makeup F9A3",
       "tags": [
         "appearance",
         "eyes",
@@ -2105,8 +2105,8 @@
       "kind": "gpk",
       "name": "Pantypon Yandere Face12 Adorment2",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Pantypon Yandere Face12 Adorment2 — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Pantypon Yandere Face12 Adorment2: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Pantypon Yandere Face12 Adorment2 — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Pantypon Yandere Face12 Adorment2: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -2119,7 +2119,7 @@
       "gpk_files": [
         "Pantypon_Yandere_Face12-Adorment2.gpk"
       ],
-      "tagline": "Menma's TERA classic: Pantypon Yandere Face12 Adorment2",
+      "tagline": "From Tsun's backup: Pantypon Yandere Face12 Adorment2",
       "tags": [
         "appearance",
         "eyes",
@@ -2135,8 +2135,8 @@
       "kind": "gpk",
       "name": "Passion Fruit",
       "author": "Unknown (shared by Tsun)",
-      "short_description": "Passion Fruit — eye/cosmetic texture mod from the Menma's TERA forum collection.",
-      "long_description": "Passion Fruit: one of 46 eye/cosmetic texture mods originally from the Menma's TERA mod forum, preserved by Tsun's forum backup.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "short_description": "Passion Fruit — eye/cosmetic texture mod from Tsun's forum backup.",
+      "long_description": "Passion Fruit: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025) from their forum backup — in Tsun's words, \"pretty much the entire mt mod forum backed up\". Original authors unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
@@ -2149,7 +2149,7 @@
       "gpk_files": [
         "Passion_Fruit.gpk"
       ],
-      "tagline": "Menma's TERA classic: Passion Fruit",
+      "tagline": "From Tsun's backup: Passion Fruit",
       "tags": [
         "appearance",
         "eyes",
