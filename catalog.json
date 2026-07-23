@@ -1,5 +1,5 @@
 {
-  "version": 121,
+  "version": 122,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -2672,8 +2672,7 @@
       "tagline": "TERA UI Mods",
       "last_verified_patch": "patch 100",
       "gpk_files": [
-        "S1UI_PartyWindowRaidInfo.gpk",
-        "S1UI_TargetInfo.gpk"
+        "S1UI_PartyWindowRaidInfo.gpk"
       ],
       "tags": [
         "tera-mods",
@@ -2708,7 +2707,6 @@
       "tagline": "TERA UI Mods",
       "last_verified_patch": "patch 100",
       "gpk_files": [
-        "S1UI_PartyWindowRaidInfo.gpk",
         "S1UI_TargetInfo.gpk"
       ],
       "tags": [
