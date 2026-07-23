@@ -1,5 +1,5 @@
 {
-  "version": 92,
+  "version": 93,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -2689,7 +2689,7 @@
       "gpk_files": [
         "S1UI_PaperDoll.gpk"
       ],
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-paperdoll/cover.png",
       "target_object_path": "S1UI_PaperDoll.PaperDoll"
     },
     {
