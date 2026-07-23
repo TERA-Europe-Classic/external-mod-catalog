@@ -1,5 +1,5 @@
 {
-  "version": 85,
+  "version": 86,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -2151,12 +2151,12 @@
       "id": "mtforum.pantypon-yandere-face12-adorment2",
       "kind": "gpk",
       "name": "Pantypon Yandere Face12 Adorment2",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Pantypon (via Tsun backup)",
       "short_description": "Pantypon Yandere Face12 Adorment2 — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Pantypon Yandere Face12 Adorment2: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (named in the mod file itself); preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Pantypon_Yandere_Face12-Adorment2.gpk",
       "sha256": "26c4afde256196b4e563125f4c4eb6d5f9bd0c2d6c405350ef4485a019e7a279",
@@ -2175,7 +2175,8 @@
       "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-23T06:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/mtforum.pantypon-yandere-face12-adorment2/cover.png"
     },
     {
       "id": "mtforum.passion-fruit",
