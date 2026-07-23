@@ -14755,6 +14755,546 @@
       "replaces": "Replaces the PC_Event_44 package. Check: preview/wear the matching item in game.",
       "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
       "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "la.petite-soeur-tera-thrall-lord-as-gudetama",
+      "kind": "gpk",
+      "name": "Petite Soeur Tera Thrall Lord As Gudetama",
+      "author": "la",
+      "category": "Costumes",
+      "short_description": "TERA Thrall Lord as Gudetama\nCooperation of Lewdshi   and I\nhttps://mega.nz/#!F5tlWDDS!uame8ljvwL9cv3xFQzrGBYwRYuuGjAZG2IUG_BhrJC8",
+      "long_description": "TERA Thrall Lord as Gudetama\nCooperation of Lewdshi   and I\nhttps://mega.nz/#!F5tlWDDS!uame8ljvwL9cv3xFQzrGBYwRYuuGjAZG2IUG_BhrJC8\n\nOriginal by la, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by la. Source: https://mods-of-tera.tumblr.com/post/173056702602/la-petite-soeur-tera-thrall-lord-as-gudetama",
+      "source_url": "https://mods-of-tera.tumblr.com/post/173056702602/la-petite-soeur-tera-thrall-lord-as-gudetama",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/be2ac1c9f55b9ae2918fca2988bb865d/tumblr_p7d7xsaec01uaqnb1o1_400.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/be2ac1c9f55b9ae2918fca2988bb865d/tumblr_p7d7xsaec01uaqnb1o1_400.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Awaken_SpiritKing.gpk",
+      "gpk_files": [
+        "Awaken_SpiritKing.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/la_petite-soeur-tera-thrall-lord-as-gudetama.gpk",
+      "sha256": "7199acf5c1959ca0705f27c1be0a169ee97ef80b856e1da8f8464fe19dec1126",
+      "size_bytes": 2252579,
+      "composite_flag": true,
+      "replaces": "Replaces the Awaken_SpiritKing package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.grump-cat-pink-ribbon",
+      "kind": "gpk",
+      "name": "Grump Cat Pink Ribbon",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Grump Cat + Pink Ribbon.\n( Replaces the Black Cat hat to this Grumpy Cat looking one + re-colored the blue ribbon to be pink )\n♡&nbsp;Downlo",
+      "long_description": "Grump Cat + Pink Ribbon.\n( Replaces the Black Cat hat to this Grumpy Cat looking one + re-colored the blue ribbon to be pink )\n♡&nbsp;Downlo\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176269868102/litterboxchan-grump-cat-pink-ribbon",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176269868102/litterboxchan-grump-cat-pink-ribbon",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/e639f3bfa483f8c9dc221e2c0771cf26/tumblr_pccxg9JDg91wmppo4o1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/e639f3bfa483f8c9dc221e2c0771cf26/tumblr_pccxg9JDg91wmppo4o1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_270.gpk",
+      "gpk_files": [
+        "Acc_270.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_grump-cat-pink-ribbon.gpk",
+      "sha256": "5a3a1f52bfc3d83cc27042a9445c8ee6a593e093bd94c02a6b25aad97ebc0c06",
+      "size_bytes": 602875,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_270 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.l-o-l-i-t-a-a",
+      "kind": "gpk",
+      "name": "L O L I T A A",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "✺ L o l i t a&nbsp;  ✺  \n-&nbsp; A re-color of the Goth Melody outfit&nbsp;\nhttps://mega.nz/#!EDAylToR!xdoSfX95XG4ijeItU5TE55Z14Pe8c_WGouWWr",
+      "long_description": "✺ L o l i t a&nbsp;  ✺  \n-&nbsp; A re-color of the Goth Melody outfit&nbsp;\nhttps://mega.nz/#!EDAylToR!xdoSfX95XG4ijeItU5TE55Z14Pe8c_WGouWWr\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/173719746272/litterboxchan-l-o-l-i-t-a-a",
+      "source_url": "https://mods-of-tera.tumblr.com/post/173719746272/litterboxchan-l-o-l-i-t-a-a",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/85de64e88f6a5a9172761e9f59c671f0/tumblr_p8bzockEV21wmppo4o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/85de64e88f6a5a9172761e9f59c671f0/tumblr_p8bzockEV21wmppo4o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_33.gpk",
+      "gpk_files": [
+        "PC_Event_33.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_l-o-l-i-t-a-a.gpk",
+      "sha256": "d1aacff77fd7ac67874d7829e75251b2c858effee0ceac1f621f7d6d769dbef9",
+      "size_bytes": 18908730,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_33 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.litterboxchan",
+      "kind": "gpk",
+      "name": "Litterboxchan",
+      "author": "litterboxchan",
+      "category": "Mounts & Pets",
+      "short_description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+      "long_description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/173449746847/litterboxchan-litterboxchan",
+      "source_url": "https://mods-of-tera.tumblr.com/post/173449746847/litterboxchan-litterboxchan",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/e5e2a14d0cd265e7b336364eed806780/tumblr_p7i76tQKfq1wmppo4o1_r1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/e5e2a14d0cd265e7b336364eed806780/tumblr_p7i76tQKfq1wmppo4o1_r1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Vehicle_Bluebird.gpk",
+      "gpk_files": [
+        "Vehicle_Bluebird.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_litterboxchan.gpk",
+      "sha256": "9a25583d445147305ae077d6978828b9908a5f870b04107ac8e3fe3a185953ef",
+      "size_bytes": 5767311,
+      "composite_flag": true,
+      "replaces": "Replaces the Vehicle_Bluebird package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.not-gonna-stop-until-every",
+      "kind": "gpk",
+      "name": "Not Gonna Stop Until Every",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "Not gonna stop until every costume is pink.\n- Hello Kitty Maid Dress\nLink :&nbsp;https://mega.nz/#!0Dp2AKwC!EVC53ma4otyG2CMslKwOITJhiH0FPm03",
+      "long_description": "Not gonna stop until every costume is pink.\n- Hello Kitty Maid Dress\nLink :&nbsp;https://mega.nz/#!0Dp2AKwC!EVC53ma4otyG2CMslKwOITJhiH0FPm03\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176055081597/litterboxchan-not-gonna-stop-until-every",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176055081597/litterboxchan-not-gonna-stop-until-every",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/12ff8946901e738bce82527895d9da01/tumblr_pao2dg0GKk1wmppo4o4_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/12ff8946901e738bce82527895d9da01/tumblr_pao2dg0GKk1wmppo4o4_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_39A.gpk",
+      "gpk_files": [
+        "PC_Event_39A.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_not-gonna-stop-until-every.gpk",
+      "sha256": "0eb62d88ba9b18e4fca686d538c68df54a45c005e9a429b9096d984373117bcb",
+      "size_bytes": 2350493,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_39A package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.pink-reading-glasses-pink-rally",
+      "kind": "gpk",
+      "name": "Pink Reading Glasses Pink Rally",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Pink Reading Glasses + Pink Rally Cap\n- Only works on the Red cap !&nbsp;\n- Glasses only work on the normal reading glasses&nbsp;&nbsp;\nPink",
+      "long_description": "Pink Reading Glasses + Pink Rally Cap\n- Only works on the Red cap !&nbsp;\n- Glasses only work on the normal reading glasses&nbsp;&nbsp;\nPink\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176269782672/litterboxchan-pink-reading-glasses-pink-rally",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176269782672/litterboxchan-pink-reading-glasses-pink-rally",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/fd76f3aac649b08e9308b75b1c22829d/tumblr_pccxnwoC3s1wmppo4o1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/fd76f3aac649b08e9308b75b1c22829d/tumblr_pccxnwoC3s1wmppo4o1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_373.gpk",
+      "gpk_files": [
+        "Acc_373.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_pink-reading-glasses-pink-rally.gpk",
+      "sha256": "a0326e6edf1936ddd22b81107f5b4db51d319c89a2d07a6813842b3b0d19ef29",
+      "size_bytes": 501354,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_373 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.pink-skeleton-costume-mod",
+      "kind": "gpk",
+      "name": "Pink Skeleton Costume Mod",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "Pink skeleton costume mod / re-color !\nEven when you wanna be spooky you still can be cute !\nLink :&nbsp;https://mega.nz/#!tSAF0Z4B!BDZ6KwXU",
+      "long_description": "Pink skeleton costume mod / re-color !\nEven when you wanna be spooky you still can be cute !\nLink :&nbsp;https://mega.nz/#!tSAF0Z4B!BDZ6KwXU\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/171664940852/litterboxchan-pink-skeleton-costume-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/171664940852/litterboxchan-pink-skeleton-costume-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/c2fa984baf7eb9c7903770122d5355f7/tumblr_p5531r4Z1G1wmppo4o1_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/c2fa984baf7eb9c7903770122d5355f7/tumblr_p5531r4Z1G1wmppo4o1_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_34.gpk",
+      "gpk_files": [
+        "PC_Event_34.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_pink-skeleton-costume-mod.gpk",
+      "sha256": "f1922571ecd80f3b3a8514e0da017d7eb98c3323ea50bb6300de96ef5b7db586",
+      "size_bytes": 10188531,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_34 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.rainbow-bunny-mount-changes-the",
+      "kind": "gpk",
+      "name": "Rainbow Bunny Mount Changes The",
+      "author": "litterboxchan",
+      "category": "Mounts & Pets",
+      "short_description": "Rainbow Bunny mount\nChanges the blue one to be a rainbow color :&nbsp;  ♡  \n( red stays the same )&nbsp;",
+      "long_description": "Rainbow Bunny mount\nChanges the blue one to be a rainbow color :&nbsp;  ♡  \n( red stays the same )&nbsp;\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176269799992/litterboxchan-rainbow-bunny-mount-changes-the",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176269799992/litterboxchan-rainbow-bunny-mount-changes-the",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/1e7ea1913887b002dbe4dd4c356381c9/tumblr_pcfj6lR1qV1wmppo4o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/1e7ea1913887b002dbe4dd4c356381c9/tumblr_pcfj6lR1qV1wmppo4o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Vehicle_BunnyInTheMoon.gpk",
+      "gpk_files": [
+        "Vehicle_BunnyInTheMoon.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_rainbow-bunny-mount-changes-the.gpk",
+      "sha256": "83d016d66c38ffde0a2a4316b49a789b10ea59150ad9535fa9facc69aac9e748",
+      "size_bytes": 8582702,
+      "composite_flag": true,
+      "replaces": "Replaces the Vehicle_BunnyInTheMoon package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.rainbow-syringe-works-on-only",
+      "kind": "gpk",
+      "name": "Rainbow Syringe Works On Only",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Rainbow Syringe !\n( works on only the red colored syringe )\n♡&nbsp;Download",
+      "long_description": "Rainbow Syringe !\n( works on only the red colored syringe )\n♡&nbsp;Download\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176269846202/litterboxchan-rainbow-syringe-works-on-only",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176269846202/litterboxchan-rainbow-syringe-works-on-only",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/3cce71726cfdcbed07e56e4cb5451861/tumblr_pccx7vX9pn1wmppo4o1_640.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/3cce71726cfdcbed07e56e4cb5451861/tumblr_pccx7vX9pn1wmppo4o1_640.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_319.gpk",
+      "gpk_files": [
+        "Acc_319.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_rainbow-syringe-works-on-only.gpk",
+      "sha256": "8ae9899feba50ca2ca52fb542b2dd05a6838e94c3ec3ca0cfacb52af4ef620cd",
+      "size_bytes": 156434,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_319 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.ready-for-school-new-mod",
+      "kind": "gpk",
+      "name": "Ready For School New Mod",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "Ready for school&nbsp;  〜☆  \nNew Mod&nbsp; - Blue Airy.\n: This mod turns the yellow / orange airy dress blue with white socks.\n- It gives it",
+      "long_description": "Ready for school&nbsp;  〜☆  \nNew Mod&nbsp; - Blue Airy.\n: This mod turns the yellow / orange airy dress blue with white socks.\n- It gives it\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/172413531917/litterboxchan-ready-for-school-new-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/172413531917/litterboxchan-ready-for-school-new-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/4e44067d7f10b3977b639b37c428eb09/tumblr_p6erwmqJa81wmppo4o1_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/4e44067d7f10b3977b639b37c428eb09/tumblr_p6erwmqJa81wmppo4o1_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_29.gpk",
+      "gpk_files": [
+        "PC_Event_29.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_ready-for-school-new-mod.gpk",
+      "sha256": "07d5342b416e33c2fa0df3cc8ad93031e8b3066f690e0f175fcd2e5c051a64e7",
+      "size_bytes": 16787291,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_29 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.serens-night-uniform-white-sock",
+      "kind": "gpk",
+      "name": "Serens Night Uniform White Sock",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "Seren&rsquo;s Night Uniform white sock mod !\nThis mod re-colors the socks on Seren&rsquo;s Uniform to be white instead of black. ( Works on ",
+      "long_description": "Seren&rsquo;s Night Uniform white sock mod !\nThis mod re-colors the socks on Seren&rsquo;s Uniform to be white instead of black. ( Works on \n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176148518922/litterboxchan-serens-night-uniform-white-sock",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176148518922/litterboxchan-serens-night-uniform-white-sock",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/1ae0eeab0a38af0c8c2c8776932ab333/tumblr_pc80czoKXi1wmppo4o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/1ae0eeab0a38af0c8c2c8776932ab333/tumblr_pc80czoKXi1wmppo4o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_20A.gpk",
+      "gpk_files": [
+        "PC_Event_20A.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_serens-night-uniform-white-sock.gpk",
+      "sha256": "309d1f06e0fcdfe480329e55070d50919022c2448a671189105ccf1a0215603a",
+      "size_bytes": 4072157,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_20A package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.snowball-socko-a-re-color-of",
+      "kind": "gpk",
+      "name": "Snowball Socko A Re Color Of",
+      "author": "litterboxchan",
+      "category": "Mounts & Pets",
+      "short_description": "Snowball Socko !\nA re-color of the mount Socko.\nhttps://mega.nz/#!BKxGxS4b!NQHBTxpNFGc4L-3qrZtCaXBfBZobheFBE4gyNtwb580",
+      "long_description": "Snowball Socko !\nA re-color of the mount Socko.\nhttps://mega.nz/#!BKxGxS4b!NQHBTxpNFGc4L-3qrZtCaXBfBZobheFBE4gyNtwb580\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/171664918352/litterboxchan-snowball-socko-a-re-color-of",
+      "source_url": "https://mods-of-tera.tumblr.com/post/171664918352/litterboxchan-snowball-socko-a-re-color-of",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/f968bb90bb4071c37429d679bbf77f1b/tumblr_p3icnxasYz1wmppo4o1_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/f968bb90bb4071c37429d679bbf77f1b/tumblr_p3icnxasYz1wmppo4o1_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Vehicle_Cat.gpk",
+      "gpk_files": [
+        "Vehicle_Cat.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_snowball-socko-a-re-color-of.gpk",
+      "sha256": "e8d80114e7fc193c49a9e9be5359cb4cb3a8b99f8fc1d85f4ce73eb584f5eeba",
+      "size_bytes": 6652081,
+      "composite_flag": true,
+      "replaces": "Replaces the Vehicle_Cat package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.the-apron-swimsuit-re-color-mod",
+      "kind": "gpk",
+      "name": "The Apron Swimsuit Re Color Mod",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "The apron swimsuit re-color mod !\nIt makes the stripes a pastel color.\n( it kinda shines in game a bit , of Yellow, blue and purple with pin",
+      "long_description": "The apron swimsuit re-color mod !\nIt makes the stripes a pastel color.\n( it kinda shines in game a bit , of Yellow, blue and purple with pin\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/171664903547/litterboxchan-the-apron-swimsuit-re-color-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/171664903547/litterboxchan-the-apron-swimsuit-re-color-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/52470fea5696dec5ed79679365e686f0/tumblr_p553dtK5T61wmppo4o1_540.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/52470fea5696dec5ed79679365e686f0/tumblr_p553dtK5T61wmppo4o1_540.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_22A.gpk",
+      "gpk_files": [
+        "PC_Event_22A.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_the-apron-swimsuit-re-color-mod.gpk",
+      "sha256": "cd5b50c40cbba250fa4bc7504fc9d7517f7aa179b638523814d26e5165b3efff",
+      "size_bytes": 3895505,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_22A package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.white-pink-kitten-paws",
+      "kind": "gpk",
+      "name": "White Pink Kitten Paws",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "White | Pink Kitten Paws !\nRe-colors the Brawler White Kittens Paws ribbons and Claws from black too pink\nhttps://mega.nz/#!kGJDwT6Y!T1EeT_X",
+      "long_description": "White | Pink Kitten Paws !\nRe-colors the Brawler White Kittens Paws ribbons and Claws from black too pink\nhttps://mega.nz/#!kGJDwT6Y!T1EeT_X\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/175274219367/litterboxchan-white-pink-kitten-paws",
+      "source_url": "https://mods-of-tera.tumblr.com/post/175274219367/litterboxchan-white-pink-kitten-paws",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/681e676ad25f3691e484d91f7d5df98e/tumblr_padfemtvuu1wmppo4o2_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/681e676ad25f3691e484d91f7d5df98e/tumblr_padfemtvuu1wmppo4o2_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event14.gpk",
+      "gpk_files": [
+        "PC_Weapons_Event14.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/litterboxchan_white-pink-kitten-paws.gpk",
+      "sha256": "60b98825a9308a8c9d169d27fd797d4e9827ba1d1c0c33adbccdd77c2e8be457",
+      "size_bytes": 1663861,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Weapons_Event14 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.better-dyeable-flight-suit-changes",
+      "kind": "gpk",
+      "name": "Better Dyeable Flight Suit Changes",
+      "author": "pantypon",
+      "category": "Costumes",
+      "short_description": "Changes the yellow bits into dyeable bits. Also makes it so the hue of the black matches whatever you dye it to so as to keep the whole outf",
+      "long_description": "Changes the yellow bits into dyeable bits. Also makes it so the hue of the black matches whatever you dye it to so as to keep the whole outf\n\nOriginal by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/170922272817/pantypon-better-dyeable-flight-suit-changes",
+      "source_url": "https://mods-of-tera.tumblr.com/post/170922272817/pantypon-better-dyeable-flight-suit-changes",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7bdae091a066323f08138444861508a7/tumblr_p3tb9t2G7q1vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7bdae091a066323f08138444861508a7/tumblr_p3tb9t2G7q1vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_62.gpk",
+      "gpk_files": [
+        "PC_Event_62.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/pantypon_better-dyeable-flight-suit-changes.gpk",
+      "sha256": "5cba2007c28e7ad253a26a4b867fd8644ec6ab055d150af2e1b46a876b4b826a",
+      "size_bytes": 40197934,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_62 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.black-sheep-doll-this-mod-is-made-by",
+      "kind": "gpk",
+      "name": "Black Sheep Doll This Mod Is Made",
+      "author": "pantypon",
+      "category": "Accessories",
+      "short_description": "This mod is made by Fruit for everyone ! This replaces the (Velik&rsquo;s Festival Hat), (Blue Party Hat), (Green Party Hat), and (Name Day ",
+      "long_description": "This mod is made by Fruit for everyone ! This replaces the (Velik&rsquo;s Festival Hat), (Blue Party Hat), (Green Party Hat), and (Name Day \n\nOriginal by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/174303605017/pantypon-black-sheep-doll-this-mod-is-made-by",
+      "source_url": "https://mods-of-tera.tumblr.com/post/174303605017/pantypon-black-sheep-doll-this-mod-is-made-by",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/8930db2c765776e2ce4222ead34a3848/tumblr_p8yuvvDy2U1vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/8930db2c765776e2ce4222ead34a3848/tumblr_p8yuvvDy2U1vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_013.gpk",
+      "gpk_files": [
+        "Acc_013.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/pantypon_black-sheep-doll-this-mod-is-made-by.gpk",
+      "sha256": "69b1a348ba0f323781d4a979c75477f7447cb1df6ba2546e8a20a9752a3f6e93",
+      "size_bytes": 459028,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_013 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.cheerleader-shorts-this-was-a-wip-mod",
+      "kind": "gpk",
+      "name": "Cheerleader Shorts This Was A Wip Mod",
+      "author": "pantypon",
+      "category": "Costumes",
+      "short_description": "This was a WIP mod for a long time cause I got lazy to put finishing touches. This mod makes the Dyeable Cheerleader outfit have shorts inst",
+      "long_description": "This was a WIP mod for a long time cause I got lazy to put finishing touches. This mod makes the Dyeable Cheerleader outfit have shorts inst\n\nOriginal by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/170046270817/pantypon-cheerleader-shorts-this-was-a-wip-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/170046270817/pantypon-cheerleader-shorts-this-was-a-wip-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/02de5e9ee314623d04e99a031e5eea88/tumblr_p29n4u8K3n1vdsl28o1_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/02de5e9ee314623d04e99a031e5eea88/tumblr_p29n4u8K3n1vdsl28o1_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_29.gpk",
+      "gpk_files": [
+        "PC_Event_29.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/pantypon_cheerleader-shorts-this-was-a-wip-mod.gpk",
+      "sha256": "bf93d0d2f2cb67f19f848dac96b3346b86d77eab14e4ccb429bdd071820e37aa",
+      "size_bytes": 16425573,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_29 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.white-swat-cap-requested-by",
+      "kind": "gpk",
+      "name": "White Swat Cap Requested By",
+      "author": "pantypon",
+      "category": "Accessories",
+      "short_description": "Requested by ayanohposts\nThis mod turns the previously black cap into a nice solid white !\nDOWNLOAD",
+      "long_description": "Requested by ayanohposts\nThis mod turns the previously black cap into a nice solid white !\nDOWNLOAD\n\nOriginal by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/162663060387/pantypon-white-swat-cap-requested-by",
+      "source_url": "https://mods-of-tera.tumblr.com/post/162663060387/pantypon-white-swat-cap-requested-by",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/1e3e9037df2dd82cf58ad6a013872c3b/tumblr_osnhphtdxS1vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/1e3e9037df2dd82cf58ad6a013872c3b/tumblr_osnhphtdxS1vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_532.gpk",
+      "gpk_files": [
+        "Acc_532.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch6/pantypon_white-swat-cap-requested-by.gpk",
+      "sha256": "355a00cfa75e4c1adb5d409fc4f34277791ef4c291d3736d2cf09b8161295a31",
+      "size_bytes": 397634,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_532 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
     }
   ]
 }
