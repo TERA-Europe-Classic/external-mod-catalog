@@ -1,5 +1,5 @@
 {
-  "version": 86,
+  "version": 87,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -597,7 +597,8 @@
       "gpk_files": [
         "Sailor_Moon_HP.gpk"
       ],
-      "compatibility_notes": "Restyles the built-in character window; if you replace that window wholesale (e.g. TCC's clean character window), this restyle won't be visible."
+      "compatibility_notes": "Restyles the built-in character window; if you replace that window wholesale (e.g. TCC's clean character window), this restyle won't be visible.",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/novatera.sailor-moon-hp/cover.png"
     },
     {
       "id": "kawaakari.pastel-fishing-rod-pink",
