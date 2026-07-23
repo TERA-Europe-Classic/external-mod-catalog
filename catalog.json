@@ -7784,6 +7784,876 @@
         }
       ],
       "last_verified_patch": "v100.02 (converter pixel-verified; loose_replace canary — in-game render pending)"
+    },
+    {
+      "id": "littleshistar.pastel-blue-spun-sugar-wings",
+      "kind": "gpk",
+      "name": "Pastel Blue Spun Sugar Wings",
+      "author": "littleshistar",
+      "category": "Costumes",
+      "short_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the wings a pastel blue color.\n&middot; - - - ━━",
+      "long_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the wings a pastel blue color.\n&middot; - - - ━━\n\nOriginal by littleshistar, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by littleshistar. Source: https://mods-of-tera.tumblr.com/post/621289875435618304/littleshistar-pastel-blue-spun-sugar-wings",
+      "source_url": "https://mods-of-tera.tumblr.com/post/621289875435618304/littleshistar-pastel-blue-spun-sugar-wings",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9a0a84220423db98e33a3978a30f1894/08d5eaf3a6954751-ff/s540x810/f92032b20f5048cc398c60ee6e7e6bab7e4d23fb.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/9a0a84220423db98e33a3978a30f1894/08d5eaf3a6954751-ff/s540x810/f92032b20f5048cc398c60ee6e7e6bab7e4d23fb.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "littleshistar-pastel-blue-spun-sugar-wings__fJZyHCob.bin",
+      "gpk_files": [
+        "littleshistar-pastel-blue-spun-sugar-wings__fJZyHCob.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/littleshistar_pastel-blue-spun-sugar-wings.gpk",
+      "sha256": "9fa6db613252b444a2678f20cc87b8c8ade351b3b7db9ceb069b0f30c263be7b",
+      "size_bytes": 889674,
+      "composite_flag": true,
+      "replaces": "Replaces the littleshistar-pastel-blue-spun-sugar-wings__fJZyHCob.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "littleshistar.blue-wreath",
+      "kind": "gpk",
+      "name": "Blue Wreath",
+      "author": "littleshistar",
+      "category": "Costumes",
+      "short_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the flowers be light blue, with a lighter center",
+      "long_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the flowers be light blue, with a lighter center\n\nOriginal by littleshistar, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by littleshistar. Source: https://mods-of-tera.tumblr.com/post/621289857176764416/littleshistar-blue-wreath",
+      "source_url": "https://mods-of-tera.tumblr.com/post/621289857176764416/littleshistar-blue-wreath",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/ac8b8d31dd592db4b00901710a94b402/ad5b0e27dabfcbe8-66/s500x750/b0682ea1e22f5413b6cf564c2f88e978ae7597b9.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/ac8b8d31dd592db4b00901710a94b402/ad5b0e27dabfcbe8-66/s500x750/b0682ea1e22f5413b6cf564c2f88e978ae7597b9.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "littleshistar-blue-wreath__zBJChSYb.bin",
+      "gpk_files": [
+        "littleshistar-blue-wreath__zBJChSYb.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/littleshistar_blue-wreath.gpk",
+      "sha256": "00dec23d06e1a989053e841e7be9b81a4faa7d2738d25c4fe848b049808ac7fd",
+      "size_bytes": 1063446,
+      "composite_flag": true,
+      "replaces": "Replaces the littleshistar-blue-wreath__zBJChSYb.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "littleshistar.black-lil-devil-horns",
+      "kind": "gpk",
+      "name": "Black Lil Devil Horns",
+      "author": "littleshistar",
+      "category": "Costumes",
+      "short_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the red horns black.\n&middot; - - - ━━━━━━━━━━━━",
+      "long_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the red horns black.\n&middot; - - - ━━━━━━━━━━━━\n\nOriginal by littleshistar, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by littleshistar. Source: https://mods-of-tera.tumblr.com/post/621289822628315136/littleshistar-black-lil-devil-horns",
+      "source_url": "https://mods-of-tera.tumblr.com/post/621289822628315136/littleshistar-black-lil-devil-horns",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/55613e01f17f5a80723b82dfd97b8549/2048598511cb7cc2-b8/s1280x1920/69c8188fcd6a8921ad54da47bf0999f49d121493.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/55613e01f17f5a80723b82dfd97b8549/2048598511cb7cc2-b8/s1280x1920/69c8188fcd6a8921ad54da47bf0999f49d121493.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "littleshistar-black-lil-devil-horns__zIJwQQhZ.bin",
+      "gpk_files": [
+        "littleshistar-black-lil-devil-horns__zIJwQQhZ.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/littleshistar_black-lil-devil-horns.gpk",
+      "sha256": "fc0437a7f176aebe7265dc6d3fd9adc315d1240d928a609abe6b62fbab29a39d",
+      "size_bytes": 1005871,
+      "composite_flag": true,
+      "replaces": "Replaces the littleshistar-black-lil-devil-horns__zIJwQQhZ.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "littleshistar.no-ears-governess-frills",
+      "kind": "gpk",
+      "name": "No Ears Governess Frills",
+      "author": "littleshistar",
+      "category": "Costumes",
+      "short_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Removes the cat ears.\n☆ Only affects the black and whi",
+      "long_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Removes the cat ears.\n☆ Only affects the black and whi\n\nOriginal by littleshistar, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by littleshistar. Source: https://mods-of-tera.tumblr.com/post/621289760325074944/littleshistar-no-ears-governess-frills",
+      "source_url": "https://mods-of-tera.tumblr.com/post/621289760325074944/littleshistar-no-ears-governess-frills",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/273653b7850be27b6320de266a24a947/2877ccefb1dd5968-ed/s1280x1920/230bfaae1272c54190cfe8ce4bd2ed9da705ed46.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/273653b7850be27b6320de266a24a947/2877ccefb1dd5968-ed/s1280x1920/230bfaae1272c54190cfe8ce4bd2ed9da705ed46.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "littleshistar-no-ears-governess-frills__PdJwlCZQ.bin",
+      "gpk_files": [
+        "littleshistar-no-ears-governess-frills__PdJwlCZQ.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/littleshistar_no-ears-governess-frills.gpk",
+      "sha256": "411ae5a965e3fd2518adfa6d89fd6580ff01aa28705b71102c9976d5f3bee376",
+      "size_bytes": 3988115,
+      "composite_flag": true,
+      "replaces": "Replaces the littleshistar-no-ears-governess-frills__PdJwlCZQ.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "littleshistar.dark-blue-batwing-cape",
+      "kind": "gpk",
+      "name": "Dark Blue Batwing Cape",
+      "author": "littleshistar",
+      "category": "Costumes",
+      "short_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the cape a dark blue color.\n☆ Makes the golden p",
+      "long_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the cape a dark blue color.\n☆ Makes the golden p\n\nOriginal by littleshistar, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by littleshistar. Source: https://mods-of-tera.tumblr.com/post/621289503557025792/littleshistar-dark-blue-batwing-cape",
+      "source_url": "https://mods-of-tera.tumblr.com/post/621289503557025792/littleshistar-dark-blue-batwing-cape",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/2344479ffe0e7dacd5cd4a99e13a3b55/70047a4e3b22ddf1-69/s640x960/237954a8998c4e065a25c49a3ccc0b3de9b570e8.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/2344479ffe0e7dacd5cd4a99e13a3b55/70047a4e3b22ddf1-69/s640x960/237954a8998c4e065a25c49a3ccc0b3de9b570e8.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "littleshistar-dark-blue-batwing-cape__CFBShSTa.bin",
+      "gpk_files": [
+        "littleshistar-dark-blue-batwing-cape__CFBShSTa.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/littleshistar_dark-blue-batwing-cape.gpk",
+      "sha256": "5a74f0b5622582822496748312093f1da0c11d992e24bb1a3bead9fbf1aee82f",
+      "size_bytes": 6152942,
+      "composite_flag": true,
+      "replaces": "Replaces the littleshistar-dark-blue-batwing-cape__CFBShSTa.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "littleshistar.notes-by-dolme",
+      "kind": "gpk",
+      "name": "Notes By Dolme",
+      "author": "littleshistar",
+      "category": "Costumes",
+      "short_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the stars a sky blue.\n☆ Makes the band a dark bl",
+      "long_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Makes the stars a sky blue.\n☆ Makes the band a dark bl\n\nOriginal by littleshistar, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by littleshistar. Source: https://mods-of-tera.tumblr.com/post/621289141624274944/littleshistar-notes-by-dolme",
+      "source_url": "https://mods-of-tera.tumblr.com/post/621289141624274944/littleshistar-notes-by-dolme",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/0f76a4c0f1932ddb4161bbcaaf5422f9/fe7cdaceaaaa0e30-bb/s1280x1920/48dde9a758b03aaea7d088d3b66c27c19c78bc5a.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/0f76a4c0f1932ddb4161bbcaaf5422f9/fe7cdaceaaaa0e30-bb/s1280x1920/48dde9a758b03aaea7d088d3b66c27c19c78bc5a.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "littleshistar-notes-by-dolme__Gch1yZpL.bin",
+      "gpk_files": [
+        "littleshistar-notes-by-dolme__Gch1yZpL.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/littleshistar_notes-by-dolme.gpk",
+      "sha256": "28af5bb09abeaf59fac8abb3922523f9b0fcc4c12a92abacd342fd0d0207e2da",
+      "size_bytes": 968291,
+      "composite_flag": true,
+      "replaces": "Replaces the littleshistar-notes-by-dolme__Gch1yZpL.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pinkteachan.aura-kingdom-zepheryine-head-for",
+      "kind": "gpk",
+      "name": "Aura Kingdom Zepheryine Head For",
+      "author": "pinkteachan",
+      "category": "Costumes",
+      "short_description": "Aura Kingdom Zepheryine Head\nFor this little thing xD Download",
+      "long_description": "Aura Kingdom Zepheryine Head\nFor this little thing xD Download\n\nOriginal by pinkteachan, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by pinkteachan. Source: https://mods-of-tera.tumblr.com/post/190321522642/pinkteachan-aura-kingdom-zepheryine-head-for",
+      "source_url": "https://mods-of-tera.tumblr.com/post/190321522642/pinkteachan-aura-kingdom-zepheryine-head-for",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/d7eb1ed5264b349d9cc0ca21be0fa07d/4c80da8660827899-82/s1280x1920/a152d4f5b02936880df628b6d1c262950dd568de.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/d7eb1ed5264b349d9cc0ca21be0fa07d/4c80da8660827899-82/s1280x1920/a152d4f5b02936880df628b6d1c262950dd568de.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "pinkteachan-aura-kingdom-zepheryine-head-for__OPZW1YLY.bin",
+      "gpk_files": [
+        "pinkteachan-aura-kingdom-zepheryine-head-for__OPZW1YLY.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/pinkteachan_aura-kingdom-zepheryine-head-for.gpk",
+      "sha256": "d5b683644d745f380de0120d83e100b0cde59587a0ff881c5bf1096accfb6c1c",
+      "size_bytes": 12431806,
+      "composite_flag": true,
+      "replaces": "Replaces the pinkteachan-aura-kingdom-zepheryine-head-for__OPZW1YLY.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.pets-i-re-colored-two-of-the",
+      "kind": "gpk",
+      "name": "Pets I Re Colored Two Of The",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "Pets - I re-colored two of the newest pets\nRico and Elo ? If anything is wrong send me a PM or Anon ask. ty\nPony : Download\nDeer : Download",
+      "long_description": "Pets - I re-colored two of the newest pets\nRico and Elo ? If anything is wrong send me a PM or Anon ask. ty\nPony : Download\nDeer : Download\n\nOriginal by litterboxchan, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/189418630907/litterboxchan-pets-i-re-colored-two-of-the",
+      "source_url": "https://mods-of-tera.tumblr.com/post/189418630907/litterboxchan-pets-i-re-colored-two-of-the",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/8d406e1264d578a0ec0e120f08158660/7bb74733cda3dcb0-2e/s1280x1920/20669feff57fead2fe00abb6666da4abb108fed3.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/8d406e1264d578a0ec0e120f08158660/7bb74733cda3dcb0-2e/s1280x1920/20669feff57fead2fe00abb6666da4abb108fed3.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Partner_D_Rico_M_Event00.gpk",
+      "gpk_files": [
+        "Partner_D_Rico_M_Event00.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/litterboxchan_pets-i-re-colored-two-of-the.gpk",
+      "sha256": "9d40af06081cef2ce32681680af26360f8ab7c5e15207a53dd566ab6a31e50f0",
+      "size_bytes": 9239946,
+      "composite_flag": true,
+      "replaces": "Replaces the Partner_D_Rico_M_Event00 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "lilisahime.my-first-mod-an-outfit-mod-on-my",
+      "kind": "gpk",
+      "name": "My First Mod An Outfit Mod On My",
+      "author": "lilisahime",
+      "category": "Costumes",
+      "short_description": "My first mod! \nAn outfit mod! \nOn my others I still work, like for example the ears, they still have some bugs. I&rsquo;m pretty happy, I ho",
+      "long_description": "My first mod! \nAn outfit mod! \nOn my others I still work, like for example the ears, they still have some bugs. I&rsquo;m pretty happy, I ho\n\nOriginal by lilisahime, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by lilisahime. Source: https://mods-of-tera.tumblr.com/post/188305563662/lilisahime-my-first-mod-an-outfit-mod-on-my",
+      "source_url": "https://mods-of-tera.tumblr.com/post/188305563662/lilisahime-my-first-mod-an-outfit-mod-on-my",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/b2a98fe89eb28ba53f625c59b997429e/tumblr_pvmnjxDz8M1y86myqo1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/b2a98fe89eb28ba53f625c59b997429e/tumblr_pvmnjxDz8M1y86myqo1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "lilisahime-my-first-mod-an-outfit-mod-on-my__fWgR3QLT.bin",
+      "gpk_files": [
+        "lilisahime-my-first-mod-an-outfit-mod-on-my__fWgR3QLT.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/lilisahime_my-first-mod-an-outfit-mod-on-my.gpk",
+      "sha256": "b26f4bcc3bec699302862774fd9f2c2189911190fa9f3191c3a76de7d7b5c9fc",
+      "size_bytes": 31526792,
+      "composite_flag": true,
+      "replaces": "Replaces the lilisahime-my-first-mod-an-outfit-mod-on-my__fWgR3QLT.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.sugar-witch-works-on-loorumi",
+      "kind": "gpk",
+      "name": "Sugar Witch Works On Loorumi",
+      "author": "pantypon",
+      "category": "Costumes",
+      "short_description": "Works on Loo/Rumi companion pet. Makes her from a cute dark witch into a cute sugar pink witch !\nDOWNLOAD",
+      "long_description": "Works on Loo/Rumi companion pet. Makes her from a cute dark witch into a cute sugar pink witch !\nDOWNLOAD\n\nOriginal by pantypon, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/184845874672/pantypon-sugar-witch-works-on-loorumi",
+      "source_url": "https://mods-of-tera.tumblr.com/post/184845874672/pantypon-sugar-witch-works-on-loorumi",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9c30b715a8588cf6300fcdb21bcc945e/tumblr_pr604fMwxa1vdsl28o1_400.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/9c30b715a8588cf6300fcdb21bcc945e/tumblr_pr604fMwxa1vdsl28o1_400.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Partner_A_Rumi_F_Event01.gpk",
+      "gpk_files": [
+        "Partner_A_Rumi_F_Event01.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/pantypon_sugar-witch-works-on-loorumi.gpk",
+      "sha256": "5915358dd9fb313b5926d73ca7f4c31add575efc6ecfa8d4eb848d96b294da21",
+      "size_bytes": 12022265,
+      "composite_flag": true,
+      "replaces": "Replaces the Partner_A_Rumi_F_Event01 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.matching-angel-wings-this-mod-makes",
+      "kind": "gpk",
+      "name": "Matching Angel Wings This Mod Makes",
+      "author": "pantypon",
+      "category": "Accessories",
+      "short_description": "This mod makes the white angel wings match your currently selected hair color.&nbsp;\nIs even more magical when you use Unicast&nbsp;to chang",
+      "long_description": "This mod makes the white angel wings match your currently selected hair color.&nbsp;\nIs even more magical when you use Unicast&nbsp;to chang\n\nOriginal by pantypon, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/184579329927/pantypon-matching-angel-wings-this-mod-makes",
+      "source_url": "https://mods-of-tera.tumblr.com/post/184579329927/pantypon-matching-angel-wings-this-mod-makes",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/47566da08f4d4adbf2f86a31c9330581/tumblr_pqt1k5Zep01vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/47566da08f4d4adbf2f86a31c9330581/tumblr_pqt1k5Zep01vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_402.gpk",
+      "gpk_files": [
+        "Acc_402.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/pantypon_matching-angel-wings-this-mod-makes.gpk",
+      "sha256": "a39bf6b1c4f154c3aeb2ba34231c9ce09bc598da3f56b4e271fc3bc30f13183e",
+      "size_bytes": 1292382,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_402 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.matching-archangel-wings-this-mod",
+      "kind": "gpk",
+      "name": "Matching Archangel Wings This Mod",
+      "author": "pantypon",
+      "category": "Accessories",
+      "short_description": "This mod makes the big archangel wings match your selected hair color !\nIs even more magical when you use Unicast to change your hair color ",
+      "long_description": "This mod makes the big archangel wings match your selected hair color !\nIs even more magical when you use Unicast to change your hair color \n\nOriginal by pantypon, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/184579091732/pantypon-matching-archangel-wings-this-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/184579091732/pantypon-matching-archangel-wings-this-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/2ea80cbc3028a3bba21c15d28e6c5df0/tumblr_pqt21eF1dh1vdsl28o3_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/2ea80cbc3028a3bba21c15d28e6c5df0/tumblr_pqt21eF1dh1vdsl28o3_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_634.gpk",
+      "gpk_files": [
+        "Acc_634.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/pantypon_matching-archangel-wings-this-mod.gpk",
+      "sha256": "5e5f8628fc5441061bc6551f996b9dab1546709e9ab297527fbafe667d5000cf",
+      "size_bytes": 7983970,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_634 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.red-ribbon-bow-requested-by",
+      "kind": "gpk",
+      "name": "Red Ribbon Bow Requested By",
+      "author": "pantypon",
+      "category": "Accessories",
+      "short_description": "Requested by iliphia-rose\nThis turns the blue bow into a red bow ! Works on the blue ribbon only\nDOWNLOAD",
+      "long_description": "Requested by iliphia-rose\nThis turns the blue bow into a red bow ! Works on the blue ribbon only\nDOWNLOAD\n\nOriginal by pantypon, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/183541341367/pantypon-red-ribbon-bow-requested-by",
+      "source_url": "https://mods-of-tera.tumblr.com/post/183541341367/pantypon-red-ribbon-bow-requested-by",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9d3bb17235a78a032626f67ba5a53780/tumblr_pn504mpaEv1vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/9d3bb17235a78a032626f67ba5a53780/tumblr_pn504mpaEv1vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_299.gpk",
+      "gpk_files": [
+        "Acc_299.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/pantypon_red-ribbon-bow-requested-by.gpk",
+      "sha256": "ed7c0ab5a1a02769b2156ee0d7199ede519a9a337f3cc7bf50fd8d149bc6583a",
+      "size_bytes": 813593,
+      "composite_flag": true,
+      "replaces": "Replaces the Acc_299 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "aioshe.kitsune-mask-converted-to-look-like",
+      "kind": "gpk",
+      "name": "Kitsune Mask Converted To Look Like",
+      "author": "aioshe",
+      "category": "Costumes",
+      "short_description": "[Kitsune Mask] Converted to look like Keaton&rsquo;s Mask from LoZ:Majora&rsquo;s Mask\nThere are visible imperfections, but may not be fixed",
+      "long_description": "[Kitsune Mask] Converted to look like Keaton&rsquo;s Mask from LoZ:Majora&rsquo;s Mask\nThere are visible imperfections, but may not be fixed\n\nOriginal by aioshe, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by aioshe. Source: https://mods-of-tera.tumblr.com/post/188305433347/aioshe-kitsune-mask-converted-to-look-like",
+      "source_url": "https://mods-of-tera.tumblr.com/post/188305433347/aioshe-kitsune-mask-converted-to-look-like",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7df140befbd2dbc29b3e8fd0d92e5333/tumblr_pylh6mVe4v1y6xrgvo1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7df140befbd2dbc29b3e8fd0d92e5333/tumblr_pylh6mVe4v1y6xrgvo1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__aioshe-kitsune-mask-converted-to-look-like.bin",
+      "gpk_files": [
+        "mf__aioshe-kitsune-mask-converted-to-look-like.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/aioshe_kitsune-mask-converted-to-look-like.gpk",
+      "sha256": "fc0c128c3358e6c90786bcfaef9a667b821b9915456688c6ce08ddd3ac25c043",
+      "size_bytes": 381830,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__aioshe-kitsune-mask-converted-to-look-like.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "aioshe.audio-may-scramble-or-go-into-a-jumbled",
+      "kind": "gpk",
+      "name": "Audio May Scramble Or Go Into A Jumbled",
+      "author": "aioshe",
+      "category": "Costumes",
+      "short_description": "Audio may scramble or go into a jumbled loop based on audio settings\nGpk replaces music from each race on character selection/creation with ",
+      "long_description": "Audio may scramble or go into a jumbled loop based on audio settings\nGpk replaces music from each race on character selection/creation with \n\nOriginal by aioshe, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by aioshe. Source: https://mods-of-tera.tumblr.com/post/184335775567/aioshe-audio-may-scramble-or-go-into-a-jumbled",
+      "source_url": "https://mods-of-tera.tumblr.com/post/184335775567/aioshe-audio-may-scramble-or-go-into-a-jumbled",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif",
+      "screenshots": [
+        "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__aioshe-audio-may-scramble-or-go-into-a-jumbled.bin",
+      "gpk_files": [
+        "mf__aioshe-audio-may-scramble-or-go-into-a-jumbled.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/aioshe_audio-may-scramble-or-go-into-a-jumbled.gpk",
+      "sha256": "e8a41a4f1273aef91759955223189efb4f43734dc0da9900a54c66479cbf62ec",
+      "size_bytes": 1729995,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__aioshe-audio-may-scramble-or-go-into-a-jumbled.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "aioshe.simple-vip-shop-window-recolor-make-your",
+      "kind": "gpk",
+      "name": "Simple Vip Shop Window Recolor Make Your",
+      "author": "aioshe",
+      "category": "Costumes",
+      "short_description": "Simple VIP Shop window recolor, make your little shopkeeper a shopcutie!\nDownload",
+      "long_description": "Simple VIP Shop window recolor, make your little shopkeeper a shopcutie!\nDownload\n\nOriginal by aioshe, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by aioshe. Source: https://mods-of-tera.tumblr.com/post/183991180737/aioshe-simple-vip-shop-window-recolor-make-your",
+      "source_url": "https://mods-of-tera.tumblr.com/post/183991180737/aioshe-simple-vip-shop-window-recolor-make-your",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/96ea55ed4f290e2bb7ec82942e625f77/tumblr_pmkkz8On2x1y6xrgvo1_400.gif",
+      "screenshots": [
+        "https://64.media.tumblr.com/96ea55ed4f290e2bb7ec82942e625f77/tumblr_pmkkz8On2x1y6xrgvo1_400.gif"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__aioshe-simple-vip-shop-window-recolor-make-your.bin",
+      "gpk_files": [
+        "mf__aioshe-simple-vip-shop-window-recolor-make-your.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/aioshe_simple-vip-shop-window-recolor-make-your.gpk",
+      "sha256": "cc03f9d67f7fd675093db3c27ea87d239d62bbf3ae161f46dd41b3f55960f5b1",
+      "size_bytes": 3404542,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__aioshe-simple-vip-shop-window-recolor-make-your.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "aioshe.simple-healthmanacenter-piece-recolor",
+      "kind": "gpk",
+      "name": "Simple Healthmanacenter Piece Recolor",
+      "author": "aioshe",
+      "category": "Costumes",
+      "short_description": "Simple Health/mana/Center piece recolor. Debuff is a light yellow and icons have not been modified\nDownload",
+      "long_description": "Simple Health/mana/Center piece recolor. Debuff is a light yellow and icons have not been modified\nDownload\n\nOriginal by aioshe, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by aioshe. Source: https://mods-of-tera.tumblr.com/post/183991161352/aioshe-simple-healthmanacenter-piece-recolor",
+      "source_url": "https://mods-of-tera.tumblr.com/post/183991161352/aioshe-simple-healthmanacenter-piece-recolor",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/eca3e6953de0ad9e9b15dd9d375cb0aa/tumblr_pmknr6NYAv1y6xrgvo1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/eca3e6953de0ad9e9b15dd9d375cb0aa/tumblr_pmknr6NYAv1y6xrgvo1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__aioshe-simple-healthmanacenter-piece-recolor.bin",
+      "gpk_files": [
+        "mf__aioshe-simple-healthmanacenter-piece-recolor.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/aioshe_simple-healthmanacenter-piece-recolor.gpk",
+      "sha256": "5e7707690d117828c52ae066834786564e9dc288dc1625b58820abced03680d5",
+      "size_bytes": 2939179,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__aioshe-simple-healthmanacenter-piece-recolor.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "aioshe.hank-hill-is-impressed-by-your-ability-to",
+      "kind": "gpk",
+      "name": "Hank Hill Is Impressed By Your Ability To",
+      "author": "aioshe",
+      "category": "Costumes",
+      "short_description": "Hank Hill is impressed by your ability to block anything non-propane!\nDownload",
+      "long_description": "Hank Hill is impressed by your ability to block anything non-propane!\nDownload\n\nOriginal by aioshe, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by aioshe. Source: https://mods-of-tera.tumblr.com/post/183991155382/aioshe-hank-hill-is-impressed-by-your-ability-to",
+      "source_url": "https://mods-of-tera.tumblr.com/post/183991155382/aioshe-hank-hill-is-impressed-by-your-ability-to",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/2195d13304d0a72d48af09a7dd1fd06c/tumblr_pmlu4lMroO1y6xrgvo1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/2195d13304d0a72d48af09a7dd1fd06c/tumblr_pmlu4lMroO1y6xrgvo1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__aioshe-hank-hill-is-impressed-by-your-ability-to.bin",
+      "gpk_files": [
+        "mf__aioshe-hank-hill-is-impressed-by-your-ability-to.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/aioshe_hank-hill-is-impressed-by-your-ability-to.gpk",
+      "sha256": "90b4b34939020330c68a7f9b66c94ea4dfa24d4e56282299264ff6fdcd5a611f",
+      "size_bytes": 9814669,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__aioshe-hank-hill-is-impressed-by-your-ability-to.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "aioshe.king-blob-seems-very-excited-to-tell-you",
+      "kind": "gpk",
+      "name": "King Blob Seems Very Excited To Tell You",
+      "author": "aioshe",
+      "category": "Costumes",
+      "short_description": "King Blob seems very excited to tell you something and can&rsquo;t hold it in much longer!\nDownload",
+      "long_description": "King Blob seems very excited to tell you something and can&rsquo;t hold it in much longer!\nDownload\n\nOriginal by aioshe, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by aioshe. Source: https://mods-of-tera.tumblr.com/post/183541334202/aioshe-king-blob-seems-very-excited-to-tell-you",
+      "source_url": "https://mods-of-tera.tumblr.com/post/183541334202/aioshe-king-blob-seems-very-excited-to-tell-you",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/6a8fdc7477fad7fa9bd0decafd15709c/tumblr_pnjsjqc8Js1y6xrgvo1_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/6a8fdc7477fad7fa9bd0decafd15709c/tumblr_pnjsjqc8Js1y6xrgvo1_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__aioshe-king-blob-seems-very-excited-to-tell-you.bin",
+      "gpk_files": [
+        "mf__aioshe-king-blob-seems-very-excited-to-tell-you.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/aioshe_king-blob-seems-very-excited-to-tell-you.gpk",
+      "sha256": "610fbf063295f30803763e56eed6b6ac74fe77a313a50527b39a6e44a8678e95",
+      "size_bytes": 3798571,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__aioshe-king-blob-seems-very-excited-to-tell-you.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "aioshe.king-blob-likes-to-cosplay-as-totoro",
+      "kind": "gpk",
+      "name": "King Blob Likes To Cosplay As Totoro",
+      "author": "aioshe",
+      "category": "Costumes",
+      "short_description": "King Blob likes to cosplay as Totoro! (remove (2) in gpk file if mod not working in-game)\nDownload",
+      "long_description": "King Blob likes to cosplay as Totoro! (remove (2) in gpk file if mod not working in-game)\nDownload\n\nOriginal by aioshe, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by aioshe. Source: https://mods-of-tera.tumblr.com/post/183541318557/aioshe-king-blob-likes-to-cosplay-as-totoro",
+      "source_url": "https://mods-of-tera.tumblr.com/post/183541318557/aioshe-king-blob-likes-to-cosplay-as-totoro",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/581cf8242f63210b762bf72e9ba1821f/tumblr_pnkevhtMmZ1y6xrgvo1_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/581cf8242f63210b762bf72e9ba1821f/tumblr_pnkevhtMmZ1y6xrgvo1_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__aioshe-king-blob-likes-to-cosplay-as-totoro.bin",
+      "gpk_files": [
+        "mf__aioshe-king-blob-likes-to-cosplay-as-totoro.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/aioshe_king-blob-likes-to-cosplay-as-totoro.gpk",
+      "sha256": "d658f2bba00469c6801f7c700762a52c4e562e53669c2023575b5903dbf64826",
+      "size_bytes": 3798571,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__aioshe-king-blob-likes-to-cosplay-as-totoro.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "tera.elin-aesthetics-hi-i-made-a",
+      "kind": "gpk",
+      "name": "Elin Aesthetics Hi Ω I Made A",
+      "author": "tera-elin-aesthetics",
+      "category": "Costumes",
+      "short_description": "Hi&nbsp;  (* ^ &omega; ^)`\nI made a version of dyeable evening apparel that I like more.&nbsp;\nThese are changes:&nbsp;\n❀ now can be dyed in",
+      "long_description": "Hi&nbsp;  (* ^ &omega; ^)`\nI made a version of dyeable evening apparel that I like more.&nbsp;\nThese are changes:&nbsp;\n❀ now can be dyed in\n\nOriginal by tera-elin-aesthetics, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by tera-elin-aesthetics. Source: https://mods-of-tera.tumblr.com/post/623325642899013632/tera-elin-aesthetics-hi-%CF%89-i-made-a",
+      "source_url": "https://mods-of-tera.tumblr.com/post/623325642899013632/tera-elin-aesthetics-hi-%CF%89-i-made-a",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/43eeb42d28676d67f4ce4e5959c12d6a/a242c34e35c65ab9-d7/s1280x1920/771ef75c9dc03091fe8a0a4285a2dd6d1adbec2d.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/43eeb42d28676d67f4ce4e5959c12d6a/a242c34e35c65ab9-d7/s1280x1920/771ef75c9dc03091fe8a0a4285a2dd6d1adbec2d.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_73.patched.gpk",
+      "gpk_files": [
+        "PC_Event_73.patched.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/tera_elin-aesthetics-hi-i-made-a.gpk",
+      "sha256": "034f71499a69e575c4f2d13ae7f51c11ea3add03e63e480f2fcba4d0a45df631",
+      "size_bytes": 34854183,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_73.patched package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "kirabera.blushy-emote-that-pops-up-during",
+      "kind": "gpk",
+      "name": "Blushy Emote That Pops Up During",
+      "author": "kirabera",
+      "category": "Costumes",
+      "short_description": "Blushy emote that pops up during Perfect Evade\nDownload V3.0",
+      "long_description": "Blushy emote that pops up during Perfect Evade\nDownload V3.0\n\nOriginal by kirabera, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by kirabera. Source: https://mods-of-tera.tumblr.com/post/619633722618232832/kirabera-blushy-emote-that-pops-up-during",
+      "source_url": "https://mods-of-tera.tumblr.com/post/619633722618232832/kirabera-blushy-emote-that-pops-up-during",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7e2e89d9b10613a6286bdfdd9e571fad/7ba7b6ee25ae991e-f6/s400x600/7aa9b0d8f4ce874263bb9488d0852f4916833188.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7e2e89d9b10613a6286bdfdd9e571fad/7ba7b6ee25ae991e-f6/s400x600/7aa9b0d8f4ce874263bb9488d0852f4916833188.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "gd__kirabera-blushy-emote-that-pops-up-during__13ihUCO8FLcI.bin",
+      "gpk_files": [
+        "gd__kirabera-blushy-emote-that-pops-up-during__13ihUCO8FLcI.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/kirabera_blushy-emote-that-pops-up-during.gpk",
+      "sha256": "d19c1247ea48679c9ad47be6c4de14417617d1ee24dd7b3e48a0b15092bf008e",
+      "size_bytes": 9700319,
+      "composite_flag": true,
+      "replaces": "Replaces the gd__kirabera-blushy-emote-that-pops-up-during__13ihUCO8FLcI.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "kirabera.bright-pastel-party-ui-with",
+      "kind": "gpk",
+      "name": "Bright Pastel Party Ui With",
+      "author": "kirabera",
+      "category": "Costumes",
+      "short_description": "Bright pastel Party UI with HP/MP/Debuff\nDownload",
+      "long_description": "Bright pastel Party UI with HP/MP/Debuff\nDownload\n\nOriginal by kirabera, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by kirabera. Source: https://mods-of-tera.tumblr.com/post/616190003434881024/kirabera-bright-pastel-party-ui-with",
+      "source_url": "https://mods-of-tera.tumblr.com/post/616190003434881024/kirabera-bright-pastel-party-ui-with",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/4b2fee9a823943fde434b7ebdb74786e/9795e68e83f4f7ba-db/s500x750/f505aa42a8cca677372625e4e5b2db461a3e53f3.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/4b2fee9a823943fde434b7ebdb74786e/9795e68e83f4f7ba-db/s500x750/f505aa42a8cca677372625e4e5b2db461a3e53f3.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "gd__kirabera-bright-pastel-party-ui-with__1-wJioZdmoxw.bin",
+      "gpk_files": [
+        "gd__kirabera-bright-pastel-party-ui-with__1-wJioZdmoxw.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/kirabera_bright-pastel-party-ui-with.gpk",
+      "sha256": "b6bc4c58fa6f5760116e5f4004a73a4a7b5004463ca832fea214caf75f70bae9",
+      "size_bytes": 1448535,
+      "composite_flag": true,
+      "replaces": "Replaces the gd__kirabera-bright-pastel-party-ui-with__1-wJioZdmoxw.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "kirabera.bright-pastel-hpmp-bar-with-edge-and",
+      "kind": "gpk",
+      "name": "Bright Pastel Hpmp Bar With Edge And",
+      "author": "kirabera",
+      "category": "Costumes",
+      "short_description": "Bright pastel HP/MP bar with Edge and RE\nCan be vertically aligned!\nDownload",
+      "long_description": "Bright pastel HP/MP bar with Edge and RE\nCan be vertically aligned!\nDownload\n\nOriginal by kirabera, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by kirabera. Source: https://mods-of-tera.tumblr.com/post/616189976790679552/kirabera-bright-pastel-hpmp-bar-with-edge-and",
+      "source_url": "https://mods-of-tera.tumblr.com/post/616189976790679552/kirabera-bright-pastel-hpmp-bar-with-edge-and",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/ae3c3da06ef4bfdb40f398279a21d0d6/43edff1aad750990-ab/s1280x1920/191fdde72fecca971c66c31dffd7527d828dafd9.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/ae3c3da06ef4bfdb40f398279a21d0d6/43edff1aad750990-ab/s1280x1920/191fdde72fecca971c66c31dffd7527d828dafd9.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "gd__kirabera-bright-pastel-hpmp-bar-with-edge-and__1V_9eURUAi1r.bin",
+      "gpk_files": [
+        "gd__kirabera-bright-pastel-hpmp-bar-with-edge-and__1V_9eURUAi1r.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/kirabera_bright-pastel-hpmp-bar-with-edge-and.gpk",
+      "sha256": "08bfb078bf746a924a1ab4bb3f663a56c8e6f36c1aed61a3c168f67dc70b4293",
+      "size_bytes": 3816599,
+      "composite_flag": true,
+      "replaces": "Replaces the gd__kirabera-bright-pastel-hpmp-bar-with-edge-and__1V_9eURUAi1r.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "recolor.for-arthurian-knight-scepter-for-mystic",
+      "kind": "gpk",
+      "name": "For Arthurian Knight Scepter For Mystic",
+      "author": "recolor",
+      "category": "Costumes",
+      "short_description": "&nbsp; &nbsp; download &hearts;",
+      "long_description": "&nbsp; &nbsp; download &hearts;\n\nOriginal by recolor, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by recolor. Source: https://mods-of-tera.tumblr.com/post/177730339522/recolor-for-arthurian-knight-scepter-for-mystic",
+      "source_url": "https://mods-of-tera.tumblr.com/post/177730339522/recolor-for-arthurian-knight-scepter-for-mystic",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/3ed7fbeb6bcd5f6c02bc0d9aea8cdf18/tumblr_inline_pdyt3kwumd1vy21q7_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/3ed7fbeb6bcd5f6c02bc0d9aea8cdf18/tumblr_inline_pdyt3kwumd1vy21q7_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event08.gpk",
+      "gpk_files": [
+        "PC_Weapons_Event08.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/recolor_for-arthurian-knight-scepter-for-mystic.gpk",
+      "sha256": "890efb2359864ba6afc656f48782b60dba526884119c31a31e4bea51b0edb364",
+      "size_bytes": 12499762,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Weapons_Event08 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "flying.mount-mod",
+      "kind": "gpk",
+      "name": "Mount Mod",
+      "author": "flying",
+      "category": "Costumes",
+      "short_description": "DOWNLOAD UwU",
+      "long_description": "DOWNLOAD UwU\n\nOriginal by flying, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by flying. Source: https://mods-of-tera.tumblr.com/post/176051592282/flying-mount-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176051592282/flying-mount-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/cb89d565b1709836bbe93a4060001a78/tumblr_inline_pc0zqiUlX11vy21q7_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/cb89d565b1709836bbe93a4060001a78/tumblr_inline_pc0zqiUlX11vy21q7_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "gd__flying-mount-mod__1E1h7HoV_ipB.bin",
+      "gpk_files": [
+        "gd__flying-mount-mod__1E1h7HoV_ipB.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/flying_mount-mod.gpk",
+      "sha256": "e4f5277df4c7ad3680b54dcceda41777400df6468b2d1a8a839bcb6276163828",
+      "size_bytes": 939501,
+      "composite_flag": true,
+      "replaces": "Replaces the gd__flying-mount-mod__1E1h7HoV_ipB.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "mystics.king-thrall-mod",
+      "kind": "gpk",
+      "name": "King Thrall Mod",
+      "author": "mystics",
+      "category": "Costumes",
+      "short_description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+      "long_description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n\nOriginal by mystics, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by mystics. Source: https://mods-of-tera.tumblr.com/post/175273663532/mystics-king-thrall-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/175273663532/mystics-king-thrall-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/a241ec1f3f4824fa575a74e59ab222a3/tumblr_inline_padqwkHocB1vy21q7_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/a241ec1f3f4824fa575a74e59ab222a3/tumblr_inline_padqwkHocB1vy21q7_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Awaken_SpiritKing.gpk",
+      "gpk_files": [
+        "Awaken_SpiritKing.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/mystics_king-thrall-mod.gpk",
+      "sha256": "35f1e0c356aa679b7efde571be53eb6728208b66e6c18a50fbde61df3df29bae",
+      "size_bytes": 3798619,
+      "composite_flag": true,
+      "replaces": "Replaces the Awaken_SpiritKing package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "recolor.for-cheeks",
+      "kind": "gpk",
+      "name": "For Cheeks",
+      "author": "recolor",
+      "category": "Costumes",
+      "short_description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ",
+      "long_description": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n\nOriginal by recolor, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by recolor. Source: https://mods-of-tera.tumblr.com/post/175273623462/recolor-for-cheeks",
+      "source_url": "https://mods-of-tera.tumblr.com/post/175273623462/recolor-for-cheeks",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/2c62ab976988a6899e926399e75d59c6/tumblr_inline_paqr9jGS3C1vy21q7_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/2c62ab976988a6899e926399e75d59c6/tumblr_inline_paqr9jGS3C1vy21q7_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "gd__recolor-for-cheeks__1DNt5PYycmFE.bin",
+      "gpk_files": [
+        "gd__recolor-for-cheeks__1DNt5PYycmFE.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/recolor_for-cheeks.gpk",
+      "sha256": "2ecf1ab6d6969da89102a953d341a38a096a176c236b772aad29c49ff56dc823",
+      "size_bytes": 1424457,
+      "composite_flag": true,
+      "replaces": "Replaces the gd__recolor-for-cheeks__1DNt5PYycmFE.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "honestlylovingbunny.mystics-king-thrall",
+      "kind": "gpk",
+      "name": "Mystics King Thrall",
+      "author": "honestlylovingbunny",
+      "category": "Costumes",
+      "short_description": "Mystic&rsquo;s king thrall\n&hearts;DOWNLOAD&hearts;",
+      "long_description": "Mystic&rsquo;s king thrall\n&hearts;DOWNLOAD&hearts;\n\nOriginal by honestlylovingbunny, shared on the mods-of-tera archive. The launcher downloads and installs this for you.",
+      "credits": "Shared on the mods-of-tera archive; original by honestlylovingbunny. Source: https://mods-of-tera.tumblr.com/post/173553077112/honestlylovingbunny-mystics-king-thrall",
+      "source_url": "https://mods-of-tera.tumblr.com/post/173553077112/honestlylovingbunny-mystics-king-thrall",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9435bbd955f6615c4bd89af5d09ce6e4/tumblr_p85jwrCO6U1x2yupwo2_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/9435bbd955f6615c4bd89af5d09ce6e4/tumblr_p85jwrCO6U1x2yupwo2_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Awaken_SpiritKing.gpk",
+      "gpk_files": [
+        "Awaken_SpiritKing.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch1/honestlylovingbunny_mystics-king-thrall.gpk",
+      "sha256": "35f1e0c356aa679b7efde571be53eb6728208b66e6c18a50fbde61df3df29bae",
+      "size_bytes": 3798619,
+      "composite_flag": true,
+      "replaces": "Replaces the Awaken_SpiritKing package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted from x32 to v100.02 x64 (converter pixel-verified byte-identical to source). Please report if it looks off in game.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)"
     }
   ]
 }
