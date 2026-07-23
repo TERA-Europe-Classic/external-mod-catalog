@@ -1,5 +1,5 @@
 {
-  "version": 88,
+  "version": 89,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -628,7 +628,8 @@
       "gpk_files": [
         "Pastel_Pink_Fishing_Rod.gpk"
       ],
-      "compatibility_notes": "Pick ONE color — pink and blue replace the same fishing rod and conflict with each other."
+      "compatibility_notes": "Pick ONE color — pink and blue replace the same fishing rod and conflict with each other.",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/kawaakari.pastel-fishing-rod-pink/cover.png"
     },
     {
       "id": "kawaakari.pastel-fishing-rod-blue",
@@ -657,7 +658,8 @@
       "gpk_files": [
         "Pastel_Blue_Fishing_Rod.gpk"
       ],
-      "compatibility_notes": "Pick ONE color — pink and blue replace the same fishing rod and conflict with each other."
+      "compatibility_notes": "Pick ONE color — pink and blue replace the same fishing rod and conflict with each other.",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/kawaakari.pastel-fishing-rod-blue/cover.png"
     },
     {
       "id": "htmslf.gunner-mambo-dash",
