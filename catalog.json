@@ -1,5 +1,5 @@
 {
-  "version": 89,
+  "version": 90,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -507,7 +507,8 @@
           "size_bytes": 1051528,
           "target_dropin_filename": "ffe86d35_67444741_1d73b.gpk"
         }
-      ]
+      ],
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/justcrazy.green-crosshair/cover.png"
     },
     {
       "id": "htmslf.rgb-scarf",
