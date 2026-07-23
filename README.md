@@ -54,6 +54,7 @@ diverges from the actual set of keys used across every entry in
 | `target_object_path` | string | optional | gpk-only | Composite object path a `composite_redirect` mod targets (`Package.Object`). |
 | `target_dropin_filename` | string | optional | gpk-only | `dropin`: filename written to `CookedPC/<name>` (engine loads root files as overrides). Uninstall removes the file — it never existed in vanilla. |
 | `screenshots` | string[] | optional | both | Additional gallery images shown in the detail panel; `featured_image` is the cover (first). |
+| `blur_data` | string | optional | both | Tiny (~12px) inline WebP data-URI of the cover — painted instantly under the thumb/hero while the real image loads (blurhash-equivalent placeholder, no JS deps). |
 | `target_patch` | string | optional | gpk-only | Game patch the payload was built against (informational), e.g. `v100.02`. |
 | `tfc_file` | string | optional | gpk-only | Vanilla texture cache a `tfc_patch` mod patches, e.g. `WorldTextures038.tfc`. |
 | `tfc_spans` | object[] | optional | gpk-only | `tfc_patch` regions: `{ tfc_offset, size, payload_offset, vanilla_sha256 }`. Install verifies the vanilla hash, backs up, then writes; uninstall restores byte-perfect. |
