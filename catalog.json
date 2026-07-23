@@ -1,5 +1,5 @@
 {
-  "version": 27,
+  "version": 28,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -359,7 +359,8 @@
       "kind": "gpk",
       "name": "Thinkblob Mount",
       "author": "Foglio1024 (original thinkblob mod), x64 port by Lukas",
-      "version": "1.4",
+      "version": "1.5",
+      "featured_image": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-lukas.thinkblob-mount-v1.5/thinkblob-showcase.png",
       "category": "other",
       "tags": [],
       "gpk_files": [
@@ -374,7 +375,7 @@
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-lukas.thinkblob-mount-v1.3/thinkblob-tfc-payload.bin",
       "sha256": "585c34f64fbdcf8c3d530d6aa6eadaf701675db861c68b0e3752a9e0b51fd068",
       "size_bytes": 523808,
-      "updated_at": "2026-07-23T00:00:00Z",
+      "updated_at": "2026-07-23T01:30:00Z",
       "tfc_file": "WorldTextures038.tfc",
       "tfc_spans": [
         {
@@ -415,11 +416,12 @@
         },
         {
           "name": "icon",
-          "deploy_strategy": "composite_redirect",
-          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-lukas.thinkblob-mount-v1.4/Icon_Skills.gpk",
-          "sha256": "732e11ae3dcc50fb7ce7c66d8382cdbb037c63ef19fcbce40899de3b0e947445",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-lukas.thinkblob-mount-v1.5/Icon_Skills.gpk",
+          "sha256": "55364ac0f5e9696afc626bc4a70b54e164bb97ffb3c825f14d31cbac9081090c",
           "size_bytes": 551326,
-          "target_object_path": "Icon_Skills.Vehicle_KingBlob_Tex"
+          "target_loose_path": "Art_Data/Packages/S1UI/Icon_Skills.gpk",
+          "loose_vanilla_sha256": "ed0a22e33c7a841451a4906b2c41c70717adb5042e42025d3efc446c57d342fe"
         }
       ]
     }

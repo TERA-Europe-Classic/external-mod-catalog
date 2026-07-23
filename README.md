@@ -54,7 +54,9 @@ diverges from the actual set of keys used across every entry in
 | `target_object_path` | string | optional | gpk-only | Composite object path a `composite_redirect` mod targets (`Package.Object`). |
 | `tfc_file` | string | optional | gpk-only | Vanilla texture cache a `tfc_patch` mod patches, e.g. `WorldTextures038.tfc`. |
 | `tfc_spans` | object[] | optional | gpk-only | `tfc_patch` regions: `{ tfc_offset, size, payload_offset, vanilla_sha256 }`. Install verifies the vanilla hash, backs up, then writes; uninstall restores byte-perfect. |
-| `parts` | object[] | optional | gpk-only | Multi-part mod: each part is `{ name, deploy_strategy, download_url, sha256, size_bytes, ... }` plus its strategy's own fields (`tfc_file`+`tfc_spans`, `target_object_path`, or `target_dropin_filename`). When present it is authoritative; the entry-level deploy fields remain as a mount-only fallback for launchers without multi-part support. |
+| `parts` | object[] | optional | gpk-only | Multi-part mod: each part is `{ name, deploy_strategy, download_url, sha256, size_bytes, ... }` plus its strategy's own fields (`tfc_file`+`tfc_spans`, `target_object_path`, `target_dropin_filename`, or `target_loose_path`+`loose_vanilla_sha256`). When present it is authoritative; the entry-level deploy fields remain as a mount-only fallback for launchers without multi-part support. |
+| `target_loose_path` | string | optional | gpk-only | `loose_replace`: CookedPC-relative path of the vanilla loose file the part replaces (e.g. `Art_Data/Packages/S1UI/Icon_Skills.gpk`). Loose files win over every mapper layer, so this is the only strategy that reaches them. |
+| `loose_vanilla_sha256` | string | optional | gpk-only | `loose_replace`: sha256 of the vanilla loose file. Install verifies it before backing up and writing; a mismatch means another mod owns the file and the install is refused as a conflict. Uninstall restores the backup byte-perfect. |
 <!-- schema-table-end -->
 
 ### Legacy pointer
