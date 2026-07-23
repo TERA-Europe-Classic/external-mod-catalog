@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -681,6 +681,103 @@
       "deploy_strategy": "tmm",
       "gpk_files": [
         "gunner_mambo.gpk"
+      ]
+    },
+    {
+      "id": "novatera.jp-voice-pack",
+      "kind": "gpk",
+      "name": "Japanese Voice Pack (All Races)",
+      "author": "NovaTera community compilation (JP voice data: Bluehole)",
+      "short_description": "Japanese voice acting for player characters across 7 voice slots.",
+      "long_description": "Replaces player-character voices with the Japanese voice acting:\n\n- Female: Castanic (#07), High Elf (#16), Human (#04)\n- Male: Aman (#05), Baraka (#06), Castanic (#01), High Elf (#04)\n\nEach slot is replaced reversibly (vanilla file backed up; disable restores byte-perfect). Compiled and shared on the NovaTera Discord (Jun 2025).",
+      "category": "sounds",
+      "license": "Unknown",
+      "credits": "Compiled and shared on the NovaTera modding Discord by a now-deleted user; Japanese voice data (c) Bluehole / KTERA JP localization. Rehosted unmodified for the TERA Europe Classic+ launcher. If you compiled this pack, open an issue on TERA-Europe-Classic/external-mod-catalog for attribution.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PCFemale_Voice01_07_cast.gpk",
+        "PCFemale_Voice02_16_helf.gpk",
+        "PCFemale_Voice03_04_human.gpk",
+        "PCMale_Voice00_05_aman.gpk",
+        "PCMale_Voice01_06_baraka.gpk",
+        "PCMale_Voice02_01_cast.gpk",
+        "PCMale_Voice03_04_helf.gpk"
+      ],
+      "tagline": "Your character, now in Japanese",
+      "tags": [
+        "sounds",
+        "voice",
+        "japanese"
+      ],
+      "compatibility_notes": "Conflicts with any other mod replacing the same PCVoice slots (e.g. other language voice packs).",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:30:00Z",
+      "download_count": 0,
+      "parts": [
+        {
+          "name": "voice-pcfemale_voice01",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCFemale_Voice01_07_cast.gpk",
+          "sha256": "d7ba12d7d9d8da21305ef03969b12b97500ba40f3d337a2a9d315eb8c37ac08d",
+          "size_bytes": 2093404,
+          "target_loose_path": "Sound_Data/Packages/PCVoice/PCFemale_Voice01.gpk",
+          "loose_vanilla_sha256": "3a80685e3f71b59e1b7c9d361a54dd003b089cafc4f8176a43db15015523718a"
+        },
+        {
+          "name": "voice-pcfemale_voice02",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCFemale_Voice02_16_helf.gpk",
+          "sha256": "6e1ccdea697df41caa1366a82fc3265f44d56910f9aeff28907d4c2f4ef961ce",
+          "size_bytes": 2147517,
+          "target_loose_path": "Sound_Data/Packages/PCVoice/PCFemale_Voice02.gpk",
+          "loose_vanilla_sha256": "ce296ad08022e6be52d07cfcd9aa1d15a2f3e683e646a724be1da39ce317c43b"
+        },
+        {
+          "name": "voice-pcfemale_voice03",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCFemale_Voice03_04_human.gpk",
+          "sha256": "e09d99e2972171590114392fe5b8e49c58dd2839cd8c9e0c22011fe46d642d0b",
+          "size_bytes": 2268153,
+          "target_loose_path": "Sound_Data/Packages/PCVoice/PCFemale_Voice03.gpk",
+          "loose_vanilla_sha256": "c3fe2b44f1ef3be26ed9100e6bad73a11985becfabdaf28a8d3e6d14e3c23461"
+        },
+        {
+          "name": "voice-pcmale_voice00",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCMale_Voice00_05_aman.gpk",
+          "sha256": "8f4d03f3a4578d2a0a635fd06fe152af08b95975b351eac16f96792cfd5d2140",
+          "size_bytes": 2515665,
+          "target_loose_path": "Sound_Data/Packages/PCVoice/PCMale_Voice00.gpk",
+          "loose_vanilla_sha256": "edce89d0f7786f86b9c362e6e05db754727c805544d087aed54dcad5ddc8e165"
+        },
+        {
+          "name": "voice-pcmale_voice01",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCMale_Voice01_06_baraka.gpk",
+          "sha256": "4f67ea9de3afdaeb528041ab4335d94e6a5be06e72483f3d211b20f7fa7d83ea",
+          "size_bytes": 2640077,
+          "target_loose_path": "Sound_Data/Packages/PCVoice/PCMale_Voice01.gpk",
+          "loose_vanilla_sha256": "4aa9b6448455d7e0543716b905dfd7864f8bd53795ae8eba7b8677b96b18ebdf"
+        },
+        {
+          "name": "voice-pcmale_voice02",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCMale_Voice02_01_cast.gpk",
+          "sha256": "dc136ff4c0a65da1ff2af6b62e2411e42311f333f783c9079182d9dd902ee46a",
+          "size_bytes": 2368792,
+          "target_loose_path": "Sound_Data/Packages/PCVoice/PCMale_Voice02.gpk",
+          "loose_vanilla_sha256": "cf2a12e46c40532b0d8755d20be46759a0ecbe4767e5836f9c3db83a334f74c8"
+        },
+        {
+          "name": "voice-pcmale_voice03",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCMale_Voice03_04_helf.gpk",
+          "sha256": "0465f0398e876792683534e30394eedb4f07168ebd80de38c9f731c810e3e2fc",
+          "size_bytes": 2274662,
+          "target_loose_path": "Sound_Data/Packages/PCVoice/PCMale_Voice03.gpk",
+          "loose_vanilla_sha256": "dbfc60def45929e15e624dd4ddb823f44b345299da375973fc8d766250b9b4d2"
+        }
       ]
     }
   ]
