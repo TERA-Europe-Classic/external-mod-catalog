@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -352,6 +352,38 @@
       "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "salty.clean-onscreen-messages",
+      "kind": "gpk",
+      "name": "Clean Onscreen Messages",
+      "author": "SaltyMonkey",
+      "short_description": "Removes center-screen message spam: lockon, 'affects you', skill reset, item obtained/enchanted.",
+      "long_description": "SaltyMonkey's clean onscreen-messages mod (native 64-bit, patch-98 UI codebase):\n\n- Removed lockon messages\n- Removed \"locking you\" message (heal only; debuff kept)\n- Removed \"X affects you\" message spam\n- Removed \"Skill reset\" message spam\n- Removed \"X obtained\" / \"X enchanted\" message spam\n- Slight transparency for the block icon and reworked block message text\n\nRehosted unmodified for the Classic+ launcher.",
+      "category": "ui",
+      "license": "Unknown",
+      "credits": "Created by SaltyMonkey (https://github.com/SaltyMonkey/tera-online-clean-onscreen-messages). Rehosted unmodified — all credit to the original author. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-salty.clean-onscreen-messages-v1.0.0/S1UI_Message.gpk",
+      "sha256": "ed4a48d70f710a1a30141f5fee5361e9169257614ae08a08352582a2e3d789a7",
+      "size_bytes": 554802,
+      "source_url": "https://github.com/SaltyMonkey/tera-online-clean-onscreen-messages",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "S1UI_Message.gpk",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "S1UI_Message.gpk"
+      ],
+      "tagline": "No more center-screen message spam",
+      "featured_image": "https://opengraph.githubassets.com/1/SaltyMonkey/tera-online-clean-onscreen-messages",
+      "tags": [
+        "ui",
+        "quality-of-life",
+        "saltymonkey"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T04:00:00Z",
       "download_count": 0
     },
     {
