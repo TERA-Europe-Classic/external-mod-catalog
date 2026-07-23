@@ -1,5 +1,5 @@
 {
-  "version": 124,
+  "version": 125,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -7557,10 +7557,10 @@
       "category": "ui",
       "license": "Unknown",
       "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-instant-join-tba-mode. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.instant-join-tba-mode.S1UI_GameModeSelectScene.roundtrip.gpk",
-      "sha256": "ca9bf4de83db3af79e76402f7ff27a39da10eea3f10e12e4e020707322b8e1e1",
-      "size_bytes": 3964514,
+      "version": "2026-05-01-x64-port-r1",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/instant-join-tba.S1UI_GameModeSelectScene.gpk",
+      "sha256": "ebd96e4d899a9a983c0ab4174450271dd2459024bcf151b0f72755fadafc58dd",
+      "size_bytes": 797482,
       "source_url": "https://github.com/SaltyMonkey/tera-online-instant-join-tba-mode",
       "target_patch": "v100.02",
       "composite_flag": true,
@@ -7575,43 +7575,21 @@
       ],
       "target_object_path": "S1UI_GameModeSelectScene.GameModeSelectScene",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from SaltyMonkey's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as SaltyMonkey intended.",
+      "compatibility_notes": "Original x64 file from SaltyMonkey's repo, deployed as a loose replacement (v100 loads this UI from the loose file).",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.instant-join-tba-mode/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAABwAQCdASoMAAcAAwBSJYw2wAAXQAD+8ismdu+Vn8/NtCA+dePuEEJnKwnz6jzse+AAAA==",
-      "replaces": "Replaces the game mode select screen (S1UI_GameModeSelectScene). Check: open that window in game."
-    },
-    {
-      "id": "saltymonkey.instant-join-tera-mode",
-      "kind": "gpk",
-      "name": "Instant join - TERA mode",
-      "author": "SaltyMonkey",
-      "short_description": "Skips the game mode selection screen and joins directly into standard TERA mode.",
-      "long_description": "Skips the game mode selection screen and joins directly into standard TERA mode.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
-      "category": "ui",
-      "license": "Unknown",
-      "credits": "Published by SaltyMonkey at https://github.com/SaltyMonkey/tera-online-instant-join-tera-mode. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.instant-join-tera-mode.S1UI_GameModeSelectScene.roundtrip.gpk",
-      "sha256": "83b4ecb4d5e3f7df732738c775e9b586792419462028e24dc401390658931c31",
-      "size_bytes": 3964514,
-      "source_url": "https://github.com/SaltyMonkey/tera-online-instant-join-tera-mode",
-      "target_patch": "v100.02",
-      "composite_flag": true,
-      "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.instant-join-tera-mode/cover.webp",
-      "gpk_files": [
-        "S1UI_GameModeSelectScene.gpk"
-      ],
-      "tags": [
-        "gpk"
-      ],
-      "target_object_path": "S1UI_GameModeSelectScene.GameModeSelectScene",
-      "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from SaltyMonkey's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as SaltyMonkey intended.",
-      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.instant-join-tera-mode/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAAAwAQCdASoMAAcAAwBSJYwAA3AA/vItXHyrsTZfWssuoV1U576BDbw/SL6bLHbJ36wAAA==",
-      "replaces": "Replaces the game mode select screen (S1UI_GameModeSelectScene). Check: open that window in game."
+      "replaces": "Replaces the game mode select screen (S1UI_GameModeSelectScene). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/instant-join-tba.S1UI_GameModeSelectScene.gpk",
+          "sha256": "ebd96e4d899a9a983c0ab4174450271dd2459024bcf151b0f72755fadafc58dd",
+          "size_bytes": 797482,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GameModeSelectScene.gpk",
+          "loose_vanilla_sha256": "0e8310507b8925671a55dbc0576b9179b3155dc63831b4951a770117b4a4384b"
+        }
+      ]
     },
     {
       "id": "pantypon.dyeable-housekeeper-fix",
