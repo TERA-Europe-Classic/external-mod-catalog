@@ -1,5 +1,5 @@
 {
-  "version": 123,
+  "version": 124,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -2484,7 +2484,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from Псина (based on miyo-ni's Tumblr concept)'s x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as Псина (based on miyo-ni's Tumblr concept) intended.",
       "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAcAAwBSJZACdAD5iTXgAAD+9bX24sYpFEgLmrw1BQezwn9g7opuRxpWMEAA",
-      "replaces": "Replaces the monster HP gauge above enemies (S1UI_GageMonsterHp). Check: open that window in game."
+      "replaces": "Replaces the monster HP gauge above enemies (S1UI_GageMonsterHp). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/psina.gage-monster-hp.S1UI_GageMonsterHp.roundtrip.gpk",
+          "sha256": "a9656bebbee502e6c677685e773bff729cb3f3b7edd16c2de587c1ba437ba846",
+          "size_bytes": 1106199,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageMonsterHp.gpk",
+          "loose_vanilla_sha256": "8390843152423d89a7d4f3802df2066d6e98e3f8127457990eb7355be27570f7"
+        }
+      ]
     },
     {
       "id": "neowutran.s1ui-chat2",
@@ -2517,7 +2528,18 @@
       "compatibility_notes": "Adapted from neowutran's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as neowutran intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/neowutran.s1ui-chat2/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAcAAwBSJYwAAudTkosAAP73xTGFIuajU/CLX+rm+8F7ZO8QAAAA",
-      "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game."
+      "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/neowutran.s1ui-chat2.S1UI_Chat2.roundtrip.gpk",
+          "sha256": "90896112ec05489869741e6d3fcbe71622eee1506997e4210eccb9e29693298d",
+          "size_bytes": 4361603,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Chat2.gpk",
+          "loose_vanilla_sha256": "bfadf44e501b55649272076c861631009190e8c615ed8ec079563c17259b03e8"
+        }
+      ]
     },
     {
       "id": "saltymonkey.message-centered",
@@ -2550,7 +2572,18 @@
       "compatibility_notes": "Adapted from SaltyMonkey's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as SaltyMonkey intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.message-centered/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAcAAwBSJYwAAueAcr9qgAD+98Uxe86EvYqXJQL22AH+dj3wAAAA",
-      "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game."
+      "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.message-centered.S1UI_Message.roundtrip.gpk",
+          "sha256": "2c7374aa6a50f06e8bf220ecd196b75a5959ebfb47dbac5f33eec86a2469de5a",
+          "size_bytes": 16105731,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Message.gpk",
+          "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
+        }
+      ]
     },
     {
       "id": "saltymonkey.overlaymap-fixed",
@@ -2583,7 +2616,18 @@
       "compatibility_notes": "Adapted from SaltyMonkey's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as SaltyMonkey intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.overlaymap-fixed/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAcAAwBSJYwAAud/lNFoAP73xTF7zJClXP39SG12/KF/P2yd4gAA",
-      "replaces": "Replaces the overlay map (M) (S1UI_OverlayMap2). Check: open that window in game."
+      "replaces": "Replaces the overlay map (M) (S1UI_OverlayMap2). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.overlaymap-fixed.S1UI_OverlayMap2.roundtrip.gpk",
+          "sha256": "a4b99fb4bf7b89b2f90b5f0e6bcb4d19ed6973a1911497a3848285d8d3cea2fd",
+          "size_bytes": 47332780,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_OverlayMap2.gpk",
+          "loose_vanilla_sha256": "8438ca5c7f8d66d65993ced6847f9c9b1df4ddcd679e35e7e0426ff665d105e2"
+        }
+      ]
     },
     {
       "id": "saltymonkey.gageboss-extended",
@@ -2616,7 +2660,18 @@
       "compatibility_notes": "Adapted from SaltyMonkey's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as SaltyMonkey intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.gageboss-extended/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudVBpwAAP73xTGFIugNHM0pUDfur79sneIAAA==",
-      "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game."
+      "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/saltymonkey.gageboss-extended.S1UI_GageBoss.roundtrip.gpk",
+          "sha256": "57a52e52b664a0c61ae4dec3ad225578da06bddd750c4d3619c40a4568890cb8",
+          "size_bytes": 2408748,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageBoss.gpk",
+          "loose_vanilla_sha256": "79cb184c155b4732f1d4362e68500ee39541091e576bae5ec188c118423ac6f7"
+        }
+      ]
     },
     {
       "id": "saltymonkey.characterwindow-clean",
@@ -2684,7 +2739,18 @@
       "compatibility_notes": "Adapted from teralove's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as teralove intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/teralove.partywindowraidinfo/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAAAwAQCdASoMAAcAAwBSJYwAA3AA/vI2xjmNfzbQk5wutZROzgykF5AHbJ36wAAA",
-      "replaces": "Replaces the raid party frames (S1UI_PartyWindowRaidInfo). Check: open that window in game."
+      "replaces": "Replaces the raid party frames (S1UI_PartyWindowRaidInfo). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/teralove.partywindowraidinfo.S1UI_PartyWindowRaidInfo.roundtrip.gpk",
+          "sha256": "b975e667fb95b124902ff01e4f2bda50628795682818b98f0bdde8a897206013",
+          "size_bytes": 2019361,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_PartyWindowRaidInfo.gpk",
+          "loose_vanilla_sha256": "319ff911ea11cbe20ae30f7f76b248c8abaace4e28c3e1694eedea4516ff4472"
+        }
+      ]
     },
     {
       "id": "teralove.targetinfo",
@@ -2719,7 +2785,18 @@
       "compatible_arch": "x64",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/teralove.targetinfo/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABQAQCdASoMAAcAAwBSJYwABDOAAP7yNsW5GmfWssuoV1U4RZvDSX+wD1Nrtk7xAAA=",
-      "replaces": "Replaces the target info plate (S1UI_TargetInfo). Check: open that window in game."
+      "replaces": "Replaces the target info plate (S1UI_TargetInfo). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/teralove.targetinfo.S1UI_PartyWindowRaidInfo.roundtrip.gpk",
+          "sha256": "b434658757d8e083c94d0363f6ac0da3dbddaa9735eb4e338c8c39154a213b1b",
+          "size_bytes": 1882922,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TargetInfo.gpk",
+          "loose_vanilla_sha256": "0c3e9743040cf9153d7e21a08e3c15a72e3b048ca03a0315669be411247a7200"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-community-window",
@@ -2747,7 +2824,18 @@
       "compatible_arch": "x64",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-community-window/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAABwAQCdASoMAAwAAwBSJZwCdAFAAAD+831vuSQYOI7hy37XAAA=",
-      "replaces": "Replaces the LFG/community window (S1UI_CommunityWindow). Check: open that window in game."
+      "replaces": "Replaces the LFG/community window (S1UI_CommunityWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-community-window.S1UI_CommunityWindow.roundtrip.gpk",
+          "sha256": "3e0d8399a5dd10e57d4be5eab441882fdb7c0773382d98d7fcebfca349e9f2cf",
+          "size_bytes": 5285784,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_CommunityWindow.gpk",
+          "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-ep-window",
@@ -2775,7 +2863,18 @@
       "compatible_arch": "x64",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-ep-window/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoMAAwAAwBSJZQCw7FAAAD+9ntXOPwF8ZCx9W+ZoIlzc9r2nLkQoAAA",
-      "replaces": "Replaces the EP (talent) window (S1UI_EpWindow). Check: open that window in game."
+      "replaces": "Replaces the EP (talent) window (S1UI_EpWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-ep-window.S1UI_EpWindow.roundtrip.gpk",
+          "sha256": "e9d03f5704bd066d38decfef810729ca94a082ea68d84715bddec834391f66a2",
+          "size_bytes": 7228200,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_EpWindow.gpk",
+          "loose_vanilla_sha256": "26241b7871e10a6406e98ccc144e3d2b0ee590ce84c7d1f2c18405130ad537e1"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-equipment-combine",
@@ -2802,7 +2901,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the item merge window (S1UI_EquipmentCombine). Check: open that window in game."
+      "replaces": "Replaces the item merge window (S1UI_EquipmentCombine). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-equipment-combine.S1UI_EquipmentCombine.roundtrip.gpk",
+          "sha256": "654c5eb9f0158fb4b4079c9b0599ab9b17ecb34aa06a3045f53bbaddb41a92c6",
+          "size_bytes": 4961629,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_EquipmentCombine.gpk",
+          "loose_vanilla_sha256": "6c94d59f54d29924439607a853b6b6384b94771678333f2538b9d03b8bfc8a5f"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-equipment-upgrade",
@@ -2829,7 +2939,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the enchanting window (S1UI_EquipmentUpgrade). Check: open that window in game."
+      "replaces": "Replaces the enchanting window (S1UI_EquipmentUpgrade). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-equipment-upgrade.S1UI_EquipmentUpgrade.roundtrip.gpk",
+          "sha256": "a840787b036995dda8d6a9c06a15deb015bb3734e3ae717cde7361598194f52f",
+          "size_bytes": 7690136,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_EquipmentUpgrade.gpk",
+          "loose_vanilla_sha256": "7b4a15f8ac4465de9e2d41c4536cfccb13ca5ffedcc17648cac82837994081f7"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-guild-window",
@@ -2857,7 +2978,18 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the guild window (S1UI_GuildWindow). Check: open that window in game."
+      "replaces": "Replaces the guild window (S1UI_GuildWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-guild-window.S1UI_GuildWindow.roundtrip.gpk",
+          "sha256": "03237a841ab0e3fb4ee7e464abfca050f30162b97485baeec87751329e12ccd6",
+          "size_bytes": 10192356,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GuildWindow.gpk",
+          "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-interaction-popup",
@@ -2884,7 +3016,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the NPC interaction popup (S1UI_InteractionPopup). Check: open that window in game."
+      "replaces": "Replaces the NPC interaction popup (S1UI_InteractionPopup). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-interaction-popup.S1UI_InteractionPopup.roundtrip.gpk",
+          "sha256": "9215a3e704b759ea7a71291fd2e9c95ecd256e7825184a37bb77968ed648ff48",
+          "size_bytes": 4522850,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InteractionPopup.gpk",
+          "loose_vanilla_sha256": "74732f2c3226d984975320fd150f36ed54dedf2279aecb8d38c22729035bf7c0"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-inventory",
@@ -2912,7 +3055,18 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-inventory/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAwAAwBSJQBOgB6QNcgAAP7vXQUnc+WwppowH83uZjErNrLLRjrXsAA=",
-      "replaces": "Replaces the inventory window (S1UI_InventoryWindow). Check: open that window in game."
+      "replaces": "Replaces the inventory window (S1UI_InventoryWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-inventory.S1UI_InventoryWindow.roundtrip.gpk",
+          "sha256": "8453810f64565cede3c07ab01387a478b1c4b1ef149c5ed26d1245282bec5c39",
+          "size_bytes": 6355042,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InventoryWindow.gpk",
+          "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-minimap",
@@ -2939,7 +3093,18 @@
       "target_object_path": "S1UI_MiniMap.MiniMap",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the minimap (S1UI_MiniMap). Check: open that window in game."
+      "replaces": "Replaces the minimap (S1UI_MiniMap). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-minimap.S1UI_MiniMap.roundtrip.gpk",
+          "sha256": "1a066274d2bf0cbd3a1901502dad2725f0e061756bd88129a8292ed1052bb509",
+          "size_bytes": 5445763,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_MiniMap.gpk",
+          "loose_vanilla_sha256": "e406ee5fcfaa1aed0ac7074e2c9b5a4cf1edb97b3569a6df3c81a69fcc68bc49"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-paperdoll",
@@ -3005,7 +3170,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the parcel post log (S1UI_ParcelPostLog). Check: open that window in game."
+      "replaces": "Replaces the parcel post log (S1UI_ParcelPostLog). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-parcelpost.S1UI_ParcelPostLog.roundtrip.gpk",
+          "sha256": "bc041ef40e37d349daa561d5f166a389fdeef682859328562760bb3c41ca80bb",
+          "size_bytes": 4429674,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ParcelPostLog.gpk",
+          "loose_vanilla_sha256": "8e93f7a5519373fa1da0d3a7d456853bd5ae4bb5b6da5aea6b1a52c823601487"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-production-create",
@@ -3032,7 +3208,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the crafting create popup (S1UI_ProductionCreatePopUp). Check: open that window in game."
+      "replaces": "Replaces the crafting create popup (S1UI_ProductionCreatePopUp). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-production-create.S1UI_ProductionCreatePopUp.roundtrip.gpk",
+          "sha256": "2c5ba8d679180c5efa0111e062f5b81eb8911403283d83eb504130003a9df5c7",
+          "size_bytes": 409616,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ProductionCreatePopUp.gpk",
+          "loose_vanilla_sha256": "48318ba2b9f141af267e84d83231a274907aa7d5f9cb07f2fc11cf15eee6c7ad"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-production-list",
@@ -3059,7 +3246,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the crafting list window (S1UI_ProductionList). Check: open that window in game."
+      "replaces": "Replaces the crafting list window (S1UI_ProductionList). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-production-list.S1UI_ProductionList.roundtrip.gpk",
+          "sha256": "1d34f8f1d43bf7f525e5d7538735853148292a3053130830a87e9cd403bc34f7",
+          "size_bytes": 4541792,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ProductionList.gpk",
+          "loose_vanilla_sha256": "53c0aecba0f5b72fc0bfebb8ce56fd0a76d7727f4fd081088393d78cc7a872bf"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-servant-storage",
@@ -3113,7 +3311,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the skills (K) window (S1UI_SkillWindow). Check: open that window in game."
+      "replaces": "Replaces the skills (K) window (S1UI_SkillWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-skill-window.S1UI_SkillWindow.roundtrip.gpk",
+          "sha256": "8a75b9ebb2ec0b2169a483197c8730a1d30bdf4c6b3961f395fb922639212231",
+          "size_bytes": 5208622,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_SkillWindow.gpk",
+          "loose_vanilla_sha256": "3b120de47263eebb9e892eeb5eb34d9f7e68a752811a4fa088db6bde326d0253"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-store-window",
@@ -3141,7 +3350,18 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-store-window/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAwAAwBSJYgCdADdK39FMAD+7SvXszIdRuwZ9rIw7WJufQi+CyRkmrmyg1x6yrsXHmKx9S8+SYSpfeQAAA==",
-      "replaces": "Replaces the vendor store window (S1UI_StoreWindow). Check: open that window in game."
+      "replaces": "Replaces the vendor store window (S1UI_StoreWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-store-window.S1UI_StoreWindow.roundtrip.gpk",
+          "sha256": "3c7ccfcc7d13aef645d1e125cb525b1ac9ad0c459341827dc9cb1f07bc0b9010",
+          "size_bytes": 5153528,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_StoreWindow.gpk",
+          "loose_vanilla_sha256": "dcd396150dbfa0374f4295c8ed9aebb57b82d2c5ebf062d56f0a0d9d7ca100a2"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-system-option",
@@ -3168,7 +3388,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the system options window (S1UI_SystemOption). Check: open that window in game."
+      "replaces": "Replaces the system options window (S1UI_SystemOption). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-system-option.S1UI_SystemOption.roundtrip.gpk",
+          "sha256": "0996e38172d2de853fbccfc966ab24c3bb41af584828b49a072efea9301ba9fb",
+          "size_bytes": 4404626,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_SystemOption.gpk",
+          "loose_vanilla_sha256": "ddc84364bcadd34732f3edd703f6e1d2b332c83135ea4fed71a97e0af436b434"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-quickslot",
@@ -3195,7 +3426,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the main skill/quickslot bar (S1UI_TestQuickSlot). Check: open that window in game."
+      "replaces": "Replaces the main skill/quickslot bar (S1UI_TestQuickSlot). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-quickslot.S1UI_TestQuickSlot.roundtrip.gpk",
+          "sha256": "e11aac37effeb2f9caf4ccf3abc295a02327f719eb4cfc8306b619543b8e4e26",
+          "size_bytes": 469906,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TestQuickSlot.gpk",
+          "loose_vanilla_sha256": "6e3f9be2e8bc6d71fc46f27cfac61bee9b4db6e2366b40adacec41bf94e487c6"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-trade-popup",
@@ -3222,7 +3464,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the player trade window (S1UI_TradePopup). Check: open that window in game."
+      "replaces": "Replaces the player trade window (S1UI_TradePopup). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-trade-popup.S1UI_TradePopup.roundtrip.gpk",
+          "sha256": "871e1adbc883df2789a45a4b1547f00bd0012e70466184b273189a83377b2831",
+          "size_bytes": 4359114,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TradePopup.gpk",
+          "loose_vanilla_sha256": "1eff1bca0c9b521e5204b967de65b70b14952d770d3b39930d24452002698e14"
+        }
+      ]
     },
     {
       "id": "foglio1024.restyle-warehouse",
@@ -3249,7 +3502,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the bank/warehouse window (S1UI_WareHouseWindow). Check: open that window in game."
+      "replaces": "Replaces the bank/warehouse window (S1UI_WareHouseWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.restyle-warehouse.S1UI_WareHouseWindow.roundtrip.gpk",
+          "sha256": "4a204cac290344f36c7554f15f2c1d2b4c0a731e2ec342da639f2fec36cf7273",
+          "size_bytes": 5398162,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_WareHouseWindow.gpk",
+          "loose_vanilla_sha256": "023fe048e426da2f232fc9c9c4f80491e2d80ff21f7486e69f872c1efc3158e2"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-jewels-fix-inventory",
@@ -3275,7 +3539,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the inventory window (S1UI_InventoryWindow). Check: open that window in game."
+      "replaces": "Replaces the inventory window (S1UI_InventoryWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-jewels-fix-inventory.S1UI_InventoryWindow.roundtrip.gpk",
+          "sha256": "4bd1e1517453cec80e47b1c21578f5d4fc635de45b31f6c306f6fcb9dbc00217",
+          "size_bytes": 6163991,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InventoryWindow.gpk",
+          "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-jewels-fix-paperdoll",
@@ -3354,7 +3629,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game."
+      "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-bosswindow.S1UI_GageBoss.roundtrip.gpk",
+          "sha256": "49d22550d72698d96336d46e80b6a8f97cd860dba1ac8bae0d6953e0b25d43c7",
+          "size_bytes": 2409981,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageBoss.gpk",
+          "loose_vanilla_sha256": "79cb184c155b4732f1d4362e68500ee39541091e576bae5ec188c118423ac6f7"
+        }
+      ]
     },
     {
       "id": "foglio1024.ui-remover-targetinfo",
@@ -3381,7 +3667,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the target info plate (S1UI_TargetInfo). Check: open that window in game."
+      "replaces": "Replaces the target info plate (S1UI_TargetInfo). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-targetinfo.S1UI_TargetInfo.roundtrip.gpk",
+          "sha256": "1ea768263c38a9b8ad821f44af285fd84530a257718255f522965b34f23055be",
+          "size_bytes": 1756545,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TargetInfo.gpk",
+          "loose_vanilla_sha256": "0c3e9743040cf9153d7e21a08e3c15a72e3b048ca03a0315669be411247a7200"
+        }
+      ]
     },
     {
       "id": "foglio1024.ui-remover-buffs",
@@ -3408,7 +3705,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the buff/debuff bar (S1UI_Abnormality). Check: open that window in game."
+      "replaces": "Replaces the buff/debuff bar (S1UI_Abnormality). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-buffs.S1UI_Abnormality.roundtrip.gpk",
+          "sha256": "ea68bad2ceda083177d51bb415552d9814a1cb242f7d9d978fe6814bc57389e7",
+          "size_bytes": 302462,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Abnormality.gpk",
+          "loose_vanilla_sha256": "4111a0db7b1441673e189c0772d062eb49ddfc13df895f85fd168abbff5cab62"
+        }
+      ]
     },
     {
       "id": "foglio1024.ui-remover-character",
@@ -3462,7 +3770,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the progress/flight gauge bar (S1UI_ProgressBar). Check: open that window in game."
+      "replaces": "Replaces the progress/flight gauge bar (S1UI_ProgressBar). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-flight-gauge.S1UI_ProgressBar.roundtrip.gpk",
+          "sha256": "fdc654be60ba16b23b68d96abee520ede2ddf17c6f006ea6e908e58a4a9e2fb4",
+          "size_bytes": 101369,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ProgressBar.gpk",
+          "loose_vanilla_sha256": "00d874eb068364a17e07f2cf98e5b84e260f47bc0b94dd1d5b347f0506fbaaf1"
+        }
+      ]
     },
     {
       "id": "foglio1024.ui-remover-lfg-board",
@@ -3489,7 +3808,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the LFG board (S1UI_PartyBoard). Check: open that window in game."
+      "replaces": "Replaces the LFG board (S1UI_PartyBoard). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-lfg-board.S1UI_PartyBoard.roundtrip.gpk",
+          "sha256": "88fe7d85875e353c16dead239bab84707139c4cd36a1fe8241bddfdad44f058f",
+          "size_bytes": 5231827,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_PartyBoard.gpk",
+          "loose_vanilla_sha256": "d6c9f4758eee5d7744e87b09891fcffa1b380a2089867ea6e143b8f32821e953"
+        }
+      ]
     },
     {
       "id": "foglio1024.ui-remover-lfg-member",
@@ -3516,7 +3846,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the LFG applicant list (S1UI_PartyBoardMemberInfo). Check: open that window in game."
+      "replaces": "Replaces the LFG applicant list (S1UI_PartyBoardMemberInfo). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-lfg-member.S1UI_PartyBoardMemberInfo.roundtrip.gpk",
+          "sha256": "50ad8bb29f6d0ab6b05ba211ce2d2c74008d383a48a800e9ace81e3985a887be",
+          "size_bytes": 4668994,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_PartyBoardMemberInfo.gpk",
+          "loose_vanilla_sha256": "c4364306b4be8d67e2b5e70fb7c50334ffd01b65fc8c33ac18c2ce152db718f7"
+        }
+      ]
     },
     {
       "id": "foglio1024.ui-remover-party-window",
@@ -3543,7 +3884,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the party window frames (S1UI_PartyWindow). Check: open that window in game."
+      "replaces": "Replaces the party window frames (S1UI_PartyWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-party-window.S1UI_PartyWindow.roundtrip.gpk",
+          "sha256": "e6c497ed09190956bcaf20326f0b3803c3e64fe2fc8d294bc26759d26696b1e9",
+          "size_bytes": 6025683,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_PartyWindow.gpk",
+          "loose_vanilla_sha256": "ce355a1a549eb194ab8ce8cfbeac8fdc849f3d331da99cb5fe8db017053a90c5"
+        }
+      ]
     },
     {
       "id": "foglio1024.ui-remover-raid-window",
@@ -3570,7 +3922,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the raid party frames (S1UI_PartyWindowRaidInfo). Check: open that window in game."
+      "replaces": "Replaces the raid party frames (S1UI_PartyWindowRaidInfo). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.ui-remover-raid-window.S1UI_PartyWindowRaidInfo.roundtrip.gpk",
+          "sha256": "b34df800f4930b476a3e00b4cc861dcea4d4558fc81be5b3d6d04f61f2804964",
+          "size_bytes": 2235312,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_PartyWindowRaidInfo.gpk",
+          "loose_vanilla_sha256": "319ff911ea11cbe20ae30f7f76b248c8abaace4e28c3e1694eedea4516ff4472"
+        }
+      ]
     },
     {
       "id": "foglio1024.toolbox-gagebar-topscreen",
@@ -3596,7 +3959,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoMAAcAAwBSJaQAAqqQzIoAAP75yPZgByl1siBvxv/C5AAA",
-      "replaces": "Replaces the gauge bar (class resource) (S1UI_GageBar). Check: open that window in game."
+      "replaces": "Replaces the gauge bar (class resource) (S1UI_GageBar). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.toolbox-gagebar-topscreen.S1UI_GageBar.roundtrip.gpk",
+          "sha256": "5a19c2bc729f455f4fa3f3cc46a5b4c4f4ea9c6f83eb62653927022e15ad94c8",
+          "size_bytes": 85960,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageBar.gpk",
+          "loose_vanilla_sha256": "d10aad22758d89e062b48982522c9874925652684f50356401128d3de206be16"
+        }
+      ]
     },
     {
       "id": "foglio1024.badgui-loader",
@@ -3623,7 +3997,18 @@
       "target_object_path": "S1UI_UpdateNotification.UpdateNotification",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the update notification banner (S1UI_UpdateNotification). Check: open that window in game."
+      "replaces": "Replaces the update notification banner (S1UI_UpdateNotification). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.badgui-loader.S1UI_UpdateNotification.roundtrip.gpk",
+          "sha256": "4e3c0f2192f65391f9c24975edb06554be920cd663bdbec0c3a7d4949ec9c5c6",
+          "size_bytes": 5204238,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_UpdateNotification.gpk",
+          "loose_vanilla_sha256": "3bb6823410e64c698e3ce963e4bb861c4888e3ac2135bafcb2a93ce3925a398d"
+        }
+      ]
     },
     {
       "id": "foglio1024.s1ui-chat2-p75",
@@ -3649,7 +4034,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game."
+      "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.s1ui-chat2-p75.S1UI_Chat2.roundtrip.gpk",
+          "sha256": "0d01d744ae358c35e33bb8ea307224337634c0843259451a7c6cd51ea8784487",
+          "size_bytes": 4379527,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Chat2.gpk",
+          "loose_vanilla_sha256": "bfadf44e501b55649272076c861631009190e8c615ed8ec079563c17259b03e8"
+        }
+      ]
     },
     {
       "id": "taorelia.restyle-community",
@@ -3677,7 +4073,18 @@
       "compatibility_notes": "Adapted from Taorelia's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as Taorelia intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-community/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudV5CAAAP73xTGFJgFEnqEuIOabFPu2Tv1gAA==",
-      "replaces": "Replaces the LFG/community window (S1UI_CommunityWindow). Check: open that window in game."
+      "replaces": "Replaces the LFG/community window (S1UI_CommunityWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-community.S1UI_CommunityWindow.roundtrip.gpk",
+          "sha256": "82b7c739f09bb589e545479ec4a7ff1a4f72e036ae65760fd90333c28e840d8f",
+          "size_bytes": 5356456,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_CommunityWindow.gpk",
+          "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
+        }
+      ]
     },
     {
       "id": "taorelia.restyle-guild",
@@ -3705,7 +4112,18 @@
       "compatibility_notes": "Adapted from Taorelia's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as Taorelia intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-guild/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABQAQCdASoMAAcAAwBSJYwABDOAAP7yN5AfTzT761ll1Cuer232fk8XDfu2TvEAAAA=",
-      "replaces": "Replaces the guild window (S1UI_GuildWindow). Check: open that window in game."
+      "replaces": "Replaces the guild window (S1UI_GuildWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-guild.S1UI_GuildWindow.roundtrip.gpk",
+          "sha256": "4606ae5f731b9fdbd486dd6b2e601e61de8f81865ed405f7ad33f93363b6d74e",
+          "size_bytes": 12429143,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GuildWindow.gpk",
+          "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
+        }
+      ]
     },
     {
       "id": "taorelia.restyle-inventory",
@@ -3733,7 +4151,18 @@
       "compatible_arch": "x64",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-inventory/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudV5CAAAP73xTGFJgFEnqEuIOabFPu2Tv1gAA==",
-      "replaces": "Replaces the inventory window (S1UI_InventoryWindow). Check: open that window in game."
+      "replaces": "Replaces the inventory window (S1UI_InventoryWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-inventory.S1UI_InventoryWindow.roundtrip.gpk",
+          "sha256": "56d3e430b6b1a860790015e933d22c89e748531300547a5959a33a18e25ba587",
+          "size_bytes": 5732724,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InventoryWindow.gpk",
+          "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
+        }
+      ]
     },
     {
       "id": "taorelia.restyle-paperdoll",
@@ -3789,7 +4218,18 @@
       "compatibility_notes": "Adapted from Taorelia's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as Taorelia intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-warehouse/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudV5FfAAP73xTGFJgFEnqEuIOaapnzse+AAAA==",
-      "replaces": "Replaces the bank/warehouse window (S1UI_WareHouseWindow). Check: open that window in game."
+      "replaces": "Replaces the bank/warehouse window (S1UI_WareHouseWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-warehouse.S1UI_WareHouseWindow.roundtrip.gpk",
+          "sha256": "f60eab87bd24483b34226e10e1bfd0a175f748eb56c7df1435aef59cae97b96d",
+          "size_bytes": 5394705,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_WareHouseWindow.gpk",
+          "loose_vanilla_sha256": "023fe048e426da2f232fc9c9c4f80491e2d80ff21f7486e69f872c1efc3158e2"
+        }
+      ]
     },
     {
       "id": "taorelia.restyle-interaction-popup",
@@ -3817,7 +4257,18 @@
       "compatibility_notes": "Adapted from Taorelia's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as Taorelia intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-interaction-popup/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudV5EoAAP73xTGFJgFEnqEuIOabFPu2TvEAAA==",
-      "replaces": "Replaces the NPC interaction popup (S1UI_InteractionPopup). Check: open that window in game."
+      "replaces": "Replaces the NPC interaction popup (S1UI_InteractionPopup). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-interaction-popup.S1UI_InteractionPopup.roundtrip.gpk",
+          "sha256": "a5ae0fa1a757099a2b2fbe04b7b0c3cb27b669b974bc4049d6d996adf2cc5bcb",
+          "size_bytes": 4631098,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InteractionPopup.gpk",
+          "loose_vanilla_sha256": "74732f2c3226d984975320fd150f36ed54dedf2279aecb8d38c22729035bf7c0"
+        }
+      ]
     },
     {
       "id": "taorelia.restyle-production-create",
@@ -3845,7 +4296,18 @@
       "compatibility_notes": "Adapted from Taorelia's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as Taorelia intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-production-create/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudV5EoAAP73xTGFJgFEnqEuIWfrAJ/nY9rgAA==",
-      "replaces": "Replaces the crafting create popup (S1UI_ProductionCreatePopUp). Check: open that window in game."
+      "replaces": "Replaces the crafting create popup (S1UI_ProductionCreatePopUp). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taorelia.restyle-production-create.S1UI_ProductionCreatePopUp.roundtrip.gpk",
+          "sha256": "fa28a0085c950d860064f5063192f23c86caaff0d1cb447b0cf0d4a15d178c6e",
+          "size_bytes": 449002,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ProductionCreatePopUp.gpk",
+          "loose_vanilla_sha256": "48318ba2b9f141af267e84d83231a274907aa7d5f9cb07f2fc11cf15eee6c7ad"
+        }
+      ]
     },
     {
       "id": "owyn.fps-pack-postprocess",
@@ -4175,7 +4637,18 @@
       "compatibility_notes": "Adapted from CatAnnaDev's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as CatAnnaDev intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.pink-crosshair/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABQAQCdASoMAAcAAwBSJYwABDOAAP7yKxsQxb+bvPXw7XCZ/pD0xPOx7XAAAA==",
-      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game."
+      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.pink-crosshair.S1UI_Crosshair.roundtrip.gpk",
+          "sha256": "79e138228f5ea8a90294221b0ad1217b7a3cff0d91e451222e3731c7f3b0d3cb",
+          "size_bytes": 1643548,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
+          "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
+        }
+      ]
     },
     {
       "id": "catannadev.red-crosshair",
@@ -4209,7 +4682,18 @@
       "compatibility_notes": "Adapted from CatAnnaDev's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as CatAnnaDev intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.red-crosshair/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABQAQCdASoMAAcAAwBSJYwABDOAAP7yKxsQzb5vW0tgOsbO+gFP2JvbJ3iAAA==",
-      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game."
+      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.red-crosshair.S1UI_Crosshair.roundtrip.gpk",
+          "sha256": "79e138228f5ea8a90294221b0ad1217b7a3cff0d91e451222e3731c7f3b0d3cb",
+          "size_bytes": 1643548,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
+          "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
+        }
+      ]
     },
     {
       "id": "catannadev.pink-hp-bar",
@@ -4374,7 +4858,18 @@
       "compatibility_notes": "Adapted from CatAnnaDev's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as CatAnnaDev intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.pink-loading-progress/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAcAAwBSJYwAAudUyG4AAP73xTGFIuvSyI/mHzw17H3ILzse1wAA",
-      "replaces": "Replaces the loading screen progress bar (S1UI_LoadingProgress). Check: open that window in game."
+      "replaces": "Replaces the loading screen progress bar (S1UI_LoadingProgress). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.pink-loading-progress.S1UI_LoadingProgress.roundtrip.gpk",
+          "sha256": "40fced858f17570d3684cba7d2ca8c9431b60fa02324ff5dffd8c72794d2cca9",
+          "size_bytes": 268985,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_LoadingProgress.gpk",
+          "loose_vanilla_sha256": "9600a0521816181c08877bf5ef1f638b5920389167b52cbbd2f332ab998fcf8d"
+        }
+      ]
     },
     {
       "id": "catannadev.red-loading-progress",
@@ -4407,7 +4902,18 @@
       "compatibility_notes": "Adapted from CatAnnaDev's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as CatAnnaDev intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.red-loading-progress/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAcAAwBSJYwAAudf/I/mgAD+98UxhSLr0siP5+kBg1Kmd+2TvEAA",
-      "replaces": "Replaces the loading screen progress bar (S1UI_LoadingProgress). Check: open that window in game."
+      "replaces": "Replaces the loading screen progress bar (S1UI_LoadingProgress). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/catannadev.red-loading-progress.S1UI_LoadingProgress.roundtrip.gpk",
+          "sha256": "40fced858f17570d3684cba7d2ca8c9431b60fa02324ff5dffd8c72794d2cca9",
+          "size_bytes": 268985,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_LoadingProgress.gpk",
+          "loose_vanilla_sha256": "9600a0521816181c08877bf5ef1f638b5920389167b52cbbd2f332ab998fcf8d"
+        }
+      ]
     },
     {
       "id": "teralove.remove-artisan-icons",
@@ -4467,7 +4973,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from merusira's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as merusira intended.",
       "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAYAAwBSJbACdADcSxSaBAAA+RFZb3ywko2jj5oNJMn1vMR9qWMbHkvMHv6hhc6UBWi8TLhCrMxTP/iVCFDfxXc47H9SfKXAFgAA",
-      "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game."
+      "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/merusira.atlas-clean-onscreen-messages.S1UI_Message.roundtrip.gpk",
+          "sha256": "7258b146ab918bcd22ecd437cced940b710193d4ca4716bd950ea280c0deec48",
+          "size_bytes": 16145944,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Message.gpk",
+          "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
+        }
+      ]
     },
     {
       "id": "pantypon.cheerleader-shorts",
@@ -5312,7 +5829,18 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoMAAYAAwBSJQBOgBB6oAD+nufVkiJ0awDcwpt5NnrrLSIQcptyuAAA",
-      "replaces": "Replaces the TERA Rewards / benefit window (S1UI_Benefit). Check: open that window in game."
+      "replaces": "Replaces the TERA Rewards / benefit window (S1UI_Benefit). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.hana-reward-tier.S1UI_Benefit.roundtrip.gpk",
+          "sha256": "c32a4245945b91e91a3d62926fb5c837fad8dc4e5811b85ae633333e2d5b0686",
+          "size_bytes": 379214,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Benefit.gpk",
+          "loose_vanilla_sha256": "57130ccf58a64bb5bf115b626995a0f03439efa1fe647a7459b28f8548666c7e"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-boss-hp-bar",
@@ -5348,7 +5876,18 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_0.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAADQAQCdASoMAAIAAwBSJZACw7EVzze0AAD+dYVV0JAWM/Wr/ZxAAA==",
-      "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game."
+      "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-boss-hp-bar.S1UI_GageBoss.roundtrip.gpk",
+          "sha256": "350670a79efe4ca54e50d9ed0e2ea07999cb6236762cdec3d835f4cabab37b22",
+          "size_bytes": 2406643,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageBoss.gpk",
+          "loose_vanilla_sha256": "79cb184c155b4732f1d4362e68500ee39541091e576bae5ec188c118423ac6f7"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-chat-window",
@@ -5384,7 +5923,18 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoMAAUAAwBSJQBdgB5vNRYAAPhTu/UQUrPk/VnpwAA=",
-      "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game."
+      "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-chat-window.S1UI_Chat2.roundtrip.gpk",
+          "sha256": "c9be18abcdbff9dbd3f78e14ff1142d8225d18edfcfd32d5c91c621b5c746111",
+          "size_bytes": 4404343,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Chat2.gpk",
+          "loose_vanilla_sha256": "bfadf44e501b55649272076c861631009190e8c615ed8ec079563c17259b03e8"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-controller-ui",
@@ -5422,7 +5972,18 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABwAQCdASoMAAcAAwBSJZQCdAFAAAD+7I3ZrQsXgc1u/9aZLZzbM5LFV82JgJ1bSZaoXKAA",
-      "replaces": "Replaces the controller shortcut UI (S1UI_GameControllerShortCut). Check: open that window in game."
+      "replaces": "Replaces the controller shortcut UI (S1UI_GameControllerShortCut). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-controller-ui.S1UI_GameControllerShortCut.roundtrip.gpk",
+          "sha256": "c107b21a252a7f7990fa907fe097cc1eff34342ec0396521b547fb7ed72a7296",
+          "size_bytes": 4310225,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GameControllerShortCut.gpk",
+          "loose_vanilla_sha256": "2f051ed9298882226a58542a4d1117d5e6fa44b1bf80b84c9e9bf20240e735ac"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-heart-hp-mp",
@@ -5494,7 +6055,18 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_3.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAwAgCdASoMAAsAAwBSJbACdLoAAwkShkVmkAD+3rj8g9MK+V71WuzsYfd+LAAInkyyKeAA",
-      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game."
+      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-hearts-crosshair.S1UI_Crosshair.roundtrip.gpk",
+          "sha256": "2aebbde33d016949227ccaac001dc59f89b6cb2fc815e1890c593604f37e7d93",
+          "size_bytes": 633303,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
+          "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-party-member-hp-bar",
@@ -5527,7 +6099,18 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAkAAwBSJaACdADch+fl0AD+h7a9ZKYcVmrWJgew0MFb7Ir0naM27S77pz7SEyeVq81BsxDjFvkAAAA=",
-      "replaces": "Replaces the monster HP gauge above enemies (S1UI_GageMonsterHp). Check: open that window in game."
+      "replaces": "Replaces the monster HP gauge above enemies (S1UI_GageMonsterHp). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-party-member-hp-bar.S1UI_GageMonsterHp.roundtrip.gpk",
+          "sha256": "97b2a51d1fd93264e8b0f76218660535fce9aae652860f562549ac4666045b1d",
+          "size_bytes": 1105964,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageMonsterHp.gpk",
+          "loose_vanilla_sha256": "8390843152423d89a7d4f3802df2066d6e98e3f8127457990eb7355be27570f7"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-skill-slots-main",
@@ -5560,7 +6143,18 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA=",
-      "replaces": "Replaces the main skill/quickslot bar (S1UI_TestQuickSlot). Check: open that window in game."
+      "replaces": "Replaces the main skill/quickslot bar (S1UI_TestQuickSlot). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-main.S1UI_TestQuickSlot.roundtrip.gpk",
+          "sha256": "039a430b20d6cd14b710374d0da42bb73bff6e08367a1d88de9d226abd22d076",
+          "size_bytes": 1312271,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TestQuickSlot.gpk",
+          "loose_vanilla_sha256": "6e3f9be2e8bc6d71fc46f27cfac61bee9b4db6e2366b40adacec41bf94e487c6"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-skill-slots-ex",
@@ -5593,7 +6187,18 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA=",
-      "replaces": "Replaces the extra quickslot bar 1 (S1UI_TestQuickSlotEx). Check: open that window in game."
+      "replaces": "Replaces the extra quickslot bar 1 (S1UI_TestQuickSlotEx). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-ex.S1UI_TestQuickSlotEx.roundtrip.gpk",
+          "sha256": "0121fc2bfde65025e819944fc45d5bc0a55e5599a59106390bebaad1dc073696",
+          "size_bytes": 1289952,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TestQuickSlotEx.gpk",
+          "loose_vanilla_sha256": "581ddc75438764c7d0450ebe309160d0105be5d7ffb169c18b5c98f1cfc89bdd"
+        }
+      ]
     },
     {
       "id": "pantypon.pink-skill-slots-ex2",
@@ -5626,7 +6231,18 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA=",
-      "replaces": "Replaces the extra quickslot bar 2 (S1UI_TestQuickSlotEx2). Check: open that window in game."
+      "replaces": "Replaces the extra quickslot bar 2 (S1UI_TestQuickSlotEx2). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-ex2.S1UI_TestQuickSlotEx2.roundtrip.gpk",
+          "sha256": "f6cae257e971c64b949e0b33cab19dfbdb37665c48403f8f8d2e24142edeecac",
+          "size_bytes": 1296700,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TestQuickSlotEx2.gpk",
+          "loose_vanilla_sha256": "e7030062c100b10ac5a097d7e1ca67012c2cabac6ac9a5125eaa2a475251b405"
+        }
+      ]
     },
     {
       "id": "pantypon.static-heart-crosshair",
@@ -5662,7 +6278,18 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_2.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACQAQCdASoMAAoAAwBSJZwAAuUt8gAA/vd5+78ONqkIVZLwAAA=",
-      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game."
+      "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.static-heart-crosshair.S1UI_Crosshair.roundtrip.gpk",
+          "sha256": "f960ede1f8e429429b3fd3a5bdce375892f8bf6c6f190f70a7cd431d803a2be5",
+          "size_bytes": 105138,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
+          "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
+        }
+      ]
     },
     {
       "id": "pantypon.yunicorn-defense-pop-up",
@@ -5695,7 +6322,18 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoIAAwAAwBSJbACdAD0PPEReAAA/k9Tw8NXikYgeHwLNw303qD8yhpuwLdf/2SwS0mvPZPLB0XKM/1tqSm+MJ0GwS3AAA==",
-      "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game."
+      "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.yunicorn-defense-pop-up.S1UI_Message.roundtrip.gpk",
+          "sha256": "e646dda3514a53dbee0d6b1299b3943a08d4b76d70f20c2f70d76702197c187e",
+          "size_bytes": 16058289,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Message.gpk",
+          "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
+        }
+      ]
     },
     {
       "id": "pantypon.archer-pink-slingshot",
@@ -6348,7 +6986,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the LFG/community window (S1UI_CommunityWindow). Check: open that window in game."
+      "replaces": "Replaces the LFG/community window (S1UI_CommunityWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-community-window.S1UI_CommunityWindow.roundtrip.gpk",
+          "sha256": "82b7c739f09bb589e545479ec4a7ff1a4f72e036ae65760fd90333c28e840d8f",
+          "size_bytes": 5356456,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_CommunityWindow.gpk",
+          "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-ep-window",
@@ -6380,7 +7029,18 @@
       "target_object_path": "S1UI_EpWindow.EpWindow",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the EP (talent) window (S1UI_EpWindow). Check: open that window in game."
+      "replaces": "Replaces the EP (talent) window (S1UI_EpWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-ep-window.S1UI_EpWindow.roundtrip.gpk",
+          "sha256": "432acd27aa22ad050b00408e16d3ae9a5e0eb858c2864a3744d0a6c1035a1713",
+          "size_bytes": 8082486,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_EpWindow.gpk",
+          "loose_vanilla_sha256": "26241b7871e10a6406e98ccc144e3d2b0ee590ce84c7d1f2c18405130ad537e1"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-equipment-combine",
@@ -6412,7 +7072,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the item merge window (S1UI_EquipmentCombine). Check: open that window in game."
+      "replaces": "Replaces the item merge window (S1UI_EquipmentCombine). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-equipment-combine.S1UI_EquipmentCombine.roundtrip.gpk",
+          "sha256": "654c5eb9f0158fb4b4079c9b0599ab9b17ecb34aa06a3045f53bbaddb41a92c6",
+          "size_bytes": 4961629,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_EquipmentCombine.gpk",
+          "loose_vanilla_sha256": "6c94d59f54d29924439607a853b6b6384b94771678333f2538b9d03b8bfc8a5f"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-equipment-upgrade",
@@ -6444,7 +7115,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the enchanting window (S1UI_EquipmentUpgrade). Check: open that window in game."
+      "replaces": "Replaces the enchanting window (S1UI_EquipmentUpgrade). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-equipment-upgrade.S1UI_EquipmentUpgrade.roundtrip.gpk",
+          "sha256": "a840787b036995dda8d6a9c06a15deb015bb3734e3ae717cde7361598194f52f",
+          "size_bytes": 7690136,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_EquipmentUpgrade.gpk",
+          "loose_vanilla_sha256": "7b4a15f8ac4465de9e2d41c4536cfccb13ca5ffedcc17648cac82837994081f7"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-guild-window",
@@ -6476,7 +7158,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the guild window (S1UI_GuildWindow). Check: open that window in game."
+      "replaces": "Replaces the guild window (S1UI_GuildWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-guild-window.S1UI_GuildWindow.roundtrip.gpk",
+          "sha256": "03237a841ab0e3fb4ee7e464abfca050f30162b97485baeec87751329e12ccd6",
+          "size_bytes": 10192356,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GuildWindow.gpk",
+          "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-interaction-popup",
@@ -6508,7 +7201,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the NPC interaction popup (S1UI_InteractionPopup). Check: open that window in game."
+      "replaces": "Replaces the NPC interaction popup (S1UI_InteractionPopup). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-interaction-popup.S1UI_InteractionPopup.roundtrip.gpk",
+          "sha256": "a5ae0fa1a757099a2b2fbe04b7b0c3cb27b669b974bc4049d6d996adf2cc5bcb",
+          "size_bytes": 4631098,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InteractionPopup.gpk",
+          "loose_vanilla_sha256": "74732f2c3226d984975320fd150f36ed54dedf2279aecb8d38c22729035bf7c0"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-minimap",
@@ -6540,7 +7244,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the minimap (S1UI_MiniMap). Check: open that window in game."
+      "replaces": "Replaces the minimap (S1UI_MiniMap). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-minimap.S1UI_MiniMap.roundtrip.gpk",
+          "sha256": "5716b31991f3716d60310094ace21851857bf14f7612d66c3f3ea4abce47949e",
+          "size_bytes": 5076563,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_MiniMap.gpk",
+          "loose_vanilla_sha256": "e406ee5fcfaa1aed0ac7074e2c9b5a4cf1edb97b3569a6df3c81a69fcc68bc49"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-parcel-post-log",
@@ -6572,7 +7287,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the parcel post log (S1UI_ParcelPostLog). Check: open that window in game."
+      "replaces": "Replaces the parcel post log (S1UI_ParcelPostLog). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-parcel-post-log.S1UI_ParcelPostLog.roundtrip.gpk",
+          "sha256": "d4455afce8aa200f374c9d759fbb9ba3ca656db542794636d6afe9803e020a2b",
+          "size_bytes": 5320614,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ParcelPostLog.gpk",
+          "loose_vanilla_sha256": "8e93f7a5519373fa1da0d3a7d456853bd5ae4bb5b6da5aea6b1a52c823601487"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-production-create",
@@ -6604,7 +7330,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the crafting create popup (S1UI_ProductionCreatePopUp). Check: open that window in game."
+      "replaces": "Replaces the crafting create popup (S1UI_ProductionCreatePopUp). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-production-create.S1UI_ProductionCreatePopUp.roundtrip.gpk",
+          "sha256": "70d69df7b45bcee347522f8e13707bb00ab57e248768812b12dd8b03bafb0e8b",
+          "size_bytes": 402679,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ProductionCreatePopUp.gpk",
+          "loose_vanilla_sha256": "48318ba2b9f141af267e84d83231a274907aa7d5f9cb07f2fc11cf15eee6c7ad"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-production-list",
@@ -6636,7 +7373,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the crafting list window (S1UI_ProductionList). Check: open that window in game."
+      "replaces": "Replaces the crafting list window (S1UI_ProductionList). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-production-list.S1UI_ProductionList.roundtrip.gpk",
+          "sha256": "1d34f8f1d43bf7f525e5d7538735853148292a3053130830a87e9cd403bc34f7",
+          "size_bytes": 4541792,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ProductionList.gpk",
+          "loose_vanilla_sha256": "53c0aecba0f5b72fc0bfebb8ce56fd0a76d7727f4fd081088393d78cc7a872bf"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-servant-storage",
@@ -6700,7 +7448,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the vendor store window (S1UI_StoreWindow). Check: open that window in game."
+      "replaces": "Replaces the vendor store window (S1UI_StoreWindow). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-store-window.S1UI_StoreWindow.roundtrip.gpk",
+          "sha256": "3c7ccfcc7d13aef645d1e125cb525b1ac9ad0c459341827dc9cb1f07bc0b9010",
+          "size_bytes": 5153528,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_StoreWindow.gpk",
+          "loose_vanilla_sha256": "dcd396150dbfa0374f4295c8ed9aebb57b82d2c5ebf062d56f0a0d9d7ca100a2"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-system-option",
@@ -6732,7 +7491,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the system options window (S1UI_SystemOption). Check: open that window in game."
+      "replaces": "Replaces the system options window (S1UI_SystemOption). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-system-option.S1UI_SystemOption.roundtrip.gpk",
+          "sha256": "bf98fcfdd9eaabf4ce5be0140b0bb08e2e43cb4281ba930854cda57610504ce2",
+          "size_bytes": 4404610,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_SystemOption.gpk",
+          "loose_vanilla_sha256": "ddc84364bcadd34732f3edd703f6e1d2b332c83135ea4fed71a97e0af436b434"
+        }
+      ]
     },
     {
       "id": "foglio1024.modern-ui-trade-popup",
@@ -6764,7 +7534,18 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the player trade window (S1UI_TradePopup). Check: open that window in game."
+      "replaces": "Replaces the player trade window (S1UI_TradePopup). Check: open that window in game.",
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/foglio1024.modern-ui-trade-popup.S1UI_TradePopup.roundtrip.gpk",
+          "sha256": "871e1adbc883df2789a45a4b1547f00bd0012e70466184b273189a83377b2831",
+          "size_bytes": 4359114,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TradePopup.gpk",
+          "loose_vanilla_sha256": "1eff1bca0c9b521e5204b967de65b70b14952d770d3b39930d24452002698e14"
+        }
+      ]
     },
     {
       "id": "saltymonkey.instant-join-tba-mode",
