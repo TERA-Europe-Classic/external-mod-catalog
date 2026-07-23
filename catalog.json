@@ -1,5 +1,5 @@
 {
-  "version": 110,
+  "version": 111,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -1115,12 +1115,12 @@
       "id": "mtforum.turquoise",
       "kind": "gpk",
       "name": "Turquoise",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Pantypon",
       "short_description": "Turquoise — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Turquoise: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/175317535545/elin-face-8-adornment-5) — matched to the original release post; file preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Turquoise.gpk",
       "sha256": "cd4cc3272e27ea02563e03176ec350eac3f169d9658aa1e25a312b1eab33bad6",
@@ -1142,7 +1142,12 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoMAAwAAwBSJQBdgMVzzym1P0+80hgA4UlfnR2aJsTJ9p/GAvO4MFBcCk9f/Oqg3xvT1g8X5gJSYirK0dj1Kb6bZNg+TgXtJge7GsYnji2t4yQE0k8AAA=="
+      "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKAAwAAwBSJYgCdH8AGYXG/jZBCCIA9r0t6j35eCRPBwupAsym/sfe3JSVgEfpHv5SmURKMBtr6Ur9RaSI3Nd9P1nRLiK8s8QGdsEB8zCWZA7GJdfm7dGuAAA=",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/shot_2.webp"
+      ],
+      "source_url": "https://pantypon.tumblr.com/post/175317535545/elin-face-8-adornment-5"
     },
     {
       "id": "mtforum.hearteyes",
@@ -1247,12 +1252,12 @@
       "id": "mtforum.pink-eyes",
       "kind": "gpk",
       "name": "Pink eyes",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Pantypon",
       "short_description": "Pink eyes — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Pink eyes: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/157058672420/elin-face-12-adornment-1) — matched to the original release post; file preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Pink_eyes.gpk",
       "sha256": "88df41c28481e5144e4471037803518009151a85728205e164b1369f1da483e5",
@@ -1274,7 +1279,13 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoMAAwAAwBSJYgCdACUME/cAP71/WJYqpK5sJ4S++j/RhgdsjEFzX4OO1Weh7//sixT0/WCIPfZEVwnKcOPSDLK9BcPaBLAawAAAA=="
+      "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoIAAwAAwBSJagCdADzdcUDAAD+9ONvDr6JublneVolAVceIA/+sA18OQDKEXNsTDww8IN8PCU1DCO74tOgAmMtM+MPQAAA",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_3.webp"
+      ],
+      "source_url": "https://pantypon.tumblr.com/post/157058672420/elin-face-12-adornment-1"
     },
     {
       "id": "mtforum.sunset",
@@ -2171,12 +2182,12 @@
       "id": "mtforum.cotton-candy",
       "kind": "gpk",
       "name": "COTTON CANDY",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Pantypon",
       "short_description": "COTTON CANDY — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "COTTON CANDY: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/152163569750/cotton-candy-face-8-adornment) — matched to the original release post; file preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/COTTON_CANDY.gpk",
       "sha256": "f7faa2f9d7226662e41219ef05c04f3fc2bf59bd986452f5075d398641b12ae0",
@@ -2198,7 +2209,8 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cotton-candy/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cotton-candy/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAwAAwBSJYwCdAEDV4FYI0AA/vX9YltG0aJO7pflo3MaZFy+6l6lUaATC4KdAuPPE2cmTzNhEX2GPDt7UjwKS2VwMgdk884sAAAA"
+      "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoMAAcAAwBSJQBdgBsywpAAAP7WGirjs+4HVbVO+GcFygh1Yqba28Aax2tlGYNUgdVj6IsFD2dK6TTAAAA=",
+      "source_url": "https://pantypon.tumblr.com/post/152163569750/cotton-candy-face-8-adornment"
     },
     {
       "id": "mtforum.cosmic-nurse",
