@@ -1,5 +1,5 @@
 {
-  "version": 87,
+  "version": 88,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -568,7 +568,8 @@
       "deploy_strategy": "tmm",
       "gpk_files": [
         "Kitty_Socks.gpk"
-      ]
+      ],
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/norukjerky.kitty-socks/cover.png"
     },
     {
       "id": "novatera.sailor-moon-hp",
