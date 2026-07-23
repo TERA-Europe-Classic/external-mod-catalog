@@ -1,5 +1,5 @@
 {
-  "version": 40,
+  "version": 41,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -6559,6 +6559,38 @@
       "compatibility_notes": "Catalog data quality issue: URL points to remove_TeraRewards/S1UI_Benefit.gpk but the file is a ProgressBar/FlightGauge mod (only ProgressBar_I* exports, no Benefit widget). Target widget S1UI_Benefit.Benefit doesn't exist in v100 PkgMapper either. Cannot be auto-ported. Marked compatible_arch=x32. Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "target_object_path": "S1UI_ProgressBar.ProgressBar",
       "compatible_arch": "x64"
+    },
+    {
+      "id": "artexlib.white-valkyrie-helmet",
+      "kind": "gpk",
+      "name": "White Valkyrie Helmet (PinkValkyrieHelmet)",
+      "author": "artexlib",
+      "short_description": "White recolor of the Valkyrie helmet.",
+      "long_description": "White recolor of the Valkyrie helmet.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
+      "category": "cosmetic",
+      "license": "Unknown",
+      "credits": "Published by artexlib at https://github.com/artexlib/custom-gpks. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "2026-04",
+      "download_url": "https://raw.githubusercontent.com/artexlib/custom-gpks/main/PinkValkyrieHelmet.gpk",
+      "sha256": "3cc1c560d7a11feb99e78d939cbcb51ce86fd3cd7d8976e04ba3bf369a4cd497",
+      "size_bytes": 6151436,
+      "source_url": "https://github.com/artexlib/custom-gpks",
+      "target_patch": "v32.04",
+      "composite_flag": true,
+      "gpk_files": [
+        "PinkValkyrieHelmet.gpk"
+      ],
+      "tags": [
+        "classic-era",
+        "cosmetic",
+        "artexlib"
+      ],
+      "compatibility_notes": "Internal composite UID identifies this as a Acc_262.Skel.Switch_Aman_M_Hair03_262 override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
+      "updated_at": "2026-05-02T01:00:00Z",
+      "target_object_path": "Acc_262.Skel.Switch_Aman_M_Hair03_262",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PinkValkyrieHelmet.gpk",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/artexlib.white-valkyrie-helmet/cover.png"
     }
   ]
 }
