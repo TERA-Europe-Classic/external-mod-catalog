@@ -1,5 +1,5 @@
 {
-  "version": 41,
+  "version": 42,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -6591,6 +6591,38 @@
       "deploy_strategy": "dropin",
       "target_dropin_filename": "PinkValkyrieHelmet.gpk",
       "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/artexlib.white-valkyrie-helmet/cover.png"
+    },
+    {
+      "id": "artexlib.gray-college-backpack",
+      "kind": "gpk",
+      "name": "Gray College Backpack (GucciBackpack)",
+      "author": "artexlib",
+      "short_description": "Gray college-style backpack (\"Gucci backpack\") cosmetic.",
+      "long_description": "Gray college-style backpack (\"Gucci backpack\") cosmetic.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
+      "category": "cosmetic",
+      "license": "Unknown",
+      "credits": "Published by artexlib at https://github.com/artexlib/custom-gpks. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "2026-04",
+      "download_url": "https://raw.githubusercontent.com/artexlib/custom-gpks/main/GucciBackpack.gpk",
+      "sha256": "65f62401e7c9b8d56b5732f3be19f8f07c724713f1b76db24229eb98f13e24a2",
+      "size_bytes": 1186667,
+      "source_url": "https://github.com/artexlib/custom-gpks",
+      "target_patch": "v32.04",
+      "composite_flag": true,
+      "gpk_files": [
+        "GucciBackpack.gpk"
+      ],
+      "tags": [
+        "classic-era",
+        "cosmetic",
+        "artexlib"
+      ],
+      "compatibility_notes": "Internal composite UID identifies this as a Acc_403.Skel.Attach_403_skel override (GPK filename is misleading; auto-detected via inspect-gpk-resources).",
+      "updated_at": "2026-05-02T01:00:00Z",
+      "target_object_path": "Acc_403.Skel.Attach_403_skel",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "GucciBackpack.gpk",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/artexlib.gray-college-backpack/cover.png"
     }
   ]
 }
