@@ -1,5 +1,5 @@
 {
-  "version": 90,
+  "version": 91,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -689,7 +689,8 @@
       "deploy_strategy": "tmm",
       "gpk_files": [
         "gunner_mambo.gpk"
-      ]
+      ],
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/htmslf.gunner-mambo-dash/cover.png"
     },
     {
       "id": "novatera.jp-voice-pack",
@@ -786,7 +787,8 @@
           "target_loose_path": "Sound_Data/Packages/PCVoice/PCMale_Voice03.gpk",
           "loose_vanilla_sha256": "dbfc60def45929e15e624dd4ddb823f44b345299da375973fc8d766250b9b4d2"
         }
-      ]
+      ],
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/novatera.jp-voice-pack/cover.png"
     },
     {
       "id": "mtforum.strawberry-melody-2-5",
