@@ -1,5 +1,5 @@
 {
-  "version": 99,
+  "version": 100,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -24,7 +24,7 @@
       "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers",
       "last_verified_patch": "patch 115",
       "download_count": 0,
-      "featured_image": "https://opengraph.githubassets.com/f74bbdae35109761fee958a44abdcd4426e2032537de0e336934dde7a336ff03/TERA-Europe-Classic/ShinraMeter"
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/classicplus.shinra/cover.png"
     },
     {
       "id": "classicplus.tcc",
@@ -45,7 +45,7 @@
       "auto_launch_default": true,
       "settings_folder": "%APPDATA%/TCC",
       "updated_at": "2026-07-20T10:05:00Z",
-      "featured_image": "https://opengraph.githubassets.com/1/TERA-Europe-Classic/TCC",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/classicplus.tcc/cover.png",
       "tagline": "Custom cooldowns, boss gauges and party UI",
       "last_verified_patch": "patch 115",
       "download_count": 0
@@ -376,7 +376,7 @@
         "S1UI_Message.gpk"
       ],
       "tagline": "No more center-screen message spam",
-      "featured_image": "https://opengraph.githubassets.com/1/SaltyMonkey/tera-online-clean-onscreen-messages",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/salty.clean-onscreen-messages/cover.png",
       "tags": [
         "ui",
         "quality-of-life",
@@ -2265,7 +2265,7 @@
         "reverse-engineering",
         "tera"
       ],
-      "featured_image": "https://opengraph.githubassets.com/5ed01d9ca215ad851b9adf31c1f75d0c8ac4f780abf54dc1aa66442a54ee05a7/neowutran/S1UI_chat2",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/neowutran.s1ui-chat2/cover.png",
       "target_object_path": "S1UI_Chat2.Chat2",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2295,7 +2295,7 @@
         "tera-online",
         "tera-toolbox"
       ],
-      "featured_image": "https://opengraph.githubassets.com/f7149505b2f1b71a127bd2d6c3f1f342cb806cdf5725d9d15b59a03b517acfd3/SaltyMonkey/tera-online-centered-clean-onscreen-messages",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/saltymonkey.message-centered/cover.png",
       "target_object_path": "S1UI_Message.Message",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2325,7 +2325,7 @@
         "tera-toolbox",
         "tera-toolbox-mods"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d8a569abe5982da299c23afbdf2f908fe409628d01b39d31c0800d19bd864267/SaltyMonkey/tera-online-fixed-overlay-map",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/saltymonkey.overlaymap-fixed/cover.png",
       "target_object_path": "S1UI_OverlayMap2.OverlayMap2",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2355,7 +2355,7 @@
         "tera-online",
         "tera-toolbox"
       ],
-      "featured_image": "https://opengraph.githubassets.com/e93395d33789bd10b48a45e6a625d4ad690313ba3a735d8e232c647cc55d57aa/SaltyMonkey/tera-online-extended-boss-bar",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/saltymonkey.gageboss-extended/cover.png",
       "target_object_path": "S1UI_GageBoss.GageBoss",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2385,7 +2385,7 @@
         "tera-online",
         "tera-toolbox"
       ],
-      "featured_image": "https://opengraph.githubassets.com/01e6de82337b9dcbd0d2375a4ded5e154954540840ebee97387c5b69f5732e38/SaltyMonkey/tera-online-clean-character-bar",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/saltymonkey.characterwindow-clean/cover.png",
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2418,7 +2418,7 @@
         "tera-mods",
         "tera-online"
       ],
-      "featured_image": "https://opengraph.githubassets.com/b8b9a80248441563c113e3a8a9cada696241ea72476ce2db79cd55fb2918a5f9/teralove/TERA-UI-Mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/teralove.partywindowraidinfo/cover.png",
       "target_object_path": "S1UI_PartyWindowRaidInfo.PartyWindowRaidInfo",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2451,7 +2451,7 @@
         "tera-mods",
         "tera-online"
       ],
-      "featured_image": "https://opengraph.githubassets.com/b8b9a80248441563c113e3a8a9cada696241ea72476ce2db79cd55fb2918a5f9/teralove/TERA-UI-Mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/teralove.targetinfo/cover.png",
       "compatibility_notes": "Targets PartyWindowRaidInfo widget; foglio's modded GPK has 17 internal Texture2D exports that need a per-export port pipeline (not just SWF splice). Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "target_object_path": "S1UI_TargetInfo.TargetInfo",
       "compatible_arch": "x64"
@@ -3380,7 +3380,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taorelia.restyle-community/cover.png",
       "target_object_path": "S1UI_CommunityWindow.CommunityWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3405,7 +3405,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taorelia.restyle-guild/cover.png",
       "target_object_path": "S1UI_GuildWindow.GuildWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3430,7 +3430,7 @@
       "updated_at": "2026-05-02T01:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taorelia.restyle-inventory/cover.png",
       "target_object_path": "S1UI_InventoryWindow.Inventory",
       "compatibility_notes": "Modded GPK has internal export named 'Inventory' (no _dup suffix) but contains 50 Inventory_I* texture exports — would need a per-texture port pipeline beyond --gfx-swap scope. Marked compatible_arch=x32 so the launcher UI surfaces an incompatible badge.",
       "compatible_arch": "x64"
@@ -3455,7 +3455,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taorelia.restyle-paperdoll/cover.png",
       "target_object_path": "S1UI_PaperDoll.PaperDoll",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3480,7 +3480,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taorelia.restyle-warehouse/cover.png",
       "target_object_path": "S1UI_WareHouseWindow.WareHouseWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3505,7 +3505,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taorelia.restyle-interaction-popup/cover.png",
       "target_object_path": "S1UI_InteractionPopup.InteractionPopup",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3530,7 +3530,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TERA UI windows restyled usingy a modern look.",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e84486ddab4c59857f58fd68cb397d79d539152598fde88cd2378127cb300d83/Taorelia/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taorelia.restyle-production-create/cover.png",
       "target_object_path": "S1UI_ProductionCreatePopUp.ProductionCreatePopUp",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3560,7 +3560,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-postprocess/cover.png",
       "compatibility_notes": "PostProcess package doesn't exist in v100 PkgMapper (renamed to S1_Technique.PostProcessNesting.* in newer client).",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "PostProcess.gpk"
@@ -3590,7 +3590,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-enchant/cover.png",
       "compatibility_notes": "Modded GPK targets a single StaticMesh (SM) export but foglio's source GPK doesn't have a matching named export — likely a bytewise-different format.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Enchant.gpk"
@@ -3620,7 +3620,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-awaken-archer/cover.png",
       "compatibility_notes": "Same as fps-pack-fx-enchant: modded source has SM export with mismatched name to vanilla's SM.<class>_<...>_SM_dup.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Awaken_Archer.gpk"
@@ -3650,7 +3650,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-awaken-berserker/cover.png",
       "compatibility_notes": "Same as fps-pack-fx-enchant.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Awaken_Berserker.gpk"
@@ -3680,7 +3680,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-awaken-sorcerer/cover.png",
       "compatibility_notes": "Same as fps-pack-fx-enchant.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Awaken_Sorcerer.gpk"
@@ -3710,7 +3710,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-awaken-priest/cover.png",
       "compatibility_notes": "Same as fps-pack-fx-enchant.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Awaken_Priest.gpk"
@@ -3740,7 +3740,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-awaken-lancer/cover.png",
       "compatibility_notes": "Same as fps-pack-fx-enchant.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Awaken_Lancer.gpk"
@@ -3770,7 +3770,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-awaken-slayer/cover.png",
       "compatibility_notes": "Same as fps-pack-fx-enchant.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Awaken_Slayer.gpk"
@@ -3800,7 +3800,7 @@
         "tera-online",
         "tera-proxy"
       ],
-      "featured_image": "https://opengraph.githubassets.com/d013c722385e64a0f98657bec86b5e3c4387f95eb13782001e83d79bfb8c0641/Owyn/fps-pack",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/owyn.fps-pack-fx-awaken-warrior/cover.png",
       "compatibility_notes": "Same as fps-pack-fx-enchant.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "FX_Awaken_Warrior.gpk"
@@ -3830,7 +3830,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/3a1e38845c1476b1076b976c77d39be317514417fc8dc3aa02cc0e5876c522ce/CatAnnaDev/Pink-crossair",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.pink-crosshair/cover.png",
       "target_object_path": "S1UI_Crosshair.Crosshair",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3861,7 +3861,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/ad65b9e48d0cc9db7be43a35349484576db999952107ab9cd52eb002601bb7a7/CatAnnaDev/Red-crosshair",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.red-crosshair/cover.png",
       "target_object_path": "S1UI_Crosshair.Crosshair",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3891,7 +3891,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/a949580004e33b477cb770ea2b85a5931eb60e14addd9ef80c86d6d7d6eaad0d/CatAnnaDev/Pink-Hp-bar",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.pink-hp-bar/cover.png",
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3921,7 +3921,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/e35fe73068ddc7f5616a59aa5b6aeaf388191133bf92b085e473a42fe95a3a95/CatAnnaDev/Colored-hp-bar",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.colored-hp-bar/cover.png",
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3951,7 +3951,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/8e5ba7740658edecc958f951e59d7aa182657f1841f5c6b4e4a3cdb72ae53fbf/CatAnnaDev/Colored-hp-bar-2",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.colored-hp-bar-2/cover.png",
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3981,7 +3981,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/20905a1394d93f393fa8abefb63fd57d697b14861901149bd0526f2163a206d2/CatAnnaDev/Yellow-Orange-hp-bar",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.yellow-orange-hp-bar/cover.png",
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -4011,7 +4011,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/0090718ec2f3ef6cc9ea2f00b256dc62696a90eaebb6c11db6096c6afc2e992f/CatAnnaDev/Pink-LoadingProgress",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.pink-loading-progress/cover.png",
       "target_object_path": "S1UI_LoadingProgress.LoadingProgress",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -4041,7 +4041,7 @@
         "tera-proxy",
         "tera-ui"
       ],
-      "featured_image": "https://opengraph.githubassets.com/1d1c574a3b2ecab16d0cdc77eec8d0a8b84c96fd0b0c0a17b06e8c27ae815c1c/CatAnnaDev/Red-LoadingProgress",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/catannadev.red-loading-progress/cover.png",
       "target_object_path": "S1UI_LoadingProgress.LoadingProgress",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -4547,7 +4547,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TeraMods made by TSwift",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/c5071f8acf3523d20d80b94baa46ff52f9c1a03eb32828cd423d901eba71c00c/TheTaylorSwiftOfModding/TeraMods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taylorswiftmodding.bunny-chu-mount/cover.png",
       "target_object_path": "Vehicle_BunnyInTheMoon.Skel.Vehicle_BunnyInTheMoon_Gold_Skel",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -4772,7 +4772,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "TeraMods made by TSwift",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/c5071f8acf3523d20d80b94baa46ff52f9c1a03eb32828cd423d901eba71c00c/TheTaylorSwiftOfModding/TeraMods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/taylorswiftmodding.blacker-bow/cover.png",
       "target_object_path": "Acc_298.Skel.Attach_298_Skel",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -6242,7 +6242,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/SaltyMonkey/tera-online-instant-join-tba-mode",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/saltymonkey.instant-join-tba-mode/cover.png",
       "gpk_files": [
         "S1UI_GameModeSelectScene.gpk"
       ],
@@ -6272,7 +6272,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/SaltyMonkey/tera-online-instant-join-tera-mode",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/saltymonkey.instant-join-tera-mode/cover.png",
       "gpk_files": [
         "S1UI_GameModeSelectScene.gpk"
       ],
@@ -6572,7 +6572,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/DeathDefying/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/deathdefying.ui-remover-quest-tracker/cover.png",
       "gpk_files": [
         "S1UI_QuestTaskInfo.gpk"
       ],
@@ -6602,7 +6602,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/DeathDefying/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/deathdefying.ui-remover-tera-rewards/cover.png",
       "gpk_files": [
         "S1UI_Benefit.gpk"
       ],
