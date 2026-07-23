@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -463,6 +463,224 @@
           "target_loose_path": "Art_Data/Packages/S1UI/Icon_Skills.gpk",
           "loose_vanilla_sha256": "ed0a22e33c7a841451a4906b2c41c70717adb5042e42025d3efc446c57d342fe"
         }
+      ]
+    },
+    {
+      "id": "justcrazy.green-crosshair",
+      "kind": "gpk",
+      "name": "Green Crosshair",
+      "author": "JustCrazy",
+      "short_description": "Replaces the hard-to-see orange stock crosshair with a green one.",
+      "long_description": "Swaps the stock orange action-camera crosshair for a clearly visible green one.\n\nCreated by JustCrazy (NovaTera Discord, Dec 2025): “I was having a hard time seeing the orange in the stock crosshair so here is a green one.”",
+      "category": "ui",
+      "license": "Unknown",
+      "credits": "Created by JustCrazy (NovaTera modding Discord). Rehosted unmodified for the TERA Europe Classic+ launcher — no edits were made to the author's files. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "tagline": "A crosshair you can actually see",
+      "tags": [
+        "ui",
+        "crosshair",
+        "quality-of-life"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:00:00Z",
+      "download_count": 0,
+      "gpk_files": [
+        "ffe86d35_16eb0d8e_1d73c.gpk",
+        "ffe86d35_67444741_1d73b.gpk"
+      ],
+      "parts": [
+        {
+          "name": "crosshair-a",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-justcrazy.green-crosshair-v1.0.0/ffe86d35_16eb0d8e_1d73c.gpk",
+          "sha256": "ae13b63c69cbef3df0be234fa6945ed5a1494e029fa5db8f02d224c145e4eac4",
+          "size_bytes": 2100124,
+          "target_dropin_filename": "ffe86d35_16eb0d8e_1d73c.gpk"
+        },
+        {
+          "name": "crosshair-b",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-justcrazy.green-crosshair-v1.0.0/ffe86d35_67444741_1d73b.gpk",
+          "sha256": "e427e5a887f276287e57de629ddcb0a799d9fce05b911830bdc02a74bc51cb8b",
+          "size_bytes": 1051528,
+          "target_dropin_filename": "ffe86d35_67444741_1d73b.gpk"
+        }
+      ]
+    },
+    {
+      "id": "htmslf.rgb-scarf",
+      "kind": "gpk",
+      "name": "RGB Scarf",
+      "author": "htmslf",
+      "short_description": "Animated RGB color-cycling scarf, for all races.",
+      "long_description": "An animated scarf that cycles through RGB colors. Works on all races.\n\nCreated by htmslf (NovaTera Discord, Jun 2025).",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Created by htmslf (NovaTera modding Discord). Rehosted unmodified for the TERA Europe Classic+ launcher — no edits were made to the author's files. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "tagline": "RGB everything, including your neck",
+      "tags": [
+        "appearance",
+        "accessory",
+        "rgb"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:00:00Z",
+      "download_count": 0,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/RGB_scarf.gpk",
+      "sha256": "4466be298a6753d99d1309bbf1e850a19117802a50381ece515d3e44f79818d2",
+      "size_bytes": 31901900,
+      "deploy_strategy": "tmm",
+      "gpk_files": [
+        "RGB_scarf.gpk"
+      ],
+      "featured_image": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/rgb-scarf-preview.gif"
+    },
+    {
+      "id": "norukjerky.kitty-socks",
+      "kind": "gpk",
+      "name": "Kitty Socks",
+      "author": "norukjerky",
+      "short_description": "Kitty socks costume mod.",
+      "long_description": "Adds kitty socks to character costumes.\n\nCreated by norukjerky; shared on the NovaTera Discord (Jun 2025).",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Created by norukjerky (shared by nano on the NovaTera modding Discord). Rehosted unmodified for the TERA Europe Classic+ launcher — no edits were made to the author's files. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "tagline": "Paws-itively cozy",
+      "tags": [
+        "appearance",
+        "costume"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:00:00Z",
+      "download_count": 0,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-norukjerky.kitty-socks-v1.0.0/Kitty_Socks.gpk",
+      "sha256": "cf553da62cbbf12cb370b57b28648dd202f9b94f1a6b11df5013fddea719701a",
+      "size_bytes": 84071909,
+      "deploy_strategy": "tmm",
+      "gpk_files": [
+        "Kitty_Socks.gpk"
+      ]
+    },
+    {
+      "id": "novatera.sailor-moon-hp",
+      "kind": "gpk",
+      "name": "Sailor Moon HP Bar",
+      "author": "Unknown (NovaTera community)",
+      "short_description": "Restyles your HP bar in Sailor Moon colors.",
+      "long_description": "Restyles the character-window HP bar with a Sailor Moon look.\n\nOriginal author unknown — shared on the NovaTera Discord (Jul 2025). If you are the author, open an issue for proper attribution.",
+      "category": "ui",
+      "license": "Unknown",
+      "credits": "Original author unknown; shared on the NovaTera modding Discord. Rehosted unmodified for the TERA Europe Classic+ launcher — no edits were made to the author's files. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "tagline": "In the name of the moon, heal up",
+      "tags": [
+        "ui",
+        "restyle"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:00:00Z",
+      "download_count": 0,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.sailor-moon-hp-v1.0.0/Sailor_Moon_HP.gpk",
+      "sha256": "acfe48ad2211511445510794290deb16a647f88a3c63c02194a46c4df824f3c1",
+      "size_bytes": 882236,
+      "deploy_strategy": "tmm",
+      "gpk_files": [
+        "Sailor_Moon_HP.gpk"
+      ],
+      "compatibility_notes": "Restyles the built-in character window; if you replace that window wholesale (e.g. TCC's clean character window), this restyle won't be visible."
+    },
+    {
+      "id": "kawaakari.pastel-fishing-rod-pink",
+      "kind": "gpk",
+      "name": "Pastel Pink Fishing Rod + Float",
+      "author": "Kawaakari",
+      "short_description": "Pastel pink restyle of the fishing rod, float included.",
+      "long_description": "Restyles the fishing rod and its float in pastel pink.\n\nCreated natively for the 64-bit client by Kawaakari (NovaTera Discord, Sep 2025) — not a port; an original 64-bit mod.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Created by Kawaakari (NovaTera modding Discord), natively for the 64-bit client. Rehosted unmodified for the TERA Europe Classic+ launcher — no edits were made to the author's files. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "tagline": "Fish in pastel pink",
+      "tags": [
+        "appearance",
+        "fishing"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:00:00Z",
+      "download_count": 0,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-kawaakari.pastel-fishing-rods-v1.0.0/Pastel_Pink_Fishing_Rod.gpk",
+      "sha256": "9da2cd2675d7eb5a2f0365e8347c2f3baec74ff31aa043bca5fec3c89da23724",
+      "size_bytes": 9174639,
+      "deploy_strategy": "tmm",
+      "gpk_files": [
+        "Pastel_Pink_Fishing_Rod.gpk"
+      ],
+      "compatibility_notes": "Pick ONE color — pink and blue replace the same fishing rod and conflict with each other."
+    },
+    {
+      "id": "kawaakari.pastel-fishing-rod-blue",
+      "kind": "gpk",
+      "name": "Pastel Blue Fishing Rod + Float",
+      "author": "Kawaakari",
+      "short_description": "Pastel blue restyle of the fishing rod, float included.",
+      "long_description": "Restyles the fishing rod and its float in pastel blue.\n\nCreated natively for the 64-bit client by Kawaakari (NovaTera Discord, Sep 2025) — not a port; an original 64-bit mod.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Created by Kawaakari (NovaTera modding Discord), natively for the 64-bit client. Rehosted unmodified for the TERA Europe Classic+ launcher — no edits were made to the author's files. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "tagline": "Fish in pastel blue",
+      "tags": [
+        "appearance",
+        "fishing"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:00:00Z",
+      "download_count": 0,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-kawaakari.pastel-fishing-rods-v1.0.0/Pastel_Blue_Fishing_Rod.gpk",
+      "sha256": "f8a241a8d4648df93ec1c21c5e7d614283806268715765b9e49649cf10089510",
+      "size_bytes": 9174639,
+      "deploy_strategy": "tmm",
+      "gpk_files": [
+        "Pastel_Blue_Fishing_Rod.gpk"
+      ],
+      "compatibility_notes": "Pick ONE color — pink and blue replace the same fishing rod and conflict with each other."
+    },
+    {
+      "id": "htmslf.gunner-mambo-dash",
+      "kind": "gpk",
+      "name": "Gunner Mambo Dash",
+      "author": "htmslf",
+      "short_description": "Gunner's Rolling Reload dash sound becomes Mambo.",
+      "long_description": "Replaces the gunner Rolling Reload dash sound effect with Mambo. That's it. That's the mod.\n\nCreated by htmslf (NovaTera Discord, Sep 2025).",
+      "category": "sounds",
+      "license": "Unknown",
+      "credits": "Created by htmslf (NovaTera modding Discord). Rehosted unmodified for the TERA Europe Classic+ launcher — no edits were made to the author's files. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "1.0.0",
+      "compatible_arch": "x64",
+      "tagline": "PEAK, per the community",
+      "tags": [
+        "sounds",
+        "meme",
+        "gunner"
+      ],
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T05:00:00Z",
+      "download_count": 0,
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.gunner-mambo-dash-v1.0.0/gunner_mambo.gpk",
+      "sha256": "fb3f9104247c6fcb32324572f281abd7391fa2694424a48e26776f3a9a2afdee",
+      "size_bytes": 99546,
+      "deploy_strategy": "tmm",
+      "gpk_files": [
+        "gunner_mambo.gpk"
       ]
     }
   ]
