@@ -1,5 +1,5 @@
 {
-  "version": 127,
+  "version": 128,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -4744,22 +4744,26 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.elin-strawberry-maid.PC_Event_53.roundtrip.gpk",
-      "sha256": "f3d9d0d6688d6a998ef29df46720f1bae21e72f4117a3afc15acf0f443d47478",
-      "size_bytes": 7887,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.elin-strawberry-maid.PC_Event_53.gpk",
+      "sha256": "03331292799a4e8cef5d3d18c48c6d7ae9ecd01da0a05da9d69956096c888a4f",
+      "size_bytes": 11538625,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Chambermaid's Dress (Elin)",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Strawberry%20Maid/Strawberry%20Maid%20Model.png",
-      "target_object_path": "PC_Event_53.Tex.PC_Event_53_Popori_F_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoFAAwAAwBSJYwCdAD0eix0AOJ/UO2OuSl24tvoICjLb2k0ovchPhgnSYG4npve1FHT+j2nuVO4pY6gAAA=",
-      "replaces": "Replaces the PC_Event_53 costume family (Elin variant) — items such as Chambermaid's Dress (Elin) (#254396); Dyeable Chambermaid's Dress (Elin) (#254408); Chambermaid's Dress (Human Female) (#254300). Check: preview/wear one of those items."
+      "replaces": "Replaces the PC_Event_53 costume family (Elin variant) — items such as Chambermaid's Dress (Elin) (#254396); Dyeable Chambermaid's Dress (Elin) (#254408); Chambermaid's Dress (Human Female) (#254300). Check: preview/wear one of those items.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_53.gpk",
+      "gpk_files": [
+        "PC_Event_53.gpk"
+      ]
     },
     {
       "id": "pantypon.elin-pink-social-dress",
@@ -4771,18 +4775,17 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.elin-pink-social-dress.PC_Event_46.roundtrip.gpk",
-      "sha256": "b7583ab0828bca8d54d624532b2707d34e87c75ad9fd8af7bcd8f63a19ed4c9a",
-      "size_bytes": 7915,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.elin-pink-social-dress.PC_Event_46.gpk",
+      "sha256": "cc4f501b0e149b0183d12da35d73c534b178bbad454cbd4799ba8f68555e2844",
+      "size_bytes": 14860919,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Frilled Sunday Dress (Elin)",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/cover.webp",
-      "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
@@ -4793,7 +4796,12 @@
       ],
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAcAAwBSJYwAAudV5CAAAP73xTGFIwyl2T2cEFBPnQA+dj3wAAAA",
-      "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items."
+      "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_46.gpk",
+      "gpk_files": [
+        "PC_Event_46.gpk"
+      ]
     },
     {
       "id": "pantypon.pastel-pora-elinu-uniform",
@@ -4869,18 +4877,17 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.white-castanica-demon.PC_Event_32.roundtrip.gpk",
-      "sha256": "30e0d8dda8410057f4bd6e8074193425b1cf0cd0e2d21bb3ff90ee0a56ae86a9",
-      "size_bytes": 7949,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.white-castanica-demon.PC_Event_32.gpk",
+      "sha256": "a8d711b0fd606cbed33ee5c7e6fa871d499ed350623b3189e63732a55463c4e0",
+      "size_bytes": 29369660,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Arborean College Gear (Human Male)",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_0.webp",
-      "target_object_path": "PC_Event_32.Tex.PC_Event_32_M_B_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
@@ -4890,7 +4897,12 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_3.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAAwAAwBSJYgCsAEO4dX3IxBgAP7d6ghsbRruN45Q/FOcuHCWdxkfFbdDpvRg4NfkmbKmrAuGZ5jySTy7yRCwAAA=",
-      "replaces": "Replaces the PC_Event_32 costume family (male variant) — items such as Arborean College Gear (Human Male) (#152312); Heavy Metal Star (Human Male) (#152315); Dyeable College Gear (Human Male) (#152318). Check: preview/wear one of those items."
+      "replaces": "Replaces the PC_Event_32 costume family (male variant) — items such as Arborean College Gear (Human Male) (#152312); Heavy Metal Star (Human Male) (#152315); Dyeable College Gear (Human Male) (#152318). Check: preview/wear one of those items.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_32.gpk",
+      "gpk_files": [
+        "PC_Event_32.gpk"
+      ]
     },
     {
       "id": "pantypon.white-pixie",
@@ -5101,18 +5113,17 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-picnic-dress.PC_Event_46.roundtrip.gpk",
-      "sha256": "b7583ab0828bca8d54d624532b2707d34e87c75ad9fd8af7bcd8f63a19ed4c9a",
-      "size_bytes": 7915,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.pink-picnic-dress.PC_Event_46.gpk",
+      "sha256": "e7907b5c8c9019a76a40b731a949ca456ceee2ba9a8c8025ea25d0345275c38d",
+      "size_bytes": 14878183,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Frilled Sunday Dress (Elin)",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_0.webp",
-      "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
@@ -5122,7 +5133,12 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_3.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAcAAwBSJZQC7ADdhJtTcAD+0mZHaJdrRWzXWfhfR4F6fAxN++6mQPbZNRfxw8TIJ5L/ORX4rSM7yANMQAAA",
-      "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items."
+      "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_46.gpk",
+      "gpk_files": [
+        "PC_Event_46.gpk"
+      ]
     },
     {
       "id": "taylorswiftmodding.bear-animal-mask",
@@ -5161,22 +5177,26 @@
       "category": "Accessories",
       "license": "Unknown",
       "credits": "Published by TheTaylorSwiftOfModding at https://github.com/TheTaylorSwiftOfModding/TeraMods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/taylorswiftmodding.happy-kitty-mask.Acc_388.roundtrip.gpk",
-      "sha256": "384ea42ca5f0ad806ec2e5d4af3724f0e05f165161fafe0626a64c11b174ec81",
-      "size_bytes": 469303,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/taylorswiftmodding.happy-kitty-mask.Acc_004.gpk",
+      "sha256": "2d658b1044133fb910b5bba36dd7ec19f67fdcde39bb30a4df324ff6316135cd",
+      "size_bytes": 355234,
       "source_url": "https://github.com/TheTaylorSwiftOfModding/TeraMods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Shadow Hunter Leather Mask",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://i.gyazo.com/5441da094b39a707955cc173fd43be68.jpg",
-      "target_object_path": "Acc_388.Skel.Attach_388_Skel",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
       "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoKAAwAAwBSJZACdADdf24qgAD+3fqNhUcegQo3BCxJBIxtJpbm+acTkXIndzpmtQrkhndnSEPeSR+r12w6DLBFyCNXrZiYY3eDWJvOAAA=",
-      "replaces": "Replaces the Acc_388 item family — items such as Shadow Hunter Leather Mask[Untradable] (#141385); Rogue's Mask (#183890); Shadow Hunter Leather Mask (#204415). Check: preview/wear one of those items."
+      "replaces": "Replaces the Acc_388 item family — items such as Shadow Hunter Leather Mask[Untradable] (#141385); Rogue's Mask (#183890); Shadow Hunter Leather Mask (#204415). Check: preview/wear one of those items.",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Acc_004.gpk",
+      "gpk_files": [
+        "Acc_004.gpk"
+      ]
     },
     {
       "id": "taylorswiftmodding.bunny-chu-mount",
@@ -6000,10 +6020,10 @@
       "category": "Weapon Skins",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-weapon-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.archer-pink-slingshot.PC_Weapons_Event.roundtrip.gpk",
-      "sha256": "0eb57cc520f5c55c9c31f7e07486117dd228b87b8770d26013fffa5b4b7b004f",
-      "size_bytes": 5254,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.archer-pink-slingshot.PC_Weapons_Event.gpk",
+      "sha256": "2fd9a8ab792ed79861e04c2db9d0d025b5d1ac46aa5813f42cc6ddd88ab68a5d",
+      "size_bytes": 18755248,
       "source_url": "https://github.com/pantypon/tera-client-weapon-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -6016,7 +6036,6 @@
         "weapon",
         "pantypon"
       ],
-      "target_object_path": "PC_Weapons_Event.Tex.Silver.R_Event_Season_Dual_01_spec_Silver",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
@@ -6028,7 +6047,10 @@
       ],
       "blur_data": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAgCdASoMAAoAAwBSJaACxC8AGOFbm7jKNgAA/uRfMB9nC1zAAJNY3/UtZKvz0Og5L81j4EVq8G0I5mCm8mdO2baU+LsMsKLZSUS4AAA=",
       "replaces": "Replaces the Archer variant of the seasonal event weapon skin (R_Event_Season_Dual_01 family). Check: equip the seasonal event bow skin.",
-      "tagline": "Replaces the Archer variant of the seasonal event weapon skin (R_Event_Season_Dual_01 f..."
+      "tagline": "Replaces the Archer variant of the seasonal event weapon skin (R_Event_Season_Dual_01 f...",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event.gpk",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)"
     },
     {
       "id": "pantypon.berserker-dessert-fork",
@@ -6108,10 +6130,10 @@
       "category": "Weapon Skins",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-weapon-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.mystic-iceglow-rod.PC_Weapons_Event03.roundtrip.gpk",
-      "sha256": "e36984fda87b65bfaa01352c30a3bc1114f87302814095233b0e3c343a9dbf0b",
-      "size_bytes": 5101,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.mystic-iceglow-rod.PC_Weapons_Event03.gpk",
+      "sha256": "dd62b562bf2da02af12e14743890aee58303dfa48c16e47ccb6fa765234024c6",
+      "size_bytes": 5883373,
       "source_url": "https://github.com/pantypon/tera-client-weapon-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -6124,13 +6146,15 @@
         "weapon",
         "pantypon"
       ],
-      "target_object_path": "PC_Weapons_Event03.Tex.TwoHand03_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoJAAwAAwBSJZQAD43tapuQzsogAP7vjWNOOJz9xkR0/DFs/7LmoRvjNAgM43tJTDu41dU6/AlWBkjJ8F6h20O+ilbDhsgA",
       "replaces": "Replaces the Mystic scepter in the PC_Weapons_Event03 event weapon-skin family (iceglow look). Check: equip that event scepter skin on Mystic.",
-      "tagline": "Replaces the Mystic scepter in the PC_Weapons_Event03 event weapon-skin family (iceglow..."
+      "tagline": "Replaces the Mystic scepter in the PC_Weapons_Event03 event weapon-skin family (iceglow...",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event03.gpk",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)"
     },
     {
       "id": "pantypon.mystic-ninja-oni-removal",
@@ -6247,10 +6271,10 @@
       "category": "Weapon Skins",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-weapon-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.ninja-pink-prop-fan.PC_Weapons_Event.roundtrip.gpk",
-      "sha256": "c3d0cfaeb7e6551f4b517b627e28913896de50cd5e3b49d16e9a6f1e641bb75f",
-      "size_bytes": 5254,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.ninja-pink-prop-fan.PC_Weapons_Event.gpk",
+      "sha256": "777712833d8908da65ebe44d97c01d0b4d96ad3f1d28bddf8b8b94970fc37a56",
+      "size_bytes": 24347854,
       "source_url": "https://github.com/pantypon/tera-client-weapon-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -6263,13 +6287,15 @@
         "weapon",
         "pantypon"
       ],
-      "target_object_path": "PC_Weapons_Event.Tex.Silver.R_Event_Season_Dual_01_spec_Silver",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAwAAwBSJYgCdADLz3QXBw3gAP6oW9h8+l92cQvUXODg2f3IbVMFNRUt0/e58xP65iF7TnEoGHTbFkSdxqXOgAA=",
       "replaces": "Replaces the Ninja variant of the seasonal event weapon skin (R_Event_Season_Dual_01 family). Check: seasonal event shuriken skin on Ninja.",
-      "tagline": "Replaces the Ninja variant of the seasonal event weapon skin (R_Event_Season_Dual_01 fa..."
+      "tagline": "Replaces the Ninja variant of the seasonal event weapon skin (R_Event_Season_Dual_01 fa...",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event.gpk",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)"
     },
     {
       "id": "pantypon.priest-iceglow-staff",
@@ -6281,10 +6307,10 @@
       "category": "Weapon Skins",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-weapon-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.priest-iceglow-staff.PC_Weapons_Event03.roundtrip.gpk",
-      "sha256": "e36984fda87b65bfaa01352c30a3bc1114f87302814095233b0e3c343a9dbf0b",
-      "size_bytes": 5101,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.priest-iceglow-staff.PC_Weapons_Event03.gpk",
+      "sha256": "9cecfd308854f63270db5c6e51e2403cde9c683ddc0fce89d680d12ac656dcb9",
+      "size_bytes": 5898567,
       "source_url": "https://github.com/pantypon/tera-client-weapon-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -6297,13 +6323,15 @@
         "weapon",
         "pantypon"
       ],
-      "target_object_path": "PC_Weapons_Event03.Tex.TwoHand03_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoGAAwAAwBSJYwCdADzgC+BAAAA9r5hhxCrwpEo6WtXrDQclwnC5C34KjC+m1hDsmj9lIAA",
       "replaces": "Replaces the Priest staff in the PC_Weapons_Event03 event weapon-skin family (iceglow look). Check: that event staff skin on Priest.",
-      "tagline": "Replaces the Priest staff in the PC_Weapons_Event03 event weapon-skin family (iceglow l..."
+      "tagline": "Replaces the Priest staff in the PC_Weapons_Event03 event weapon-skin family (iceglow l...",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event03.gpk",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)"
     },
     {
       "id": "pantypon.castanic-female-pink-horns-hair",
@@ -6587,10 +6615,10 @@
       "category": "Mounts & Pets",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-special-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-royal-diamond-dragon-mount.Vehicle_Dragon.roundtrip.gpk",
-      "sha256": "c0410379087f82defa07b83d06c7f7bcad97fd77f39ede2ff6fa5da8d6fc5488",
-      "size_bytes": 1841857,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.pink-royal-diamond-dragon-mount.Vehicle_Dragon.gpk",
+      "sha256": "9093245af18117f92c556e6fb667692568bb93c42a10403f473d8a79f6d51a4f",
+      "size_bytes": 22890421,
       "source_url": "https://github.com/pantypon/tera-client-special-mods",
       "target_patch": "v32.04",
       "composite_flag": true,
@@ -6603,13 +6631,15 @@
         "mount",
         "pantypon"
       ],
-      "target_object_path": "Vehicle_Dragon.Skel.Vehicle_Dragon_E_Skel",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoMAAgAAwBSJZgCdAEfURXm4AAA8qQygJ7hErqfcfrV80QIUhJT7YJ6tY2KTOpHDmaoYNhwAAA=",
       "replaces": "Replaces the golden dragon flying mount model (Vehicle_Dragon variant E). Check: summon the gold dragon mount.",
-      "tagline": "Replaces the golden dragon flying mount model (Vehicle_Dragon variant E)"
+      "tagline": "Replaces the golden dragon flying mount model (Vehicle_Dragon variant E)",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Vehicle_Dragon.gpk",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)"
     },
     {
       "id": "foglio1024.modern-ui-community-window",
@@ -7258,15 +7288,15 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.elin-dyeable-raincoat-match.PC_Event_42A.roundtrip.gpk",
-      "sha256": "7572465c913f23e77c2eb2927416c6181864fe593482baefec818ad60c5a1253",
-      "size_bytes": 7940,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.elin-dyeable-raincoat-match.PC_Event_42A.gpk",
+      "sha256": "a99eeefcc3fcb031e529410291adf338b4e9165a5dd811e7b1d6add74f57711d",
+      "size_bytes": 3619563,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-dyeable-raincoat-match/cover.webp",
       "gpk_files": [
         "PC_Event_42A.gpk"
@@ -7274,13 +7304,14 @@
       "tags": [
         "gpk"
       ],
-      "target_object_path": "PC_Event_42A.Tex.PC_Event_42A_Popori_F_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-dyeable-raincoat-match/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudgAF/QAP73xTGFIugSTdyPdqOB/Ox74AAAAA==",
       "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Dyeable Raincoat (#154853); Dyeable Elin Spring Shower Raincoat (#186522); Elin Raincoat (#154850). Check: preview/wear one of those items.",
-      "tagline": "Replaces Elin Dyeable Raincoat"
+      "tagline": "Replaces Elin Dyeable Raincoat",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_42A.gpk"
     },
     {
       "id": "pantypon.elin-pale-writer-shoes-fix",
@@ -7360,15 +7391,15 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.elin-whiter-raincoat-accents.PC_Event_42A.roundtrip.gpk",
-      "sha256": "7572465c913f23e77c2eb2927416c6181864fe593482baefec818ad60c5a1253",
-      "size_bytes": 7940,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.elin-whiter-raincoat-accents.PC_Event_42A.gpk",
+      "sha256": "120b8bc5e9480a67c5f3bee1296966bbfb9b4e6e42c87ef3a86391b11884a216",
+      "size_bytes": 3624048,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-whiter-raincoat-accents/cover.webp",
       "gpk_files": [
         "PC_Event_42A.gpk"
@@ -7376,13 +7407,14 @@
       "tags": [
         "gpk"
       ],
-      "target_object_path": "PC_Event_42A.Tex.PC_Event_42A_Popori_F_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-whiter-raincoat-accents/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAcAAwBSJYwAAudV6C4AAP73ubglUXmS5RIb+6Sy8naHSedj3wAAAAA=",
       "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Dyeable Raincoat (#154853); Dyeable Elin Spring Shower Raincoat (#186522); Elin Raincoat (#154850). Check: preview/wear one of those items.",
-      "tagline": "Replaces Elin Dyeable Raincoat"
+      "tagline": "Replaces Elin Dyeable Raincoat",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_42A.gpk"
     },
     {
       "id": "pantypon.ice-cream-black-pantyhose",
@@ -7394,15 +7426,15 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.ice-cream-black-pantyhose.PC_Event_46.roundtrip.gpk",
-      "sha256": "b7583ab0828bca8d54d624532b2707d34e87c75ad9fd8af7bcd8f63a19ed4c9a",
-      "size_bytes": 7915,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.ice-cream-black-pantyhose.PC_Event_46.gpk",
+      "sha256": "273c84e18e4bef7cf023b9531722644e8163d127e8f18a53ea65fc8e8e1c6e8a",
+      "size_bytes": 14856964,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-black-pantyhose/cover.webp",
       "gpk_files": [
         "PC_Event_46.gpk"
@@ -7410,13 +7442,14 @@
       "tags": [
         "gpk"
       ],
-      "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-black-pantyhose/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACQAQCdASoMAAcAAwBSJQAAXO/vFRAA/vfFMXvMHeYvsnRfCEjMf52Pa4AAAA==",
       "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Human Female) (#251400). Check: preview/wear one of those items.",
-      "tagline": "Replaces Dyeable Sunday Dress (Elin)"
+      "tagline": "Replaces Dyeable Sunday Dress (Elin)",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_46.gpk"
     },
     {
       "id": "pantypon.ice-cream-white-pantyhose-shoes",
@@ -7428,15 +7461,15 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.ice-cream-white-pantyhose-shoes.PC_Event_46.roundtrip.gpk",
-      "sha256": "b7583ab0828bca8d54d624532b2707d34e87c75ad9fd8af7bcd8f63a19ed4c9a",
-      "size_bytes": 7915,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.ice-cream-white-pantyhose-shoes.PC_Event_46.gpk",
+      "sha256": "d358c669d0793f9a00c8442384421b74b4156a670b192eecdc8ecd77224dfb00",
+      "size_bytes": 14832318,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-white-pantyhose-shoes/cover.webp",
       "gpk_files": [
         "PC_Event_46.gpk"
@@ -7444,13 +7477,14 @@
       "tags": [
         "gpk"
       ],
-      "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-white-pantyhose-shoes/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAcAAwBSJYwAAueIFZlcAAD+98Uxd+GIUhuDre1N9vkNXtk79YAA",
       "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Human Female) (#251400). Check: preview/wear one of those items.",
-      "tagline": "Replaces Dyeable Sunday Dress (Elin)"
+      "tagline": "Replaces Dyeable Sunday Dress (Elin)",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_46.gpk"
     },
     {
       "id": "pantypon.ice-cream-white-pantyhose",
@@ -7462,15 +7496,15 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.ice-cream-white-pantyhose.PC_Event_46.roundtrip.gpk",
-      "sha256": "b7583ab0828bca8d54d624532b2707d34e87c75ad9fd8af7bcd8f63a19ed4c9a",
-      "size_bytes": 7915,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.ice-cream-white-pantyhose.PC_Event_46.gpk",
+      "sha256": "a3facb76f0d6abc6752742e6cfea11fee798fad6922ad0089c3e7895a1f5993d",
+      "size_bytes": 14850571,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-white-pantyhose/cover.webp",
       "gpk_files": [
         "PC_Event_46.gpk"
@@ -7478,13 +7512,14 @@
       "tags": [
         "gpk"
       ],
-      "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-white-pantyhose/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAQCdASoMAAcAAwBSJYwAAueIFZlcAAD+98Uxd+GIUhuDre1N9vkNXtk79YAA",
       "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.",
-      "tagline": "Replaces Frilled Sunday Dress (Elin)"
+      "tagline": "Replaces Frilled Sunday Dress (Elin)",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_46.gpk"
     },
     {
       "id": "pantypon.whiter-jeans-and-jacket",
@@ -7496,15 +7531,15 @@
       "category": "Costumes",
       "license": "Unknown",
       "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-05-01-x64-port",
-      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.whiter-jeans-and-jacket.PC_Event_32.roundtrip.gpk",
-      "sha256": "30e0d8dda8410057f4bd6e8074193425b1cf0cd0e2d21bb3ff90ee0a56ae86a9",
-      "size_bytes": 7949,
+      "version": "2026-r2",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.whiter-jeans-and-jacket.PC_Event_32.gpk",
+      "sha256": "beb825c7ca1ea38a7e1cd5946870504cee6f42a4f88da43838d9080c7a5fe91d",
+      "size_bytes": 29468692,
       "source_url": "https://github.com/pantypon/tera-client-mods",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
-      "last_verified_patch": "patch 100",
+      "last_verified_patch": "v100.02 (dropin, smoke-verified)",
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.whiter-jeans-and-jacket/cover.webp",
       "gpk_files": [
         "PC_Event_32.gpk"
@@ -7512,13 +7547,14 @@
       "tags": [
         "gpk"
       ],
-      "target_object_path": "PC_Event_32.Tex.PC_Event_32_M_B_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.whiter-jeans-and-jacket/thumb.webp",
       "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAcAAwBSJYwAAudeh+v4AP73xTGFIv1Ho3eLedwqzNOD2yd+sAAA",
       "replaces": "Replaces the PC_Event_32 costume family (male variant) — items such as Dyeable College Gear (Human Male) (#152318); Dyeable College Gear (Human Female) (#152327); Dyeable College Gear (High Elf Male) (#152336). Check: preview/wear one of those items.",
-      "tagline": "Replaces Dyeable College Gear (Human Male)"
+      "tagline": "Replaces Dyeable College Gear (Human Male)",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_32.gpk"
     },
     {
       "id": "artexlib.white-valkyrie-helmet",
