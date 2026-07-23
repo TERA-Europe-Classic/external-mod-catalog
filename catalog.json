@@ -13885,6 +13885,876 @@
       "replaces": "Replaces: Acc_308.patched, Acc_015.patched, Acc_061.patched, Acc_077.patched, Acc_065.patched. Check: preview/wear the matching items in game.",
       "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
       "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "littleshistar.elin-tuxedo-fishnets",
+      "kind": "gpk",
+      "name": "Elin Tuxedo Fishnets",
+      "author": "littleshistar",
+      "category": "Costumes",
+      "short_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Adds fishnets to match Ingenue&rsquo;s coat.\n☆ Makes t",
+      "long_description": "&middot; - - - ━━━━━━━━━━━━━ - &middot; ✦ &middot; - ━━━━━━━━━━━━━ - - - &middot;  \n☆ Adds fishnets to match Ingenue&rsquo;s coat.\n☆ Makes t\n\nOriginal by littleshistar, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by littleshistar. Source: https://mods-of-tera.tumblr.com/post/621289408992280576/littleshistar-elin-tuxedo-fishnets",
+      "source_url": "https://mods-of-tera.tumblr.com/post/621289408992280576/littleshistar-elin-tuxedo-fishnets",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/8fbc7725d68ead8807223f3bc22b4ac1/5ee1c1c93766ac80-18/s1280x1920/2072a539629c8b1b74921d3be9f59c4a45cac147.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/8fbc7725d68ead8807223f3bc22b4ac1/5ee1c1c93766ac80-18/s1280x1920/2072a539629c8b1b74921d3be9f59c4a45cac147.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "littleshistar-elin-tuxedo-fishnets__7UZ0XA7I.bin",
+      "gpk_files": [
+        "littleshistar-elin-tuxedo-fishnets__7UZ0XA7I.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/littleshistar_elin-tuxedo-fishnets.gpk",
+      "sha256": "709eb565f4d7f50cc002be0d098e723e94b8252fecb864f7ee336c7cdb61f268",
+      "size_bytes": 39939299,
+      "composite_flag": true,
+      "replaces": "Replaces the littleshistar-elin-tuxedo-fishnets__7UZ0XA7I.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.dyeable-2020-hanbok-fix-shoulder-pad",
+      "kind": "gpk",
+      "name": "Dyeable 2020 Hanbok Fix Shoulder Pad",
+      "author": "pantypon",
+      "category": "Costumes",
+      "short_description": "This mod just removes the weird asymmetrical shoulder decoration on the dyeable hanbok. Works on all Female races ~\nDOWNLOAD",
+      "long_description": "This mod just removes the weird asymmetrical shoulder decoration on the dyeable hanbok. Works on all Female races ~\nDOWNLOAD\n\nOriginal by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/616190386461917184/pantypon-dyeable-2020-hanbok-fix-shoulder-pad",
+      "source_url": "https://mods-of-tera.tumblr.com/post/616190386461917184/pantypon-dyeable-2020-hanbok-fix-shoulder-pad",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/4860fef5929ebabfd4893d13327a2fd1/d09062ba65f0856b-09/s1280x1920/186edf831cecd0bbeff3ec32c52b12ff56665a03.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/4860fef5929ebabfd4893d13327a2fd1/d09062ba65f0856b-09/s1280x1920/186edf831cecd0bbeff3ec32c52b12ff56665a03.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_80.gpk",
+      "gpk_files": [
+        "PC_Event_80.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/pantypon_dyeable-2020-hanbok-fix-shoulder-pad.gpk",
+      "sha256": "aa32cd920312f0ae9228271e3f93614ca6b9c5028b71cbb809bb6663b1093756",
+      "size_bytes": 45423536,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_80 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.dva-swimsuit-mod-for-the-new",
+      "kind": "gpk",
+      "name": "Dva Swimsuit Mod For The New",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "- DVA Swimsuit Mod -\nFor the new Swimsuit released.&nbsp;\n《Download 》",
+      "long_description": "- DVA Swimsuit Mod -\nFor the new Swimsuit released.&nbsp;\n《Download 》\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/186188627767/litterboxchan-dva-swimsuit-mod-for-the-new",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186188627767/litterboxchan-dva-swimsuit-mod-for-the-new",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/bda3f378a381c8426b04cf2b9ae1ac0f/tumblr_ptfqvhjBVr1wmppo4o1_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/bda3f378a381c8426b04cf2b9ae1ac0f/tumblr_ptfqvhjBVr1wmppo4o1_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_74.gpk",
+      "gpk_files": [
+        "PC_Event_74.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/litterboxchan_dva-swimsuit-mod-for-the-new.gpk",
+      "sha256": "cb6e31d9d783216ed3838a21a10e7e74225fafd4e63a4777cbfe38200b4c2df9",
+      "size_bytes": 38806882,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_74 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.elin-better-dyeable-2019-swimsuit-v1",
+      "kind": "gpk",
+      "name": "Elin Better Dyeable 2019 Swimsuit V1",
+      "author": "pantypon",
+      "category": "Costumes",
+      "short_description": "This mod removes the other colors of the swimsuit, leaving it white. The dyeable portions are flipped and some are removed. The shoes also d",
+      "long_description": "This mod removes the other colors of the swimsuit, leaving it white. The dyeable portions are flipped and some are removed. The shoes also d\n\nOriginal by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/186188601262/pantypon-elin-better-dyeable-2019-swimsuit-v1",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186188601262/pantypon-elin-better-dyeable-2019-swimsuit-v1",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/c592d4057e443102f639973406aea8be/tumblr_ptfxb6Ma5q1vdsl28o5_r1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/c592d4057e443102f639973406aea8be/tumblr_ptfxb6Ma5q1vdsl28o5_r1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_74.gpk",
+      "gpk_files": [
+        "PC_Event_74.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/pantypon_elin-better-dyeable-2019-swimsuit-v1.gpk",
+      "sha256": "cb6e31d9d783216ed3838a21a10e7e74225fafd4e63a4777cbfe38200b4c2df9",
+      "size_bytes": 38806882,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_74 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "deathwrack.happy-trail-requested-by-anon-truly",
+      "kind": "gpk",
+      "name": "Happy Trail Requested By Anon Truly",
+      "author": "deathwrack",
+      "category": "Costumes",
+      "short_description": "Requested by Anon\nTruly sorry for the long delay.&nbsp;\n- for castanic males only\n- includes happy trail on both rapidos&nbsp;\n- straps remo",
+      "long_description": "Requested by Anon\nTruly sorry for the long delay.&nbsp;\n- for castanic males only\n- includes happy trail on both rapidos&nbsp;\n- straps remo\n\nOriginal by deathwrack, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by deathwrack. Source: https://mods-of-tera.tumblr.com/post/186188639372/deathwrack-happy-trail-requested-by-anon-truly",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186188639372/deathwrack-happy-trail-requested-by-anon-truly",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/63e7a0f303e32b786216407f3575db82/tumblr_pu1w1r33xI1vlaz4ko1_r1_540.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/63e7a0f303e32b786216407f3575db82/tumblr_pu1w1r33xI1vlaz4ko1_r1_540.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_22.gpk",
+      "gpk_files": [
+        "PC_Event_22.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/deathwrack_happy-trail-requested-by-anon-truly.gpk",
+      "sha256": "b750c6d0743adb04af071f75d3e791373e98e5f60c7f87cd7b1dc6ee3e1408b3",
+      "size_bytes": 57370208,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_22 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "tyfia.purple-mods-face-mods-elin",
+      "kind": "gpk",
+      "name": "Purple Mods Face Mods Elin",
+      "author": "tyfia",
+      "category": "Costumes",
+      "short_description": "&bull; Face mods &bull;&nbsp;\nElin face 8 adornment 5&nbsp;\nDOWNLOAD : &hearts;here&hearts;&nbsp;\n&bull; Costume mods&nbsp;&bull;\nPixie dres",
+      "long_description": "&bull; Face mods &bull;&nbsp;\nElin face 8 adornment 5&nbsp;\nDOWNLOAD : &hearts;here&hearts;&nbsp;\n&bull; Costume mods&nbsp;&bull;\nPixie dres\n\nOriginal by tyfia, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by tyfia. Source: https://mods-of-tera.tumblr.com/post/183991488932/tyfia-purple-mods-face-mods-elin",
+      "source_url": "https://mods-of-tera.tumblr.com/post/183991488932/tyfia-purple-mods-face-mods-elin",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/8ce7169f65391788800af0e4fce136d7/tumblr_poudv1P0dg1w6yaa5o3_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/8ce7169f65391788800af0e4fce136d7/tumblr_poudv1P0dg1w6yaa5o3_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event19.gpk",
+      "gpk_files": [
+        "PC_Weapons_Event19.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/tyfia_purple-mods-face-mods-elin.gpk",
+      "sha256": "6d286b4f5ce44664e9dcc1e9332e6baec7a0a36307e75ada43fbae91b96cedae",
+      "size_bytes": 43924687,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Weapons_Event19 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "moddymcmodface.honey-download-here-for",
+      "kind": "gpk",
+      "name": "Honey Download Here For",
+      "author": "moddymcmodface",
+      "category": "Costumes",
+      "short_description": "&ldquo;Honey&rdquo;\nDownload &rarr; here &larr;\nFor Elin Face 9, Adornment 1.",
+      "long_description": "&ldquo;Honey&rdquo;\nDownload &rarr; here &larr;\nFor Elin Face 9, Adornment 1.\n\nOriginal by moddymcmodface, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by moddymcmodface. Source: https://mods-of-tera.tumblr.com/post/176725177332/moddymcmodface-honey-download-here-for",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176725177332/moddymcmodface-honey-download-here-for",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/cf68baea53fdc8c389c04586414c4197/tumblr_pcfhw5c8TV1xb635ko1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/cf68baea53fdc8c389c04586414c4197/tumblr_pcfhw5c8TV1xb635ko1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Popori_F_Head.gpk",
+      "gpk_files": [
+        "Popori_F_Head.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/moddymcmodface_honey-download-here-for.gpk",
+      "sha256": "a76e395d74617ed20ed7b868795bc3f8732c2dcbdd7c6c388e91839463877e86",
+      "size_bytes": 57507621,
+      "composite_flag": true,
+      "replaces": "Replaces the Popori_F_Head package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "moddymcmodface.dark-download-here-for",
+      "kind": "gpk",
+      "name": "Dark Download Here For",
+      "author": "moddymcmodface",
+      "category": "Costumes",
+      "short_description": "&ldquo;Dark&rdquo;\nDownload &rarr; here &larr;\nFor Elin Face 9, Adornment 1.",
+      "long_description": "&ldquo;Dark&rdquo;\nDownload &rarr; here &larr;\nFor Elin Face 9, Adornment 1.\n\nOriginal by moddymcmodface, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by moddymcmodface. Source: https://mods-of-tera.tumblr.com/post/176725094447/moddymcmodface-dark-download-here-for",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176725094447/moddymcmodface-dark-download-here-for",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/c720af45ea9dfb39d11965b39788d59b/tumblr_pcdgwfx53A1xb635ko1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/c720af45ea9dfb39d11965b39788d59b/tumblr_pcdgwfx53A1xb635ko1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Popori_F_Head.gpk",
+      "gpk_files": [
+        "Popori_F_Head.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/moddymcmodface_dark-download-here-for.gpk",
+      "sha256": "a76e395d74617ed20ed7b868795bc3f8732c2dcbdd7c6c388e91839463877e86",
+      "size_bytes": 57507621,
+      "composite_flag": true,
+      "replaces": "Replaces the Popori_F_Head package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "timeless.woods-vampira-another-mod-for",
+      "kind": "gpk",
+      "name": "Woods Vampira Another Mod For",
+      "author": "timeless",
+      "category": "Costumes",
+      "short_description": "Vampira\nAnother mod for Castanic Face 4, Adornment 1!&nbsp;\n-Enlarges eyes and adds a thick black limbal ring, changes eyes to dark red, dar",
+      "long_description": "Vampira\nAnother mod for Castanic Face 4, Adornment 1!&nbsp;\n-Enlarges eyes and adds a thick black limbal ring, changes eyes to dark red, dar\n\nOriginal by timeless, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by timeless. Source: https://mods-of-tera.tumblr.com/post/175274056537/timeless-woods-vampira-another-mod-for",
+      "source_url": "https://mods-of-tera.tumblr.com/post/175274056537/timeless-woods-vampira-another-mod-for",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/439ad444cc5aae8de564723ac29c43a5/tumblr_p9v0uv1xbS1v0lcodo2_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/439ad444cc5aae8de564723ac29c43a5/tumblr_p9v0uv1xbS1v0lcodo2_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Castanic_F_Head.gpk",
+      "gpk_files": [
+        "Castanic_F_Head.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/timeless_woods-vampira-another-mod-for.gpk",
+      "sha256": "1d4fa3452d55d46a6ecdc0c448219dee0806cea3800e6feb74d3690d50332aea",
+      "size_bytes": 60754488,
+      "composite_flag": true,
+      "replaces": "Replaces the Castanic_F_Head package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "deathwrack.better-now-for-rapidos-works-on",
+      "kind": "gpk",
+      "name": "Better Now For Rapidos Works On",
+      "author": "deathwrack",
+      "category": "Costumes",
+      "short_description": "For Rapidos, works on Castanic Males only.&nbsp;\n- Tattoos and happy trail included\n- Straps on sandals removed, glitchy particles back of h",
+      "long_description": "For Rapidos, works on Castanic Males only.&nbsp;\n- Tattoos and happy trail included\n- Straps on sandals removed, glitchy particles back of h\n\nOriginal by deathwrack, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by deathwrack. Source: https://mods-of-tera.tumblr.com/post/175273603987/deathwrack-better-now-for-rapidos-works-on",
+      "source_url": "https://mods-of-tera.tumblr.com/post/175273603987/deathwrack-better-now-for-rapidos-works-on",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/81c594734e73e2635d8859081644284e/tumblr_paun6kmV7S1vlaz4ko1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/81c594734e73e2635d8859081644284e/tumblr_paun6kmV7S1vlaz4ko1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_22.gpk",
+      "gpk_files": [
+        "PC_Event_22.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/deathwrack_better-now-for-rapidos-works-on.gpk",
+      "sha256": "b750c6d0743adb04af071f75d3e791373e98e5f60c7f87cd7b1dc6ee3e1408b3",
+      "size_bytes": 57370208,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_22 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "deathwrack.renegade-for-dyeable",
+      "kind": "gpk",
+      "name": "Deathwrack Renegade For Dyeable",
+      "author": "deathwrack",
+      "category": "Costumes",
+      "short_description": "For Dyeable Buisness Suits Only\nWorks on High Elf, Human, &amp; Castanic Female\n- Tattoos added on chest and legs\n- Necklace removed on all ",
+      "long_description": "For Dyeable Buisness Suits Only\nWorks on High Elf, Human, &amp; Castanic Female\n- Tattoos added on chest and legs\n- Necklace removed on all \n\nOriginal by deathwrack, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by deathwrack. Source: https://mods-of-tera.tumblr.com/post/173030609027/deathwrack-deathwrack-renegade-for-dyeable",
+      "source_url": "https://mods-of-tera.tumblr.com/post/173030609027/deathwrack-deathwrack-renegade-for-dyeable",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7181a3192c4b53ae1a3e43a16e1c9778/tumblr_p66w9rf0wn1vlaz4ko1_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7181a3192c4b53ae1a3e43a16e1c9778/tumblr_p66w9rf0wn1vlaz4ko1_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_14.gpk",
+      "gpk_files": [
+        "PC_Event_14.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/deathwrack_renegade-for-dyeable.gpk",
+      "sha256": "bef68a9a330c972d1d01ad86e9ab951268e994b3e1bd6aa019938f81d9391e1f",
+      "size_bytes": 58707423,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_14 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "deathwrack.summer-breeze-for-regular-and",
+      "kind": "gpk",
+      "name": "Summer Breeze For Regular And",
+      "author": "deathwrack",
+      "category": "Costumes",
+      "short_description": "For Regular and Dyeable Crop Top Swimsuit, Female Castanic Only\n- Chest, arms and thigh tattoos added",
+      "long_description": "For Regular and Dyeable Crop Top Swimsuit, Female Castanic Only\n- Chest, arms and thigh tattoos added\n\nOriginal by deathwrack, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by deathwrack. Source: https://mods-of-tera.tumblr.com/post/172315202382/deathwrack-summer-breeze-for-regular-and",
+      "source_url": "https://mods-of-tera.tumblr.com/post/172315202382/deathwrack-summer-breeze-for-regular-and",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9781a5813c2d848ad0135870dccc4e78/tumblr_p66wcqJVWv1vlaz4ko1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/9781a5813c2d848ad0135870dccc4e78/tumblr_p66wcqJVWv1vlaz4ko1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_11.gpk",
+      "gpk_files": [
+        "PC_Event_11.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/deathwrack_summer-breeze-for-regular-and.gpk",
+      "sha256": "785b765b6dca4eeee1d59ebae4df91b3bcc0c98304d9b08af01f620aa7f42ed2",
+      "size_bytes": 64089135,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_11 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "elin.matching-hairtail-mod",
+      "kind": "gpk",
+      "name": "Matching Hairtail Mod",
+      "author": "elin",
+      "category": "Costumes",
+      "short_description": "My last version lacked some things on the new hair style that should have been done right the first time.\nEars being overly bright on the fr",
+      "long_description": "My last version lacked some things on the new hair style that should have been done right the first time.\nEars being overly bright on the fr\n\nOriginal by elin, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by elin. Source: https://mods-of-tera.tumblr.com/post/168511868547/elin-matching-hairtail-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/168511868547/elin-matching-hairtail-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9004784dee5894620d117b7ebdc8200a/tumblr_inline_p0rjcaGfju1se1b3y_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/9004784dee5894620d117b7ebdc8200a/tumblr_inline_p0rjcaGfju1se1b3y_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__elin-matching-hairtail-mod.bin",
+      "gpk_files": [
+        "mf__elin-matching-hairtail-mod.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/elin_matching-hairtail-mod.gpk",
+      "sha256": "826da1be0d50393d612e75293cb64bf44594b02f1eb2c727acc1b15cdaf6db43",
+      "size_bytes": 60050674,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__elin-matching-hairtail-mod.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.elin-black-sleeve-business-suit",
+      "kind": "gpk",
+      "name": "Elin Black Sleeve Business Suit",
+      "author": "pantypon",
+      "category": "Costumes",
+      "short_description": "Requested by Miiiiya\nThis mod simply makes the business suit have black sleeves to match the rest of the suit. No more of that weird vest bu",
+      "long_description": "Requested by Miiiiya\nThis mod simply makes the business suit have black sleeves to match the rest of the suit. No more of that weird vest bu\n\nOriginal by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/157614638242/pantypon-elin-black-sleeve-business-suit",
+      "source_url": "https://mods-of-tera.tumblr.com/post/157614638242/pantypon-elin-black-sleeve-business-suit",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/15717151e2851f597c3ca7f7eb77045b/tumblr_olrlgeJunV1vdsl28o1_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/15717151e2851f597c3ca7f7eb77045b/tumblr_olrlgeJunV1vdsl28o1_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_14.gpk",
+      "gpk_files": [
+        "PC_Event_14.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/pantypon_elin-black-sleeve-business-suit.gpk",
+      "sha256": "bef68a9a330c972d1d01ad86e9ab951268e994b3e1bd6aa019938f81d9391e1f",
+      "size_bytes": 58707423,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_14 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "nmg.1305-azn-so-i-guess-people-wont-do-much-for",
+      "kind": "gpk",
+      "name": "1305 Azn So I Guess People Wont",
+      "author": "nmg",
+      "category": "Costumes",
+      "short_description": "So I guess people wont do much for male chars in Tera, and I am so fucking tired of elins and other females chars. Well, here we go again, a",
+      "long_description": "So I guess people wont do much for male chars in Tera, and I am so fucking tired of elins and other females chars. Well, here we go again, a\n\nOriginal by nmg, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by nmg. Source: https://mods-of-tera.tumblr.com/post/156620080722/nmg-1305-azn-so-i-guess-people-wont-do-much-for",
+      "source_url": "https://mods-of-tera.tumblr.com/post/156620080722/nmg-1305-azn-so-i-guess-people-wont-do-much-for",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9a64cc775e22172b1711c3d5aff0692e/tumblr_okmfldC5qA1qga9bao1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/9a64cc775e22172b1711c3d5aff0692e/tumblr_okmfldC5qA1qga9bao1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__nmg-1305-azn-so-i-guess-people-wont-do-much-for.bin",
+      "gpk_files": [
+        "mf__nmg-1305-azn-so-i-guess-people-wont-do-much-for.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/nmg_1305-azn-so-i-guess-people-wont-do-much-for.gpk",
+      "sha256": "bfe5b0c985fb2dda9b2cb25ab957a629f9dc9eb78490f1ef567afcc4958119f9",
+      "size_bytes": 51635322,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__nmg-1305-azn-so-i-guess-people-wont-do-much-for.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "nyankouu.mimikyu-snowsuit-mod-i-dont-own",
+      "kind": "gpk",
+      "name": "Mimikyu Snowsuit Mod I Dont Own",
+      "author": "nyankouu",
+      "category": "Costumes",
+      "short_description": "Mimikyu Snowsuit Mod &hearts;&nbsp;\nI dont own the original file that removes the Popori Head, I found it deep deep in my files .. so credit",
+      "long_description": "Mimikyu Snowsuit Mod &hearts;&nbsp;\nI dont own the original file that removes the Popori Head, I found it deep deep in my files .. so credit\n\nOriginal by nyankouu, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by nyankouu. Source: https://mods-of-tera.tumblr.com/post/154370444947/nyankouu-mimikyu-snowsuit-mod-i-dont-own",
+      "source_url": "https://mods-of-tera.tumblr.com/post/154370444947/nyankouu-mimikyu-snowsuit-mod-i-dont-own",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/19996997f9ab1572c28d4aa9538554de/tumblr_ohvroxmZ7M1v53l98o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/19996997f9ab1572c28d4aa9538554de/tumblr_ohvroxmZ7M1v53l98o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_06.gpk",
+      "gpk_files": [
+        "PC_Event_06.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/nyankouu_mimikyu-snowsuit-mod-i-dont-own.gpk",
+      "sha256": "9ea46825e17f6c57a65b918d3d4f7d7bd55f3cacde0a74b12ed4c05d17d8fc5d",
+      "size_bytes": 32479078,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_06 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "mayukari.new-this-second-link-is-the-same-mod",
+      "kind": "gpk",
+      "name": "New This Second Link Is The Same",
+      "author": "mayukari",
+      "category": "Costumes",
+      "short_description": "NEW // This second link is the same mod for the face, but in conjunction with the mod to ears / tail the same hair color.&nbsp;\n~ Download H",
+      "long_description": "NEW // This second link is the same mod for the face, but in conjunction with the mod to ears / tail the same hair color.&nbsp;\n~ Download H\n\nOriginal by mayukari, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by mayukari. Source: https://mods-of-tera.tumblr.com/post/153678196822/mayukari-new-this-second-link-is-the-same-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/153678196822/mayukari-new-this-second-link-is-the-same-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7a51d09aa057b7155c37d8a1d724bee2/tumblr_oh4n7tx2Uf1rx3p30o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7a51d09aa057b7155c37d8a1d724bee2/tumblr_oh4n7tx2Uf1rx3p30o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Popori_F_Head.gpk",
+      "gpk_files": [
+        "Popori_F_Head.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/mayukari_new-this-second-link-is-the-same-mod.gpk",
+      "sha256": "a76e395d74617ed20ed7b868795bc3f8732c2dcbdd7c6c388e91839463877e86",
+      "size_bytes": 57507621,
+      "composite_flag": true,
+      "replaces": "Replaces the Popori_F_Head package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "mayukari.hello-i-came-to-introduce-my-first-mod",
+      "kind": "gpk",
+      "name": "Hello I Came To Introduce My First",
+      "author": "mayukari",
+      "category": "Costumes",
+      "short_description": "Hello, I came to introduce my first mod to Tera. It&rsquo;s some basic, but I loved it.\nWell, the mod consists of turning the bluish eyes of",
+      "long_description": "Hello, I came to introduce my first mod to Tera. It&rsquo;s some basic, but I loved it.\nWell, the mod consists of turning the bluish eyes of\n\nOriginal by mayukari, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by mayukari. Source: https://mods-of-tera.tumblr.com/post/153483967662/mayukari-hello-i-came-to-introduce-my-first-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/153483967662/mayukari-hello-i-came-to-introduce-my-first-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7a51d09aa057b7155c37d8a1d724bee2/tumblr_ogwa8pRe5V1rx3p30o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7a51d09aa057b7155c37d8a1d724bee2/tumblr_ogwa8pRe5V1rx3p30o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Popori_F_Head.patched.gpk",
+      "gpk_files": [
+        "Popori_F_Head.patched.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/mayukari_hello-i-came-to-introduce-my-first-mod.gpk",
+      "sha256": "a6d733ddd524c80bd7453e8ceb8a7fb2f53740bc3b6c64590647af80dd55860c",
+      "size_bytes": 64521608,
+      "composite_flag": true,
+      "replaces": "Replaces the Popori_F_Head.patched package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "puppetplayers.cherries-this-mod-goes-for-the",
+      "kind": "gpk",
+      "name": "Cherries This Mod Goes For The",
+      "author": "puppetplayers",
+      "category": "Costumes",
+      "short_description": "This mod goes for the Dyeable Class A Police Uniform! Got this outfit cheap on broker and thought it needed a bit touch on it ^-^\nRemoves th",
+      "long_description": "This mod goes for the Dyeable Class A Police Uniform! Got this outfit cheap on broker and thought it needed a bit touch on it ^-^\nRemoves th\n\nOriginal by puppetplayers, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by puppetplayers. Source: https://mods-of-tera.tumblr.com/post/152192870177/puppetplayers-cherries-this-mod-goes-for-the",
+      "source_url": "https://mods-of-tera.tumblr.com/post/152192870177/puppetplayers-cherries-this-mod-goes-for-the",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/6c992cc2d02606053e10eea18ccc623d/tumblr_ofdgmhSZh11vimixqo1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/6c992cc2d02606053e10eea18ccc623d/tumblr_ofdgmhSZh11vimixqo1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__puppetplayers-cherries-this-mod-goes-for-the.bin",
+      "gpk_files": [
+        "mf__puppetplayers-cherries-this-mod-goes-for-the.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/puppetplayers_cherries-this-mod-goes-for-the.gpk",
+      "sha256": "61749bf0e30149ab1d528ba59e6da2bcd9472a81f69cde62e3621bbbb22703ba",
+      "size_bytes": 33880299,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__puppetplayers-cherries-this-mod-goes-for-the.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "lewdshi.transparent-bikini-mod-as-per",
+      "kind": "gpk",
+      "name": "Transparent Bikini Mod As Per",
+      "author": "lewdshi",
+      "category": "Costumes",
+      "short_description": "Transparent Bikini Mod\nAs per requested by a friend, a transparent NSFW version of the duckie for Elin. Any feedback is nice if you use it, ",
+      "long_description": "Transparent Bikini Mod\nAs per requested by a friend, a transparent NSFW version of the duckie for Elin. Any feedback is nice if you use it, \n\nOriginal by lewdshi, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by lewdshi. Source: https://mods-of-tera.tumblr.com/post/149313895842/lewdshi-transparent-bikini-mod-as-per",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149313895842/lewdshi-transparent-bikini-mod-as-per",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/68669f817feb95b372850c924c531e20/tumblr_n1g93jWROl1t0k74no1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/68669f817feb95b372850c924c531e20/tumblr_n1g93jWROl1t0k74no1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_11.gpk",
+      "gpk_files": [
+        "PC_Event_11.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/lewdshi_transparent-bikini-mod-as-per.gpk",
+      "sha256": "785b765b6dca4eeee1d59ebae4df91b3bcc0c98304d9b08af01f620aa7f42ed2",
+      "size_bytes": 64089135,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_11 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "yunachiu.qaq",
+      "kind": "gpk",
+      "name": "上周活動簽到送了件泳裝 深色的東西好難改顏色啊就只有黑色比較簡單qaq",
+      "author": "yunachiu",
+      "category": "Costumes",
+      "short_description": "上周活動簽到送了件泳裝 深色的東西好難改顏色啊&hellip;就只有黑色比較簡單QAQ\nI make a mod of the swimsuit to black version.\nONLY ELIN\ndownload\nfile:_Packages/CH/PC \n*DON&rsq",
+      "long_description": "上周活動簽到送了件泳裝 深色的東西好難改顏色啊&hellip;就只有黑色比較簡單QAQ\nI make a mod of the swimsuit to black version.\nONLY ELIN\ndownload\nfile:_Packages/CH/PC \n*DON&rsq\n\nOriginal by yunachiu, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by yunachiu. Source: https://mods-of-tera.tumblr.com/post/149229886942/yunachiu-%E4%B8%8A%E5%91%A8%E6%B4%BB%E5%8B%95%E7%B0%BD%E5%88%B0%E9%80%81%E4%BA%86%E4%BB%B6%E6%B3%B3%E8%A3%9D-%E6%B7%B1%E8%89%B2%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%A5%BD%E9%9B%A3%E6%94%B9%E9%A1%8F%E8%89%B2%E5%95%8A%E5%B0%B1%E5%8F%AA%E6%9C%89%E9%BB%91%E8%89%B2%E6%AF%94%E8%BC%83%E7%B0%A1%E5%96%AEqaq",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149229886942/yunachiu-%E4%B8%8A%E5%91%A8%E6%B4%BB%E5%8B%95%E7%B0%BD%E5%88%B0%E9%80%81%E4%BA%86%E4%BB%B6%E6%B3%B3%E8%A3%9D-%E6%B7%B1%E8%89%B2%E7%9A%84%E6%9D%B1%E8%A5%BF%E5%A5%BD%E9%9B%A3%E6%94%B9%E9%A1%8F%E8%89%B2%E5%95%8A%E5%B0%B1%E5%8F%AA%E6%9C%89%E9%BB%91%E8%89%B2%E6%AF%94%E8%BC%83%E7%B0%A1%E5%96%AEqaq",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/29cc8f4bca549f8e993b014d5058483a/tumblr_o6pcz12IDu1v6rk2lo1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/29cc8f4bca549f8e993b014d5058483a/tumblr_o6pcz12IDu1v6rk2lo1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "db__yunachiu-___________-____________________qaq.bin",
+      "gpk_files": [
+        "db__yunachiu-___________-____________________qaq.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/yunachiu_qaq.gpk",
+      "sha256": "45cc24269096a0995d4f7766a45a0380b2fbfc3f6ca74b3c97bc09a3ac6b6641",
+      "size_bytes": 49933737,
+      "composite_flag": true,
+      "replaces": "Replaces the db__yunachiu-___________-____________________qaq.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "yunachiu.i-make-a-mod-of-the-kunoichi-robe-to",
+      "kind": "gpk",
+      "name": "I Make A Mod Of The Kunoichi",
+      "author": "yunachiu",
+      "category": "Costumes",
+      "short_description": "I make a mod of the Kunoichi Robe to other color versions.\nONLY ELIN NINJA\npurple&nbsp;download\nblue download\norange download\nfile:_Packages",
+      "long_description": "I make a mod of the Kunoichi Robe to other color versions.\nONLY ELIN NINJA\npurple&nbsp;download\nblue download\norange download\nfile:_Packages\n\nOriginal by yunachiu, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by yunachiu. Source: https://mods-of-tera.tumblr.com/post/149217868397/yunachiu-i-make-a-mod-of-the-kunoichi-robe-to",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149217868397/yunachiu-i-make-a-mod-of-the-kunoichi-robe-to",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/5df4709a2381d750e455b97b91d3bf13/tumblr_o76gebFuXr1v6rk2lo1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/5df4709a2381d750e455b97b91d3bf13/tumblr_o76gebFuXr1v6rk2lo1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "db__yunachiu-i-make-a-mod-of-the-kunoichi-robe-to.bin",
+      "gpk_files": [
+        "db__yunachiu-i-make-a-mod-of-the-kunoichi-robe-to.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/yunachiu_i-make-a-mod-of-the-kunoichi-robe-to.gpk",
+      "sha256": "e574df42368ea0ef7ae1aeeede52b1834eec4b0e21d44f6b185ee7b062bd7f9b",
+      "size_bytes": 55354922,
+      "composite_flag": true,
+      "replaces": "Replaces the db__yunachiu-i-make-a-mod-of-the-kunoichi-robe-to.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "kittieology.isis-eye-mod-by-after",
+      "kind": "gpk",
+      "name": "Isis Eye Mod By Kittieology After",
+      "author": "kittieology",
+      "category": "Costumes",
+      "short_description": "ISIS EYE MOD BY KITTIEOLOGY\nAfter quite a bit of tinkering and hording this eyemod, i am ready to release it. It turns the elin face (face 1",
+      "long_description": "ISIS EYE MOD BY KITTIEOLOGY\nAfter quite a bit of tinkering and hording this eyemod, i am ready to release it. It turns the elin face (face 1\n\nOriginal by kittieology, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by kittieology. Source: https://mods-of-tera.tumblr.com/post/149148971377/kittieology-isis-eye-mod-by-kittieology-after",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149148971377/kittieology-isis-eye-mod-by-kittieology-after",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/f93009418ae00e345d98e6f2ee4280b6/tumblr_nqd5bqkZW91up6yt2o3_540.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/f93009418ae00e345d98e6f2ee4280b6/tumblr_nqd5bqkZW91up6yt2o3_540.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "Popori_F_Head.gpk",
+      "gpk_files": [
+        "Popori_F_Head.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/kittieology_isis-eye-mod-by-after.gpk",
+      "sha256": "a76e395d74617ed20ed7b868795bc3f8732c2dcbdd7c6c388e91839463877e86",
+      "size_bytes": 57507621,
+      "composite_flag": true,
+      "replaces": "Replaces the Popori_F_Head package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "lewdshi.scar-restore-2014-swimsuits-long",
+      "kind": "gpk",
+      "name": "Scar Restore 2014 Swimsuits Long",
+      "author": "lewdshi",
+      "category": "Costumes",
+      "short_description": "Scar Restore / 2014 Swimsuits\nLong awaited! Here&rsquo;s my version of a scar restore mod for the 2014 swimsuits, which restores all scars a",
+      "long_description": "Scar Restore / 2014 Swimsuits\nLong awaited! Here&rsquo;s my version of a scar restore mod for the 2014 swimsuits, which restores all scars a\n\nOriginal by lewdshi, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by lewdshi. Source: https://mods-of-tera.tumblr.com/post/149145820282/lewdshi-scar-restore-2014-swimsuits-long",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149145820282/lewdshi-scar-restore-2014-swimsuits-long",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/f5e4d239e04ab53869e73abb4bebfe87/tumblr_nb26n3tXFI1t0k74no1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/f5e4d239e04ab53869e73abb4bebfe87/tumblr_nb26n3tXFI1t0k74no1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_22.gpk",
+      "gpk_files": [
+        "PC_Event_22.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/lewdshi_scar-restore-2014-swimsuits-long.gpk",
+      "sha256": "b750c6d0743adb04af071f75d3e791373e98e5f60c7f87cd7b1dc6ee3e1408b3",
+      "size_bytes": 57370208,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_22 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "gyunuslab.moomizu-this-mod-changes-both",
+      "kind": "gpk",
+      "name": "Moomizu This Mod Changes Both",
+      "author": "gyunuslab",
+      "category": "Costumes",
+      "short_description": "Moomizu\nThis mod changes both versions of the dyeable maillot with stockings to have a cow print design!\n*I haven&rsquo;t been able to test ",
+      "long_description": "Moomizu\nThis mod changes both versions of the dyeable maillot with stockings to have a cow print design!\n*I haven&rsquo;t been able to test \n\nOriginal by gyunuslab, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by gyunuslab. Source: https://mods-of-tera.tumblr.com/post/149145182867/gyunuslab-moomizu-this-mod-changes-both",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149145182867/gyunuslab-moomizu-this-mod-changes-both",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/5d17e63e62bd5c6ec556fe03bc9e46df/tumblr_nlds6ct3nE1u5wv1co1_400.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/5d17e63e62bd5c6ec556fe03bc9e46df/tumblr_nlds6ct3nE1u5wv1co1_400.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "mf__gyunuslab-moomizu-this-mod-changes-both.bin",
+      "gpk_files": [
+        "mf__gyunuslab-moomizu-this-mod-changes-both.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/gyunuslab_moomizu-this-mod-changes-both.gpk",
+      "sha256": "d4dc9f0ad27615ace89ea531d2531a2ace131a0a1a317e29fcb09c1db7265492",
+      "size_bytes": 61382865,
+      "composite_flag": true,
+      "replaces": "Replaces the mf__gyunuslab-moomizu-this-mod-changes-both.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "katmods.recolour-mod-for-frostrune-sword-top",
+      "kind": "gpk",
+      "name": "Recolour Mod For Frostrune Sword Top",
+      "author": "katmods",
+      "category": "Costumes",
+      "short_description": "Recolour-Mod for Frostrune Sword\nTop picture is the Frostrune one with effects (looks a little buggy hehe but i like it) - bottom picture th",
+      "long_description": "Recolour-Mod for Frostrune Sword\nTop picture is the Frostrune one with effects (looks a little buggy hehe but i like it) - bottom picture th\n\nOriginal by katmods, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by katmods. Source: https://mods-of-tera.tumblr.com/post/179272837342/katmods-recolour-mod-for-frostrune-sword-top",
+      "source_url": "https://mods-of-tera.tumblr.com/post/179272837342/katmods-recolour-mod-for-frostrune-sword-top",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/fdaee52fd1232dc37e3f29fb3c8045d9/tumblr_pgvxlh1oKA1xqnwl2o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/fdaee52fd1232dc37e3f29fb3c8045d9/tumblr_pgvxlh1oKA1xqnwl2o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Weapons_Event19.patched.gpk",
+      "gpk_files": [
+        "PC_Weapons_Event19.patched.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/katmods_recolour-mod-for-frostrune-sword-top.gpk",
+      "sha256": "c70cbdea4c2983b71d657b862849be4c5307d26af57abb48fc870bf93e6f9114",
+      "size_bytes": 43132464,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Weapons_Event19.patched package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "katmods.recolour-for-the-designer-shirt-3-some",
+      "kind": "gpk",
+      "name": "Recolour For The Designer Shirt 3 Some",
+      "author": "katmods",
+      "category": "Costumes",
+      "short_description": "Recolour for the designer shirt :3 some details are coloured red.. completly black one and black/red will follow today evening :)\nClick here",
+      "long_description": "Recolour for the designer shirt :3 some details are coloured red.. completly black one and black/red will follow today evening :)\nClick here\n\nOriginal by katmods, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by katmods. Source: https://mods-of-tera.tumblr.com/post/179272785202/katmods-recolour-for-the-designer-shirt-3-some",
+      "source_url": "https://mods-of-tera.tumblr.com/post/179272785202/katmods-recolour-for-the-designer-shirt-3-some",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/59004bccfc55ac354e673e2058ede6d5/tumblr_pgvxxsWJnn1xqnwl2o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/59004bccfc55ac354e673e2058ede6d5/tumblr_pgvxxsWJnn1xqnwl2o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_58.patched_red.patched.gpk",
+      "gpk_files": [
+        "PC_Event_58.patched_red.patched.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/katmods_recolour-for-the-designer-shirt-3-some.gpk",
+      "sha256": "a1e88a2be947d50bf2ce2ff71327ade16c377c44bb2d1c5a56e0998369466fc4",
+      "size_bytes": 35489210,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_58.patched_red.patched package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "short.hair-for-elin",
+      "kind": "gpk",
+      "name": "Hair For Elin",
+      "author": "short",
+      "category": "Costumes",
+      "short_description": "For 1 hair\n&hearts;DOWNLOAD&hearts;",
+      "long_description": "For 1 hair\n&hearts;DOWNLOAD&hearts;\n\nOriginal by short, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by short. Source: https://mods-of-tera.tumblr.com/post/175273920982/short-hair-for-elin",
+      "source_url": "https://mods-of-tera.tumblr.com/post/175273920982/short-hair-for-elin",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/e4d2960d2fbffa8ce03396cd5db07679/tumblr_inline_p9ou7vFBZJ1vy21q7_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/e4d2960d2fbffa8ce03396cd5db07679/tumblr_inline_p9ou7vFBZJ1vy21q7_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "gd__short-hair-for-elin__1r4N95BLDP4f.bin",
+      "gpk_files": [
+        "gd__short-hair-for-elin__1r4N95BLDP4f.bin"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/short_hair-for-elin.gpk",
+      "sha256": "e2508dbf139c1f63b702f16e81815267e623ddd0656a1f0d0f319a6d183c1843",
+      "size_bytes": 67472332,
+      "composite_flag": true,
+      "replaces": "Replaces the gd__short-hair-for-elin__1r4N95BLDP4f.bin package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "cute.swimsuit",
+      "kind": "gpk",
+      "name": "Swimsuit",
+      "author": "cute",
+      "category": "Costumes",
+      "short_description": "Recolor of 2016 swimsuit for elin\nDOWNLOAD&nbsp;(ꈍ ꒳ ꈍ✿)",
+      "long_description": "Recolor of 2016 swimsuit for elin\nDOWNLOAD&nbsp;(ꈍ ꒳ ꈍ✿)\n\nOriginal by cute, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by cute. Source: https://mods-of-tera.tumblr.com/post/171161152347/cute-swimsuit",
+      "source_url": "https://mods-of-tera.tumblr.com/post/171161152347/cute-swimsuit",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/53669ba9d925fc0e7cd93aa7d4edc642/tumblr_inline_p4gllhA2Uu1vy21q7_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/53669ba9d925fc0e7cd93aa7d4edc642/tumblr_inline_p4gllhA2Uu1vy21q7_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "deploy_strategy": "dropin",
+      "target_dropin_filename": "PC_Event_44.gpk",
+      "gpk_files": [
+        "PC_Event_44.gpk"
+      ],
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch5/cute_swimsuit.gpk",
+      "sha256": "bfba07385c68a329794376a496ed5e9de2ad17fa007eca47073059834b9dd8b2",
+      "size_bytes": 37021706,
+      "composite_flag": true,
+      "replaces": "Replaces the PC_Event_44 package. Check: preview/wear the matching item in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
     }
   ]
 }
