@@ -1,5 +1,5 @@
 {
-  "version": 128,
+  "version": 129,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -4716,23 +4716,29 @@
       "long_description": "**Replaces:** Replaces the PC_Event_14 costume family — items such as [TBU] (#131808); [TBU] (#131809); [TBU] (#131810). Check: preview/wear one of those items.\n\nElin business suit recolor.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Alqmia (https://mods-of-tera.tumblr.com/post/162166035187/alqmia-1only-elin-for-business-suit-black) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.elin-black-business-suit.PC_Event_14.roundtrip.gpk",
       "sha256": "1997aa5293e3c2035f8ad6b93c4fc705ac859c0df81dfcf8af4f85f760dd6871",
       "size_bytes": 7935,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/162166035187/alqmia-1only-elin-for-business-suit-black",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces [TBU]",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Black%20Business%20Suit/Black%20Business%20Suit%20Model.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/cover.webp",
       "target_object_path": "PC_Event_14.Tex.PC_Event_14_Popori_M_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
-      "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoGAAwAAwBSJZQAApZZ5AAA/tKxG3ZYtrAX/Xt+AkiotlrjAAv+bxAA",
-      "replaces": "Replaces the PC_Event_14 costume family — items such as [TBU] (#131808); [TBU] (#131809); [TBU] (#131810). Check: preview/wear one of those items."
+      "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAQCdASoMAAYAAwBSJZwC7AEQzXs30AAA/qzdqRHfCDyHG33Bh6RwA0o1aD2AAAA=",
+      "replaces": "Replaces the PC_Event_14 costume family — items such as [TBU] (#131808); [TBU] (#131809); [TBU] (#131810). Check: preview/wear one of those items.",
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/thumb.webp",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_3.webp"
+      ]
     },
     {
       "id": "pantypon.elin-strawberry-maid",
@@ -4774,12 +4780,12 @@
       "long_description": "**Replaces:** Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.\n\nPink social dress recolor.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/168641380642/pantypon-elin-pink-social-dress-requested-and) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-r2",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.elin-pink-social-dress.PC_Event_46.gpk",
       "sha256": "cc4f501b0e149b0183d12da35d73c534b178bbad454cbd4799ba8f68555e2844",
       "size_bytes": 14860919,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/168641380642/pantypon-elin-pink-social-dress-requested-and",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
@@ -4789,13 +4795,12 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_3.webp"
       ],
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAcAAwBSJYwAAudV5CAAAP73xTGFIwyl2T2cEFBPnQA+dj3wAAAA",
+      "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoHAAwAAwBSJaACdAD0VzO0FYAA/ma/u3go/8/fJBMdL/nHnK1HtuzuvWTQOjHBALTp7NjyBiAAAA==",
       "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "PC_Event_46.gpk",
@@ -4876,33 +4881,33 @@
       "long_description": "**Replaces:** Replaces the PC_Event_32 costume family (male variant) — items such as Arborean College Gear (Human Male) (#152312); Heavy Metal Star (Human Male) (#152315); Dyeable College Gear (Human Male) (#152318). Check: preview/wear one of those items.\n\nWhite recolor of Castanica Demon costume.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/161888310737/pantypon-white-castanica-demon-this-is-an-old) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-r2",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.white-castanica-demon.PC_Event_32.gpk",
       "sha256": "a8d711b0fd606cbed33ee5c7e6fa871d499ed350623b3189e63732a55463c4e0",
       "size_bytes": 29369660,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/161888310737/pantypon-white-castanica-demon-this-is-an-old",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Arborean College Gear (Human Male)",
       "last_verified_patch": "v100.02 (dropin, smoke-verified)",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_0.webp",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/cover.webp",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_3.webp"
       ],
-      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAAwAAwBSJYgCsAEO4dX3IxBgAP7d6ghsbRruN45Q/FOcuHCWdxkfFbdDpvRg4NfkmbKmrAuGZ5jySTy7yRCwAAA=",
+      "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoJAAwAAwBSJYgCsADcSCvciBkAAP7d6ghsbRrugikiGYUAU1fdVC4KpdQZywTTcIPMTKnCNM/kZNj5qPNogOJF7Z0AAA==",
       "replaces": "Replaces the PC_Event_32 costume family (male variant) — items such as Arborean College Gear (Human Male) (#152312); Heavy Metal Star (Human Male) (#152315); Dyeable College Gear (Human Male) (#152318). Check: preview/wear one of those items.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "PC_Event_32.gpk",
       "gpk_files": [
         "PC_Event_32.gpk"
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/thumb.webp"
     },
     {
       "id": "pantypon.white-pixie",
@@ -4945,28 +4950,29 @@
       "long_description": "**Replaces:** Replaces the PC_Event_62 costume family — items such as IM39 Prototype (Human Male) (#99630); IM39 Prototype COLORSTORM (Human Male) (#99642); IM39 Prototype (Human Female) (#99654). Check: preview/wear one of those items.\n\nMore dyeable regions on the flight suit.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/170922272817/pantypon-better-dyeable-flight-suit-changes) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.better-dyeable-flight-suit.PC_Event_62.roundtrip.gpk",
       "sha256": "1ba1953af6a6dd2faaf44ff9352644b805fbefdb241743c72dd60968b9b77e78",
       "size_bytes": 7908,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/170922272817/pantypon-better-dyeable-flight-suit-changes",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces IM39 Prototype (Human Male)",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_0.webp",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/cover.webp",
       "target_object_path": "PC_Event_62.Tex.PC_Event_62_M_Spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_1.webp",
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_2.webp"
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_3.webp"
       ],
-      "blur_data": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAsAAwBSJYgCdAYstcoIpeAA/u0g1p4PXSa81QOHx4eqbSKRPwt9ZpO3i3Ym7hcfwUGeFVrDSgYaUBYtM2EUS1KxOmqkMAA=",
-      "replaces": "Replaces the PC_Event_62 costume family — items such as IM39 Prototype (Human Male) (#99630); IM39 Prototype COLORSTORM (Human Male) (#99642); IM39 Prototype (Human Female) (#99654). Check: preview/wear one of those items."
+      "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoMAAsAAwBSJYgCdAEW7auPAAD+7SDZEnMY1QCM75ltPIq2oF+eSZO3cizB/YbefXMGqC1mA9+0o0o5ksoqpzk0pkDz0h9rLmgAAA==",
+      "replaces": "Replaces the PC_Event_62 costume family — items such as IM39 Prototype (Human Male) (#99630); IM39 Prototype COLORSTORM (Human Male) (#99642); IM39 Prototype (Human Female) (#99654). Check: preview/wear one of those items.",
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/thumb.webp"
     },
     {
       "id": "pantypon.castanic-sleepy-running-togs",
@@ -4977,23 +4983,24 @@
       "long_description": "**Replaces:** Replaces the PC_Event_03 costume family (Elin variant) — items such as Blue Running Togs (#60581); Red Running Togs (#60586); Blue Running Togs (#60611). Check: preview/wear one of those items.\n\nCastanic sleepy running togs recolor.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/154802650367/pantypon-sleepy-castanic-running-togs) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.castanic-sleepy-running-togs.PC_Event_03.roundtrip.gpk",
       "sha256": "b4a784a7a5238ecf949e837a7f5869f5e6aa021435d9affc7c7c472a80b93bac",
       "size_bytes": 7904,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/154802650367/pantypon-sleepy-castanic-running-togs",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Blue Running Togs",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Castanic%20Sleepy%20Running%20Togs/Castanic%20Sleepy%20Model.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/cover.webp",
       "target_object_path": "PC_Event_03.Tex.PC_Event_03_Popori_F_spec_black",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
-      "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAgAAwBSJYwCsADbajWOiAD+fpeangUXIBRXl83ohOTZ94RKpeb+W0jWij9u0Ooh1Nh/tt3FqiHIRoHjEKZh/wc0AA==",
-      "replaces": "Replaces the PC_Event_03 costume family (Elin variant) — items such as Blue Running Togs (#60581); Red Running Togs (#60586); Blue Running Togs (#60611). Check: preview/wear one of those items."
+      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMAAgAAwBSJYwCsADceDABAAD+fpeangUXH/veWjs2DqynF01qROkNt07r2Y/DtucSC96ptvzRHrVZhHzXZf4EqAA=",
+      "replaces": "Replaces the PC_Event_03 costume family (Elin variant) — items such as Blue Running Togs (#60581); Red Running Togs (#60586); Blue Running Togs (#60611). Check: preview/wear one of those items.",
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/thumb.webp"
     },
     {
       "id": "pantypon.charcoal-eldritch-no-skirt",
@@ -5112,33 +5119,33 @@
       "long_description": "**Replaces:** Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.\n\nPink picnic dress variant.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/163169905587/pantypon-pink-picnic-dress-ya-ever-wrote-the) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-r2",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.pink-picnic-dress.PC_Event_46.gpk",
       "sha256": "e7907b5c8c9019a76a40b731a949ca456ceee2ba9a8c8025ea25d0345275c38d",
       "size_bytes": 14878183,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/163169905587/pantypon-pink-picnic-dress-ya-ever-wrote-the",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces Frilled Sunday Dress (Elin)",
       "last_verified_patch": "v100.02 (dropin, smoke-verified)",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_0.webp",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/cover.webp",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_3.webp"
       ],
-      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAcAAwBSJZQC7ADdhJtTcAD+0mZHaJdrRWzXWfhfR4F6fAxN++6mQPbZNRfxw8TIJ5L/ORX4rSM7yANMQAAA",
+      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAcAAwBSJZQC7AEWzOduM+HgAP7Sj4ntdMIMJGzMZKL1YB7cID60usiSQC79XT0f42yicCgw0BRIfyqgB20AAAA=",
       "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "PC_Event_46.gpk",
       "gpk_files": [
         "PC_Event_46.gpk"
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/thumb.webp"
     },
     {
       "id": "taylorswiftmodding.bear-animal-mask",
@@ -5512,18 +5519,18 @@
       "long_description": "Hana-themed restyle of the reward tier panel.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Chat & Alerts",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/184579027907/pantypon-hana-reward-tier-simple-mod-that) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.hana-reward-tier.S1UI_Benefit.roundtrip.gpk",
       "sha256": "c32a4245945b91e91a3d62926fb5c837fad8dc4e5811b85ae633333e2d5b0686",
       "size_bytes": 379214,
-      "source_url": "https://github.com/pantypon/tera-client-ui-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/184579027907/pantypon-hana-reward-tier-simple-mod-that",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "S1UI_Benefit.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.webp",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/cover.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5536,7 +5543,7 @@
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.webp"
       ],
-      "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoMAAYAAwBSJQBOgBB6oAD+nufVkiJ0awDcwpt5NnrrLSIQcptyuAAA",
+      "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAABwAQCdASoMAAYAAwBSJQBOgBB6oAD+nufVkiJ0awPhImk+1nuHNoPi5cq9NcwAAAA=",
       "replaces": "Replaces the TERA Rewards / benefit window (S1UI_Benefit). Check: open that window in game.",
       "parts": [
         {
@@ -5548,7 +5555,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Benefit.gpk",
           "loose_vanilla_sha256": "57130ccf58a64bb5bf115b626995a0f03439efa1fe647a7459b28f8548666c7e"
         }
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/thumb.webp"
     },
     {
       "id": "pantypon.pink-boss-hp-bar",
@@ -5559,18 +5567,18 @@
       "long_description": "Pink restyle of the boss HP gauge.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "HUD & Combat",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/180136021447/pantypon-pink-boss-hp-bar-this-mod-removes-the) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-boss-hp-bar.S1UI_GageBoss.roundtrip.gpk",
       "sha256": "350670a79efe4ca54e50d9ed0e2ea07999cb6236762cdec3d835f4cabab37b22",
       "size_bytes": 2406643,
-      "source_url": "https://github.com/pantypon/tera-client-ui-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/180136021447/pantypon-pink-boss-hp-bar-this-mod-removes-the",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "S1UI_GageBoss.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_0.webp",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/cover.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5581,9 +5589,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_0.webp"
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_3.webp"
       ],
-      "blur_data": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAADQAQCdASoMAAIAAwBSJZACw7EVzze0AAD+dYVV0JAWM/Wr/ZxAAA==",
+      "blur_data": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAACwAQCdASoMAAIAAwBSJZwAAlvDLXQAAP7qIzqGCx7EtiM+L0AAAA==",
       "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game.",
       "parts": [
         {
@@ -5595,7 +5605,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageBoss.gpk",
           "loose_vanilla_sha256": "79cb184c155b4732f1d4362e68500ee39541091e576bae5ec188c118423ac6f7"
         }
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/thumb.webp"
     },
     {
       "id": "pantypon.pink-chat-window",
@@ -5606,18 +5617,18 @@
       "long_description": "Pink restyle of the chat window.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Chat & Alerts",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/186772997617/pantypon-pink-chat-window-its-pink-what-else) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-chat-window.S1UI_Chat2.roundtrip.gpk",
       "sha256": "c9be18abcdbff9dbd3f78e14ff1142d8225d18edfcfd32d5c91c621b5c746111",
       "size_bytes": 4404343,
-      "source_url": "https://github.com/pantypon/tera-client-ui-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186772997617/pantypon-pink-chat-window-its-pink-what-else",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "S1UI_Chat2.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.webp",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/cover.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5630,7 +5641,7 @@
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.webp"
       ],
-      "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoMAAUAAwBSJQBdgB5vNRYAAPhTu/UQUrPk/VnpwAA=",
+      "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoMAAUAAwBSJQBdgB5vNRYAAPhTu/UQUrPk/Ra/gAA=",
       "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game.",
       "parts": [
         {
@@ -5642,7 +5653,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Chat2.gpk",
           "loose_vanilla_sha256": "bfadf44e501b55649272076c861631009190e8c615ed8ec079563c17259b03e8"
         }
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/thumb.webp"
     },
     {
       "id": "pantypon.pink-controller-ui",
@@ -5702,18 +5714,18 @@
       "long_description": "Pink hearts crosshair replacement.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "HUD & Combat",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/161159005622/pantypon-pantypon-pink-hearts-crosshair) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-hearts-crosshair.S1UI_Crosshair.roundtrip.gpk",
       "sha256": "2aebbde33d016949227ccaac001dc59f89b6cb2fc815e1890c593604f37e7d93",
       "size_bytes": 633303,
-      "source_url": "https://github.com/pantypon/tera-client-ui-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/161159005622/pantypon-pantypon-pink-hearts-crosshair",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "S1UI_Crosshair.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_0.webp",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/cover.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5724,12 +5736,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_3.webp"
       ],
-      "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAwAgCdASoMAAsAAwBSJbACdLoAAwkShkVmkAD+3rj8g9MK+V71WuzsYfd+LAAInkyyKeAA",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAsAAwBSJbACdLoAAwjy0NAAAP7euPyD1YpA0t0WCft4FJRwnv0LAA1NWkTSYAA=",
       "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
       "parts": [
         {
@@ -5741,7 +5752,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
           "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
         }
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/thumb.webp"
     },
     {
       "id": "pantypon.pink-party-member-hp-bar",
@@ -5840,18 +5852,18 @@
       "long_description": "Pink restyle of the secondary skill slot bar.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "HUD & Combat",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/186772990972/pantypon-pink-skill-slots-kinda-hard-to-see-but) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-ex.S1UI_TestQuickSlotEx.roundtrip.gpk",
       "sha256": "0121fc2bfde65025e819944fc45d5bc0a55e5599a59106390bebaad1dc073696",
       "size_bytes": 1289952,
-      "source_url": "https://github.com/pantypon/tera-client-ui-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186772990972/pantypon-pink-skill-slots-kinda-hard-to-see-but",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "S1UI_TestQuickSlotEx.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Skill%20Slots/Pink%20Skill%20Slots%20Model.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/cover.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5861,7 +5873,7 @@
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
-      "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA=",
+      "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoMAAQAAwBSJZACdADdIv+ckAD+nxNOAdRHltCCyPb8EmuconPPqY0XkUcAAA==",
       "replaces": "Replaces the extra quickslot bar 1 (S1UI_TestQuickSlotEx). Check: open that window in game.",
       "parts": [
         {
@@ -5873,7 +5885,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TestQuickSlotEx.gpk",
           "loose_vanilla_sha256": "581ddc75438764c7d0450ebe309160d0105be5d7ffb169c18b5c98f1cfc89bdd"
         }
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/thumb.webp"
     },
     {
       "id": "pantypon.pink-skill-slots-ex2",
@@ -5884,18 +5897,18 @@
       "long_description": "Pink restyle of the tertiary skill slot bar.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "HUD & Combat",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/186772990972/pantypon-pink-skill-slots-kinda-hard-to-see-but) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.pink-skill-slots-ex2.S1UI_TestQuickSlotEx2.roundtrip.gpk",
       "sha256": "f6cae257e971c64b949e0b33cab19dfbdb37665c48403f8f8d2e24142edeecac",
       "size_bytes": 1296700,
-      "source_url": "https://github.com/pantypon/tera-client-ui-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186772990972/pantypon-pink-skill-slots-kinda-hard-to-see-but",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "S1UI_TestQuickSlotEx2.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Skill%20Slots/Pink%20Skill%20Slots%20Model.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/cover.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5905,7 +5918,7 @@
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
-      "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA=",
+      "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoMAAQAAwBSJZACdADdIv+ckAD+nxNOAdRHltCCyPb8EmuconPPqY0XkUcAAA==",
       "replaces": "Replaces the extra quickslot bar 2 (S1UI_TestQuickSlotEx2). Check: open that window in game.",
       "parts": [
         {
@@ -5917,7 +5930,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TestQuickSlotEx2.gpk",
           "loose_vanilla_sha256": "e7030062c100b10ac5a097d7e1ca67012c2cabac6ac9a5125eaa2a475251b405"
         }
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/thumb.webp"
     },
     {
       "id": "pantypon.static-heart-crosshair",
@@ -5928,18 +5942,18 @@
       "long_description": "Static heart crosshair (no animation).\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "HUD & Combat",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-ui-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/180103758617/pantypon-static-heart-crosshair-animations-on) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.static-heart-crosshair.S1UI_Crosshair.roundtrip.gpk",
       "sha256": "f960ede1f8e429429b3fd3a5bdce375892f8bf6c6f190f70a7cd431d803a2be5",
       "size_bytes": 105138,
-      "source_url": "https://github.com/pantypon/tera-client-ui-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/180103758617/pantypon-static-heart-crosshair-animations-on",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "S1UI_Crosshair.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_0.gif",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/cover.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5950,7 +5964,9 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "screenshots": [
-        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_2.webp"
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_3.webp"
       ],
       "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACQAQCdASoMAAoAAwBSJZwAAuUt8gAA/vd5+78ONqkIVZLwAAA=",
       "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
@@ -5964,7 +5980,8 @@
           "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
           "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
         }
-      ]
+      ],
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/thumb.webp"
     },
     {
       "id": "pantypon.yunicorn-defense-pop-up",
@@ -6342,18 +6359,18 @@
       "long_description": "**Replaces:** Replaces Castanic female hairstyle 17's hair/horn textures (Castanic_F_Head). Check: Castanic female with hairstyle 17.\n\nPink-horn variant for Castanic female hairstyle 3.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Hair",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-special-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/182166223217/pantypon-castanic-female-hair-3-pink-horns) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.castanic-female-pink-horns-hair.Castanic_F_Head.roundtrip.gpk",
       "sha256": "f5b6bc6165dd3da057992edb32c657c60808d6c8e923a3c206acce4b8203cd75",
       "size_bytes": 7875,
-      "source_url": "https://github.com/pantypon/tera-client-special-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/182166223217/pantypon-castanic-female-hair-3-pink-horns",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "Castanic_F_Head.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Castanic%20Female%20Hair%203%20Pink%20Horns/Castanic%20Hair%203%20Pink%20Horns%20Model.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/cover.webp",
       "tags": [
         "classic-era",
         "cosmetic",
@@ -6363,9 +6380,15 @@
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
-      "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMAAwAAwBSJaACdAEPCqXTUGkAAP7t4ZLcTMIrpPKbXYuAubS75sUmu/CsQnUUxtq9RRLSzKxZVchAy0//lbJgMXfAEGErnRIAAA==",
+      "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAwAAwBSJbACdADcWbtjNfrAAP7yD7cu2uJikacOiDb8i4ntR0Pj8oius/5/DrkekKf1VkvWkLXF3pImZrf0Aa0mAAAA",
       "replaces": "Replaces Castanic female hairstyle 17's hair/horn textures (Castanic_F_Head). Check: Castanic female with hairstyle 17.",
-      "tagline": "Replaces Castanic female hairstyle 17's hair/horn textures (Castanic_F_Head)"
+      "tagline": "Replaces Castanic female hairstyle 17's hair/horn textures (Castanic_F_Head)",
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/thumb.webp",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_3.webp"
+      ]
     },
     {
       "id": "pantypon.elin-brighter-new-hairstyles",
@@ -6410,18 +6433,18 @@
       "long_description": "**Replaces:** Replaces Elin ear/tail textures (Popori_F_Head, e.g. tail 14) to match hair colors. Check: Elin ears/tail vs hair.\n\nMatched ear/tail color set for Elin.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Hair",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-special-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/168126036995/made-my-own-version-of-matching-ears-and-tails-mod) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.elin-matching-ears-and-tails.Popori_F_Head.roundtrip.gpk",
       "sha256": "3e1bd65d95860ee0d19b98adc13dd2e0218e4a8d55e47cea462aaf0d646d6095",
       "size_bytes": 5190,
-      "source_url": "https://github.com/pantypon/tera-client-special-mods",
+      "source_url": "https://pantypon.tumblr.com/post/168126036995/made-my-own-version-of-matching-ears-and-tails-mod",
       "target_patch": "v32.04",
       "composite_flag": true,
       "gpk_files": [
         "Popori_F_Head.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-special-mods/master/Elin%20Matching%20Ears%20and%20Tails%20Remaster/Matching%20Ears%20and%20Tail%20Remaster%20Model.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/cover.webp",
       "tags": [
         "classic-era",
         "cosmetic",
@@ -6431,9 +6454,14 @@
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
-      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoLAAwAAwBSJZQCsAEXZBBXHjAA/vkUd+4pO/0iDAPukVZuyy78Og1blZARrr0nk+/ik/04Y/6c/9Z7vSu1PAAA",
+      "blur_data": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoJAAwAAwBSJbACdAD0ZqR66lAA/AD4n7kp6fR89AOtKhAodkwbPN5vskQrZ0jqfVPowZXSahTpzEUtzhKKRh1MQexsL533bY3ip8/milMKpAAA",
       "replaces": "Replaces Elin ear/tail textures (Popori_F_Head, e.g. tail 14) to match hair colors. Check: Elin ears/tail vs hair.",
-      "tagline": "Replaces Elin ear/tail textures (Popori_F_Head, e"
+      "tagline": "Replaces Elin ear/tail textures (Popori_F_Head, e",
+      "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/thumb.webp",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/shot_2.webp"
+      ]
     },
     {
       "id": "pantypon.elin-prettier-skin",
@@ -7322,12 +7350,12 @@
       "long_description": "**Replaces:** Replaces the PC_Event_09 costume family (Elin variant) — items such as Elin Icaruna School for Girls Uniform (#131303); School Uniform (Elin) (#131224); School Uniform A (Elin) (#131232). Check: preview/wear one of those items.\n\nPale-tone shoes and socks fix for the Elin Writer outfit.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/180441157077/pantypon-pale-writer-shoes-and-socks-fix-i) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-05-01-x64-port",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/foglio-x64-port-batch-2026-05-01/pantypon.elin-pale-writer-shoes-fix.PC_Event_09.roundtrip.gpk",
       "sha256": "2de6b080b74ba3a3084305382c3815091ea6968369e42c4784a9f80749c2d675",
       "size_bytes": 7987,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/180441157077/pantypon-pale-writer-shoes-and-socks-fix-i",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
@@ -7343,9 +7371,14 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAACwAQCdASoMAAcAAwBSJYwAAudV5CAAAP73xTGFIwylydMfrdqqPzse+AAAAA==",
+      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAwAAwBSJZgC7AEPAt4KpVCAAP7reLCebyNeZmOWy9B9RPWfu4ugcgsys2anrPOpZ89NSE6xc/vNfwFZHVYAAAA=",
       "replaces": "Replaces the PC_Event_09 costume family (Elin variant) — items such as Elin Icaruna School for Girls Uniform (#131303); School Uniform (Elin) (#131224); School Uniform A (Elin) (#131232). Check: preview/wear one of those items.",
-      "tagline": "Replaces Elin Icaruna School for Girls Uniform"
+      "tagline": "Replaces Elin Icaruna School for Girls Uniform",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_3.webp"
+      ]
     },
     {
       "id": "pantypon.elin-whiter-ice-cream-social",
@@ -7530,12 +7563,12 @@
       "long_description": "**Replaces:** Replaces the PC_Event_32 costume family (male variant) — items such as Dyeable College Gear (Human Male) (#152318); Dyeable College Gear (Human Female) (#152327); Dyeable College Gear (High Elf Male) (#152336). Check: preview/wear one of those items.\n\nWhitens the dyeable jeans and jacket outfit.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
       "category": "Costumes",
       "license": "Unknown",
-      "credits": "Published by pantypon at https://github.com/pantypon/tera-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://mods-of-tera.tumblr.com/post/152988789902/pantypon-whiter-dyeable-jeans-and-jacket) (via the mods-of-tera archive blog) — matched to the release post, images from it. Shared via Tsun's forum backup on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "2026-r2",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/duplicate-batch-report-2026-05-01/pantypon.whiter-jeans-and-jacket.PC_Event_32.gpk",
       "sha256": "beb825c7ca1ea38a7e1cd5946870504cee6f42a4f88da43838d9080c7a5fe91d",
       "size_bytes": 29468692,
-      "source_url": "https://github.com/pantypon/tera-client-mods",
+      "source_url": "https://mods-of-tera.tumblr.com/post/152988789902/pantypon-whiter-dyeable-jeans-and-jacket",
       "target_patch": "v100.02",
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
@@ -7550,7 +7583,7 @@
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.whiter-jeans-and-jacket/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoMAAcAAwBSJYwAAudeh+v4AP73xTGFIv1Ho3eLedwqzNOD2yd+sAAA",
+      "blur_data": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoMAAcAAwBSJZwAAro2hWoOAAD89Vxn/JDqTjhCSCCenVhTHo/f4YWp4Ow6IV5SdxARNXKJcUl9AAAA",
       "replaces": "Replaces the PC_Event_32 costume family (male variant) — items such as Dyeable College Gear (Human Male) (#152318); Dyeable College Gear (Human Female) (#152327); Dyeable College Gear (High Elf Male) (#152336). Check: preview/wear one of those items.",
       "tagline": "Replaces Dyeable College Gear (Human Male)",
       "deploy_strategy": "dropin",
