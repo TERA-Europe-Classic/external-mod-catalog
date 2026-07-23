@@ -7749,6 +7749,41 @@
       "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQABAAAsBMJaQAAlwptq9LYAD+ghAua+qxLEMgXBGAirgirDdaIYflLD0dFpYKbfyFu1CeBa/zmyDnXhAYn0JwEwwrKr+xqgAAAA==",
       "replaces": "Replaces the Acc_403 item family — items such as Gray College Backpack (#152411); Canvas Backpack (#184355); Campus Bag A (#204456). Check: preview/wear one of those items.",
       "tagline": "Replaces Gray College Backpack"
+    },
+    {
+      "id": "pantypon.pink-menu",
+      "kind": "gpk",
+      "name": "Pink Main Menu",
+      "author": "pantypon",
+      "category": "Windows & Menus",
+      "short_description": "Makes the main menu pink and removes the background, leaving it transparent.",
+      "long_description": "**Replaces:** the in-game Main Menu (Esc menu) UI package (S1UI_MainMenu).\n\nMakes your main menu pink and removes the background, leaving it transparent. Original by pantypon.\n\nThe launcher downloads and installs this for you; manage it from the mod manager.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon (https://mods-of-tera.tumblr.com/post/186773025922). Rehosted for the TERA Europe Classic+ launcher. If you are the author and want this changed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "version": "2019-r1",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186773025922/pantypon-pantypon-pink-menu-this-mod-just",
+      "featured_image": "https://64.media.tumblr.com/81722a5e993769161d7f624ee4fe90c2/tumblr_phz4wnLsy81vdsl28o1_r1_400.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/81722a5e993769161d7f624ee4fe90c2/tumblr_phz4wnLsy81vdsl28o1_r1_400.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "compatibility_notes": "Reconverted from pantypon x32 mod to v100.02 x64 (converter pixel-verified byte-identical to source). loose_replace of the vanilla loose S1UI_MainMenu.gpk; reversible on uninstall. Please report if the main menu looks off in-game.",
+      "replaces": "Replaces the Main Menu (Esc menu) UI (S1UI_MainMenu). Check: press Esc in game and confirm the menu is pink with a transparent background.",
+      "gpk_files": [
+        "S1UI_MainMenu.gpk"
+      ],
+      "parts": [
+        {
+          "name": "ui",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-pantypon.pink-menu-v1.0/S1UI_MainMenu.gpk",
+          "sha256": "b2ac1d7ee625a69efafe2a5021fa54f43e788b124cccf925031660b6cf3bd703",
+          "size_bytes": 502042,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_MainMenu.gpk",
+          "loose_vanilla_sha256": "c91f03d9639f1e6bb97965a213963129f82e2129a453be429ebf8c79f4f2c7a5"
+        }
+      ],
+      "last_verified_patch": "v100.02 (converter pixel-verified; loose_replace canary — in-game render pending)"
     }
   ]
 }
