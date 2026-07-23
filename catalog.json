@@ -1,5 +1,5 @@
 {
-  "version": 122,
+  "version": 123,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -861,10 +861,10 @@
       "category": "appearance",
       "license": "Unknown",
       "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "1.0.0",
+      "version": "1.0.0-r1",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Strawberry_Melody_2.5.gpk",
-      "sha256": "754cbe27d50311158c99cff9d417e8e97c0050833cc85764e13eabdf0b7f5668",
-      "size_bytes": 133989,
+      "sha256": "c3f7c59ef70d9d95b78820f8a34c8534e2a62c39ff68713cd89857ed1bafa63b",
+      "size_bytes": 134117,
       "deploy_strategy": "tmm",
       "compatible_arch": "x64",
       "gpk_files": [
@@ -1832,10 +1832,10 @@
       "category": "appearance",
       "license": "Unknown",
       "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/190182218325/elin-face-8-adornment-5-plum-requested-by-akura) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "1.0.0",
+      "version": "1.0.0-r1",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Plum.gpk",
-      "sha256": "baaeadbc3f6d4eb01aa1da26c1001215146e3659ccf522dc66f9f51bb3f488af",
-      "size_bytes": 133989,
+      "sha256": "a761d1d5ea0a7f36c20a0d905407bca71560514e5ef7ce1f390627c23bef8f37",
+      "size_bytes": 134083,
       "deploy_strategy": "tmm",
       "compatible_arch": "x64",
       "gpk_files": [
