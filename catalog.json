@@ -1,5 +1,5 @@
 {
-  "version": 97,
+  "version": 98,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -2526,7 +2526,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_EquipmentCombine.EquipmentCombine",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2551,7 +2551,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_EquipmentUpgrade.EquipmentUpgrade",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2601,7 +2601,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_InteractionPopup.InteractionPopup",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2651,7 +2651,7 @@
       "updated_at": "2026-05-01T22:30:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "compatible_arch": "x64",
       "target_object_path": "S1UI_MiniMap.MiniMap",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2712,7 +2712,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_ParcelPostLog.ParcelPostLog",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2737,7 +2737,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_ProductionCreatePopUp.ProductionCreatePopUp",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2762,7 +2762,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_ProductionList.ProductionList",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2787,7 +2787,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_ServantStorageWindow.ServantStorageWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2812,7 +2812,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_SkillWindow.SkillWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2862,7 +2862,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_SystemOption.SystemOption",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2887,7 +2887,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_TestQuickSlot.TestQuickSlot",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2912,7 +2912,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_TradePopup.TradePopup",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2937,7 +2937,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_WareHouseWindow.WareHouseWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2961,7 +2961,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/9d7d061f34c9ba80f1928446e5013bea8e05c12bdd1d8b8e01205d5a425ecabf/foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_InventoryWindow.Inventory",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -2985,7 +2985,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/9d7d061f34c9ba80f1928446e5013bea8e05c12bdd1d8b8e01205d5a425ecabf/foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_PaperDoll.PaperDoll",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3009,7 +3009,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/9d7d061f34c9ba80f1928446e5013bea8e05c12bdd1d8b8e01205d5a425ecabf/foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "compatibility_notes": "Not portable to v100. Foglio's Icon_Items.gpk is a Classic-era full-package replacement with 4074 Texture2D entries; v100 routes Icon_Items through a composite mapper with thousands of objects, so a per-icon port pipeline would be required and is out of scope. The launcher's UI will show this mod as incompatible. To use foglio's intended jewel-icon remaps, install the original Modern_JewelsFix package on a Classic client.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "Icon_Items.gpk"
@@ -3034,7 +3034,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_GageBoss.GageBoss",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3059,7 +3059,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_TargetInfo.TargetInfo",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3084,7 +3084,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_Abnormality.Abnormality",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3109,7 +3109,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3134,7 +3134,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_ProgressBar.ProgressBar",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3159,7 +3159,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_PartyBoard.PartyBoard",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3184,7 +3184,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_PartyBoardMemberInfo.PartyBoardMemberInfo",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3209,7 +3209,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_PartyWindow.PartyWindow",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3234,7 +3234,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/bb69d3bfdb6ef42323703ce2356d6ab548704632992868e6f5b7d6f104da80fa/foglio1024/UI-Remover",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_PartyWindowRaidInfo.PartyWindowRaidInfo",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3282,7 +3282,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://opengraph.githubassets.com/2e7f1898476ab35273ed8eac9c8cfb3d6f07b69f2919837758fc5d58990ca677/foglio1024/toolbox-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference.",
       "deploy_strategy": "dropin",
       "target_dropin_filename": "TexturedFonts.gpk"
@@ -3331,7 +3331,7 @@
       "updated_at": "2026-05-01T22:30:00Z",
       "tagline": "Modded GPK for badGUI",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/7d499854e270b16a57cc128c3fbc3c1808cface7866f0c6ce3b735267d972ba6/foglio1024/badGUILoader",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "compatible_arch": "x64",
       "target_object_path": "S1UI_UpdateNotification.UpdateNotification",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -3355,7 +3355,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/fbcf9c71d86813ee569475dbf028e5b378da43e7abe3d3ced455e5549008629e/foglio1024/S1UI_chat2",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "target_object_path": "S1UI_Chat2.Chat2",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -5822,7 +5822,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_CommunityWindow.gpk"
       ],
@@ -5852,7 +5852,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T22:30:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_EpWindow.gpk"
       ],
@@ -5882,7 +5882,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_EquipmentCombine.gpk"
       ],
@@ -5912,7 +5912,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_EquipmentUpgrade.gpk"
       ],
@@ -5942,7 +5942,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_GuildWindow.gpk"
       ],
@@ -5972,7 +5972,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_InteractionPopup.gpk"
       ],
@@ -6002,7 +6002,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_MiniMap.gpk"
       ],
@@ -6032,7 +6032,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_ParcelPostLog.gpk"
       ],
@@ -6062,7 +6062,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_ProductionCreatePopUp.gpk"
       ],
@@ -6092,7 +6092,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_ProductionList.gpk"
       ],
@@ -6122,7 +6122,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_ServantStorageWindow.gpk"
       ],
@@ -6152,7 +6152,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_StoreWindow.gpk"
       ],
@@ -6182,7 +6182,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_SystemOption.gpk"
       ],
@@ -6212,7 +6212,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/Foglio1024/tera-modern-ui",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-guild-window/cover.png",
       "gpk_files": [
         "S1UI_TradePopup.gpk"
       ],
