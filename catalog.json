@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -779,6 +779,1386 @@
           "loose_vanilla_sha256": "dbfc60def45929e15e624dd4ddb823f44b345299da375973fc8d766250b9b4d2"
         }
       ]
+    },
+    {
+      "id": "mtforum.strawberry-melody-2-5",
+      "kind": "gpk",
+      "name": "Strawberry Melody 2.5",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Strawberry Melody 2.5 — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Strawberry Melody 2.5: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Strawberry_Melody_2.5.gpk",
+      "sha256": "754cbe27d50311158c99cff9d417e8e97c0050833cc85764e13eabdf0b7f5668",
+      "size_bytes": 133989,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Strawberry_Melody_2.5.gpk"
+      ],
+      "tagline": "MT forum classic: Strawberry Melody 2.5",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.brownee",
+      "kind": "gpk",
+      "name": "Brownee",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Brownee — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Brownee: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Brownee.gpk",
+      "sha256": "226233c88f4eafe6515ba8d297d91641bf0f6ac4af2c30aa194c587358bb1996",
+      "size_bytes": 272150,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Brownee.gpk"
+      ],
+      "tagline": "MT forum classic: Brownee",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.darkyoukai",
+      "kind": "gpk",
+      "name": "DarkYoukai",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "DarkYoukai — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "DarkYoukai: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/DarkYoukai.gpk",
+      "sha256": "7a8d419ece25c94635bd4f6fc5b038decd7a8eb736027f364754b169360a46d9",
+      "size_bytes": 272142,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "DarkYoukai.gpk"
+      ],
+      "tagline": "MT forum classic: DarkYoukai",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.enchantress",
+      "kind": "gpk",
+      "name": "Enchantress",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Enchantress — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Enchantress: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Enchantress.gpk",
+      "sha256": "caf57da3e2a4e3d59c78914cbec31b2aab29e433da5177fa2e463b4b29f80893",
+      "size_bytes": 271678,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Enchantress.gpk"
+      ],
+      "tagline": "MT forum classic: Enchantress",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.goldie",
+      "kind": "gpk",
+      "name": "Goldie",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Goldie — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Goldie: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Goldie.gpk",
+      "sha256": "d1cd398aaaeb4da3c3d22b3ae8c9b923831c35211b6c87e636aba7d068a55f40",
+      "size_bytes": 271487,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Goldie.gpk"
+      ],
+      "tagline": "MT forum classic: Goldie",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.indigo",
+      "kind": "gpk",
+      "name": "Indigo",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Indigo — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Indigo: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Indigo.gpk",
+      "sha256": "090e5105d1e561a7eb1bae9b52c851c501f2adace6f678202d69e9d3350ccb00",
+      "size_bytes": 271668,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Indigo.gpk"
+      ],
+      "tagline": "MT forum classic: Indigo",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.starry",
+      "kind": "gpk",
+      "name": "Starry",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Starry — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Starry: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Starry.gpk",
+      "sha256": "dbe2cfce781fbd2ec2764489f56c4cb632ebb10805bb039cdcfde952adf24006",
+      "size_bytes": 272148,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Starry.gpk"
+      ],
+      "tagline": "MT forum classic: Starry",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.sterlingsilver-castanicf",
+      "kind": "gpk",
+      "name": "SterlingSilver CastanicF",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "SterlingSilver CastanicF — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "SterlingSilver CastanicF: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/SterlingSilver_CastanicF.gpk",
+      "sha256": "5fa64f657ae3935333108b9fdaafecbbf0930cd06e99231e105c762ded57dd82",
+      "size_bytes": 1057658,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "SterlingSilver_CastanicF.gpk"
+      ],
+      "tagline": "MT forum classic: SterlingSilver CastanicF",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.sweet-memories",
+      "kind": "gpk",
+      "name": "Sweet Memories",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Sweet Memories — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Sweet Memories: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Sweet_Memories.gpk",
+      "sha256": "b73882f74108abfa77c25b23438b5225cd0ba32c113267607622004930aea53e",
+      "size_bytes": 137957,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Sweet_Memories.gpk"
+      ],
+      "tagline": "MT forum classic: Sweet Memories",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.turquoise",
+      "kind": "gpk",
+      "name": "Turquoise",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Turquoise — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Turquoise: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Turquoise.gpk",
+      "sha256": "cd4cc3272e27ea02563e03176ec350eac3f169d9658aa1e25a312b1eab33bad6",
+      "size_bytes": 271491,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Turquoise.gpk"
+      ],
+      "tagline": "MT forum classic: Turquoise",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.hearteyes",
+      "kind": "gpk",
+      "name": "hearteyes",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "hearteyes — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "hearteyes: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/hearteyes.gpk",
+      "sha256": "519ef406a4b059e751a4fbfc82385ede3f7150c55a364943a3611394cfade191",
+      "size_bytes": 137975,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "hearteyes.gpk"
+      ],
+      "tagline": "MT forum classic: hearteyes",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.darkice-castanicf",
+      "kind": "gpk",
+      "name": "DarkIce CastanicF",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "DarkIce CastanicF — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "DarkIce CastanicF: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/DarkIce_CastanicF.gpk",
+      "sha256": "19af86cd8378a7a5a23a3e250254e4db7b973ea2d474d059c4562e38447cc34c",
+      "size_bytes": 272150,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "DarkIce_CastanicF.gpk"
+      ],
+      "tagline": "MT forum classic: DarkIce CastanicF",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.nightblue",
+      "kind": "gpk",
+      "name": "NightBlue",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "NightBlue — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "NightBlue: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/NightBlue.gpk",
+      "sha256": "0c725c60ca83ff8b69788e14b0fff544c655b039275f93499142d50130fe8778",
+      "size_bytes": 271493,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "NightBlue.gpk"
+      ],
+      "tagline": "MT forum classic: NightBlue",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.pink-eyes",
+      "kind": "gpk",
+      "name": "Pink eyes",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Pink eyes — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Pink eyes: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Pink_eyes.gpk",
+      "sha256": "88df41c28481e5144e4471037803518009151a85728205e164b1369f1da483e5",
+      "size_bytes": 137942,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Pink_eyes.gpk"
+      ],
+      "tagline": "MT forum classic: Pink eyes",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.sunset",
+      "kind": "gpk",
+      "name": "Sunset",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Sunset — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Sunset: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Sunset.gpk",
+      "sha256": "d771fe12509606c49e3261d398b07d52772fdd8c63cb275bb10926cb7cb08ed4",
+      "size_bytes": 271487,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Sunset.gpk"
+      ],
+      "tagline": "MT forum classic: Sunset",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.hauntercatseye",
+      "kind": "gpk",
+      "name": "hauntercatseye",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "hauntercatseye — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "hauntercatseye: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/hauntercatseye.gpk",
+      "sha256": "8412c60d36135e638d0a4da10c9ac86051f2c8ed9c1a26502aa6c1eada2b3c58",
+      "size_bytes": 134098,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "hauntercatseye.gpk"
+      ],
+      "tagline": "MT forum classic: hauntercatseye",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.haunterdreamyeyes",
+      "kind": "gpk",
+      "name": "haunterdreamyeyes",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "haunterdreamyeyes — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "haunterdreamyeyes: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/haunterdreamyeyes.gpk",
+      "sha256": "0c66c42906c4a7fc5c56ab7e2fdf78d8087dbfe4b33da53aab22c77aa1007018",
+      "size_bytes": 134090,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "haunterdreamyeyes.gpk"
+      ],
+      "tagline": "MT forum classic: haunterdreamyeyes",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.pretty-eyes-mod",
+      "kind": "gpk",
+      "name": "pretty eyes mod",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "pretty eyes mod — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "pretty eyes mod: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/pretty_eyes_mod.gpk",
+      "sha256": "fbcb8d723a58cc3452510aa884bcce36eaf6ab06ace441a2f007fb90256699ca",
+      "size_bytes": 265105,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "pretty_eyes_mod.gpk"
+      ],
+      "tagline": "MT forum classic: pretty eyes mod",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.valentines-eyes-2-0-mod",
+      "kind": "gpk",
+      "name": "valentines eyes 2.0 mod",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "valentines eyes 2.0 mod — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "valentines eyes 2.0 mod: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/valentines_eyes_2.0_mod.gpk",
+      "sha256": "929849b5b3b40488ba71f84a43af7598a04915152895d873d4d0df24626cdad5",
+      "size_bytes": 134119,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "valentines_eyes_2.0_mod.gpk"
+      ],
+      "tagline": "MT forum classic: valentines eyes 2.0 mod",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.valentines-eyes-2-0pink-mod",
+      "kind": "gpk",
+      "name": "valentines eyes 2.0pink mod",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "valentines eyes 2.0pink mod — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "valentines eyes 2.0pink mod: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/valentines_eyes_2.0pink_mod.gpk",
+      "sha256": "805243f8063ef41a51dcdcaab20617a13e6ad5035dd3b39a7b1d036b625b896b",
+      "size_bytes": 134127,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "valentines_eyes_2.0pink_mod.gpk"
+      ],
+      "tagline": "MT forum classic: valentines eyes 2.0pink mod",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.valentines-eyes-mod",
+      "kind": "gpk",
+      "name": "valentines eyes mod",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "valentines eyes mod — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "valentines eyes mod: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/valentines_eyes_mod.gpk",
+      "sha256": "f4d148b0feed94a80590f13a86e9ce2af69eb8b52da020b885adaf498c8190b7",
+      "size_bytes": 134111,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "valentines_eyes_mod.gpk"
+      ],
+      "tagline": "MT forum classic: valentines eyes mod",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.bunny-v2",
+      "kind": "gpk",
+      "name": "Bunny v2",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Bunny v2 — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Bunny v2: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Bunny_v2.gpk",
+      "sha256": "02b0026f69211a559fabc13e99e38059b65960b5744d9914a6130b11b91de0fd",
+      "size_bytes": 75249,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Bunny_v2.gpk"
+      ],
+      "tagline": "MT forum classic: Bunny v2",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.crystal-bbrwon",
+      "kind": "gpk",
+      "name": "Crystal BBrwon",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Crystal BBrwon — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Crystal BBrwon: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Crystal_BBrwon.gpk",
+      "sha256": "29edad03c7b6677c902da52145ab94783aab4e0a4237562e3fce1fbeb5d12164",
+      "size_bytes": 1057797,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Crystal_BBrwon.gpk"
+      ],
+      "tagline": "MT forum classic: Crystal BBrwon",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.emoprincess-elin",
+      "kind": "gpk",
+      "name": "EmoPrincess Elin",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "EmoPrincess Elin — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "EmoPrincess Elin: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/EmoPrincess_Elin.gpk",
+      "sha256": "3f1b39680f5217bad18f321664c34fdad9b5db452b2e418e46f324690ce859e4",
+      "size_bytes": 4019101,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "EmoPrincess_Elin.gpk"
+      ],
+      "tagline": "MT forum classic: EmoPrincess Elin",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.hu-tao-eyes",
+      "kind": "gpk",
+      "name": "Hu Tao eyes",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Hu Tao eyes — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Hu Tao eyes: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Hu_Tao_eyes.gpk",
+      "sha256": "2771050483c3f7124880d8c0eff89e562e3750ed47a79d53cf9839fa9f42cccb",
+      "size_bytes": 134100,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Hu_Tao_eyes.gpk"
+      ],
+      "tagline": "MT forum classic: Hu Tao eyes",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.hu-tao-eyes-11-05",
+      "kind": "gpk",
+      "name": "Hu Tao eyes 11 05",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Hu Tao eyes 11 05 — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Hu Tao eyes 11 05: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Hu_Tao_eyes_11_-_05.gpk",
+      "sha256": "2d4dda562c35c9dd33b680981362b1dba17a921528810ece722252ecd57fcd4e",
+      "size_bytes": 134116,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Hu_Tao_eyes_11_-_05.gpk"
+      ],
+      "tagline": "MT forum classic: Hu Tao eyes 11 05",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.hu-tao-eyeses",
+      "kind": "gpk",
+      "name": "Hu Tao eyeses",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Hu Tao eyeses — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Hu Tao eyeses: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Hu_Tao_eyeses.gpk",
+      "sha256": "991a2726fab679986c3836bd4aa0ee52924bccf3239951e066aca0dcf21f4ca5",
+      "size_bytes": 134104,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Hu_Tao_eyeses.gpk"
+      ],
+      "tagline": "MT forum classic: Hu Tao eyeses",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.padampadam-castanicf",
+      "kind": "gpk",
+      "name": "PadamPadam CastanicF",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "PadamPadam CastanicF — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "PadamPadam CastanicF: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/PadamPadam_CastanicF.gpk",
+      "sha256": "b9e3b794e5b296d0e8907d09a5a3186d791ba542bcd2f3bc170d45246c4a85be",
+      "size_bytes": 265372,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PadamPadam_CastanicF.gpk"
+      ],
+      "tagline": "MT forum classic: PadamPadam CastanicF",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.plum",
+      "kind": "gpk",
+      "name": "Plum",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Plum — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Plum: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Plum.gpk",
+      "sha256": "baaeadbc3f6d4eb01aa1da26c1001215146e3659ccf522dc66f9f51bb3f488af",
+      "size_bytes": 133989,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Plum.gpk"
+      ],
+      "tagline": "MT forum classic: Plum",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.skull-emogi-11-5",
+      "kind": "gpk",
+      "name": "Skull Emogi 11 5",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Skull Emogi 11 5 — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Skull Emogi 11 5: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Skull_Emogi_11_5.gpk",
+      "sha256": "c412abe740d7e283cf6acf13314b7936c07a60798d25e2c97e6f49a4fb56d117",
+      "size_bytes": 79121,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Skull_Emogi_11_5.gpk"
+      ],
+      "tagline": "MT forum classic: Skull Emogi 11 5",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.zombie-patch",
+      "kind": "gpk",
+      "name": "Zombie patch",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Zombie patch — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Zombie patch: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Zombie_patch.gpk",
+      "sha256": "9391bcb6f8111577d136bde5372335c047b0cc515f6472c025d34fec91afc11c",
+      "size_bytes": 71341,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Zombie_patch.gpk"
+      ],
+      "tagline": "MT forum classic: Zombie patch",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.amethyst",
+      "kind": "gpk",
+      "name": "Amethyst",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Amethyst — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Amethyst: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Amethyst.gpk",
+      "sha256": "6956013a3fbf5df343490648136011d4b58e46dcbd6f05913795b12199ce962e",
+      "size_bytes": 137942,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Amethyst.gpk"
+      ],
+      "tagline": "MT forum classic: Amethyst",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.dragon",
+      "kind": "gpk",
+      "name": "Dragon",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Dragon — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Dragon: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Dragon.gpk",
+      "sha256": "08882490d509ccdd470fd135078e519dd2de2540ce5aa1190c98a92c6851a483",
+      "size_bytes": 137938,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Dragon.gpk"
+      ],
+      "tagline": "MT forum classic: Dragon",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.dragon-no-shine",
+      "kind": "gpk",
+      "name": "Dragon no shine",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Dragon no shine — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Dragon no shine: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Dragon_no-shine.gpk",
+      "sha256": "5b0dab5e058aa4d5eb5a1201cf0609f1e2b8d6fa42b0e02a644dcc3e5e7a201f",
+      "size_bytes": 137956,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Dragon_no-shine.gpk"
+      ],
+      "tagline": "MT forum classic: Dragon no shine",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.honey",
+      "kind": "gpk",
+      "name": "Honey",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Honey — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Honey: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Honey.gpk",
+      "sha256": "f83bb5661b361a9ce181dd6b02b862dd9afbff19f50e3abbc04fc8859b46ea63",
+      "size_bytes": 134080,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Honey.gpk"
+      ],
+      "tagline": "MT forum classic: Honey",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.light-green-eyes",
+      "kind": "gpk",
+      "name": "Light green eyes",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Light green eyes — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Light green eyes: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Light_green_eyes.gpk",
+      "sha256": "9df0941f0089f04280b352ce8821a5a28cd0e534313ed2c8d4bc34a46466dd98",
+      "size_bytes": 137958,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Light_green_eyes.gpk"
+      ],
+      "tagline": "MT forum classic: Light green eyes",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.pinkpinkpink",
+      "kind": "gpk",
+      "name": "PinkPinkPink",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "PinkPinkPink — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "PinkPinkPink: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/PinkPinkPink.gpk",
+      "sha256": "bb7ce7665e4909d4f8e8bcfa0e7a0fa797db58158902935fcdaf65ed1c7d6932",
+      "size_bytes": 137950,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PinkPinkPink.gpk"
+      ],
+      "tagline": "MT forum classic: PinkPinkPink",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.red",
+      "kind": "gpk",
+      "name": "Red",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Red — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Red: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Red.gpk",
+      "sha256": "cf035a369bfa3e8c6870c342dffc6129b56fcfc727409fb4b9c23c77a694603e",
+      "size_bytes": 9367966,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Red.gpk"
+      ],
+      "tagline": "MT forum classic: Red",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.royalamber-castanicf",
+      "kind": "gpk",
+      "name": "RoyalAmber CastanicF",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "RoyalAmber CastanicF — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "RoyalAmber CastanicF: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/RoyalAmber_CastanicF.gpk",
+      "sha256": "6fe3ed962b03dcfec19c1d8c7e319c0b9efb80c409aa1ec00f953ccc36314e38",
+      "size_bytes": 272156,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "RoyalAmber_CastanicF.gpk"
+      ],
+      "tagline": "MT forum classic: RoyalAmber CastanicF",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.cosmicgreenpink",
+      "kind": "gpk",
+      "name": "cosmicGreenPink",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "cosmicGreenPink — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "cosmicGreenPink: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/cosmicGreenPink.gpk",
+      "sha256": "72f2f05ed09b6efeb69dbb6f6239e864956f42cc239bc6fe38a49c33818503cc",
+      "size_bytes": 271492,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "cosmicGreenPink.gpk"
+      ],
+      "tagline": "MT forum classic: cosmicGreenPink",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.cosmicpink",
+      "kind": "gpk",
+      "name": "cosmicPink",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "cosmicPink — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "cosmicPink: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/cosmicPink.gpk",
+      "sha256": "90d757f6fb374754486db0097831b53c4eda5cc9a51ca19c5237825b28db201e",
+      "size_bytes": 271480,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "cosmicPink.gpk"
+      ],
+      "tagline": "MT forum classic: cosmicPink",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.cotton-candy",
+      "kind": "gpk",
+      "name": "COTTON CANDY",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "COTTON CANDY — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "COTTON CANDY: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/COTTON_CANDY.gpk",
+      "sha256": "f7faa2f9d7226662e41219ef05c04f3fc2bf59bd986452f5075d398641b12ae0",
+      "size_bytes": 134092,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "COTTON_CANDY.gpk"
+      ],
+      "tagline": "MT forum classic: COTTON CANDY",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.cosmic-nurse",
+      "kind": "gpk",
+      "name": "Cosmic Nurse",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Cosmic Nurse — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Cosmic Nurse: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Cosmic_Nurse.gpk",
+      "sha256": "2074ea6bd4668e379fad2088a94946cd0846fe51a0918b9708b8d78edb867b82",
+      "size_bytes": 137953,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Cosmic_Nurse.gpk"
+      ],
+      "tagline": "MT forum classic: Cosmic Nurse",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.mioh-makeup-f9a3",
+      "kind": "gpk",
+      "name": "Mioh Makeup F9A3",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Mioh Makeup F9A3 — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Mioh Makeup F9A3: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Mioh_Makeup_F9A3.gpk",
+      "sha256": "1c47c98e364e1874b63e91b0a2df51d9076b0e6865a9d825968106d924acb8d1",
+      "size_bytes": 148545,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Mioh_Makeup_F9A3.gpk"
+      ],
+      "tagline": "MT forum classic: Mioh Makeup F9A3",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.pantypon-yandere-face12-adorment2",
+      "kind": "gpk",
+      "name": "Pantypon Yandere Face12 Adorment2",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Pantypon Yandere Face12 Adorment2 — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Pantypon Yandere Face12 Adorment2: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Pantypon_Yandere_Face12-Adorment2.gpk",
+      "sha256": "26c4afde256196b4e563125f4c4eb6d5f9bd0c2d6c405350ef4485a019e7a279",
+      "size_bytes": 271540,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Pantypon_Yandere_Face12-Adorment2.gpk"
+      ],
+      "tagline": "MT forum classic: Pantypon Yandere Face12 Adorment2",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
+    },
+    {
+      "id": "mtforum.passion-fruit",
+      "kind": "gpk",
+      "name": "Passion Fruit",
+      "author": "MT mod forum community (via Tsun)",
+      "short_description": "Passion Fruit — eye/cosmetic texture mod from the MT mod forum collection.",
+      "long_description": "Passion Fruit: one of 46 eye/cosmetic texture mods from the MT mod forum, preserved by Tsun's forum backup and shared on the NovaTera Discord.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
+      "category": "appearance",
+      "license": "Unknown",
+      "credits": "Original mods by the MT mod forum community (menmas and other authors — per-mod attribution was lost with the forum); preserved and shared by Tsun on the NovaTera modding Discord (Jun 2025). Rehosted unmodified for the TERA Europe Classic+ launcher. If you authored one of these, open an issue on TERA-Europe-Classic/external-mod-catalog for proper attribution.",
+      "version": "1.0.0",
+      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Passion_Fruit.gpk",
+      "sha256": "5cd7016e9117af0a6b0186993551221460994a0ce737541d5f506bb3322c0570",
+      "size_bytes": 1058181,
+      "deploy_strategy": "tmm",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Passion_Fruit.gpk"
+      ],
+      "tagline": "MT forum classic: Passion Fruit",
+      "tags": [
+        "appearance",
+        "eyes",
+        "mt-forum"
+      ],
+      "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
+      "last_verified_patch": "patch 100.02",
+      "updated_at": "2026-07-23T06:00:00Z",
+      "download_count": 0
     }
   ]
 }
