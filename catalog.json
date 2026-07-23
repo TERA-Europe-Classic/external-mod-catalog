@@ -1,5 +1,5 @@
 {
-  "version": 59,
+  "version": 60,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -1639,7 +1639,8 @@
       "compatibility_notes": "Eye mods from this collection replace the same decal slots — enable only one at a time.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-23T06:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/mtforum.padampadam-castanicf/cover.png"
     },
     {
       "id": "mtforum.plum",
