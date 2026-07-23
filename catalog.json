@@ -1,5 +1,5 @@
 {
-  "version": 118,
+  "version": 119,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -3595,33 +3595,6 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoMAAcAAwBSJaQAAqqQzIoAAP75yPZgByl1siBvxv/C5AAA",
       "replaces": "Replaces the gauge bar (class resource) (S1UI_GageBar). Check: open that window in game."
-    },
-    {
-      "id": "foglio1024.toolbox-transparent-damage",
-      "kind": "gpk",
-      "name": "Toolbox Client Mod: Transparent Damage Fonts",
-      "author": "foglio1024",
-      "short_description": "Makes floating damage numbers semi-transparent.",
-      "long_description": "**Replaces:** Replaces the floating damage-number font textures with transparent ones (hides damage numbers). Check: hit anything.\n\nMakes floating damage numbers semi-transparent.\n\nThe launcher automatically downloads and installs this mod for you. You can manage it from the mod manager.",
-      "category": "appearance",
-      "license": "Unknown",
-      "credits": "Published by foglio1024 at https://github.com/foglio1024/toolbox-client-mods. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
-      "version": "2026-04",
-      "download_url": "https://raw.githubusercontent.com/foglio1024/toolbox-client-mods/master/TransparentDamage/TexturedFonts.gpk",
-      "sha256": "2a7272e32e8e4ab014d2076409c0dd343b9493f521458f47c7c1f0cd6dbe3a56",
-      "size_bytes": 1500436,
-      "source_url": "https://github.com/foglio1024/toolbox-client-mods",
-      "target_patch": "v100.02",
-      "composite_flag": true,
-      "updated_at": "2026-05-02T00:30:00Z",
-      "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
-      "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference.",
-      "deploy_strategy": "dropin",
-      "target_dropin_filename": "TexturedFonts.gpk",
-      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA=",
-      "replaces": "Replaces the floating damage-number font textures with transparent ones (hides damage numbers). Check: hit anything.",
-      "tagline": "Replaces the floating damage-number font textures with transparent ones (hides damage n..."
     },
     {
       "id": "foglio1024.badgui-loader",
