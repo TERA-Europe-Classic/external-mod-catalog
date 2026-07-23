@@ -1,5 +1,5 @@
 {
-  "version": 103,
+  "version": 105,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -541,7 +541,8 @@
       ],
       "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/htmslf.rgb-scarf/cover.png",
       "screenshots": [
-        "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/rgb-scarf-preview.gif"
+        "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/rgb-scarf-preview.gif",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/htmslf.rgb-scarf/gallery_0.gif"
       ]
     },
     {
@@ -4099,10 +4100,15 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Cheerleader%20Shorts/Cheerleader%20Shorts%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.cheerleader-shorts/shot_0.png",
       "target_object_path": "PC_Event_29.Tex.PC_Event_29_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.cheerleader-shorts/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.cheerleader-shorts/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.cheerleader-shorts/shot_3.png"
+      ]
     },
     {
       "id": "pantypon.elin-black-business-suit",
@@ -4174,10 +4180,15 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-pink-social-dress/cover.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-pink-social-dress/shot_0.jpg",
       "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-pink-social-dress/shot_1.jpg",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-pink-social-dress/shot_2.jpg",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-pink-social-dress/shot_3.png"
+      ]
     },
     {
       "id": "pantypon.pastel-pora-elinu-uniform",
@@ -4199,10 +4210,15 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pastel%20Pora%20Elinu%20Uniform/Pastel%20Uniform%20Model%201.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pastel-pora-elinu-uniform/shot_0.png",
       "target_object_path": "PC_Event_38.Tex.PC_Event_38_F_Human_D_Under_cstm",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pastel-pora-elinu-uniform/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pastel-pora-elinu-uniform/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pastel-pora-elinu-uniform/shot_3.png"
+      ]
     },
     {
       "id": "pantypon.red-miko-costume",
@@ -4224,7 +4240,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.red-miko-costume/cover.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.red-miko-costume/shot_0.png",
       "target_object_path": "PC_Event_36.Tex.PC_Event_36_Popori_F_RareD_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -4249,10 +4265,15 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Castanica%20Demon/White%20Castanica%20Demon%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.white-castanica-demon/shot_0.png",
       "target_object_path": "PC_Event_32.Tex.PC_Event_32_M_B_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.white-castanica-demon/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.white-castanica-demon/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.white-castanica-demon/shot_3.png"
+      ]
     },
     {
       "id": "pantypon.white-pixie",
@@ -4274,10 +4295,14 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/White%20Pixie/White%20Pixie%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.white-pixie/shot_0.png",
       "target_object_path": "PC_Event_68.Tex.Popori_M_Base_Dye_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.white-pixie/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.white-pixie/shot_2.png"
+      ]
     },
     {
       "id": "pantypon.better-dyeable-flight-suit",
@@ -4299,10 +4324,15 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Better%20Dyeable%20Flight%20Suit/Better%20Dyeable%20Flight%20Suit%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.better-dyeable-flight-suit/shot_0.png",
       "target_object_path": "PC_Event_62.Tex.PC_Event_62_M_Spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.better-dyeable-flight-suit/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.better-dyeable-flight-suit/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.better-dyeable-flight-suit/shot_3.gif"
+      ]
     },
     {
       "id": "pantypon.castanic-sleepy-running-togs",
@@ -4449,10 +4479,15 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Pink%20Picnic%20Dress/Pink%20Picnic%20Elin%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-picnic-dress/shot_0.png",
       "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-picnic-dress/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-picnic-dress/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-picnic-dress/shot_3.png"
+      ]
     },
     {
       "id": "taylorswiftmodding.bear-animal-mask",
@@ -4805,7 +4840,7 @@
       "gpk_files": [
         "S1UI_Benefit.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Hana%20Reward%20Tier/Hana%20Reward%20Tier.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.hana-reward-tier/shot_0.png",
       "tags": [
         "classic-era",
         "ui",
@@ -4836,7 +4871,7 @@
       "gpk_files": [
         "S1UI_GageBoss.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Boss%20HP%20Bar/Pink%20Boss%20HP%20Bar%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-boss-hp-bar/shot_0.png",
       "tags": [
         "classic-era",
         "ui",
@@ -4867,7 +4902,7 @@
       "gpk_files": [
         "S1UI_Chat2.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Chat%20Window/Pink%20Chat%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-chat-window/shot_0.png",
       "tags": [
         "classic-era",
         "ui",
@@ -4898,9 +4933,10 @@
       "gpk_files": [
         "S1UI_GameControllerShortCut.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Controller%20UI/Playstation%20Controller%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-controller-ui/shot_0.png",
       "screenshots": [
-        "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Controller%20UI/XBOX%20Controller%20Model.png"
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-controller-ui/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-controller-ui/shot_2.png"
       ],
       "tags": [
         "classic-era",
@@ -4963,7 +4999,7 @@
       "gpk_files": [
         "S1UI_Crosshair.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Pink%20Hearts%20Crosshair/Pink%20Hearts%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-hearts-crosshair/shot_0.png",
       "tags": [
         "classic-era",
         "ui",
@@ -4972,7 +5008,12 @@
       "target_object_path": "S1UI_Crosshair.Crosshair",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-hearts-crosshair/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-hearts-crosshair/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.pink-hearts-crosshair/shot_3.png"
+      ]
     },
     {
       "id": "pantypon.pink-party-member-hp-bar",
@@ -5118,7 +5159,7 @@
       "gpk_files": [
         "S1UI_Crosshair.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-ui-mods/master/Static%20Heart%20Crosshair/Static%20Heart%20Crosshair.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.static-heart-crosshair/shot_0.gif",
       "tags": [
         "classic-era",
         "ui",
@@ -5127,7 +5168,12 @@
       "target_object_path": "S1UI_Crosshair.Crosshair",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.static-heart-crosshair/shot_1.gif",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.static-heart-crosshair/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.static-heart-crosshair/shot_3.gif"
+      ]
     },
     {
       "id": "pantypon.yunicorn-defense-pop-up",
@@ -5180,7 +5226,7 @@
       "gpk_files": [
         "PC_Weapons_Event.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Archer%20Pink%20Slingshot/Pink%20Slingshot%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.archer-pink-slingshot/shot_0.png",
       "tags": [
         "classic-era",
         "weapon",
@@ -5189,7 +5235,12 @@
       "target_object_path": "PC_Weapons_Event.Tex.Silver.R_Event_Season_Dual_01_spec_Silver",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.archer-pink-slingshot/shot_1.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.archer-pink-slingshot/shot_2.png",
+        "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.archer-pink-slingshot/shot_3.png"
+      ]
     },
     {
       "id": "pantypon.berserker-dessert-fork",
@@ -5366,7 +5417,7 @@
       "gpk_files": [
         "PC_Weapons_Event09.gpk"
       ],
-      "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-weapon-mods/master/Mystic%20Strawberry%20Nuthatch/Mystic%20Strawberry%20Model.png",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.mystic-strawberry-nuthatch/shot_0.png",
       "tags": [
         "classic-era",
         "weapon",
