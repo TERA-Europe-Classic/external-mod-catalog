@@ -12734,6 +12734,1157 @@
       "replaces": "Replaces the Vehicle_Llama package. Check: preview/wear the matching item in game.",
       "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
       "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.sheep-girl-with-a-pink",
+      "kind": "gpk",
+      "name": "Sheep Girl With A Pink",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "♡໒꒱‧&nbsp; Sheep Girl with a Pink Hood - ( Re Color )\nDowbload Here :&nbsp;&laquo;─&laquo; &sdot;ʚ♡ɞ&sdot; &raquo;─&raquo;",
+      "long_description": "♡໒꒱‧&nbsp; Sheep Girl with a Pink Hood - ( Re Color )\nDowbload Here :&nbsp;&laquo;─&laquo; &sdot;ʚ♡ɞ&sdot; &raquo;─&raquo;\n\nMulti-part set (2 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/619634146217721856/litterboxchan-%E0%BB%92-sheep-girl-with-a-pink",
+      "source_url": "https://mods-of-tera.tumblr.com/post/619634146217721856/litterboxchan-%E0%BB%92-sheep-girl-with-a-pink",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/4d6ab799fd2d98c988e75d7233944176/03dc3b082a9b4ca8-e4/s1280x1920/e0720ea397d1af0a8fbf185c8a08e4d4fb66d4ef.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/4d6ab799fd2d98c988e75d7233944176/03dc3b082a9b4ca8-e4/s1280x1920/e0720ea397d1af0a8fbf185c8a08e4d4fb66d4ef.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_743.gpk",
+        "PC_Event_82.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_743",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_sheep-girl-with-a-pink_1.gpk",
+          "sha256": "72bac9a5cbb1e9da283889e3b4d045da938ead671d042b8dabb91c0407bf4343",
+          "size_bytes": 650498,
+          "target_dropin_filename": "Acc_743.gpk"
+        },
+        {
+          "name": "PC_Event_82",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_sheep-girl-with-a-pink_2.gpk",
+          "sha256": "2edc4863793dc007fc5ac8994919550e22f16aab56c0d5100dc9aa7dd5a01ac0",
+          "size_bytes": 12562880,
+          "target_dropin_filename": "PC_Event_82.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_743, PC_Event_82. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.pastel-swimsuit-mod-2019",
+      "kind": "gpk",
+      "name": "Pastel Swimsuit Mod 2019",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Pastel Swimsuit Mod - 2019&nbsp; + Pastel Blue Surf Board.\n《Download 》",
+      "long_description": "Pastel Swimsuit Mod - 2019&nbsp; + Pastel Blue Surf Board.\n《Download 》\n\nMulti-part set (2 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/186188680092/litterboxchan-pastel-swimsuit-mod-2019",
+      "source_url": "https://mods-of-tera.tumblr.com/post/186188680092/litterboxchan-pastel-swimsuit-mod-2019",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/37366d0b8e86f24287f3be66c991f0a2/tumblr_ptfr5obEsj1wmppo4o1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/37366d0b8e86f24287f3be66c991f0a2/tumblr_ptfr5obEsj1wmppo4o1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_164.gpk",
+        "PC_Event_74.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_164",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_pastel-swimsuit-mod-2019_3.gpk",
+          "sha256": "65af7808c742362e2b7d1f0f03f680a1f61ef7642262a5fdb3999cc6792a772a",
+          "size_bytes": 247048,
+          "target_dropin_filename": "Acc_164.gpk"
+        },
+        {
+          "name": "PC_Event_74",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_pastel-swimsuit-mod-2019_4.gpk",
+          "sha256": "cb6e31d9d783216ed3838a21a10e7e74225fafd4e63a4777cbfe38200b4c2df9",
+          "size_bytes": 38806882,
+          "target_dropin_filename": "PC_Event_74.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_164, PC_Event_74. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.spring-maid-dress",
+      "kind": "gpk",
+      "name": "Spring Maid Dress",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "✿ - Spring Maid Dress -  ✿  \n彡 Changes the spring maid dress to be a lighter pink - As well as the Heart headband.&nbsp;\n&gt; Download &lt;",
+      "long_description": "✿ - Spring Maid Dress -  ✿  \n彡 Changes the spring maid dress to be a lighter pink - As well as the Heart headband.&nbsp;\n&gt; Download &lt;\n\nMulti-part set (2 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/185426881277/litterboxchan-spring-maid-dress",
+      "source_url": "https://mods-of-tera.tumblr.com/post/185426881277/litterboxchan-spring-maid-dress",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/9d6ff99908f9be387098697ee3a3aa7c/tumblr_prt6t4oCNL1wmppo4o2_r1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/9d6ff99908f9be387098697ee3a3aa7c/tumblr_prt6t4oCNL1wmppo4o2_r1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_692.gpk",
+        "PC_Event_73.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_692",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_spring-maid-dress_5.gpk",
+          "sha256": "6dcbac0f4c88f4d7f8e1f7e08ca968ebc21a0bfff0b843c8708e20be6d439f1f",
+          "size_bytes": 487088,
+          "target_dropin_filename": "Acc_692.gpk"
+        },
+        {
+          "name": "PC_Event_73",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_spring-maid-dress_6.gpk",
+          "sha256": "e561f0d1424fb2577084b6072c3fc97827150de731684da174f83cd34f59d9b5",
+          "size_bytes": 21469535,
+          "target_dropin_filename": "PC_Event_73.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_692, PC_Event_73. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.lilred-turns-the-green-picnic",
+      "kind": "gpk",
+      "name": "Lilred Turns The Green Picnic",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "LilRed - Turns the green picnic dress to red ( Ft Rouge Hood )\nDownload : Here&nbsp;  ✩.˚",
+      "long_description": "LilRed - Turns the green picnic dress to red ( Ft Rouge Hood )\nDownload : Here&nbsp;  ✩.˚\n\nMulti-part set (2 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/181164091077/litterboxchan-lilred-turns-the-green-picnic",
+      "source_url": "https://mods-of-tera.tumblr.com/post/181164091077/litterboxchan-lilred-turns-the-green-picnic",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/390501ba0ce07407dce339b0b53cf0d2/tumblr_pjsupjfFfD1wmppo4o2_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/390501ba0ce07407dce339b0b53cf0d2/tumblr_pjsupjfFfD1wmppo4o2_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_384.gpk",
+        "PC_Event_46.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_384",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_lilred-turns-the-green-p_7.gpk",
+          "sha256": "72ab98168642bc841d14e64adb1aeda1725787364865339417afd8be40872ab3",
+          "size_bytes": 960008,
+          "target_dropin_filename": "Acc_384.gpk"
+        },
+        {
+          "name": "PC_Event_46",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_lilred-turns-the-green-p_8.gpk",
+          "sha256": "559f522d1dbed165900b198f46361ad71abf45fcf290e44d6f21609ccf88a9b8",
+          "size_bytes": 14603121,
+          "target_dropin_filename": "PC_Event_46.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_384, PC_Event_46. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.pink-idol-dress-and-mic",
+      "kind": "gpk",
+      "name": "Pink Idol Dress And Mic",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Pink Idol Dress and Mic re-color&nbsp;  ˚₊✩  \nDownload : Here\n( Re-coloring the Green / Blue checkered idol dress to be pink with a matching",
+      "long_description": "Pink Idol Dress and Mic re-color&nbsp;  ˚₊✩  \nDownload : Here\n( Re-coloring the Green / Blue checkered idol dress to be pink with a matching\n\nMulti-part set (2 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/179697799872/litterboxchan-pink-idol-dress-and-mic",
+      "source_url": "https://mods-of-tera.tumblr.com/post/179697799872/litterboxchan-pink-idol-dress-and-mic",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/efadf356f642d0db7d8ca21f2533f250/tumblr_phl1omJkhg1wmppo4o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/efadf356f642d0db7d8ca21f2533f250/tumblr_phl1omJkhg1wmppo4o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_627.gpk",
+        "PC_Event_61.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_627",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_pink-idol-dress-and-mic_9.gpk",
+          "sha256": "f6215c8ab48c7050ef5091d52c4b88a327bd89844dcbc5cd1d85ca11ca720231",
+          "size_bytes": 538249,
+          "target_dropin_filename": "Acc_627.gpk"
+        },
+        {
+          "name": "PC_Event_61",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_pink-idol-dress-and-mic_10.gpk",
+          "sha256": "ffa1bbd694fec5a49a3132e5f604c0e275a52a13ae3fa113986a17d22b15966d",
+          "size_bytes": 29222470,
+          "target_dropin_filename": "PC_Event_61.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_627, PC_Event_61. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.popo-backpack-white-pink",
+      "kind": "gpk",
+      "name": "Popo Backpack White Pink",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Popo Backpack ! - White , Pink, Black and Blue !&nbsp;\nyou can only use one at a time ! - Download :: here",
+      "long_description": "Popo Backpack ! - White , Pink, Black and Blue !&nbsp;\nyou can only use one at a time ! - Download :: here\n\nMulti-part set (5 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/178345707632/litterboxchan-popo-backpack-white-pink",
+      "source_url": "https://mods-of-tera.tumblr.com/post/178345707632/litterboxchan-popo-backpack-white-pink",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/874da2240ba8b15badb5ae1bc191ebb8/tumblr_inline_pf8kv9Vjcw1sp9exi_1280.gif",
+      "screenshots": [
+        "https://64.media.tumblr.com/874da2240ba8b15badb5ae1bc191ebb8/tumblr_inline_pf8kv9Vjcw1sp9exi_1280.gif"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_150.gpk",
+        "Acc_150.gpk",
+        "Acc_150.gpk",
+        "Acc_150.gpk",
+        "Acc_150.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_150",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_popo-backpack-white-pink_11.gpk",
+          "sha256": "51d95ce7e9578af01bcebc75c129ce48c168226430532af1e14aa0586cdd1d85",
+          "size_bytes": 546722,
+          "target_dropin_filename": "Acc_150.gpk"
+        },
+        {
+          "name": "Acc_150",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_popo-backpack-white-pink_12.gpk",
+          "sha256": "51d95ce7e9578af01bcebc75c129ce48c168226430532af1e14aa0586cdd1d85",
+          "size_bytes": 546722,
+          "target_dropin_filename": "Acc_150.gpk"
+        },
+        {
+          "name": "Acc_150",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_popo-backpack-white-pink_13.gpk",
+          "sha256": "51d95ce7e9578af01bcebc75c129ce48c168226430532af1e14aa0586cdd1d85",
+          "size_bytes": 546722,
+          "target_dropin_filename": "Acc_150.gpk"
+        },
+        {
+          "name": "Acc_150",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_popo-backpack-white-pink_14.gpk",
+          "sha256": "51d95ce7e9578af01bcebc75c129ce48c168226430532af1e14aa0586cdd1d85",
+          "size_bytes": 546722,
+          "target_dropin_filename": "Acc_150.gpk"
+        },
+        {
+          "name": "Acc_150",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_popo-backpack-white-pink_15.gpk",
+          "sha256": "51d95ce7e9578af01bcebc75c129ce48c168226430532af1e14aa0586cdd1d85",
+          "size_bytes": 546722,
+          "target_dropin_filename": "Acc_150.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_150, Acc_150, Acc_150, Acc_150, Acc_150. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.lucky-star-lucky-star",
+      "kind": "gpk",
+      "name": "Lucky Star Lucky Star",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Lucky&nbsp;  ☆&nbsp; Star\nLucky star inspired uniform ! - ( ribbon inside the file :: red tie up ::\nAny questions? Just ask !",
+      "long_description": "Lucky&nbsp;  ☆&nbsp; Star\nLucky star inspired uniform ! - ( ribbon inside the file :: red tie up ::\nAny questions? Just ask !\n\nMulti-part set (2 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/178345615272/litterboxchan-lucky-star-lucky-star",
+      "source_url": "https://mods-of-tera.tumblr.com/post/178345615272/litterboxchan-lucky-star-lucky-star",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/dbc1a0a440d7804b71de262769a464fd/tumblr_pejqvaG1ir1wmppo4o1_400.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/dbc1a0a440d7804b71de262769a464fd/tumblr_pejqvaG1ir1wmppo4o1_400.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_376.gpk",
+        "PC_Event_09.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_376",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_lucky-star-lucky-star_16.gpk",
+          "sha256": "f9d6670a66bc1342296881883ca064768b0704bbc67c2dbe67517f219e7048bd",
+          "size_bytes": 271509,
+          "target_dropin_filename": "Acc_376.gpk"
+        },
+        {
+          "name": "PC_Event_09",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_lucky-star-lucky-star_17.gpk",
+          "sha256": "56be87301b51abfdc141fcd5553287ac6409c01ebda53627f5eea84729f4db7d",
+          "size_bytes": 18142994,
+          "target_dropin_filename": "PC_Event_09.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_376, PC_Event_09. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.pusheen-snowsuit",
+      "kind": "gpk",
+      "name": "Pusheen Snowsuit",
+      "author": "litterboxchan",
+      "category": "Accessories",
+      "short_description": "Pusheen Snowsuit -&nbsp;&nbsp;  ฅ&gt;^(&bull;ㅅ&bull;)^&lt;ฅ  \n- Scarf comes inside the file ! ( elin only )",
+      "long_description": "Pusheen Snowsuit -&nbsp;&nbsp;  ฅ&gt;^(&bull;ㅅ&bull;)^&lt;ฅ  \n- Scarf comes inside the file ! ( elin only )\n\nMulti-part set (2 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176725147032/litterboxchan-pusheen-snowsuit",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176725147032/litterboxchan-pusheen-snowsuit",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/d0d02a1983cef1f498bfc0470cad20e3/tumblr_pcxbpaEzXE1wmppo4o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/d0d02a1983cef1f498bfc0470cad20e3/tumblr_pcxbpaEzXE1wmppo4o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_271.gpk",
+        "PC_Event_06.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_271",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_pusheen-snowsuit_18.gpk",
+          "sha256": "3d35fc4221444715c5c4b59228064b98f4d3df50712566ca0227e38aa74cf53a",
+          "size_bytes": 1551881,
+          "target_dropin_filename": "Acc_271.gpk"
+        },
+        {
+          "name": "PC_Event_06",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_pusheen-snowsuit_19.gpk",
+          "sha256": "9ea46825e17f6c57a65b918d3d4f7d7bd55f3cacde0a74b12ed4c05d17d8fc5d",
+          "size_bytes": 32479078,
+          "target_dropin_filename": "PC_Event_06.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_271, PC_Event_06. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "litterboxchan.care-bear-recolors-the-panda",
+      "kind": "gpk",
+      "name": "Care Bear Recolors The Panda",
+      "author": "litterboxchan",
+      "category": "Costumes",
+      "short_description": "recolors the Panda x Teddy Bear costumes to be Cheer Bear and Sunshine Bear !\n( ZIP contains a note file to read ! )",
+      "long_description": "recolors the Panda x Teddy Bear costumes to be Cheer Bear and Sunshine Bear !\n( ZIP contains a note file to read ! )\n\nMulti-part set (3 packages). Original by litterboxchan, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176725120002/litterboxchan-care-bear-recolors-the-panda",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176725120002/litterboxchan-care-bear-recolors-the-panda",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/0b43a86d5e6968bb3fb0804bb473d666/tumblr_pcylovKSLK1wmppo4o2_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/0b43a86d5e6968bb3fb0804bb473d666/tumblr_pcylovKSLK1wmppo4o2_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PC_Event_21.gpk",
+        "Acc_276.gpk",
+        "Acc_279.gpk"
+      ],
+      "parts": [
+        {
+          "name": "PC_Event_21",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_care-bear-recolors-the-p_20.gpk",
+          "sha256": "bff3510f9f0f44d661952b478a5c6b38d9b924f8441dc882ef196b4b418164b4",
+          "size_bytes": 21857782,
+          "target_dropin_filename": "PC_Event_21.gpk"
+        },
+        {
+          "name": "Acc_276",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_care-bear-recolors-the-p_21.gpk",
+          "sha256": "72540352d06d3a339953a764e372c6c8075f2ce337dc965539f0be5224fe7fb0",
+          "size_bytes": 1316056,
+          "target_dropin_filename": "Acc_276.gpk"
+        },
+        {
+          "name": "Acc_279",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/litterboxchan_care-bear-recolors-the-p_22.gpk",
+          "sha256": "cc9733b91af3bcad0500beba6631f303bca606685d11a30900d7d7747bfacf54",
+          "size_bytes": 1293206,
+          "target_dropin_filename": "Acc_279.gpk"
+        }
+      ],
+      "replaces": "Replaces: PC_Event_21, Acc_276, Acc_279. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "magus.imperator-antipyretic-although-i",
+      "kind": "gpk",
+      "name": "Imperator Antipyretic Although I",
+      "author": "magus",
+      "category": "Mounts & Pets",
+      "short_description": "Although I consider this a parody mod, it came out beautifully and I&rsquo;m so happy to share it with all of you 💕   \nReplaces the Bay Geld",
+      "long_description": "Although I consider this a parody mod, it came out beautifully and I&rsquo;m so happy to share it with all of you 💕   \nReplaces the Bay Geld\n\nMulti-part set (2 packages). Original by magus, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by magus. Source: https://mods-of-tera.tumblr.com/post/184695017212/magus-imperator-%ED%95%B4%EC%97%B4-antipyretic-although-i",
+      "source_url": "https://mods-of-tera.tumblr.com/post/184695017212/magus-imperator-%ED%95%B4%EC%97%B4-antipyretic-although-i",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif",
+      "screenshots": [
+        "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Vehicle_horse.gpk",
+        "Vehicle_horse_ANI.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Vehicle_horse",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/magus_imperator-antipyretic-although-i_23.gpk",
+          "sha256": "542bcae7974fccb32133b1ba022d3e0167cbb926345b308944054a91fd8297ef",
+          "size_bytes": 2798308,
+          "target_dropin_filename": "Vehicle_horse.gpk"
+        },
+        {
+          "name": "Vehicle_horse_ANI",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/magus_imperator-antipyretic-although-i_24.gpk",
+          "sha256": "7c493d523a7bbf6ee93874ed848ab885cbae21f90efab427238eeafdd566dc9a",
+          "size_bytes": 2704021,
+          "target_dropin_filename": "Vehicle_horse_ANI.gpk"
+        }
+      ],
+      "replaces": "Replaces: Vehicle_horse, Vehicle_horse_ANI. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "elinsailorsuit.decided-to-upload-my-red-alice",
+      "kind": "gpk",
+      "name": "Decided To Upload My Red Alice",
+      "author": "elinsailorsuit",
+      "category": "Accessories",
+      "short_description": "Decided to upload my red Alice bow mod in case anyone wants to use it. :) There&rsquo;s a mod for the blue bow as well as the black one.\nDow",
+      "long_description": "Decided to upload my red Alice bow mod in case anyone wants to use it. :) There&rsquo;s a mod for the blue bow as well as the black one.\nDow\n\nMulti-part set (2 packages). Original by elinsailorsuit, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by elinsailorsuit. Source: https://mods-of-tera.tumblr.com/post/168511845577/elinsailorsuit-decided-to-upload-my-red-alice",
+      "source_url": "https://mods-of-tera.tumblr.com/post/168511845577/elinsailorsuit-decided-to-upload-my-red-alice",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/110e86eb4f6830063bf9f58f4e72223a/tumblr_p0wqpoFtmL1va7lpto1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/110e86eb4f6830063bf9f58f4e72223a/tumblr_p0wqpoFtmL1va7lpto1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_298.gpk",
+        "Acc_299.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_298",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/elinsailorsuit_decided-to-upload-my-re_25.gpk",
+          "sha256": "842d5b0cf62878e3317f92c6574a5d86619eb4821555d1fc5058a0859a4e8b5c",
+          "size_bytes": 318075,
+          "target_dropin_filename": "Acc_298.gpk"
+        },
+        {
+          "name": "Acc_299",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/elinsailorsuit_decided-to-upload-my-re_26.gpk",
+          "sha256": "cde7ecfab842e57c55a4dca6b61d4a09fba546125d96b1ebc7b32b6c609620b0",
+          "size_bytes": 318643,
+          "target_dropin_filename": "Acc_299.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_298, Acc_299. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "gymuni.gymuni",
+      "kind": "gpk",
+      "name": "Gymuni",
+      "author": "gymuni",
+      "category": "Costumes",
+      "short_description": "Mod for Personalized Gym Uniform requested by @ayanohposts\n❥ Download\nChanges: \n▪ Black bodysuit for men \n▪ Black shorts for all females \n▪ ",
+      "long_description": "Mod for Personalized Gym Uniform requested by @ayanohposts\n❥ Download\nChanges: \n▪ Black bodysuit for men \n▪ Black shorts for all females \n▪ \n\nMulti-part set (2 packages). Original by gymuni, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by gymuni. Source: https://mods-of-tera.tumblr.com/post/161158823352/gymuni",
+      "source_url": "https://mods-of-tera.tumblr.com/post/161158823352/gymuni",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/d178899db75e34e05f5f868ea86bd0ac/tumblr_opxi3bl9F51v6y2bqo1_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/d178899db75e34e05f5f868ea86bd0ac/tumblr_opxi3bl9F51v6y2bqo1_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PC_Event_54.gpk",
+        "PC_Event_54.gpk"
+      ],
+      "parts": [
+        {
+          "name": "PC_Event_54",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/gymuni_gymuni_27.gpk",
+          "sha256": "4d9e8b640534879397fe59373e74ce8854fbe98d0c1f5657596a1dd1f2aa519e",
+          "size_bytes": 10725228,
+          "target_dropin_filename": "PC_Event_54.gpk"
+        },
+        {
+          "name": "PC_Event_54",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/gymuni_gymuni_28.gpk",
+          "sha256": "4d9e8b640534879397fe59373e74ce8854fbe98d0c1f5657596a1dd1f2aa519e",
+          "size_bytes": 10725228,
+          "target_dropin_filename": "PC_Event_54.gpk"
+        }
+      ],
+      "replaces": "Replaces: PC_Event_54, PC_Event_54. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "matchingwings.matchingwings",
+      "kind": "gpk",
+      "name": "Matchingwings",
+      "author": "matchingwings",
+      "category": "Accessories",
+      "short_description": "Mod for the new 5th Anniversary wings.\n❥ Download\nChanges: \n▪ Both wings now match each other \n▪ Two versions included in the download! \n▪ B",
+      "long_description": "Mod for the new 5th Anniversary wings.\n❥ Download\nChanges: \n▪ Both wings now match each other \n▪ Two versions included in the download! \n▪ B\n\nMulti-part set (2 packages). Original by matchingwings, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by matchingwings. Source: https://mods-of-tera.tumblr.com/post/160597482652/matchingwings",
+      "source_url": "https://mods-of-tera.tumblr.com/post/160597482652/matchingwings",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/1b489bf17f12357bda2612876a740325/tumblr_optw2qHIPD1v6y2bqo1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/1b489bf17f12357bda2612876a740325/tumblr_optw2qHIPD1v6y2bqo1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_601.gpk",
+        "Acc_601.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_601",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/matchingwings_matchingwings_29.gpk",
+          "sha256": "cf78446665ed16f29697f99b646e8e6b9055c66f1ef119bfa6ef196862bd67d9",
+          "size_bytes": 2504217,
+          "target_dropin_filename": "Acc_601.gpk"
+        },
+        {
+          "name": "Acc_601",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/matchingwings_matchingwings_30.gpk",
+          "sha256": "cf78446665ed16f29697f99b646e8e6b9055c66f1ef119bfa6ef196862bd67d9",
+          "size_bytes": 2504217,
+          "target_dropin_filename": "Acc_601.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_601, Acc_601. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.pink-winter-scarves-i-just-thought",
+      "kind": "gpk",
+      "name": "Pink Winter Scarves I Just Thought",
+      "author": "pantypon",
+      "category": "Accessories",
+      "short_description": "I just thought I&rsquo;d release this before going under for a while :^)\nLord knows I&rsquo;m a glutton for punishment\nJust some pinkie mods",
+      "long_description": "I just thought I&rsquo;d release this before going under for a while :^)\nLord knows I&rsquo;m a glutton for punishment\nJust some pinkie mods\n\nMulti-part set (3 packages). Original by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/160093559537/pantypon-pink-winter-scarves-i-just-thought",
+      "source_url": "https://mods-of-tera.tumblr.com/post/160093559537/pantypon-pink-winter-scarves-i-just-thought",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/1be382797691510cb854d3210cf52a72/tumblr_op291x0GHs1vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/1be382797691510cb854d3210cf52a72/tumblr_op291x0GHs1vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_274.gpk",
+        "Acc_274.gpk",
+        "Acc_274.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_274",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_pink-winter-scarves-i-just-th_31.gpk",
+          "sha256": "57057237c5c134b4db2d580238a594f4bb784be38e7bfe56d26e0177c413c799",
+          "size_bytes": 2036540,
+          "target_dropin_filename": "Acc_274.gpk"
+        },
+        {
+          "name": "Acc_274",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_pink-winter-scarves-i-just-th_32.gpk",
+          "sha256": "57057237c5c134b4db2d580238a594f4bb784be38e7bfe56d26e0177c413c799",
+          "size_bytes": 2036540,
+          "target_dropin_filename": "Acc_274.gpk"
+        },
+        {
+          "name": "Acc_274",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_pink-winter-scarves-i-just-th_33.gpk",
+          "sha256": "57057237c5c134b4db2d580238a594f4bb784be38e7bfe56d26e0177c413c799",
+          "size_bytes": 2036540,
+          "target_dropin_filename": "Acc_274.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_274, Acc_274, Acc_274. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "watmod.this-mod-was-inspired",
+      "kind": "gpk",
+      "name": "This Mod Was Inspired",
+      "author": "watmod",
+      "category": "Costumes",
+      "short_description": "This mod was inspired by&nbsp;@miyakoproductions&nbsp;wonderful&nbsp;sitting mod. (Credits to them) However, I wasn&rsquo;t satisfied with s",
+      "long_description": "This mod was inspired by&nbsp;@miyakoproductions&nbsp;wonderful&nbsp;sitting mod. (Credits to them) However, I wasn&rsquo;t satisfied with s\n\nMulti-part set (4 packages). Original by watmod, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by watmod. Source: https://mods-of-tera.tumblr.com/post/153575382782/watmod-this-mod-was-inspired",
+      "source_url": "https://mods-of-tera.tumblr.com/post/153575382782/watmod-this-mod-was-inspired",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/596317bda61032829c92b8fdb6002e84/tumblr_oh2959XGm41vlcug9o2_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/596317bda61032829c92b8fdb6002e84/tumblr_oh2959XGm41vlcug9o2_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Popori_F_ANI.gpk",
+        "Popori_F_Face_ANI.gpk",
+        "Popori_F_Hair_ANI.gpk",
+        "Popori_F_Tail_ANI.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Popori_F_ANI",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/watmod_this-mod-was-inspired_34.gpk",
+          "sha256": "8b94fe18e2e6a334276828db744c65e09408db468d1c668f930232b325964017",
+          "size_bytes": 31554916,
+          "target_dropin_filename": "Popori_F_ANI.gpk"
+        },
+        {
+          "name": "Popori_F_Face_ANI",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/watmod_this-mod-was-inspired_35.gpk",
+          "sha256": "84fd674705e12bc11ed16c82fb80f5c996b923782a433b58a45aeec1a70aaec7",
+          "size_bytes": 7174298,
+          "target_dropin_filename": "Popori_F_Face_ANI.gpk"
+        },
+        {
+          "name": "Popori_F_Hair_ANI",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/watmod_this-mod-was-inspired_36.gpk",
+          "sha256": "da005b7a6a83ad0dfad1a4590783b00c20a7511c004ae7b3736b0555853e76bd",
+          "size_bytes": 10017726,
+          "target_dropin_filename": "Popori_F_Hair_ANI.gpk"
+        },
+        {
+          "name": "Popori_F_Tail_ANI",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/watmod_this-mod-was-inspired_37.gpk",
+          "sha256": "2d5e66448a0a96dfb1a626c115872d3f4266e541ff6d2a928739f608cf058595",
+          "size_bytes": 2670522,
+          "target_dropin_filename": "Popori_F_Tail_ANI.gpk"
+        }
+      ],
+      "replaces": "Replaces: Popori_F_ANI, Popori_F_Face_ANI, Popori_F_Hair_ANI, Popori_F_Tail_ANI. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "pantypon.wreath-recolor-mod-pack-this-mod",
+      "kind": "gpk",
+      "name": "Wreath Recolor Mod Pack This Mod",
+      "author": "pantypon",
+      "category": "Accessories",
+      "short_description": "This mod pack contains recolors for the Pink Wreath accessory. Each one is labeled so you know what they are. They simply add a variety of c",
+      "long_description": "This mod pack contains recolors for the Pink Wreath accessory. Each one is labeled so you know what they are. They simply add a variety of c\n\nMulti-part set (5 packages). Original by pantypon, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/152485386667/pantypon-wreath-recolor-mod-pack-this-mod",
+      "source_url": "https://mods-of-tera.tumblr.com/post/152485386667/pantypon-wreath-recolor-mod-pack-this-mod",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7b9d1ca16571b55d07ca276cfff8a06c/tumblr_oftowdcLEr1vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7b9d1ca16571b55d07ca276cfff8a06c/tumblr_oftowdcLEr1vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_047.gpk",
+        "Acc_047.gpk",
+        "Acc_047.gpk",
+        "Acc_047.gpk",
+        "Acc_047.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_047",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_wreath-recolor-mod-pack-this-_38.gpk",
+          "sha256": "34544f79c7cd3ea295cdfb8c96f1d876707ba1f94e667e9168a817c20886aa3b",
+          "size_bytes": 550355,
+          "target_dropin_filename": "Acc_047.gpk"
+        },
+        {
+          "name": "Acc_047",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_wreath-recolor-mod-pack-this-_39.gpk",
+          "sha256": "34544f79c7cd3ea295cdfb8c96f1d876707ba1f94e667e9168a817c20886aa3b",
+          "size_bytes": 550355,
+          "target_dropin_filename": "Acc_047.gpk"
+        },
+        {
+          "name": "Acc_047",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_wreath-recolor-mod-pack-this-_40.gpk",
+          "sha256": "34544f79c7cd3ea295cdfb8c96f1d876707ba1f94e667e9168a817c20886aa3b",
+          "size_bytes": 550355,
+          "target_dropin_filename": "Acc_047.gpk"
+        },
+        {
+          "name": "Acc_047",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_wreath-recolor-mod-pack-this-_41.gpk",
+          "sha256": "34544f79c7cd3ea295cdfb8c96f1d876707ba1f94e667e9168a817c20886aa3b",
+          "size_bytes": 550355,
+          "target_dropin_filename": "Acc_047.gpk"
+        },
+        {
+          "name": "Acc_047",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/pantypon_wreath-recolor-mod-pack-this-_42.gpk",
+          "sha256": "34544f79c7cd3ea295cdfb8c96f1d876707ba1f94e667e9168a817c20886aa3b",
+          "size_bytes": 550355,
+          "target_dropin_filename": "Acc_047.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_047, Acc_047, Acc_047, Acc_047, Acc_047. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "phoenixgi.phoenixgi",
+      "kind": "gpk",
+      "name": "Phoenixgi",
+      "author": "phoenixgi",
+      "category": "Costumes",
+      "short_description": "Mod for Phoenixclaw Gi for all females.\nChanges:\n▪ Removes extra straps on legs (ankle only)\n▪ (Included) Removes all leg straps.\n▪ Made sho",
+      "long_description": "Mod for Phoenixclaw Gi for all females.\nChanges:\n▪ Removes extra straps on legs (ankle only)\n▪ (Included) Removes all leg straps.\n▪ Made sho\n\nMulti-part set (2 packages). Original by phoenixgi, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by phoenixgi. Source: https://mods-of-tera.tumblr.com/post/149219656797/phoenixgi",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149219656797/phoenixgi",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/ca81d6e177e6f60bf86968293a04137f/tumblr_o1p8x06C0D1v6y2bqo1_500.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/ca81d6e177e6f60bf86968293a04137f/tumblr_o1p8x06C0D1v6y2bqo1_500.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PC_Event_35.gpk",
+        "PC_Event_35.gpk"
+      ],
+      "parts": [
+        {
+          "name": "PC_Event_35",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/phoenixgi_phoenixgi_43.gpk",
+          "sha256": "d69c833b81cc5c08b44eebfcf06d9d062353fcdd057273c7212a346e07672f9c",
+          "size_bytes": 17945775,
+          "target_dropin_filename": "PC_Event_35.gpk"
+        },
+        {
+          "name": "PC_Event_35",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/phoenixgi_phoenixgi_44.gpk",
+          "sha256": "d69c833b81cc5c08b44eebfcf06d9d062353fcdd057273c7212a346e07672f9c",
+          "size_bytes": 17945775,
+          "target_dropin_filename": "PC_Event_35.gpk"
+        }
+      ],
+      "replaces": "Replaces: PC_Event_35, PC_Event_35. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "norukjerky.riddling-set-texture-replacement",
+      "kind": "gpk",
+      "name": "Riddling Set Texture Replacement",
+      "author": "norukjerky",
+      "category": "Costumes",
+      "short_description": "Found these while hunting through files and thought I&rsquo;d see how they looked. Sadly it&rsquo;s only for elins.\nThese replace the Riddli",
+      "long_description": "Found these while hunting through files and thought I&rsquo;d see how they looked. Sadly it&rsquo;s only for elins.\nThese replace the Riddli\n\nMulti-part set (3 packages). Original by norukjerky, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by norukjerky. Source: https://mods-of-tera.tumblr.com/post/149150462397/norukjerky-riddling-set-texture-replacement",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149150462397/norukjerky-riddling-set-texture-replacement",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/bffbdb19cafc73db3d95daae4bcf2427/tumblr_nrgotoglaL1sjek4ho2_250.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/bffbdb19cafc73db3d95daae4bcf2427/tumblr_nrgotoglaL1sjek4ho2_250.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Popori_F_H31.Plate.gpk",
+        "Popori_F_L31.Leather.gpk",
+        "Popori_F_R31.Cloth.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Popori_F_H31.Plate",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/norukjerky_riddling-set-texture-replac_45.gpk",
+          "sha256": "3ef64004c6258e34d5db269c2d3ccbf2ab258bf35b9358626c6664c32644c368",
+          "size_bytes": 2532360,
+          "target_dropin_filename": "Popori_F_H31.Plate.gpk"
+        },
+        {
+          "name": "Popori_F_L31.Leather",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/norukjerky_riddling-set-texture-replac_46.gpk",
+          "sha256": "b1c795abf5572b25e31212ed2e23563a65a4462ec7e8b7f7fc6e67dc88a4fd18",
+          "size_bytes": 2016471,
+          "target_dropin_filename": "Popori_F_L31.Leather.gpk"
+        },
+        {
+          "name": "Popori_F_R31.Cloth",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/norukjerky_riddling-set-texture-replac_47.gpk",
+          "sha256": "fd510071c0be827051f5b4cacafb9c9e9de61fae771e573cbc9aaa8da01704e8",
+          "size_bytes": 2002060,
+          "target_dropin_filename": "Popori_F_R31.Cloth.gpk"
+        }
+      ],
+      "replaces": "Replaces: Popori_F_H31.Plate, Popori_F_L31.Leather, Popori_F_R31.Cloth. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "norukjerky.little-white-dress-since-a-few",
+      "kind": "gpk",
+      "name": "Little White Dress Since A Few",
+      "author": "norukjerky",
+      "category": "Costumes",
+      "short_description": "Since a few people have asked for this I&rsquo;ve decided to release it, I made this mostly for myself so it is NOT pure white there&rsquo;s",
+      "long_description": "Since a few people have asked for this I&rsquo;ve decided to release it, I made this mostly for myself so it is NOT pure white there&rsquo;s\n\nMulti-part set (4 packages). Original by norukjerky, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by norukjerky. Source: https://mods-of-tera.tumblr.com/post/149147630907/norukjerky-little-white-dress-since-a-few",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149147630907/norukjerky-little-white-dress-since-a-few",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7080adfe48328c9b307fceb13d52cc75/tumblr_noscibyKTH1sjek4ho1_400.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/7080adfe48328c9b307fceb13d52cc75/tumblr_noscibyKTH1sjek4ho1_400.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PC_Event_27.replaceallwhite.gpk",
+        "PC_Event_27.replaceblue.gpk",
+        "PC_Event_27.replacepink.gpk",
+        "PC_Event_27.yellowreplace.gpk"
+      ],
+      "parts": [
+        {
+          "name": "PC_Event_27.replaceallwhite",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/norukjerky_little-white-dress-since-a-_48.gpk",
+          "sha256": "a34d667500903b1faadf46d2d9373a639bf0a55df4880bd22ccceacd65959723",
+          "size_bytes": 13281101,
+          "target_dropin_filename": "PC_Event_27.replaceallwhite.gpk"
+        },
+        {
+          "name": "PC_Event_27.replaceblue",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/norukjerky_little-white-dress-since-a-_49.gpk",
+          "sha256": "f83332e72deac1e840809e9006488523da2f8cad661062436c277fe6ac592899",
+          "size_bytes": 13891635,
+          "target_dropin_filename": "PC_Event_27.replaceblue.gpk"
+        },
+        {
+          "name": "PC_Event_27.replacepink",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/norukjerky_little-white-dress-since-a-_50.gpk",
+          "sha256": "e626e9f5ff6beb7475620364370d9a77091a9bc2d56f9f8f3e1909beff2c73fc",
+          "size_bytes": 13850216,
+          "target_dropin_filename": "PC_Event_27.replacepink.gpk"
+        },
+        {
+          "name": "PC_Event_27.yellowreplace",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/norukjerky_little-white-dress-since-a-_51.gpk",
+          "sha256": "3563ad61590049bb55f230c9b4f2d6e345a86bfc63080d838bbc27038e067d76",
+          "size_bytes": 13960238,
+          "target_dropin_filename": "PC_Event_27.yellowreplace.gpk"
+        }
+      ],
+      "replaces": "Replaces: PC_Event_27.replaceallwhite, PC_Event_27.replaceblue, PC_Event_27.replacepink, PC_Event_27.yellowreplace. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "tera.majuki-norukjerky-this-was-just-me",
+      "kind": "gpk",
+      "name": "Majuki Norukjerky This Was Just Me",
+      "author": "tera",
+      "category": "Costumes",
+      "short_description": "This was just me messing around with removing parts of costumes.\n  Please let know if you have any issues with this there are a few glitches",
+      "long_description": "This was just me messing around with removing parts of costumes.\n  Please let know if you have any issues with this there are a few glitches\n\nMulti-part set (4 packages). Original by tera, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by tera. Source: https://mods-of-tera.tumblr.com/post/149146411672/tera-majuki-norukjerky-this-was-just-me",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149146411672/tera-majuki-norukjerky-this-was-just-me",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/55ca3ca24d4ca211643480601515c1e6/tumblr_nml564Zyoz1sjek4ho2_400.gif",
+      "screenshots": [
+        "https://64.media.tumblr.com/55ca3ca24d4ca211643480601515c1e6/tumblr_nml564Zyoz1sjek4ho2_400.gif"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PC_Event_27.replaceall.gpk",
+        "PC_Event_27.replaceblue.gpk",
+        "PC_Event_27.replacepink.gpk",
+        "PC_Event_27.yellowreplace.gpk"
+      ],
+      "parts": [
+        {
+          "name": "PC_Event_27.replaceall",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/tera_majuki-norukjerky-this-was-just-m_52.gpk",
+          "sha256": "9c64451b2d19afd870273b164effb110b74104c0213f7e426b91507f099b1894",
+          "size_bytes": 13163195,
+          "target_dropin_filename": "PC_Event_27.replaceall.gpk"
+        },
+        {
+          "name": "PC_Event_27.replaceblue",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/tera_majuki-norukjerky-this-was-just-m_53.gpk",
+          "sha256": "f83332e72deac1e840809e9006488523da2f8cad661062436c277fe6ac592899",
+          "size_bytes": 13891635,
+          "target_dropin_filename": "PC_Event_27.replaceblue.gpk"
+        },
+        {
+          "name": "PC_Event_27.replacepink",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/tera_majuki-norukjerky-this-was-just-m_54.gpk",
+          "sha256": "e626e9f5ff6beb7475620364370d9a77091a9bc2d56f9f8f3e1909beff2c73fc",
+          "size_bytes": 13850216,
+          "target_dropin_filename": "PC_Event_27.replacepink.gpk"
+        },
+        {
+          "name": "PC_Event_27.yellowreplace",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/tera_majuki-norukjerky-this-was-just-m_55.gpk",
+          "sha256": "3563ad61590049bb55f230c9b4f2d6e345a86bfc63080d838bbc27038e067d76",
+          "size_bytes": 13960238,
+          "target_dropin_filename": "PC_Event_27.yellowreplace.gpk"
+        }
+      ],
+      "replaces": "Replaces: PC_Event_27.replaceall, PC_Event_27.replaceblue, PC_Event_27.replacepink, PC_Event_27.yellowreplace. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "katmods.so-more-elin-stuff-d-here-are-two",
+      "kind": "gpk",
+      "name": "So More Elin Stuff D Here Are",
+      "author": "katmods",
+      "category": "Costumes",
+      "short_description": "Here are two options for the gold glimmerdress - also works on dyeable one with that big fur on neck (because of the dyeable part you can do",
+      "long_description": "Here are two options for the gold glimmerdress - also works on dyeable one with that big fur on neck (because of the dyeable part you can do\n\nMulti-part set (2 packages). Original by katmods, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by katmods. Source: https://mods-of-tera.tumblr.com/post/179758912952/katmods-so-more-elin-stuff-d-here-are-two",
+      "source_url": "https://mods-of-tera.tumblr.com/post/179758912952/katmods-so-more-elin-stuff-d-here-are-two",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/36f349b577da275f31be260fbcccb494/tumblr_phnypkzkrj1xqnwl2o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/36f349b577da275f31be260fbcccb494/tumblr_phnypkzkrj1xqnwl2o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PC_Event_51.patched.gpk",
+        "PC_Event_51.patched.patched.gpk"
+      ],
+      "parts": [
+        {
+          "name": "PC_Event_51.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/katmods_so-more-elin-stuff-d-here-are-_56.gpk",
+          "sha256": "452cf2778d0a0b797cdf2c9b0d90418cfbf9fb166ef92ae5cbff174a33b804ab",
+          "size_bytes": 19713310,
+          "target_dropin_filename": "PC_Event_51.patched.gpk"
+        },
+        {
+          "name": "PC_Event_51.patched.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/katmods_so-more-elin-stuff-d-here-are-_57.gpk",
+          "sha256": "8ab1426acd25209af1b595abfabd8656f25dfc5b8dd4114e65b875f4264c4845",
+          "size_bytes": 20044099,
+          "target_dropin_filename": "PC_Event_51.patched.patched.gpk"
+        }
+      ],
+      "replaces": "Replaces: PC_Event_51.patched, PC_Event_51.patched.patched. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "katmods.makes-the-neon-underwear-red-instead-of",
+      "kind": "gpk",
+      "name": "Makes The Neon Underwear Red Instead Of",
+      "author": "katmods",
+      "category": "Costumes",
+      "short_description": "Makes the neon Underwear red instead of orange :3&nbsp;\nalso the second will make the cat underwear more darker at the orange parts - rework",
+      "long_description": "Makes the neon Underwear red instead of orange :3&nbsp;\nalso the second will make the cat underwear more darker at the orange parts - rework\n\nMulti-part set (2 packages). Original by katmods, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by katmods. Source: https://mods-of-tera.tumblr.com/post/179272797072/katmods-makes-the-neon-underwear-red-instead-of",
+      "source_url": "https://mods-of-tera.tumblr.com/post/179272797072/katmods-makes-the-neon-underwear-red-instead-of",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/e27e9006dbd55978c099dd55c9937c35/tumblr_pgvy97VL2o1xqnwl2o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/e27e9006dbd55978c099dd55c9937c35/tumblr_pgvy97VL2o1xqnwl2o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "PC_Event_67.patched.gpk",
+        "PC_Event_57.patched.gpk"
+      ],
+      "parts": [
+        {
+          "name": "PC_Event_67.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/katmods_makes-the-neon-underwear-red-i_58.gpk",
+          "sha256": "09e3ea1ede0cb87213196ffb241904a92a9b0588c65cef2a96940001cee3967f",
+          "size_bytes": 21167954,
+          "target_dropin_filename": "PC_Event_67.patched.gpk"
+        },
+        {
+          "name": "PC_Event_57.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/katmods_makes-the-neon-underwear-red-i_59.gpk",
+          "sha256": "34708892086806dbb261108cefd263f90cadc5b4a7fd8635b4f4919f773acb3f",
+          "size_bytes": 13051798,
+          "target_dropin_filename": "PC_Event_57.patched.gpk"
+        }
+      ],
+      "replaces": "Replaces: PC_Event_67.patched, PC_Event_57.patched. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "manooy.kun-a-recolor-on-accessories",
+      "kind": "gpk",
+      "name": "Kun A Recolor On Accessories",
+      "author": "manooy",
+      "category": "Accessories",
+      "short_description": "A recolor on accessories.\n1.Ninja Kitsune Mask.\n2.Hypnotizing Headband.\n3.Reaper Mask.\n4.Black Eyepad.\n5.Hat of Sweet Dreams(lit).\nThe link ",
+      "long_description": "A recolor on accessories.\n1.Ninja Kitsune Mask.\n2.Hypnotizing Headband.\n3.Reaper Mask.\n4.Black Eyepad.\n5.Hat of Sweet Dreams(lit).\nThe link \n\nMulti-part set (5 packages). Original by manooy, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by manooy. Source: https://mods-of-tera.tumblr.com/post/149176431522/manooy-kun-a-recolor-on-accessories",
+      "source_url": "https://mods-of-tera.tumblr.com/post/149176431522/manooy-kun-a-recolor-on-accessories",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/7f7122ef017340b02e1a379265af8deb/tumblr_nuf0sgZ05F1tvy7tao1_1280.jpg",
+      "screenshots": [
+        "https://64.media.tumblr.com/7f7122ef017340b02e1a379265af8deb/tumblr_nuf0sgZ05F1tvy7tao1_1280.jpg"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Acc_308.patched.gpk",
+        "Acc_015.patched.gpk",
+        "Acc_061.patched.gpk",
+        "Acc_077.patched.gpk",
+        "Acc_065.patched.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Acc_308.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/manooy_kun-a-recolor-on-accessories_60.gpk",
+          "sha256": "e772b83455ee4b0b17755473f30a9b702e1d63f444b9ee185fbe6ceccb025145",
+          "size_bytes": 168513,
+          "target_dropin_filename": "Acc_308.patched.gpk"
+        },
+        {
+          "name": "Acc_015.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/manooy_kun-a-recolor-on-accessories_61.gpk",
+          "sha256": "946e0535e474d711b3d8df7fb75dfe79a1723fd8b62338a6bc982479db581a4d",
+          "size_bytes": 578357,
+          "target_dropin_filename": "Acc_015.patched.gpk"
+        },
+        {
+          "name": "Acc_061.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/manooy_kun-a-recolor-on-accessories_62.gpk",
+          "sha256": "d9cd61b7ff50a1d983359700d05b65103c3099e7c503e39a84eaebd356c9f9d4",
+          "size_bytes": 524220,
+          "target_dropin_filename": "Acc_061.patched.gpk"
+        },
+        {
+          "name": "Acc_077.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/manooy_kun-a-recolor-on-accessories_63.gpk",
+          "sha256": "56902a3fde49829dfb400601dc4b29d562b650e93ac3d711095a6ed37840a466",
+          "size_bytes": 156911,
+          "target_dropin_filename": "Acc_077.patched.gpk"
+        },
+        {
+          "name": "Acc_065.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch4/manooy_kun-a-recolor-on-accessories_64.gpk",
+          "sha256": "48d060739f257ede2efefc8933914d74c137c766aed098c8bcf355f5940a1a9d",
+          "size_bytes": 535422,
+          "target_dropin_filename": "Acc_065.patched.gpk"
+        }
+      ],
+      "replaces": "Replaces: Acc_308.patched, Acc_015.patched, Acc_061.patched, Acc_077.patched, Acc_065.patched. Check: preview/wear the matching items in game.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin. Report if it looks off.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
     }
   ]
 }
