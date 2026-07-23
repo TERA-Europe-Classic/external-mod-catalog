@@ -1,5 +1,5 @@
 {
-  "version": 96,
+  "version": 97,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -2477,7 +2477,7 @@
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
       "compatibility_notes": "Conflicts with other Community-window restyles. Pick one Foglio restyle per UI window — combining two restyles for the same window will leave the second-installed one effective. Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
-      "featured_image": "https://opengraph.githubassets.com/2b57d5b61f04782df1d7eb4e2bbe3415f05d655a85f170e4fa36f43625a27fe2/foglio1024/tera-restyle",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/foglio1024.restyle-community-window/cover.png",
       "target_object_path": "S1UI_CommunityWindow.CommunityWindow",
       "compatible_arch": "x64"
     },
