@@ -1,5 +1,5 @@
 {
-  "version": 114,
+  "version": 115,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -951,12 +951,12 @@
       "id": "mtforum.enchantress",
       "kind": "gpk",
       "name": "Enchantress",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Pantypon",
       "short_description": "Enchantress — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Enchantress: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/154579183065/elin-face-1-adornment-3-the-enchantress) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Enchantress.gpk",
       "sha256": "caf57da3e2a4e3d59c78914cbec31b2aab29e433da5177fa2e463b4b29f80893",
@@ -978,8 +978,9 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.enchantress/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.enchantress/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAQCdASoMAAwAAwBSJYgCdABp0OAAAP4Wdf/HNlKmVE+MK+jaar50nGBq1F7jUGwXaFhOcGtAi2a7p/3Z5fe79kOaQAAA",
-      "replaces": "Replaces Elin face decal J-1 (package popori_F_AJ0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAYAAwBSJZQC7AD7FuOHlUOAAPwWG10eiNICsbQ9RBriGOEWXaAVGApDTuTm2aN9sdwRHzxakGVDR1CbM6BNgAA=",
+      "replaces": "Replaces Elin face decal J-1 (package popori_F_AJ0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+      "source_url": "https://pantypon.tumblr.com/post/154579183065/elin-face-1-adornment-3-the-enchantress"
     },
     {
       "id": "mtforum.goldie",
@@ -1053,12 +1054,12 @@
       "id": "mtforum.starry",
       "kind": "gpk",
       "name": "Starry",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Yuseiphilia",
       "short_description": "Starry — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Starry: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Yuseiphilia (https://mods-of-tera.tumblr.com/post/149344968237/yuseiphilia-tera-mod-starry-eyes-only-elin) (via the mods-of-tera archive blog) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Starry.gpk",
       "sha256": "dbe2cfce781fbd2ec2764489f56c4cb632ebb10805bb039cdcfde952adf24006",
@@ -1080,8 +1081,14 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoMAAwAAwBSJYgCdADVzsiAAPawsg1XatLDciHbx9AH+cPC+gjnhhA4BzsmvteRm53qidfqO0PivmnwQAA=",
-      "replaces": "Replaces Elin face decal E-1 (package popori_F_AE0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoMAAYAAwBSJQBdgBud7xrQAP7kS0E63n456qiZhDSQ3c+pPh2PpN/HIM+GEHmV2J33q88AAAA=",
+      "replaces": "Replaces Elin face decal E-1 (package popori_F_AE0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_3.webp"
+      ],
+      "source_url": "https://mods-of-tera.tumblr.com/post/149344968237/yuseiphilia-tera-mod-starry-eyes-only-elin"
     },
     {
       "id": "mtforum.sterlingsilver-castanicf",
@@ -1336,12 +1343,12 @@
       "id": "mtforum.sunset",
       "kind": "gpk",
       "name": "Sunset",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Deathwrack",
       "short_description": "Sunset — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Sunset: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Deathwrack (https://mods-of-tera.tumblr.com/post/176725137877/deathwrack-sunset-dreams-face-11-adornment-4) (via the mods-of-tera archive blog) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Sunset.gpk",
       "sha256": "d771fe12509606c49e3261d398b07d52772fdd8c63cb275bb10926cb7cb08ed4",
@@ -1363,8 +1370,9 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sunset/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sunset/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAABQAgCdASoMAAwAAwBSJYgCdAYuvyfJ+xJHeAAAyXO5KPQFHzmu0mDglDPomUDAgLGRLSbQ7woyx/OW/VoTSrsgloH00KaiER5T0sr2hne8IyyX+rvIAAAA",
-      "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+      "blur_data": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAACQAgCdASoMAAwAAwBSJbACdH8AgsTLyMoUUeLeAAD8PqF1AKdCJndZKfbt/q7pkGOlGo6FyCjTzpuWrCFKz9Me4X6I97VPbF8+6IoHorwp0r12zTGlKemI7oAYbtf4IElzNG5KRSNmTraLTQzepNwxef9lZsnQ+kRx32ibwAA=",
+      "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176725137877/deathwrack-sunset-dreams-face-11-adornment-4"
     },
     {
       "id": "mtforum.hauntercatseye",
@@ -1812,12 +1820,12 @@
       "id": "mtforum.plum",
       "kind": "gpk",
       "name": "Plum",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Pantypon",
       "short_description": "Plum — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Plum: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/190182218325/elin-face-8-adornment-5-plum-requested-by-akura) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Plum.gpk",
       "sha256": "baaeadbc3f6d4eb01aa1da26c1001215146e3659ccf522dc66f9f51bb3f488af",
@@ -1839,8 +1847,14 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoMAAwAAwBSJQBOgBtkD3ScoAD+9f1iWKqSubCXu26A25/1DErOGGefePw9JshjQop4GM74plAjMWeabca76cX+16K0xrZ4AAA=",
-      "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+      "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoMAAsAAwBSJQBOj+ADE8NWGLPAAAD+ikRclArtfkpomU3DO3+yHq726srcJ84YXsS10zRNC02pz93zrCn9caL5H97pINOpxO5kuB0zMU/CfYeAAAA=",
+      "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_3.webp"
+      ],
+      "source_url": "https://pantypon.tumblr.com/post/190182218325/elin-face-8-adornment-5-plum-requested-by-akura"
     },
     {
       "id": "mtforum.skull-emogi-11-5",
@@ -1914,12 +1928,12 @@
       "id": "mtforum.amethyst",
       "kind": "gpk",
       "name": "Amethyst",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Nueus",
       "short_description": "Amethyst — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Amethyst: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Nueus (https://mods-of-tera.tumblr.com/post/171664707097/nueus-face-8-adornment-5-amethyst) (via the mods-of-tera archive blog) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Amethyst.gpk",
       "sha256": "6956013a3fbf5df343490648136011d4b58e46dcbd6f05913795b12199ce962e",
@@ -1941,8 +1955,13 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAwAAwBSJQBOgB+X/uQXo9YAAP7eErH9sPp9SwMJG7YKsAVyOCrw3yf5cH3yGRNQs2NpDQn0qlURVtHvn7zYkAA=",
-      "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+      "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoHAAwAAwBSJaACdAD0plnMe9cAAP6GBFxxLVvCO1kM5AKQ+c7W0bqtE8YKQAwOEmjS5guteiVsrdr1+wrOMD9UnVnrBpEetAkuiAAA",
+      "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/shot_2.webp"
+      ],
+      "source_url": "https://mods-of-tera.tumblr.com/post/171664707097/nueus-face-8-adornment-5-amethyst"
     },
     {
       "id": "mtforum.dragon",
@@ -2016,12 +2035,12 @@
       "id": "mtforum.honey",
       "kind": "gpk",
       "name": "Honey",
-      "author": "Unknown (shared by Tsun)",
+      "author": "ModdyMcModface",
       "short_description": "Honey — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Honey: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by ModdyMcModface (https://mods-of-tera.tumblr.com/post/176725177332/moddymcmodface-honey-download-here-for) (via the mods-of-tera archive blog) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Honey.gpk",
       "sha256": "f83bb5661b361a9ce181dd6b02b862dd9afbff19f50e3abbc04fc8859b46ea63",
@@ -2043,8 +2062,9 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.honey/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.honey/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoMAAwAAwBSJQBWABmEmS1c/RAAAP7d4WnQZqDqDzl/gHTYMZglH/zXK9KS4JRgQ8Nsey3FPA9KIGboUmkSAAAA",
-      "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+      "blur_data": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAYAAwBSJYwCdAECpkWxRAAA/oohuw8hTLxIcK6NTvDs6zEE/snGj5wW6/sUq7fLOtXnV+nLcuH4d7csx4evw4QFUhIYAAA=",
+      "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+      "source_url": "https://mods-of-tera.tumblr.com/post/176725177332/moddymcmodface-honey-download-here-for"
     },
     {
       "id": "mtforum.light-green-eyes",
@@ -2289,12 +2309,12 @@
       "id": "mtforum.cosmic-nurse",
       "kind": "gpk",
       "name": "Cosmic Nurse",
-      "author": "Unknown (shared by Tsun)",
+      "author": "Pantypon",
       "short_description": "Cosmic Nurse — eye/cosmetic texture mod from Tsun's forum backup.",
       "long_description": "Cosmic Nurse: one of 46 eye/cosmetic texture mods shared by Tsun on Discord (Jun 2025), in a thread asking for \"the cosmetic mods from menmas\". Tsun noted having \"pretty much the entire mt mod forum backed up\" — likely the Menma's TERA modding community, though unverified. Original per-mod authors are unknown; if one of these is yours, open an issue for attribution.\n\nEye mods in this collection replace the same texture slots — enable ONE at a time.",
       "category": "appearance",
       "license": "Unknown",
-      "credits": "Shared by Tsun on Discord from their forum backup (\"i do have pretty much the entire mt mod forum backed up\"); original authors unknown. Rehosted unmodified for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "credits": "Original by Pantypon (https://pantypon.tumblr.com/post/157334584915/elin-face-8-adornment-5-cosmic-nurse) — matched to the original release post. File preserved via Tsun's forum backup, shared by Tsun on Discord. Rehosted for the TERA Europe Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
       "version": "1.0.0",
       "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-mtforum.eye-collection-v1.0.0/Cosmic_Nurse.gpk",
       "sha256": "2074ea6bd4668e379fad2088a94946cd0846fe51a0918b9708b8d78edb867b82",
@@ -2316,8 +2336,14 @@
       "download_count": 0,
       "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/cover.webp",
       "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/thumb.webp",
-      "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoMAAwAAwBSJYgCdACATUSAAP71/WJbRtGiTu6X5aN2WZj4sW7rpaILqFgOk2u+rWd900PwLv+mF+cTviDgg5vkZFmfZYpqmdeAAAAA",
-      "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+      "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoGAAwAAwBSJQBOgCHNDQg5oAAA/udnG6qAnr5x40iXY9BjtY5niXZk3EOXydnRTIdiY80zSykUUGX8IriyK03woZPbeGmMA6R7NKAA",
+      "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+      "screenshots": [
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_1.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_2.webp",
+        "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_3.webp"
+      ],
+      "source_url": "https://pantypon.tumblr.com/post/157334584915/elin-face-8-adornment-5-cosmic-nurse"
     },
     {
       "id": "mtforum.mioh-makeup-f9a3",
