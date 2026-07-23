@@ -1,5 +1,5 @@
 {
-  "version": 98,
+  "version": 99,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -4197,7 +4197,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e69bf3fca13b0ec83d3bf85aab760092374562205369be9168465bd075114b67/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-pink-social-dress/cover.png",
       "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -4247,7 +4247,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/e69bf3fca13b0ec83d3bf85aab760092374562205369be9168465bd075114b67/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.red-miko-costume/cover.png",
       "target_object_path": "PC_Event_36.Tex.PC_Event_36_Popori_F_RareD_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
@@ -6302,7 +6302,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.dyeable-housekeeper-fix/cover.png",
       "gpk_files": [
         "PC_Event_19.gpk"
       ],
@@ -6332,7 +6332,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-dyeable-raincoat-match/cover.png",
       "gpk_files": [
         "PC_Event_42A.gpk"
       ],
@@ -6362,7 +6362,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-pale-writer-shoes-fix/cover.png",
       "gpk_files": [
         "PC_Event_09.gpk"
       ],
@@ -6392,7 +6392,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-whiter-ice-cream-social/cover.png",
       "gpk_files": [
         "PC_Event_46.gpk"
       ],
@@ -6422,7 +6422,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.elin-whiter-raincoat-accents/cover.png",
       "gpk_files": [
         "PC_Event_42A.gpk"
       ],
@@ -6452,7 +6452,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.ice-cream-black-pantyhose/cover.png",
       "gpk_files": [
         "PC_Event_46.gpk"
       ],
@@ -6482,7 +6482,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.ice-cream-white-pantyhose-shoes/cover.png",
       "gpk_files": [
         "PC_Event_46.gpk"
       ],
@@ -6512,7 +6512,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.ice-cream-white-pantyhose/cover.png",
       "gpk_files": [
         "PC_Event_46.gpk"
       ],
@@ -6542,7 +6542,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://opengraph.githubassets.com/1/pantypon/tera-client-mods",
+      "featured_image": "https://raw.githubusercontent.com/TERA-Europe-Classic/external-mod-catalog/main/media/pantypon.whiter-jeans-and-jacket/cover.png",
       "gpk_files": [
         "PC_Event_32.gpk"
       ],
