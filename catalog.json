@@ -1,5 +1,5 @@
 {
-  "version": 111,
+  "version": 112,
   "updated_at": "2026-07-22T23:36:22Z",
   "mods": [
     {
@@ -85,7 +85,8 @@
       "updated_at": "2026-07-17T20:30:00Z",
       "download_count": 0,
       "featured_image": "https://64.media.tumblr.com/4a6d0230e62bad4adb4bde24c641214a/44b3817b87da73ed-00/s1280x1920/60f1fac4d1d711cda1fa06a3b8a225e39704c7b6.png",
-      "icon_url": "https://64.media.tumblr.com/4a6d0230e62bad4adb4bde24c641214a/44b3817b87da73ed-00/s1280x1920/60f1fac4d1d711cda1fa06a3b8a225e39704c7b6.png"
+      "icon_url": "https://64.media.tumblr.com/4a6d0230e62bad4adb4bde24c641214a/44b3817b87da73ed-00/s1280x1920/60f1fac4d1d711cda1fa06a3b8a225e39704c7b6.png",
+      "blur_data": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACQAQCdASoMAAcAAwBSJQAAXPD2aDAA9kcyV5R41okYcv9TlVl3s59bYNAvjrV9IbCVwi+QKAAAAA=="
     },
     {
       "id": "yupi.genshin-mona",
@@ -118,7 +119,8 @@
       ],
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADQAQCdASoMAAsAAwBSJbACdAD8IzLESAD+mhZJno2hqKbrinc/RqdkdQq3HuQ2df2Y7TDdJ3adlOVLXA/FCVX3/IXDm+gkMrd6lrAAAAA="
     },
     {
       "id": "yupi.happy-summer-pink",
@@ -152,7 +154,8 @@
       "compatibility_notes": "The Pink, Yellow and Blue Happy Summer variants all replace the same Elin Ostgarath Beauty costume — enable only one of the three at a time.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoMAAgAAwBSJZQCdAD0i8+xMAD+92Jzgo/IzfB1FzA9hwy+qgtCf5URtRoYXgKexAzFQAAA"
     },
     {
       "id": "yupi.happy-summer-yellow",
@@ -186,7 +189,8 @@
       "compatibility_notes": "The Pink, Yellow and Blue Happy Summer variants all replace the same Elin Ostgarath Beauty costume — enable only one of the three at a time.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoMAAgAAwBSJZQCdAD0i8+xMAD+92Jzgo/IzfB1FzA9hwy+qgtCf5URtRoYXgKexAzFQAAA"
     },
     {
       "id": "yupi.happy-summer-blue",
@@ -220,7 +224,8 @@
       "compatibility_notes": "The Pink, Yellow and Blue Happy Summer variants all replace the same Elin Ostgarath Beauty costume — enable only one of the three at a time.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoMAAgAAwBSJZQCdAD0i8+xMAD+92Jzgo/IzfB1FzA9hwy+qgtCf5URtRoYXgKexAzFQAAA"
     },
     {
       "id": "yupi.bns-plate-armor",
@@ -254,7 +259,8 @@
       "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAgAAwBSJZwC7ADdqgDV6AD+4Ai0hG7WSKqejjLE1LlcLEqihtPm+vAjubo9CTZPKpX0j4+Ko4gJuNyKAAAA"
     },
     {
       "id": "yupi.bns-plate-heavy-metal",
@@ -288,7 +294,8 @@
       "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAgAAwBSJZwC7ADdqgDV6AD+4Ai0hG7WSKqejjLE1LlcLEqihtPm+vAjubo9CTZPKpX0j4+Ko4gJuNyKAAAA"
     },
     {
       "id": "yupi.bns-plate-woden-thunor",
@@ -322,7 +329,8 @@
       "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAgAAwBSJZwC7ADdqgDV6AD+4Ai0hG7WSKqejjLE1LlcLEqihtPm+vAjubo9CTZPKpX0j4+Ko4gJuNyKAAAA"
     },
     {
       "id": "yupi.bns-plate-evil-god",
@@ -356,7 +364,8 @@
       "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
       "last_verified_patch": "patch 100.02",
       "updated_at": "2026-07-19T00:00:00Z",
-      "download_count": 0
+      "download_count": 0,
+      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAgAAwBSJZwC7ADdqgDV6AD+4Ai0hG7WSKqejjLE1LlcLEqihtPm+vAjubo9CTZPKpX0j4+Ko4gJuNyKAAAA"
     },
     {
       "id": "salty.clean-onscreen-messages",
@@ -470,7 +479,8 @@
           "loose_vanilla_sha256": "ed0a22e33c7a841451a4906b2c41c70717adb5042e42025d3efc446c57d342fe"
         }
       ],
-      "credits": "Original Think Blob mod by Foglio1024 (toolbox-era SpiritKing mount); x64 port, TFC/spec/icon engineering by Lukas for the Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog."
+      "credits": "Original Think Blob mod by Foglio1024 (toolbox-era SpiritKing mount); x64 port, TFC/spec/icon engineering by Lukas for the Classic+ launcher. If you are the author and would prefer this entry removed or reattributed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoMAAcAAwBSJYgAAma5FGAA/u9ppSvLX9a8R4WF4Zn30wXgeC8keAmHKZZVH9qP4/fRoUUsgAA="
     },
     {
       "id": "justcrazy.green-crosshair",
@@ -2373,7 +2383,8 @@
       "tagline": "miyo-niJul 1, 2022rainbow HP bar party uwuS1UI_GageMonsterHp.gpkПосмотреть и скачать с Ян…",
       "target_object_path": "S1UI_GageMonsterHp.GageMonsterHp",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAcAAwBSJZACdAD5iTXgAAD+9bX24sYpFEgLmrw1BQezwn9g7opuRxpWMEAA"
     },
     {
       "id": "neowutran.s1ui-chat2",
@@ -2679,10 +2690,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_EquipmentCombine.EquipmentCombine",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-equipment-upgrade",
@@ -2704,10 +2716,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_EquipmentUpgrade.EquipmentUpgrade",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-guild-window",
@@ -2756,10 +2769,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_InteractionPopup.InteractionPopup",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-inventory",
@@ -2808,10 +2822,11 @@
       "updated_at": "2026-05-01T22:30:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "compatible_arch": "x64",
       "target_object_path": "S1UI_MiniMap.MiniMap",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-paperdoll",
@@ -2871,10 +2886,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_ParcelPostLog.ParcelPostLog",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-production-create",
@@ -2896,10 +2912,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_ProductionCreatePopUp.ProductionCreatePopUp",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-production-list",
@@ -2921,10 +2938,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_ProductionList.ProductionList",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-servant-storage",
@@ -2946,10 +2964,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_ServantStorageWindow.ServantStorageWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-skill-window",
@@ -2971,10 +2990,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_SkillWindow.SkillWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-store-window",
@@ -3023,10 +3043,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_SystemOption.SystemOption",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-quickslot",
@@ -3048,10 +3069,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_TestQuickSlot.TestQuickSlot",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-trade-popup",
@@ -3073,10 +3095,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_TradePopup.TradePopup",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.restyle-warehouse",
@@ -3098,10 +3121,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "READ THE WIKI BEFORE ASKING QUESTIONS -- TERA UI windows restyled using a modern look.",
       "last_verified_patch": "patch 110",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_WareHouseWindow.WareHouseWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-jewels-fix-inventory",
@@ -3122,10 +3146,11 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_InventoryWindow.Inventory",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-jewels-fix-paperdoll",
@@ -3146,10 +3171,11 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_PaperDoll.PaperDoll",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-jewels-fix-icons",
@@ -3170,10 +3196,11 @@
       "composite_flag": true,
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "compatibility_notes": "Not portable to v100. Foglio's Icon_Items.gpk is a Classic-era full-package replacement with 4074 Texture2D entries; v100 routes Icon_Items through a composite mapper with thousands of objects, so a per-icon port pipeline would be required and is out of scope. The launcher's UI will show this mod as incompatible. To use foglio's intended jewel-icon remaps, install the original Modern_JewelsFix package on a Classic client.",
       "deploy_strategy": "dropin",
-      "target_dropin_filename": "Icon_Items.gpk"
+      "target_dropin_filename": "Icon_Items.gpk",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-bosswindow",
@@ -3195,10 +3222,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_GageBoss.GageBoss",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-targetinfo",
@@ -3220,10 +3248,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_TargetInfo.TargetInfo",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-buffs",
@@ -3245,10 +3274,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_Abnormality.Abnormality",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-character",
@@ -3270,10 +3300,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-flight-gauge",
@@ -3295,10 +3326,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_ProgressBar.ProgressBar",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-lfg-board",
@@ -3320,10 +3352,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_PartyBoard.PartyBoard",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-lfg-member",
@@ -3345,10 +3378,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_PartyBoardMemberInfo.PartyBoardMemberInfo",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-party-window",
@@ -3370,10 +3404,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_PartyWindow.PartyWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.ui-remover-raid-window",
@@ -3395,10 +3430,11 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "Replaces specifics GPK's with an empty one",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_PartyWindowRaidInfo.PartyWindowRaidInfo",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.toolbox-gagebar-topscreen",
@@ -3422,7 +3458,8 @@
       "featured_image": "https://raw.githubusercontent.com/foglio1024/toolbox-client-mods/master/GageBar_TopScreen/image.png",
       "target_object_path": "S1UI_GageBar.GageBar",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAACwAQCdASoMAAcAAwBSJaQAAqqQzIoAAP75yPZgByl1siBvxv/C5AAA"
     },
     {
       "id": "foglio1024.toolbox-transparent-damage",
@@ -3443,10 +3480,11 @@
       "composite_flag": true,
       "updated_at": "2026-05-02T00:30:00Z",
       "last_verified_patch": "patch 103",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "compatibility_notes": "Not applicable to v100. Foglio's mod targets TexturedFonts.gpk, which doesn't exist in v100.02 (fonts were renamed to fonts_eur/fonts_kr). The target package the engine would need to read for this mod to take effect isn't loaded by the v100 client, so even a mechanical port wouldn't render any difference.",
       "deploy_strategy": "dropin",
-      "target_dropin_filename": "TexturedFonts.gpk"
+      "target_dropin_filename": "TexturedFonts.gpk",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.badgui-loader",
@@ -3468,10 +3506,11 @@
       "updated_at": "2026-05-01T22:30:00Z",
       "tagline": "Modded GPK for badGUI",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "compatible_arch": "x64",
       "target_object_path": "S1UI_UpdateNotification.UpdateNotification",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.s1ui-chat2-p75",
@@ -3492,10 +3531,11 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "target_object_path": "S1UI_Chat2.Chat2",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "taorelia.restyle-community",
@@ -4260,7 +4300,8 @@
       "featured_image": "https://raw.githubusercontent.com/teralove/remove-artisan-icons/master/artisan_mastery_icons.png",
       "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export so --gfx-swap can't pair them.",
       "deploy_strategy": "dropin",
-      "target_dropin_filename": "Icon_System.gpk"
+      "target_dropin_filename": "Icon_System.gpk",
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAMAAwBSJYwCdAEQFDQpwAD+9sqwjMk9V1zfzao+n8R7aWefqEUcyZYA2iUBQ5bg1YYAAAA="
     },
     {
       "id": "merusira.atlas-clean-onscreen-messages",
@@ -4285,7 +4326,8 @@
       "featured_image": "https://raw.githubusercontent.com/merusira/tera-toolbox-atlas/master/bin/gui/assets/banner-omni.png",
       "target_object_path": "S1UI_Message.Message",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAYAAwBSJbACdADcSxSaBAAA+RFZb3ywko2jj5oNJMn1vMR9qWMbHkvMHv6hhc6UBWi8TLhCrMxTP/iVCFDfxXc47H9SfKXAFgAA"
     },
     {
       "id": "pantypon.cheerleader-shorts",
@@ -4307,7 +4349,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cheerleader-shorts/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cheerleader-shorts/shot_0.webp",
       "target_object_path": "PC_Event_29.Tex.PC_Event_29_Popori_F_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
@@ -4316,7 +4358,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cheerleader-shorts/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cheerleader-shorts/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cheerleader-shorts/shot_3.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoIAAwAAwBSJQBOgB5qllkAAPul5bYNujaNkJERnR+dMAHmSRmsYYEva1ad5UcUJ6ggycj3llAAAA=="
     },
     {
       "id": "pantypon.elin-black-business-suit",
@@ -4341,7 +4384,8 @@
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Black%20Business%20Suit/Black%20Business%20Suit%20Model.png",
       "target_object_path": "PC_Event_14.Tex.PC_Event_14_Popori_M_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACQAQCdASoGAAwAAwBSJZQAApZZ5AAA/tKxG3ZYtrAX/Xt+AkiotlrjAAv+bxAA"
     },
     {
       "id": "pantypon.elin-strawberry-maid",
@@ -4366,7 +4410,8 @@
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Strawberry%20Maid/Strawberry%20Maid%20Model.png",
       "target_object_path": "PC_Event_53.Tex.PC_Event_53_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoFAAwAAwBSJYwCdAD0eix0AOJ/UO2OuSl24tvoICjLb2k0ovchPhgnSYG4npve1FHT+j2nuVO4pY6gAAA="
     },
     {
       "id": "pantypon.elin-pink-social-dress",
@@ -4421,7 +4466,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-pora-elinu-uniform/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-pora-elinu-uniform/shot_0.webp",
       "target_object_path": "PC_Event_38.Tex.PC_Event_38_F_Human_D_Under_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
@@ -4430,7 +4475,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-pora-elinu-uniform/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-pora-elinu-uniform/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-pora-elinu-uniform/shot_3.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAABwAQCdASoMAAMAAwBSJYwCdAFAAAD+8TSLzTegTTX0AAAA"
     },
     {
       "id": "pantypon.red-miko-costume",
@@ -4482,7 +4528,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_0.webp",
       "target_object_path": "PC_Event_32.Tex.PC_Event_32_M_B_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
@@ -4491,7 +4537,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_3.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoJAAwAAwBSJYgCsAEO4dX3IxBgAP7d6ghsbRruN45Q/FOcuHCWdxkfFbdDpvRg4NfkmbKmrAuGZ5jySTy7yRCwAAA="
     },
     {
       "id": "pantypon.white-pixie",
@@ -4513,7 +4560,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-pixie/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-pixie/shot_0.webp",
       "target_object_path": "PC_Event_68.Tex.Popori_M_Base_Dye_spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
@@ -4521,7 +4568,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-pixie/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-pixie/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-pixie/shot_2.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADwAQCdASoMAAwAAwBSJZQCdAEJj+8zJAAA/sVVFFPKQJrYoZdO+r/+vGon/rOGQlokbQAA"
     },
     {
       "id": "pantypon.better-dyeable-flight-suit",
@@ -4543,7 +4591,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_0.webp",
       "target_object_path": "PC_Event_62.Tex.PC_Event_62_M_Spec",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
@@ -4551,7 +4599,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_2.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAsAAwBSJYgCdAYstcoIpeAA/u0g1p4PXSa81QOHx4eqbSKRPwt9ZpO3i3Ym7hcfwUGeFVrDSgYaUBYtM2EUS1KxOmqkMAA="
     },
     {
       "id": "pantypon.castanic-sleepy-running-togs",
@@ -4576,7 +4625,8 @@
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Castanic%20Sleepy%20Running%20Togs/Castanic%20Sleepy%20Model.png",
       "target_object_path": "PC_Event_03.Tex.PC_Event_03_Popori_F_spec_black",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoMAAgAAwBSJYwCsADbajWOiAD+fpeangUXIBRXl83ohOTZ94RKpeb+W0jWij9u0Ooh1Nh/tt3FqiHIRoHjEKZh/wc0AA=="
     },
     {
       "id": "pantypon.charcoal-eldritch-no-skirt",
@@ -4601,7 +4651,8 @@
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Charcoal%20Eldritch%20No%20Skirt/Charcoal%20Eldritch%20No%20Skirt%20Model.png",
       "target_object_path": "PC_Event_09.Tex.PC_Event_09_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoHAAwAAwBSJYgCdAEegns9HmoAAP64IX4K28s+xz8+ROrt+WxO1CYZKpfVW8A1ToYG9R4DKHMY8Gma6cI0qRbL5/AAAA=="
     },
     {
       "id": "pantypon.elin-sugar-alice",
@@ -4626,7 +4677,8 @@
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Sugar%20Alice/Sugar%20Alice%20Model.png",
       "target_object_path": "PC_Event_23A.Tex.PC_Event_23A_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACQAQCdASoMAAwAAwBSJYwAAs/QUQAA/lXiZk7oosOcKufTX47gqdRZb1kSBm2bJjR4BO8nd8y77FHwwAA="
     },
     {
       "id": "pantypon.elin-rose-gold-raincoat",
@@ -4651,7 +4703,8 @@
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20Rose%20Gold%20Raincoat/Rose%20Gold%20Model.png",
       "target_object_path": "PC_Event_42A.Tex.PC_Event_42A_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoGAAwAAwBSJQBdgB6SfSWKAAD+rbm0Tg5KpnPD1hlnJazoN6ZRQO0d+dRUQ8aEUjKmWQRhT6bDM6cAAAA="
     },
     {
       "id": "pantypon.elin-english-lavender-raincoat",
@@ -4676,7 +4729,8 @@
       "featured_image": "https://raw.githubusercontent.com/pantypon/tera-client-mods/master/Elin%20English%20Lavender%20Raincoat/English%20Lavender%20Model.png",
       "target_object_path": "PC_Event_42A.Tex.PC_Event_42A_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoGAAwAAwBSJYwC7AEOZcRLgAD2POLVN+iDU7Ym6HO8MZ7wccFkZJeAklqagl7QjUqlT+EAAAA="
     },
     {
       "id": "pantypon.pink-picnic-dress",
@@ -4698,7 +4752,7 @@
       "updated_at": "2026-05-01T23:00:00Z",
       "tagline": "pantys-mods",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_0.webp",
       "target_object_path": "PC_Event_46.Tex.PC_Event_46_Popori_F_cstm",
       "compatible_arch": "x64",
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
@@ -4707,7 +4761,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_3.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADQAQCdASoMAAcAAwBSJZQC7ADdhJtTcAD+0mZHaJdrRWzXWfhfR4F6fAxN++6mQPbZNRfxw8TIJ5L/ORX4rSM7yANMQAAA"
     },
     {
       "id": "taylorswiftmodding.bear-animal-mask",
@@ -4732,7 +4787,8 @@
       "featured_image": "https://i.gyazo.com/719877c582014af1b3cbe3cea025657c.jpg",
       "target_object_path": "Acc_388.Skel.Attach_388_Skel",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoMAAsAAwBSJbACdADcog7mZUUAAP7AaoKj+P1W2Cp8Y6Q96yG2u0c5zBfxTjttLsDvTR1S8MJiaMDGAEWOcPeWqGo9fXudB4iKSTOeLLgAAA=="
     },
     {
       "id": "taylorswiftmodding.happy-kitty-mask",
@@ -4757,7 +4813,8 @@
       "featured_image": "https://i.gyazo.com/5441da094b39a707955cc173fd43be68.jpg",
       "target_object_path": "Acc_388.Skel.Attach_388_Skel",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoKAAwAAwBSJZACdADdf24qgAD+3fqNhUcegQo3BCxJBIxtJpbm+acTkXIndzpmtQrkhndnSEPeSR+r12w6DLBFyCNXrZiYY3eDWJvOAAA="
     },
     {
       "id": "taylorswiftmodding.bunny-chu-mount",
@@ -4809,7 +4866,8 @@
       "featured_image": "https://i.gyazo.com/8ac77bf3f8823bf13b89e1c808f4ed8b.jpg",
       "target_object_path": "Vehicle_Dragon.Skel.Vehicle_Dragon_E_Skel",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoMAAgAAwBSJbACdADbpBf+CgAA/okXP3r+1mGp4TFKvdmdtYQ4M8Lfki7267nB/4oan4RAFRk2n604RGB16JCVs8yCSMS0fne317kcAAA="
     },
     {
       "id": "taylorswiftmodding.bunny-coco",
@@ -4834,7 +4892,8 @@
       "featured_image": "https://i.gyazo.com/2bda1efb5849835daa530012a07bb308.png",
       "target_object_path": "Partner_C_CoCo_Event00.Skel.Partner_C_CoCo_Event01_Skel",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABQAgCdASoMAAoAAwBSJagCdLoAAzd77w44YAAA/uo4gsgwzpyGB5d72hBvULs/ZG+giczs9lMpbyQTtThHN/IyK5neF94iH6AAwAAA"
     },
     {
       "id": "taylorswiftmodding.hanbok-bubblegum-princess",
@@ -4859,7 +4918,8 @@
       "featured_image": "https://i.gyazo.com/f95333b9a5ecba482b51fbd1e92e6a4e.png",
       "target_object_path": "PC_Event_27A.Tex.PC_Event_27A_Popori_F_Dye_C_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADwAQCdASoIAAwAAwBSJbACdAD0UC346EgA+4dZ7FSbPDMcoMtYQruciwj1IDu9sTET+5CnIH4W/j3cuV33u0o4iBIwAA=="
     },
     {
       "id": "taylorswiftmodding.peaches-and-jeans",
@@ -4884,7 +4944,8 @@
       "featured_image": "https://i.gyazo.com/a547ad1538e2a34fdb87acb80ff94a7c.jpg",
       "target_object_path": "PC_Event_53.Tex.PC_Event_53_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoMAAgAAwBSJbACdADbbZEumADid4IlwtFH1zq7ax13T3Aew4jr9/ahRun8ERIAGhuGKkJk1PjkKk/iebBh/ypt+qU7Mp3Yd6XO6aEAAAA="
     },
     {
       "id": "taylorswiftmodding.pikachu-raincoat",
@@ -4909,7 +4970,8 @@
       "featured_image": "https://i.gyazo.com/de4985524a07e59ad02368dddfab6c3b.png",
       "target_object_path": "PC_Event_42A.Tex.PC_Event_42A_Popori_F_spec",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoJAAwAAwBSJZQAAudhJ+rL4AD+815X8hHeQE3Wzmdpm2NsLLweaCH4zkOlk5trAiCaVk9AAAA="
     },
     {
       "id": "taylorswiftmodding.i-can-haz-backpack",
@@ -4934,7 +4996,8 @@
       "featured_image": "https://i.gyazo.com/d52f456c0b1cca853a7fa061d0065bf6.png",
       "target_object_path": "Acc_133.Skel.Attach_133_Skel",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAACwAQCdASoIAAwAAwBSJbACdADzMKLAAP3jUc4R8nhunG9wpws9v2n1dVN6JE6D4uKou972ULsHFLl9nlwD2ej8K383HVb5AAA="
     },
     {
       "id": "taylorswiftmodding.maria-maria",
@@ -4959,7 +5022,8 @@
       "featured_image": "https://i.gyazo.com/eddf85c2aec0280729b7bf215543a00b.png",
       "target_object_path": "Partner_A_Rumi_F_Event00.Skel.Partner_A_Rumi_F_Event00_skel",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoMAAsAAwBSJbACdH8AE7O6ukAAAPwbZ8YEGOS0TzwOZ06LpOBLe/cEHms1aat+jeIGxwKJe2x5shYBO+1fNwjDdZxLa5sdFFr4kJIQAAA="
     },
     {
       "id": "taylorswiftmodding.pinky-kun",
@@ -4984,7 +5048,8 @@
       "featured_image": "https://i.gyazo.com/c24c8805b32deefebcc5c0fee87a1e31.png",
       "target_object_path": "Partner_B_KunKun_Event00.Skel.Partner_B_KunKun_Event00_Skel",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoIAAwAAwBSJbACdADAGIwAAPXdUOwGDG/QESohfeCLKf7HhWIGfIQQ3Qc/lSX9FB78BlCGWcXGLAcAAAA="
     },
     {
       "id": "taylorswiftmodding.blacker-bow",
@@ -5042,7 +5107,8 @@
       "compatibility_notes": "Targets Icon_System package whose primary object in v100 is ArenaMonster_0; foglio's modded GPK doesn't have a matching export.",
       "updated_at": "2026-05-02T01:00:00Z",
       "deploy_strategy": "dropin",
-      "target_dropin_filename": "Icon_System.gpk"
+      "target_dropin_filename": "Icon_System.gpk",
+      "blur_data": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoMAAgAAwBSJbACdADdhtlDNgAA/Zy7oR8HBz/Z7E4z1MFClva6Lt4pRdm424OpT5wn9vP8oZMmuw5cJ3n+QcIczuiTaJoHskd1VkGJXgAAAA=="
     },
     {
       "id": "pantypon.hana-reward-tier",
@@ -5064,7 +5130,7 @@
       "gpk_files": [
         "S1UI_Benefit.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5076,7 +5142,8 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAABwAQCdASoMAAYAAwBSJQBOgBB6oAD+nufVkiJ0awDcwpt5NnrrLSIQcptyuAAA"
     },
     {
       "id": "pantypon.pink-boss-hp-bar",
@@ -5098,7 +5165,7 @@
       "gpk_files": [
         "S1UI_GageBoss.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_0.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5110,7 +5177,8 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_0.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAADQAQCdASoMAAIAAwBSJZACw7EVzze0AAD+dYVV0JAWM/Wr/ZxAAA=="
     },
     {
       "id": "pantypon.pink-chat-window",
@@ -5132,7 +5200,7 @@
       "gpk_files": [
         "S1UI_Chat2.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5144,7 +5212,8 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAQCdASoMAAUAAwBSJQBdgB5vNRYAAPhTu/UQUrPk/VnpwAA="
     },
     {
       "id": "pantypon.pink-controller-ui",
@@ -5166,7 +5235,7 @@
       "gpk_files": [
         "S1UI_GameControllerShortCut.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-controller-ui/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-controller-ui/shot_0.webp",
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-controller-ui/shot_0.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-controller-ui/shot_1.webp",
@@ -5180,7 +5249,8 @@
       "target_object_path": "S1UI_GameControllerShortCut.GameControllerShortCut",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABwAQCdASoMAAcAAwBSJZQCdAFAAAD+7I3ZrQsXgc1u/9aZLZzbM5LFV82JgJ1bSZaoXKAA"
     },
     {
       "id": "pantypon.pink-heart-hp-mp",
@@ -5211,7 +5281,8 @@
       "target_object_path": "S1UI_CharacterWindow.CharacterWindow",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAACwAQCdASoMAAIAAwBSJZwCw7EO/gLsAP7unBJSKVtKekAA"
     },
     {
       "id": "pantypon.pink-hearts-crosshair",
@@ -5233,7 +5304,7 @@
       "gpk_files": [
         "S1UI_Crosshair.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_0.webp",
       "tags": [
         "classic-era",
         "ui",
@@ -5248,7 +5319,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_3.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAwAgCdASoMAAsAAwBSJbACdLoAAwkShkVmkAD+3rj8g9MK+V71WuzsYfd+LAAInkyyKeAA"
     },
     {
       "id": "pantypon.pink-party-member-hp-bar",
@@ -5279,7 +5351,8 @@
       "target_object_path": "S1UI_GageMonsterHp.GageMonsterHp",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAkAAwBSJaACdADch+fl0AD+h7a9ZKYcVmrWJgew0MFb7Ir0naM27S77pz7SEyeVq81BsxDjFvkAAAA="
     },
     {
       "id": "pantypon.pink-skill-slots-main",
@@ -5310,7 +5383,8 @@
       "target_object_path": "S1UI_TestQuickSlot.TestQuickSlot",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA="
     },
     {
       "id": "pantypon.pink-skill-slots-ex",
@@ -5341,7 +5415,8 @@
       "target_object_path": "S1UI_TestQuickSlotEx.TestQuickSlotEx",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA="
     },
     {
       "id": "pantypon.pink-skill-slots-ex2",
@@ -5372,7 +5447,8 @@
       "target_object_path": "S1UI_TestQuickSlotEx2.TestQuickSlotEx2",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoMAAMAAwBSJZACdADczH3AAP6iZovOyb6mTwHQGHD7NuIBmwPGp5EgAAA="
     },
     {
       "id": "pantypon.static-heart-crosshair",
@@ -5406,7 +5482,8 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_2.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACQAQCdASoMAAoAAwBSJZwAAuUt8gAA/vd5+78ONqkIVZLwAAA="
     },
     {
       "id": "pantypon.yunicorn-defense-pop-up",
@@ -5437,7 +5514,8 @@
       "target_object_path": "S1UI_Message.Message",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoIAAwAAwBSJbACdAD0PPEReAAA/k9Tw8NXikYgeHwLNw303qD8yhpuwLdf/2SwS0mvPZPLB0XKM/1tqSm+MJ0GwS3AAA=="
     },
     {
       "id": "pantypon.archer-pink-slingshot",
@@ -5459,7 +5537,7 @@
       "gpk_files": [
         "PC_Weapons_Event.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.archer-pink-slingshot/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.archer-pink-slingshot/shot_0.webp",
       "tags": [
         "classic-era",
         "weapon",
@@ -5474,7 +5552,8 @@
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.archer-pink-slingshot/shot_1.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.archer-pink-slingshot/shot_2.webp",
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.archer-pink-slingshot/shot_3.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABQAgCdASoMAAoAAwBSJaACxC8AGOFbm7jKNgAA/uRfMB9nC1zAAJNY3/UtZKvz0Og5L81j4EVq8G0I5mCm8mdO2baU+LsMsKLZSUS4AAA="
     },
     {
       "id": "pantypon.berserker-dessert-fork",
@@ -5505,7 +5584,8 @@
       "target_object_path": "PC_Weapons_Event04.Tex.TwoHand04_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAABwAQCdASoJAAwAAwBSJZQAAk5gAAD+3NufrKyR7JxaTMlzU3bbxWl7+Lcy4l7aVwKyOO/RpnZujkaAAAA="
     },
     {
       "id": "pantypon.multiclass-just-plasma",
@@ -5536,7 +5616,8 @@
       "target_object_path": "PC_Weapons_Event16.Tex.TwoHand16_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoIAAwAAwBSJYgCdADzgvsFJgAAzI4xTuQFLDdb/5fMO/CeJvP56dZDN1m/zytx9LnFVF6mYCYA0iJ+7EYtXgeOPcAeR+2UK8LqQAAA"
     },
     {
       "id": "pantypon.mystic-iceglow-rod",
@@ -5567,7 +5648,8 @@
       "target_object_path": "PC_Weapons_Event03.Tex.TwoHand03_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoJAAwAAwBSJZQAD43tapuQzsogAP7vjWNOOJz9xkR0/DFs/7LmoRvjNAgM43tJTDu41dU6/AlWBkjJ8F6h20O+ilbDhsgA"
     },
     {
       "id": "pantypon.mystic-ninja-oni-removal",
@@ -5598,7 +5680,8 @@
       "target_object_path": "PC_Weapons_Event07.Tex.TwoHand07_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoMAAoAAwBSJagCdADdr0ToMOoAAP7KPlofK8Op7KM34ZET6vsGl8Nh0HjQMwtqf16yXxbpY+Ev36PiYPlB7e6XfgYyaCpXDWwZl31fyKiIvzzD9Er3Xvj4M4AAAA=="
     },
     {
       "id": "pantypon.mystic-pale-pink-princess-wand",
@@ -5629,7 +5712,8 @@
       "target_object_path": "PC_Weapons_Event.Tex.Silver.R_Event_Season_Dual_01_spec_Silver",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAgAAwBSJbACdADblOkvQAD+7lipc5JMe7f28w5GM5gc2gqP9QKCq2w2PuraYO+z+XXOZ2EK0tc8wigAAA=="
     },
     {
       "id": "pantypon.mystic-strawberry-nuthatch",
@@ -5651,7 +5735,7 @@
       "gpk_files": [
         "PC_Weapons_Event09.gpk"
       ],
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-strawberry-nuthatch/shot_0.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-strawberry-nuthatch/shot_0.webp",
       "tags": [
         "classic-era",
         "weapon",
@@ -5663,7 +5747,8 @@
       "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
       "screenshots": [
         "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-strawberry-nuthatch/shot_0.webp"
-      ]
+      ],
+      "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoMAAYAAwBSJQBOj+ACdGeroAAAziOtb/kHOi7vdN1wxrAz8jm5vTnhX58VGuKaqoGDAAAA"
     },
     {
       "id": "pantypon.ninja-pink-prop-fan",
@@ -5694,7 +5779,8 @@
       "target_object_path": "PC_Weapons_Event.Tex.Silver.R_Event_Season_Dual_01_spec_Silver",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAAAQAgCdASoMAAwAAwBSJYgCdADLz3QXBw3gAP6oW9h8+l92cQvUXODg2f3IbVMFNRUt0/e58xP65iF7TnEoGHTbFkSdxqXOgAA="
     },
     {
       "id": "pantypon.priest-iceglow-staff",
@@ -5725,7 +5811,8 @@
       "target_object_path": "PC_Weapons_Event03.Tex.TwoHand03_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoGAAwAAwBSJYwCdADzgC+BAAAA9r5hhxCrwpEo6WtXrDQclwnC5C34KjC+m1hDsmj9lIAA"
     },
     {
       "id": "pantypon.sorcerer-gloomy-bear-patches",
@@ -5756,7 +5843,8 @@
       "target_object_path": "PC_Weapons_Event.Tex.Silver.R_Event_Season_Dual_01_spec_Silver",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoMAAwAAwBSJQBOj+ACzmh7L8ygAP2PMjA+Vr4sTpWOFLJCjx+lXJO3UW/nfntyP0OOR5EutSvVLbKdqLoVODbmhyMTsAAA"
     },
     {
       "id": "pantypon.awakened-battle-bunny-gunner-mech",
@@ -5787,7 +5875,8 @@
       "target_object_path": "Awaken_Booster.Skel.Awaken_Booster_Skel",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAwAAwBSJbACdADdsL6zrAAA/Z1CAXBAIFAsH5eCehisNhF/fdQNCcKvCVBUioi+DGBygtyh2bzwhhOUNfhC+niB72kjKAAAAA=="
     },
     {
       "id": "pantypon.castanic-female-pink-horns-hair",
@@ -5818,7 +5907,8 @@
       "target_object_path": "Castanic_F_Head.Tex.17.Castanic_F_Hair17_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoMAAwAAwBSJaACdAEPCqXTUGkAAP7t4ZLcTMIrpPKbXYuAubS75sUmu/CsQnUUxtq9RRLSzKxZVchAy0//lbJgMXfAEGErnRIAAA=="
     },
     {
       "id": "pantypon.elin-brighter-new-hairstyles",
@@ -5849,7 +5939,8 @@
       "target_object_path": "popori_F_Head_E.Tex.07.popori_F_Hair07_E_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAwAgCdASoMAAwAAwBSJZwAD4Ww4wVh+O1rgAD+hWuj8SEB0Z/bxN0wHR9+IC8QsUAknvbypcordWUJvjNzTkUT0K4xZEBv/aZgVfgrPZUfLchZ/2q0fYk+r+qNrBDsADvcQcAA"
     },
     {
       "id": "pantypon.elin-matching-ears-and-tails",
@@ -5880,7 +5971,8 @@
       "target_object_path": "Popori_F_Head.Tex.14.Popori_F_Tail14_spec",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAQCdASoLAAwAAwBSJZQCsAEXZBBXHjAA/vkUd+4pO/0iDAPukVZuyy78Og1blZARrr0nk+/ik/04Y/6c/9Z7vSu1PAAA"
     },
     {
       "id": "pantypon.elin-prettier-skin",
@@ -5911,7 +6003,8 @@
       "compatibility_notes": "Targets Event_BaseBody package which doesn't exist in v100 PkgMapper.",
       "updated_at": "2026-05-02T01:00:00Z",
       "deploy_strategy": "dropin",
-      "target_dropin_filename": "Event_BaseBody.patched.gpk"
+      "target_dropin_filename": "Event_BaseBody.patched.gpk",
+      "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAkAAwBSJYgCdADcP3wPIvAA/q3wwpHwAjv9tB4soPm+XHGMQ4zA90yA5cEGSVTM47voBrJ3wwTUPP7dJ7KASpxogwNofLAAAA=="
     },
     {
       "id": "pantypon.fairy-stump-mount",
@@ -5942,7 +6035,8 @@
       "target_object_path": "Vehicle_Beetle.Skel.Vehicle_Beetle_C_Skel",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoKAAwAAwBSJagCdAEO3uyhcGAAAP7O5sgP6bJc9SzsQslwEph5mu7g5jmHZEN8ZpQPuHIA5zw5f0pitnZoaBAATjcAFFF1WIzFXjEAAAA="
     },
     {
       "id": "pantypon.flying-pink-cushion-mount",
@@ -5973,7 +6067,8 @@
       "target_object_path": "Vehicle_Carpet.Skel.Vehicle_Carpet_Skel",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoIAAwAAwBSJZQCsAD0PyYRA4AA/tKi/udEW1lTshLK8KEEyl/9UxhggGJkN9aQzO9Y/BwOE3wiIuKO6t/Y+XxGSMEAAA=="
     },
     {
       "id": "pantypon.pink-fishing-float",
@@ -6004,7 +6099,8 @@
       "target_object_path": "Fishing_Float.Skel.Fishing_Float_Skel",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoJAAwAAwBSJaACdACkILE7PAAA/peEP3tmzg09zDRdi2M/nQUs7LD1UaXk35CefuRr1ltGiroAAA=="
     },
     {
       "id": "pantypon.pink-fishing-rod",
@@ -6035,7 +6131,8 @@
       "target_object_path": "Fishing_Flyrod.Skel.FishingRod_D_Skel",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoJAAwAAwBSJaACdACkILE7PAAA/peEP3tmzg09zDRdi2M/nQUs7LD1UaXk35CefuRr1ltGiroAAA=="
     },
     {
       "id": "pantypon.pink-royal-diamond-dragon-mount",
@@ -6066,7 +6163,8 @@
       "target_object_path": "Vehicle_Dragon.Skel.Vehicle_Dragon_E_Skel",
       "compatible_arch": "x64",
       "updated_at": "2026-05-01T23:00:00Z",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADwAQCdASoMAAgAAwBSJZgCdAEfURXm4AAA8qQygJ7hErqfcfrV80QIUhJT7YJ6tY2KTOpHDmaoYNhwAAA="
     },
     {
       "id": "foglio1024.modern-ui-community-window",
@@ -6087,7 +6185,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_CommunityWindow.gpk"
       ],
@@ -6096,7 +6194,8 @@
       ],
       "target_object_path": "S1UI_CommunityWindow.CommunityWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-ep-window",
@@ -6117,7 +6216,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T22:30:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_EpWindow.gpk"
       ],
@@ -6126,7 +6225,8 @@
       ],
       "compatible_arch": "x64",
       "target_object_path": "S1UI_EpWindow.EpWindow",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-equipment-combine",
@@ -6147,7 +6247,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_EquipmentCombine.gpk"
       ],
@@ -6156,7 +6256,8 @@
       ],
       "target_object_path": "S1UI_EquipmentCombine.EquipmentCombine",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-equipment-upgrade",
@@ -6177,7 +6278,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_EquipmentUpgrade.gpk"
       ],
@@ -6186,7 +6287,8 @@
       ],
       "target_object_path": "S1UI_EquipmentUpgrade.EquipmentUpgrade",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-guild-window",
@@ -6207,7 +6309,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_GuildWindow.gpk"
       ],
@@ -6216,7 +6318,8 @@
       ],
       "target_object_path": "S1UI_GuildWindow.GuildWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-interaction-popup",
@@ -6237,7 +6340,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_InteractionPopup.gpk"
       ],
@@ -6246,7 +6349,8 @@
       ],
       "target_object_path": "S1UI_InteractionPopup.InteractionPopup",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-minimap",
@@ -6267,7 +6371,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_MiniMap.gpk"
       ],
@@ -6276,7 +6380,8 @@
       ],
       "target_object_path": "S1UI_MiniMap.MiniMap",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-parcel-post-log",
@@ -6297,7 +6402,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_ParcelPostLog.gpk"
       ],
@@ -6306,7 +6411,8 @@
       ],
       "target_object_path": "S1UI_ParcelPostLog.ParcelPostLog",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-production-create",
@@ -6327,7 +6433,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_ProductionCreatePopUp.gpk"
       ],
@@ -6336,7 +6442,8 @@
       ],
       "target_object_path": "S1UI_ProductionCreatePopUp.ProductionCreatePopUp",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-production-list",
@@ -6357,7 +6464,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_ProductionList.gpk"
       ],
@@ -6366,7 +6473,8 @@
       ],
       "target_object_path": "S1UI_ProductionList.ProductionList",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-servant-storage",
@@ -6387,7 +6495,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_ServantStorageWindow.gpk"
       ],
@@ -6396,7 +6504,8 @@
       ],
       "target_object_path": "S1UI_ServantStorageWindow.ServantStorageWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-store-window",
@@ -6417,7 +6526,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_StoreWindow.gpk"
       ],
@@ -6426,7 +6535,8 @@
       ],
       "target_object_path": "S1UI_StoreWindow.StoreWindow",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-system-option",
@@ -6447,7 +6557,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_SystemOption.gpk"
       ],
@@ -6456,7 +6566,8 @@
       ],
       "target_object_path": "S1UI_SystemOption.SystemOption",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "foglio1024.modern-ui-trade-popup",
@@ -6477,7 +6588,7 @@
       "composite_flag": true,
       "updated_at": "2026-05-01T23:00:00Z",
       "last_verified_patch": "patch 100",
-      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.png",
+      "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/cover.webp",
       "gpk_files": [
         "S1UI_TradePopup.gpk"
       ],
@@ -6486,7 +6597,8 @@
       ],
       "target_object_path": "S1UI_TradePopup.TradePopup",
       "compatible_arch": "x64",
-      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended."
+      "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
+      "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAAAQAgCdASoMAAwAAwBSJZQCw7Ef/qwfoa4AAP7tLmv6rP6Gt7GwWNPYHJSt5gA7PFe3kYFgAAA="
     },
     {
       "id": "saltymonkey.instant-join-tba-mode",
