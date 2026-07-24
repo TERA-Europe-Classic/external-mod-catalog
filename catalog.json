@@ -1,5 +1,5 @@
 {
- "version": 134,
+ "version": 135,
  "updated_at": "2026-07-24T00:00:00Z",
  "mods": [
   {
@@ -2582,7 +2582,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/psina.gage-monster-hp/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_GageMonsterHp.gpk"
+   ]
   },
   {
    "id": "neowutran.s1ui-chat2",
@@ -2627,7 +2630,10 @@
      "loose_vanilla_sha256": "bfadf44e501b55649272076c861631009190e8c615ed8ec079563c17259b03e8"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_Chat2.gpk"
+   ]
   },
   {
    "id": "saltymonkey.message-centered",
@@ -2672,7 +2678,10 @@
      "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_Message.gpk"
+   ]
   },
   {
    "id": "saltymonkey.overlaymap-fixed",
@@ -2717,7 +2726,10 @@
      "loose_vanilla_sha256": "8438ca5c7f8d66d65993ced6847f9c9b1df4ddcd679e35e7e0426ff665d105e2"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_OverlayMap2.gpk"
+   ]
   },
   {
    "id": "saltymonkey.gageboss-extended",
@@ -2762,7 +2774,10 @@
      "loose_vanilla_sha256": "79cb184c155b4732f1d4362e68500ee39541091e576bae5ec188c118423ac6f7"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_GageBoss.gpk"
+   ]
   },
   {
    "id": "teralove.partywindowraidinfo",
@@ -2896,7 +2911,10 @@
      "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_CommunityWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-ep-window",
@@ -2936,7 +2954,10 @@
      "loose_vanilla_sha256": "26241b7871e10a6406e98ccc144e3d2b0ee590ce84c7d1f2c18405130ad537e1"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_EpWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-equipment-combine",
@@ -2976,7 +2997,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-combine/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_EquipmentCombine.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-equipment-upgrade",
@@ -3016,7 +3040,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-upgrade/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_EquipmentUpgrade.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-guild-window",
@@ -3056,7 +3083,10 @@
      "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_GuildWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-interaction-popup",
@@ -3096,7 +3126,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-interaction-popup/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_InteractionPopup.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-inventory",
@@ -3136,7 +3169,10 @@
      "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_InventoryWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-minimap",
@@ -3176,7 +3212,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-minimap/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_MiniMap.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-parcelpost",
@@ -3216,7 +3255,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-parcelpost/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_ParcelPostLog.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-production-create",
@@ -3256,7 +3298,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-create/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_ProductionCreatePopUp.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-production-list",
@@ -3296,7 +3341,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-list/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_ProductionList.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-skill-window",
@@ -3336,7 +3384,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-skill-window/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_SkillWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-store-window",
@@ -3376,7 +3427,10 @@
      "loose_vanilla_sha256": "dcd396150dbfa0374f4295c8ed9aebb57b82d2c5ebf062d56f0a0d9d7ca100a2"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_StoreWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-system-option",
@@ -3416,7 +3470,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-system-option/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_SystemOption.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-quickslot",
@@ -3456,7 +3513,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-quickslot/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_TestQuickSlot.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-trade-popup",
@@ -3496,7 +3556,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-trade-popup/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_TradePopup.gpk"
+   ]
   },
   {
    "id": "foglio1024.restyle-warehouse",
@@ -3536,7 +3599,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-warehouse/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_WareHouseWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-jewels-fix-inventory",
@@ -3575,7 +3641,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-inventory/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_InventoryWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-jewels-fix-icons",
@@ -3603,7 +3672,10 @@
    "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQABAAAsBMJYwCdAEO9vy6KpQAAP7CtRil97BbGUU4Ytr9JMw1QbYrc7Rk5hFai/NFSkDyeMgAAA==",
    "replaces": "Replaces jewelry item icons (Icon composite objects) to match the Modern UI restyle. Check: ring/earring/necklace icons in inventory.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-icons/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Icon_Items.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-bosswindow",
@@ -3643,7 +3715,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-bosswindow/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_GageBoss.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-targetinfo",
@@ -3683,7 +3758,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-targetinfo/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_TargetInfo.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-buffs",
@@ -3723,7 +3801,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-buffs/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_Abnormality.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-flight-gauge",
@@ -3763,7 +3844,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-flight-gauge/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_ProgressBar.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-lfg-board",
@@ -3803,7 +3887,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-board/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_PartyBoard.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-lfg-member",
@@ -3843,7 +3930,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-member/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_PartyBoardMemberInfo.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-party-window",
@@ -3883,7 +3973,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-party-window/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_PartyWindow.gpk"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-raid-window",
@@ -3923,7 +4016,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-raid-window/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_PartyWindowRaidInfo.gpk"
+   ]
   },
   {
    "id": "foglio1024.toolbox-gagebar-topscreen",
@@ -3962,7 +4058,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.toolbox-gagebar-topscreen/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_GageBar.gpk"
+   ]
   },
   {
    "id": "foglio1024.badgui-loader",
@@ -4002,7 +4101,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.badgui-loader/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_UpdateNotification.gpk"
+   ]
   },
   {
    "id": "foglio1024.s1ui-chat2-p75",
@@ -4041,7 +4143,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.s1ui-chat2-p75/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_Chat2.gpk"
+   ]
   },
   {
    "id": "taorelia.restyle-community",
@@ -4081,7 +4186,10 @@
      "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_CommunityWindow.gpk"
+   ]
   },
   {
    "id": "taorelia.restyle-guild",
@@ -4121,7 +4229,10 @@
      "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_GuildWindow.gpk"
+   ]
   },
   {
    "id": "taorelia.restyle-inventory",
@@ -4161,7 +4272,10 @@
      "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_InventoryWindow.gpk"
+   ]
   },
   {
    "id": "taorelia.restyle-warehouse",
@@ -4201,7 +4315,10 @@
      "loose_vanilla_sha256": "023fe048e426da2f232fc9c9c4f80491e2d80ff21f7486e69f872c1efc3158e2"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_WareHouseWindow.gpk"
+   ]
   },
   {
    "id": "taorelia.restyle-interaction-popup",
@@ -4241,7 +4358,10 @@
      "loose_vanilla_sha256": "74732f2c3226d984975320fd150f36ed54dedf2279aecb8d38c22729035bf7c0"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_InteractionPopup.gpk"
+   ]
   },
   {
    "id": "taorelia.restyle-production-create",
@@ -4281,7 +4401,10 @@
      "loose_vanilla_sha256": "48318ba2b9f141af267e84d83231a274907aa7d5f9cb07f2fc11cf15eee6c7ad"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_ProductionCreatePopUp.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-postprocess",
@@ -4315,7 +4438,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-postprocess/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkAAsBMJYwAAueAOK9agAD++Gf3c4BmTSxEmb6/uV/8K+2ywXIAAAA=",
    "replaces": "Replaces the global PostProcess chain with a stripped version (bloom/blur effects off) for FPS. Check: overall image after a zone reload.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PostProcess.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-enchant",
@@ -4349,7 +4475,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-enchant/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAkAAsBMJYwAAueAOK92AAD++Gf3c4BmTSxD8PWdAe2ywXIAAA==",
    "replaces": "Removes enchant-glow visual effects from weapons for FPS. Check: +12/+15 weapon glow gone.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Enchant.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-archer",
@@ -4383,7 +4512,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-archer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
    "replaces": "Removes/simplifies awakened skill visual effects for Archer (FX package) for FPS. Check: cast awakened skills on Archer — effects are minimal.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Awaken_Archer.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-berserker",
@@ -4417,7 +4549,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-berserker/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
    "replaces": "Removes/simplifies awakened skill visual effects for Berserker (FX package) for FPS. Check: cast awakened skills on Berserker — effects are minimal.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Awaken_Berserker.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-sorcerer",
@@ -4451,7 +4586,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-sorcerer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
    "replaces": "Removes/simplifies awakened skill visual effects for Sorcerer (FX package) for FPS. Check: cast awakened skills on Sorcerer — effects are minimal.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Awaken_Sorcerer.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-priest",
@@ -4485,7 +4623,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-priest/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
    "replaces": "Removes/simplifies awakened skill visual effects for Priest (FX package) for FPS. Check: cast awakened skills on Priest — effects are minimal.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Awaken_Priest.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-lancer",
@@ -4519,7 +4660,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-lancer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
    "replaces": "Removes/simplifies awakened skill visual effects for Lancer (FX package) for FPS. Check: cast awakened skills on Lancer — effects are minimal.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Awaken_Lancer.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-slayer",
@@ -4553,7 +4697,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-slayer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
    "replaces": "Removes/simplifies awakened skill visual effects for Slayer (FX package) for FPS. Check: cast awakened skills on Slayer — effects are minimal.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Awaken_Slayer.gpk"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-warrior",
@@ -4587,7 +4734,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-warrior/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
    "replaces": "Removes/simplifies awakened skill visual effects for Warrior (FX package) for FPS. Check: cast awakened skills on Warrior — effects are minimal.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "FX_Awaken_Warrior.gpk"
+   ]
   },
   {
    "id": "catannadev.pink-crosshair",
@@ -4632,7 +4782,10 @@
      "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_Crosshair.gpk"
+   ]
   },
   {
    "id": "catannadev.red-crosshair",
@@ -4678,7 +4831,10 @@
      "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_Crosshair.gpk"
+   ]
   },
   {
    "id": "catannadev.pink-loading-progress",
@@ -4723,7 +4879,10 @@
      "loose_vanilla_sha256": "9600a0521816181c08877bf5ef1f638b5920389167b52cbbd2f332ab998fcf8d"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_LoadingProgress.gpk"
+   ]
   },
   {
    "id": "catannadev.red-loading-progress",
@@ -4768,7 +4927,10 @@
      "loose_vanilla_sha256": "9600a0521816181c08877bf5ef1f638b5920389167b52cbbd2f332ab998fcf8d"
     }
    ],
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_LoadingProgress.gpk"
+   ]
   },
   {
    "id": "teralove.remove-artisan-icons",
@@ -4802,7 +4964,10 @@
    "target_dropin_filename": "Icon_System.gpk",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoQAAQAAsBMJQBOgB7A4ZGwwAD+9dNfOvskcL26V1t/8yeDZ2593O3v6lR3Mvyu3h3u7FeLRSrr84PRcMfiCOQwEoAAAA==",
    "replaces": "Removes the artisan/masterwork overlay markers from item icons. Check: crafted item icons in inventory.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/teralove.remove-artisan-icons/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/teralove.remove-artisan-icons/thumb.webp",
+   "gpk_files": [
+    "Icon_System.gpk"
+   ]
   },
   {
    "id": "merusira.atlas-clean-onscreen-messages",
@@ -4842,7 +5007,10 @@
     }
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/merusira.atlas-clean-onscreen-messages/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "S1UI_Message.gpk"
+   ]
   },
   {
    "id": "pantypon.cheerleader-shorts",
@@ -4875,7 +5043,10 @@
    ],
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADQAQCdASoKABAAAsBMJQBOgBuJVvJsgAD9U/34QjsifvGq/tpX9KZBhrwHzgBNPUQhtOfPzKRQWhcm9O3oKUUJRnxUDcaZKFdQAA==",
    "replaces": "Replaces the PC_Event_29 costume family (Elin variant) — items such as Cheerleader Outfit (Elin) (#151676); Dyeable Cheerleader Outfit (Elin) (#151688); Cheerleader Dress (Elin) (#151700). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cheerleader-shorts/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cheerleader-shorts/thumb.webp",
+   "gpk_files": [
+    "PC_Event_29.gpk"
+   ]
   },
   {
    "id": "pantypon.elin-black-business-suit",
@@ -4909,6 +5080,9 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_2.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_3.webp"
+   ],
+   "gpk_files": [
+    "PC_Event_14.gpk"
    ]
   },
   {
@@ -5013,7 +5187,10 @@
    ],
    "blur_data": "data:image/webp;base64,UklGRjIAAABXRUJQVlA4ICYAAABwAQCdASoQAAMAAsBMJYwCdAFAAAD+8gqVQkDtr4/JWtWk0coAAA==",
    "replaces": "Replaces the PC_Event_38 costume family (Human female variant) — items such as Sky Blue Academy Uniform (Human Female) (#154607); Anthracite Academy Uniform (Human Female) (#154610); Coral Red Academy Uniform (Human Female) (#154613). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-pora-elinu-uniform/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-pora-elinu-uniform/thumb.webp",
+   "gpk_files": [
+    "PC_Event_38.gpk"
+   ]
   },
   {
    "id": "pantypon.red-miko-costume",
@@ -5044,7 +5221,10 @@
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.red-miko-costume/shot_0.webp"
    ],
-   "replaces": "Replaces the PC_Event_36 costume family (Elin variant) — items such as Ruby Snow Blossom Hanbok (Human Female) (#153354); Golden Frost Blossom Hanbok (Human Female) (#153357); Sable Ice Blossom Hanbok (Human Female) (#153360). Check: preview/wear one of those items."
+   "replaces": "Replaces the PC_Event_36 costume family (Elin variant) — items such as Ruby Snow Blossom Hanbok (Human Female) (#153354); Golden Frost Blossom Hanbok (Human Female) (#153357); Sable Ice Blossom Hanbok (Human Female) (#153360). Check: preview/wear one of those items.",
+   "gpk_files": [
+    "PC_Event_36.gpk"
+   ]
   },
   {
    "id": "pantypon.white-castanica-demon",
@@ -5114,7 +5294,10 @@
    ],
    "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoQABAAAsBMJZQC7AEVskSLv/AA/rHSdROZpdNOPlNVlT5d+HB/W+g5WaQLXQ+22LVaglaivmgaDvdxinpcD+KefoM/wAAA",
    "replaces": "Replaces the PC_Event_68 costume family — items such as Wood Pixie Costume (Human Male) (#260372); Dyeable Pixie Costume (Human Male) (#260384); Wood Pixie Costume (Human Female) (#260396). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-pixie/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-pixie/thumb.webp",
+   "gpk_files": [
+    "PC_Event_68.gpk"
+   ]
   },
   {
    "id": "pantypon.better-dyeable-flight-suit",
@@ -5149,7 +5332,10 @@
    ],
    "blur_data": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwAQCdASoQAA4AAsBMJQBOgBl8DBMAAP70n+KE2w4ZahBL57gV92fk/MS5loxyaHe7CxbymS+mK0PrWeMhhiJr5geSFxKjJ+QtYJ6GpApefU2VtfhyiaZHc1D5RJRl+9ZiGy8utBMZ7iKAAAA=",
    "replaces": "Replaces the PC_Event_62 costume family — items such as IM39 Prototype (Human Male) (#99630); IM39 Prototype COLORSTORM (Human Male) (#99642); IM39 Prototype (Human Female) (#99654). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/thumb.webp",
+   "gpk_files": [
+    "PC_Event_62.gpk"
+   ]
   },
   {
    "id": "pantypon.castanic-sleepy-running-togs",
@@ -5180,6 +5366,9 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/thumb.webp",
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/shot_0.webp"
+   ],
+   "gpk_files": [
+    "PC_Event_03.gpk"
    ]
   },
   {
@@ -5209,7 +5398,10 @@
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwAgCdASoKABAAAsBMJZACdH8AGX97PgHvcawQAP5s2f9+ndLSq0KYHL4HUeBpZ6YkSSLdrnV9vlWpxNqVnqXz3ROgkzyo6BLSR5QFAAe67oKO5HGmgQnwiGEoyrAA",
    "replaces": "Replaces the PC_Event_09 costume family (Elin variant) — items such as School Uniform (Elin) (#131224); School Uniform A (Elin) (#131232); School Uniform A (Elin) (#131233). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.charcoal-eldritch-no-skirt/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PC_Event_09.gpk"
+   ]
   },
   {
    "id": "pantypon.elin-sugar-alice",
@@ -5238,7 +5430,10 @@
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAQCdASoQABAAAsBMJZwAAtfWNAAA/pEl4GKJF7ZonCZxbt9g5HqvKKNhK16n6r7nmHNT1JusZo58iwtiwwtz9e/39DFvJHYAAA==",
    "replaces": "Replaces the PC_Event_23A costume family (Elin variant) — items such as Clover-green Kobold Dress (Elin) (#262632); Clover-green Kobold Tailcoat (Human Male) (#262524); Clover-green Kobold Dress (Human Female) (#262536). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-sugar-alice/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PC_Event_23A.gpk"
+   ]
   },
   {
    "id": "pantypon.elin-rose-gold-raincoat",
@@ -5267,7 +5462,10 @@
    "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoIABAAAsBMJZQCdAEXtkUhvm7vgAD+0q8lJBvVyZ4c1PFR/vkrhgWnQ6yAgJOYAf4LSrCcLoV4Vjf/Ha+qaYta2bniDwUZ1Inock8AAAA=",
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Raincoat (#154850); Elin Dyeable Raincoat (#154853); Elin Summer Sprinkle Raincoat (#186519). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-rose-gold-raincoat/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PC_Event_42A.gpk"
+   ]
   },
   {
    "id": "pantypon.elin-english-lavender-raincoat",
@@ -5296,7 +5494,10 @@
    "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoHABAAAsBMJYwC7AD0mCsIg6w4APY+FUgML763CH1ckaGIW4/NLNw4sHUN6yjSYtZdrX2qwQZ1Yc36i6KiqFgA",
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Raincoat (#154850); Elin Dyeable Raincoat (#154853); Elin Summer Sprinkle Raincoat (#186519). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-english-lavender-raincoat/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PC_Event_42A.gpk"
+   ]
   },
   {
    "id": "pantypon.pink-picnic-dress",
@@ -5363,7 +5564,10 @@
    "blur_data": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoQAA8AAsBMJagCdACnCs0wMgAA/uRB0b2W61uRADEZOArjGHh01Hj4LybKE0sr6jPNZ6IyTj2fOe4NNd9kkWdORrADOYwl6kPA3r6cagxCKvwfG94kb7GuAx/UXB/z3AaiuLSZFMj+ai6vZcY9HJgA",
    "replaces": "Replaces the Acc_388 item family — items such as Shadow Hunter Leather Mask[Untradable] (#141385); Rogue's Mask (#183890); Shadow Hunter Leather Mask (#204415). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bear-animal-mask/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Acc_388.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.happy-kitty-mask",
@@ -5425,7 +5629,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bunny-chu-mount/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkAAsBMJYwAAudUR50AAP74UZD8SR+/3g9pAOyr1bZIGfPG6DAAAAA=",
    "replaces": "Replaces the gold 'Bunny in the Moon' mount model (Vehicle_BunnyInTheMoon_Gold). Check: summon that bunny mount.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Vehicle_BunnyInTheMoon.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.candied-dragon",
@@ -5454,7 +5661,10 @@
    "blur_data": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQAAoAAsBMJbACdACVEf+zxmAA/q0+gttu8zKtjl9FBwHEL+uEAOa85F2DMatgHpnMprXD6shkDuxZF48GvSsvooqhHBPJlAcnn1cjbvXeHWdW3nEUqe1sXk/uqPAA",
    "replaces": "Replaces the golden dragon flying mount model (Vehicle_Dragon variant E, e.g. from the Sunny Gold Dragon Box #138071). Check: summon the gold dragon.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.candied-dragon/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Vehicle_Dragon.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.bunny-coco",
@@ -5483,7 +5693,10 @@
    "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoQAA4AAsBMJbACdLoAAw53tblDjgAA/vKurW9VTD+rzVQbmGlFzoCcczo+zewLvErMNUgXqZ/YbxpmHkrvvueZN/i2MnClCXx1pI3eJ3VGuBira/mAAA==",
    "replaces": "Replaces the event skin of the partner (pet) CoCo (Partner_C_CoCo_Event00). Check: summon CoCo.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bunny-coco/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Partner_C_CoCo_Event00.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.hanbok-bubblegum-princess",
@@ -5512,7 +5725,10 @@
    "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoLABAAAsBMJbACdADdqagDlYBAAPJGwodzGZTEa4vfRJrlPRkqj99yCFphEuLzktdxzHNuUlcQ/qlzv9xS9T++lszAmcn8/UAMPvYD/SLawplRmEgAAA==",
    "replaces": "Replaces the PC_Event_27A costume family (Elin variant) — items such as Orchid Blossom Hanbok (Human Female) (#150774); Rose Blossom Hanbok (Human Female) (#150777); Hyacinth Blossom Hanbok (Human Female) (#150780). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.hanbok-bubblegum-princess/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PC_Event_27A.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.peaches-and-jeans",
@@ -5541,7 +5757,10 @@
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAQCdASoQAAoAAsBMJbACdAYtAjNUAAD2t6ZnRyc+TqDuJQe/zvjMXGalNXgyJz8xCRwZ68XT5e+z3/92+2F1iEHFUa4o2EylY3sztMehIGHTClzOAToSnyH8kJX1+4AAAA==",
    "replaces": "Replaces the PC_Event_53 costume family (Elin variant) — items such as Chambermaid's Dress (Elin) (#254396); Dyeable Chambermaid's Dress (Elin) (#254408); Chambermaid's Dress (Human Female) (#254300). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.peaches-and-jeans/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PC_Event_53.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.pikachu-raincoat",
@@ -5570,7 +5789,10 @@
    "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMABAAAsBMJYwCdADbQGkoAAD++JMpBbvC6EKeujGT7IvhfpmuKfjYfjUtsARbtq+zhwMRdQcGwliJMkgwUBoFkAA=",
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Raincoat (#154850); Elin Dyeable Raincoat (#154853); Elin Summer Sprinkle Raincoat (#186519). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pikachu-raincoat/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "PC_Event_42A.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.i-can-haz-backpack",
@@ -5599,7 +5821,10 @@
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoLABAAAsBMJbACdAEfvZVifKQAAP6XiH8tQ2M8RhEJpuIQtqaKp/Cvq46NPxKX0gmHywh1NO7Ufq/SP2xCQtSALFpQI//NaZHUQUjbH5Z6cqZlnFns8gAA",
    "replaces": "Replaces the Acc_133 back accessory model (backpack). Check: equip the matching backpack accessory.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.i-can-haz-backpack/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Acc_133.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.maria-maria",
@@ -5628,7 +5853,10 @@
    "blur_data": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQAA4AAsBMJbACdH8AFXzWVHoAAP5H6EM0+pfs7JuwGdShhO9Jukp8dsqeniM1YmegNalHGLVR3cZSGH5jVsCaoDbrSpPx8md5qzwmquf+1hCLE2l8iHa+B/kIKTWux7u39MAA",
    "replaces": "Replaces the event skin of the partner (pet) Rumi (Partner_A_Rumi_F_Event00). Check: summon Rumi.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.maria-maria/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Partner_A_Rumi_F_Event00.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.pinky-kun",
@@ -5657,7 +5885,10 @@
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoLABAAAsBMJbACdADWywiwAPqb15s2BSmOmc5rrVddf4iDsuoYLqu+DaV0wrxZrfCTREdHPPA1hPKkv6KD4UwJ8dOMGRs/Eae+GAAA",
    "replaces": "Replaces the event skin of the partner (pet) KunKun (Partner_B_KunKun_Event00). Check: summon KunKun.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pinky-kun/thumb.webp",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Partner_B_KunKun_Event00.gpk"
+   ]
   },
   {
    "id": "taylorswiftmodding.blacker-bow",
@@ -5686,7 +5917,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.blacker-bow/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAQCdASoQAAkAAsBMJYwAA3AA/vNADnuske9fsAsB3/g4jhBG/9Wp9U5D/yv6PTlAkoYe2ywLgAAA",
    "replaces": "Replaces the Acc_298 item family — items such as Black Bow (#182134); Black Hair Ribbon (#116106). Check: preview/wear one of those items.",
-   "screenshots": []
+   "screenshots": [],
+   "gpk_files": [
+    "Acc_298.gpk"
+   ]
   },
   {
    "id": "pantypon.cute-crafter-icons",
@@ -16531,6 +16765,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/7ffd5f5cffba47130e3967b662f4258f/tumblr_pdop95Z0xl1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16573,6 +16810,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/a08f7fe38c9d420d505c9f605d36c928/tumblr_palij1i1EZ1vlaz4ko1_r1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16616,6 +16856,9 @@
     "https://64.media.tumblr.com/0c7498de2cddcebcbe3bacd254a861ca/tumblr_p6e6y1mfpZ1vlaz4ko2_640.png",
     "https://64.media.tumblr.com/e404aea7cfd7ae0688c39987c68bd373/tumblr_p6e6y1mfpZ1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16659,6 +16902,9 @@
     "https://64.media.tumblr.com/544757c33a5868ec6fdf147f90d3d069/tumblr_pqykeq1WLX1vlaz4ko2_1280.png",
     "https://64.media.tumblr.com/4160395e5de1f531aa43be897bf79aef/tumblr_pqykeq1WLX1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16701,6 +16947,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/aaf70d329e5af6f9f1c2adfefe5741c2/tumblr_p6ydpxc74A1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16743,6 +16992,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/13f83536d4de39ffea973137b5784111/tumblr_p86w12gWtz1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16785,6 +17037,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/354eebffd1e8344e973ffda6c9108460/tumblr_pcgxtwEu4d1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16829,6 +17084,9 @@
     "https://64.media.tumblr.com/1b0d1b43b21549363ada2d4fefac7b26/tumblr_p20s8wjDSs1vlaz4ko1_640.png",
     "https://64.media.tumblr.com/24eeeac73460bf0343d68a8a7bf15204/tumblr_p20s8wjDSs1vlaz4ko2_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16872,6 +17130,9 @@
     "https://64.media.tumblr.com/7be434c27cf10b43e63962352c606898/tumblr_p8m36u3yqC1vy0bqpo2_1280.png",
     "https://64.media.tumblr.com/92d60fa214b4254b209818eb360675a6/tumblr_p8m36u3yqC1vy0bqpo1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16915,6 +17176,9 @@
     "https://64.media.tumblr.com/b86c0129ffe06d2d2d005804e0ad1c27/tumblr_pa2nfykHfi1wkkitvo3_1280.png",
     "https://64.media.tumblr.com/114dee2c917a5b8817de673734ef4047/tumblr_pa2nfykHfi1wkkitvo4_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -16957,6 +17221,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/5f3ae3e7c570067562c9f1908b9a8777/tumblr_o8dqmlQ8ko1uk6q95o1_500.jpg",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17000,6 +17267,9 @@
     "https://64.media.tumblr.com/c2cc1e760ebcddc0744d70cb53fe6272/tumblr_p0lwpnfboM1wkt3tdo2_1280.png",
     "https://64.media.tumblr.com/86996ba1321ec653110e200589b44ff6/tumblr_p0lwpnfboM1wkt3tdo1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17043,6 +17313,9 @@
     "https://64.media.tumblr.com/a6a23c94456e9a7e1d90322d7430781d/tumblr_pfou43wZSx1xb635ko2_1280.png",
     "https://64.media.tumblr.com/e39bd22ab97486143baa1150d46d1f1d/tumblr_pfou43wZSx1xb635ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17086,6 +17359,9 @@
     "https://64.media.tumblr.com/d1e5e3e8dfa82f39d86c2863280a2929/tumblr_pe6t318waQ1xb635ko2_1280.png",
     "https://64.media.tumblr.com/3c25aa0b21a3da38ee031f0da61e4d14/tumblr_pe6t318waQ1xb635ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17129,6 +17405,9 @@
     "https://64.media.tumblr.com/7214ac58b2e5e73f05d4b0a9955dc3b7/tumblr_pdd6pqWmpp1xb635ko2_1280.png",
     "https://64.media.tumblr.com/37eab8268f9e87b7f76c985420a0a565/tumblr_pdd6pqWmpp1xb635ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17170,6 +17449,9 @@
    "icon_url": "https://64.media.tumblr.com/d16dee109990c455e852257ba4fcae31/tumblr_inline_pi7kgaE95L1vkxhr6_400.png",
    "screenshots": [
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17212,6 +17494,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/fd56f18df6365f86e341e60c3c061a31/tumblr_oaziv6bqrr1v53l98o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17254,6 +17539,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/e3bef7323403fc104b569db8f84100e0/tumblr_of6n7vLN031vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17296,6 +17584,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/ce189b93e073d3867d39fb2786b4acf7/tumblr_ofgm9cCxkR1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17338,6 +17629,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/f40bfb9ddac0328415bc9b4e691aef30/tumblr_oikbvqOZGA1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17380,6 +17674,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/d49368966277aad81c4aa0034a9bcd1b/tumblr_oibhw42SbW1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17424,6 +17721,9 @@
     "https://44.media.tumblr.com/f302920d420c070cd8b47793af57da87/tumblr_ojh696zi3h1vdsl28o2_400.gif",
     "https://64.media.tumblr.com/96592bd68d79b410a511198d8bcd3a46/tumblr_ojh696zi3h1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17467,6 +17767,9 @@
     "https://64.media.tumblr.com/0cf6bef7dd8a8ac56b8b71937b6ed81c/tumblr_onmnhwVULH1vdsl28o2_500.png",
     "https://64.media.tumblr.com/a05f5a6e0ec0e436aa994f4a8036b997/tumblr_onmnhwVULH1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17510,6 +17813,9 @@
     "https://64.media.tumblr.com/6b2ead4a56e863f82cf584974a6bb612/tumblr_onmm4mqbwK1vdsl28o1_640.png",
     "https://64.media.tumblr.com/c03c5cc978ea0a61433f3c21e1aeeb7d/tumblr_onmm4mqbwK1vdsl28o2_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17555,6 +17861,9 @@
     "https://64.media.tumblr.com/aacc2f55e3351c3a134a699b6aabac74/tumblr_plgcd4VU261vdsl28o4_500.png",
     "https://64.media.tumblr.com/37cde4d50418cee1e09681e54f702b48/tumblr_plgcd4VU261vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17599,6 +17908,9 @@
     "https://64.media.tumblr.com/e186deff182d4b3cb9ea7afd2583abab/tumblr_po2giu8QAu1vdsl28o2_1280.png",
     "https://64.media.tumblr.com/9739300cb4235993cb6d769529aaaf42/tumblr_po2giu8QAu1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17645,6 +17957,9 @@
     "https://44.media.tumblr.com/f302920d420c070cd8b47793af57da87/tumblr_omkwqhj4zl1vdsl28o4_400.gif",
     "https://64.media.tumblr.com/dc456bbfb3ef29e30f355f034ef5af4f/tumblr_omkwqhj4zl1vdsl28o3_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17691,6 +18006,9 @@
     "https://44.media.tumblr.com/f302920d420c070cd8b47793af57da87/tumblr_olhtqvjDtz1vdsl28o3_400.gif",
     "https://64.media.tumblr.com/d5e49aab8362ee8cb7de3689c630c34b/tumblr_olhtqvjDtz1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17737,6 +18055,9 @@
     "https://44.media.tumblr.com/c5366dfad6995a78946c780784e88439/98b155387e716963-98/s500x750_f1/3d54baa74cb37eeb684ff29c08406540ab156c22.gif",
     "https://64.media.tumblr.com/cfeb2980dc1d8b16e90b01185bae8322/98b155387e716963-b8/s500x750/cc46aa13f46b3ac93c517790264d3226ac77aaac.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17790,6 +18111,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/6cb6c73ba8535e87e446ca9515f4e8b7/tumblr_ofhis5l4Px1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17832,6 +18156,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/d9a4d304d80119dea916a03a15cd8e11/tumblr_of52b84IoB1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17876,6 +18203,9 @@
     "https://64.media.tumblr.com/f302920d420c070cd8b47793af57da87/tumblr_oiwg77FJ1J1vdsl28o9_400.gif",
     "https://44.media.tumblr.com/f302920d420c070cd8b47793af57da87/tumblr_oiwg77FJ1J1vdsl28o9_400.gif",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17918,6 +18248,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/674ebb0bd74ea2f7df48d245679eba79/tumblr_of5g5gD60r1vdsl28o1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -17961,6 +18294,9 @@
     "https://64.media.tumblr.com/e0a63a3e352637b68148494d88962cdf/tumblr_nm9ujaZ5Fg1qzf8cao2_500.png",
     "https://64.media.tumblr.com/c3d373a76716dd31ddece9d07cf7ff7a/tumblr_nm9ujaZ5Fg1qzf8cao1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18003,6 +18339,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/74d72329087dd43cbd35a3d302e46607/tumblr_oqpjq5Wois1wqxdfeo2_400.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18046,6 +18385,9 @@
     "https://64.media.tumblr.com/b2405ae59096a510a85c2e65f31ad646/tumblr_oscpb0S5wB1vlaz4ko1_540.png",
     "https://64.media.tumblr.com/5326a9f12cb4ad26537914f42af7d88a/tumblr_oscpb0S5wB1vlaz4ko2_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18089,6 +18431,9 @@
     "https://64.media.tumblr.com/512a0083a1d587afd28e2f7eb6eb958a/tumblr_onxd2kly1L1vlaz4ko1_1280.png",
     "https://64.media.tumblr.com/64dd13b90cd67de4cf7f29de05bd90ce/tumblr_onxd2kly1L1vlaz4ko2_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18131,6 +18476,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/6f4eaaa5e8813c537e1173d9ded19f51/tumblr_p000exQhCH1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18174,6 +18522,9 @@
     "https://64.media.tumblr.com/d18ec738f76a0445073055f1dd8eda6a/tumblr_oxl80swSl61vlaz4ko2_540.png",
     "https://64.media.tumblr.com/db3eb5c9eaa154986de126fbdf935b73/tumblr_oxl80swSl61vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18218,6 +18569,9 @@
     "https://64.media.tumblr.com/3561d0f7539ff597f86e9875258eeae0/tumblr_owxbzqvwnU1vlaz4ko3_500.png",
     "https://64.media.tumblr.com/58487a5b4b4577e0a10ae34d53526731/tumblr_owxbzqvwnU1vlaz4ko4_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18260,6 +18614,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/79cc8d3281cf12996d256d70b8361b1f/tumblr_p1m307RGVh1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18302,6 +18659,9 @@
    "screenshots": [
     "https://64.media.tumblr.com/a599042bc511fd906cf402c7478d290b/tumblr_opoexrMxTC1vlaz4ko1_500.png",
     "https://64.media.tumblr.com/ff32cb9444e416905c5b80d5d543cd0a/1ea661c4731b5546-4c/s2048x3072/161be16ef7af5c5846427a3cca20e62cdeb77859.gif"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   },
   {
@@ -18357,6 +18717,9 @@
     "https://64.media.tumblr.com/9af9340219e4a5eac7e5f1e233887e30/a40a05a6a7e5d8d7-00/s1280x1920/08228c13e2b0ec89d41880b79e5e0a35cc8920af.png",
     "https://64.media.tumblr.com/4c5be85ea59b512f1cf309487421402e/a40a05a6a7e5d8d7-11/s640x960/3d059535598788c881059df864d1d2b6573ce8eb.png",
     "https://64.media.tumblr.com/a37b1def8a570b7e09245909503b430f/a40a05a6a7e5d8d7-49/s1280x1920/77899dfb332893c29eb8761ff3811a8d6d195136.png"
+   ],
+   "gpk_files": [
+    "PC_Decal.gpk"
    ]
   }
  ]
