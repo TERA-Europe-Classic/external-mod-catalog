@@ -1,6 +1,6 @@
 {
- "version": 131,
- "updated_at": "2026-07-22T23:36:22Z",
+ "version": 132,
+ "updated_at": "2026-07-24T00:00:00Z",
  "mods": [
   {
    "id": "classicplus.shinra",
@@ -26,10 +26,8 @@
    "download_count": 0,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
-   "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkAAsBMJYwAAudTxwAAAP74UZD8SR5lKEKt3fg4qTkoqs6fzxugwAA=",
-   "screenshots": [
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp"
-   ]
+   "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwAA4BaJZQCdAEf9owUEAAA/ukEplWT3acmdkLDzSQKozoWKpGdPNAAAA==",
+   "screenshots": []
   },
   {
    "id": "classicplus.tcc",
@@ -55,10 +53,8 @@
    "last_verified_patch": "patch 115",
    "download_count": 0,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
-   "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkAAsBMJYwAAudPAYgAAP74Z/dzjGhLaH8C+YT5e68HvPG6K4AA",
-   "screenshots": [
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp"
-   ]
+   "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbUZyEsrAAD+7nxlqEmt/p8z55sjET45d9xTqeCGTXXYKm32mr3hRplrVC1OB40wORatI5c8ICyhl5YMa0cAAAA=",
+   "screenshots": []
   },
   {
    "id": "yupi.elin-matching-ears-tails",
