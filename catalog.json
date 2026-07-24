@@ -16623,6 +16623,146 @@
       "replaces": "Replaces 122 NPC speech-voice packages (Sound_Data/Packages/NPCSpeechVoice/*.gpk) with Japanese voices. Check: talk to an NPC (e.g. Viki) and confirm Japanese audio.",
       "compatibility_notes": "Only the 122 NPCs present in v100.02 are included (JP-only NPCs excluded). Reversible on uninstall.",
       "last_verified_patch": "v100.02 (x32->x64 reconvert; loose_replace; in-game audio pending)"
+    },
+    {
+      "id": "pantypon.ui-pink-pastel-ui-makes-the-hpmp-bars",
+      "kind": "gpk",
+      "name": "Pink Pastel Ui Makes The Hpmp",
+      "author": "pantypon",
+      "category": "Windows & Menus",
+      "short_description": "Makes the HP/MP bars pastel colors, turns the class icon and diamond pale pink, makes the adventure tokens a bunny icon, removes the + butto",
+      "long_description": "Makes the HP/MP bars pastel colors, turns the class icon and diamond pale pink, makes the adventure tokens a bunny icon, removes the + butto\n\nUI recolor. Original by pantypon, shared on the mods-of-tera archive. Reconverted x32->x64.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/184695035217/pantypon-pink-pastel-ui-makes-the-hpmp-bars",
+      "source_url": "https://mods-of-tera.tumblr.com/post/184695035217/pantypon-pink-pastel-ui-makes-the-hpmp-bars",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/ce4368a5c6caa683c048f92c2584ed63/tumblr_pr2hhrkSTC1vdsl28o1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/ce4368a5c6caa683c048f92c2584ed63/tumblr_pr2hhrkSTC1vdsl28o1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "S1UI_CharacterWindow.gpk"
+      ],
+      "parts": [
+        {
+          "name": "S1UI_CharacterWindow",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-ui-recolors/pantypon_ui-pink-pastel-ui-makes-the-hpmp-bars.gpk",
+          "sha256": "14b32ca3a480013b7d4fa3fb69c723b72b3385727a2dc3faabd79d615bf42d4d",
+          "size_bytes": 1107984,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_CharacterWindow.gpk",
+          "loose_vanilla_sha256": "cbc77dfd93ba9f8f51a76ff0d04ba3a2ce5ad66695252250c4c953b941d4574f"
+        }
+      ],
+      "replaces": "Replaces the S1UI_CharacterWindow UI. Check: open that window in game and confirm the recolor renders and buttons work.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64, loose_replace (reversible). The mod ships its own GFx UI + recolored textures; if the window fails to open, uninstall to restore vanilla. Render-pending your in-game test.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert; loose_replace; UI render pending)"
+    },
+    {
+      "id": "pantypon.ui-sweets-ui-30",
+      "kind": "gpk",
+      "name": "Pantypon Sweets Ui 30",
+      "author": "pantypon",
+      "category": "Windows & Menus",
+      "short_description": "Special thanks to Fruit and Hanatan for bearing with me while I test out this mod\nThis mod changes the in game icons of some party options !",
+      "long_description": "Special thanks to Fruit and Hanatan for bearing with me while I test out this mod\nThis mod changes the in game icons of some party options !\n\nUI recolor. Original by pantypon, shared on the mods-of-tera archive. Reconverted x32->x64.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/159494207552/pantypon-pantypon-sweets-ui-30",
+      "source_url": "https://mods-of-tera.tumblr.com/post/159494207552/pantypon-pantypon-sweets-ui-30",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/ae9100265de59a5321f4635e6cd1ec66/tumblr_oigampMbuT1vdsl28o1_640.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/ae9100265de59a5321f4635e6cd1ec66/tumblr_oigampMbuT1vdsl28o1_640.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "S1UI_CharacterWindow.gpk"
+      ],
+      "parts": [
+        {
+          "name": "S1UI_CharacterWindow",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-ui-recolors/pantypon_ui-sweets-ui-30.gpk",
+          "sha256": "14b32ca3a480013b7d4fa3fb69c723b72b3385727a2dc3faabd79d615bf42d4d",
+          "size_bytes": 1107984,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_CharacterWindow.gpk",
+          "loose_vanilla_sha256": "cbc77dfd93ba9f8f51a76ff0d04ba3a2ce5ad66695252250c4c953b941d4574f"
+        }
+      ],
+      "replaces": "Replaces the S1UI_CharacterWindow UI. Check: open that window in game and confirm the recolor renders and buttons work.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64, loose_replace (reversible). The mod ships its own GFx UI + recolored textures; if the window fails to open, uninstall to restore vanilla. Render-pending your in-game test.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert; loose_replace; UI render pending)"
+    },
+    {
+      "id": "pantypon.ui-party-window-no-background-20",
+      "kind": "gpk",
+      "name": "Party Window No Background 20",
+      "author": "pantypon",
+      "category": "Windows & Menus",
+      "short_description": "Updated as of April 12, 2017\nSpecial thanks to Fruit for helping me test it out\nThis mod removes the background on your friend&rsquo;s HP an",
+      "long_description": "Updated as of April 12, 2017\nSpecial thanks to Fruit for helping me test it out\nThis mod removes the background on your friend&rsquo;s HP an\n\nUI recolor. Original by pantypon, shared on the mods-of-tera archive. Reconverted x32->x64.",
+      "credits": "Shared on the mods-of-tera archive; original by pantypon. Source: https://mods-of-tera.tumblr.com/post/159683113192/pantypon-party-window-no-background-20",
+      "source_url": "https://mods-of-tera.tumblr.com/post/159683113192/pantypon-party-window-no-background-20",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/b6e9eb1a862a84405782b750b7ec5e75/tumblr_oobp07VORP1vdsl28o5_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/b6e9eb1a862a84405782b750b7ec5e75/tumblr_oobp07VORP1vdsl28o5_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "S1UI_PartyWindow.gpk"
+      ],
+      "parts": [
+        {
+          "name": "S1UI_PartyWindow",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-ui-recolors/pantypon_ui-party-window-no-background-20.gpk",
+          "sha256": "fa2beeefbc4c063c2ef779d3675fa0e6f7796b6891379eb02f8f8d37b1b972a3",
+          "size_bytes": 563754,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_PartyWindow.gpk",
+          "loose_vanilla_sha256": "ce355a1a549eb194ab8ce8cfbeac8fdc849f3d331da99cb5fe8db017053a90c5"
+        }
+      ],
+      "replaces": "Replaces the S1UI_PartyWindow UI. Check: open that window in game and confirm the recolor renders and buttons work.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64, loose_replace (reversible). The mod ships its own GFx UI + recolored textures; if the window fails to open, uninstall to restore vanilla. Render-pending your in-game test.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert; loose_replace; UI render pending)"
+    },
+    {
+      "id": "honestlylovingbunny.ui-perfect-block-icon-for",
+      "kind": "gpk",
+      "name": "Perfect Block Icon For",
+      "author": "honestlylovingbunny",
+      "category": "Chat & Alerts",
+      "short_description": "&hearts; Perfect block icon for brawler and lancer\n&hearts; Perfect evasion icon for valkyrie\n&hearts;DOWNLOAD&hearts;",
+      "long_description": "&hearts; Perfect block icon for brawler and lancer\n&hearts; Perfect evasion icon for valkyrie\n&hearts;DOWNLOAD&hearts;\n\nUI recolor. Original by honestlylovingbunny, shared on the mods-of-tera archive. Reconverted x32->x64.",
+      "credits": "Shared on the mods-of-tera archive; original by honestlylovingbunny. Source: https://mods-of-tera.tumblr.com/post/173558090777/honestlylovingbunny-perfect-block-icon-for",
+      "source_url": "https://mods-of-tera.tumblr.com/post/173558090777/honestlylovingbunny-perfect-block-icon-for",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/4e45d1ba57139144e913d70982df548d/tumblr_p85kipeFAQ1x2yupwo1_400.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/4e45d1ba57139144e913d70982df548d/tumblr_p85kipeFAQ1x2yupwo1_400.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "S1UI_Message.gpk"
+      ],
+      "parts": [
+        {
+          "name": "S1UI_Message",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-ui-recolors/honestlylovingbunny_ui-perfect-block-icon-for.gpk",
+          "sha256": "de491a1cd50dc6fb3da95028ba2f9f10b250dc6528f31acbdbb7a180f976ae09",
+          "size_bytes": 4427104,
+          "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Message.gpk",
+          "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
+        }
+      ],
+      "replaces": "Replaces the S1UI_Message UI. Check: open that window in game and confirm the recolor renders and buttons work.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64, loose_replace (reversible). The mod ships its own GFx UI + recolored textures; if the window fails to open, uninstall to restore vanilla. Render-pending your in-game test.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert; loose_replace; UI render pending)"
     }
   ]
 }
