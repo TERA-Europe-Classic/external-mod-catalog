@@ -81,7 +81,7 @@ Submissions without those four fields are closed unmerged.
 ## What's in the catalog
 
 `catalog.json` is the source of truth. As of version 131 it holds **493 mods**
-from **99 creators** — 2 external apps and 491 GPK mods, across these categories:
+from **99 creators**: 2 external apps and 491 GPK mods, across these categories:
 
 | Category | Count | | Category | Count |
 |---|--:|---|---|--:|
@@ -102,7 +102,7 @@ The two external apps:
 
 ## Where the mods come from
 
-Most GPK mods were archived from the community — the mods-of-tera Tumblr and the
+Most GPK mods were archived from the community: the mods-of-tera Tumblr and the
 TERA Europe Classic Discord "Community UI mods" channels. Each is rehosted with
 its original creator credited in the entry's `credits` field, and the 32-bit
 packs were converted to the v100 (x64) client. If you are a creator and want an
