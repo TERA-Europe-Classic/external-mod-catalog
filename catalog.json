@@ -530,7 +530,19 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/lukas.thinkblob-mount/thumb.webp",
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/lukas.thinkblob-mount/thumb.webp"
-   ]
+   ],
+   "last_verified": {
+    "date": "2026-07-24",
+    "launcher_version": "0.2.64",
+    "mod_version": "1.7",
+    "client": "v100.02 (x64)",
+    "parts": {
+     "mount": "gpk-lukas.thinkblob-mount-v1.3/thinkblob-tfc-payload.bin",
+     "icon": "gpk-lukas.thinkblob-mount-v1.5/Icon_Skills.gpk"
+    },
+    "by": "Lukas (in-game summon)",
+    "note": "Mount summons and renders (crown + geometric skin). Confirmed after removing the v1.6 spec part, whose SkeletalMesh composite_redirect crashed on summon."
+   }
   },
   {
    "id": "justcrazy.green-crosshair",
