@@ -15381,6 +15381,1248 @@
       "replaces": "Replaces: Highelf_F_Head, Highelf_F_Head. Check: preview the hairstyle in the salon.",
       "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin.",
       "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "jtera.japanese-voice-pack",
+      "kind": "gpk",
+      "name": "Japanese NPC Voice Pack",
+      "author": "JTera / TERA JP",
+      "category": "Sounds & Voice",
+      "short_description": "Replaces NPC speech voices with the original Japanese TERA voice acting (122 NPCs).",
+      "long_description": "Replaces the English NPC speech voices with the original Japanese TERA voice acting across 122 NPCs that exist in v100.02. Reconverted x32->x64. Installs via loose_replace (each vanilla NPCSpeechVoice file is backed up and restored on uninstall).",
+      "credits": "Japanese voice acting from TERA JP (Pmang/GameOn). Compiled by the community (Freaky, may) and shared on Discord. Rehosted for the TERA Europe Classic+ launcher.",
+      "version": "2026-r1",
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "featured_image": "",
+      "screenshots": [],
+      "gpk_files": [
+        "AIF_Viki.gpk",
+        "AmanF_Old.gpk",
+        "AmanF_Young.gpk",
+        "AmanM_Akhma.gpk",
+        "AmanM_Boy.gpk",
+        "AmanM_Mughrak.gpk",
+        "AmanM_Old.gpk",
+        "AmanM_Old_Tamur.gpk",
+        "AmanM_Tamur.gpk",
+        "AmanM_Young.gpk",
+        "AmanM_Young_Frateco.gpk",
+        "AmanM_Young_Kaidunghost.gpk",
+        "Asha_Crying.gpk",
+        "Asha_Happy.gpk",
+        "Asha_Sad.gpk",
+        "BarakaM_Old.gpk",
+        "BarakaM_Veronicus.gpk",
+        "BarakaM_Young.gpk",
+        "CastanicF_Girl.gpk",
+        "CastanicF_Hasmina.gpk",
+        "CastanicF_MadHanna.gpk",
+        "CastanicF_NormalHanna.gpk",
+        "CastanicF_Old.gpk",
+        "CastanicF_UnwillingHanna.gpk",
+        "CastanicF_Young.gpk",
+        "CastanicF_Young_Janela.gpk",
+        "CastanicM_Old.gpk",
+        "CastanicM_Seidos.gpk",
+        "CastanicM_Seltan.gpk",
+        "CastanicM_Young.gpk",
+        "DevaF_Young_Rokian.gpk",
+        "DevaM_Young_Rokian.gpk",
+        "DungeonVoice.gpk",
+        "God_Halrath.gpk",
+        "God_SalreronFace.gpk",
+        "Goddess_Janovia.gpk",
+        "Goddess_Kaia.gpk",
+        "Goddess_Mistel.gpk",
+        "Goddess_Velic.gpk",
+        "HighElfF_Girl.gpk",
+        "HighElfF_Old.gpk",
+        "HighElfF_Young.gpk",
+        "HighElfF_Young_Demir.gpk",
+        "HighElfM_Old.gpk",
+        "HighElfM_Young.gpk",
+        "HighelfF_Young_Freya.gpk",
+        "HighelfM_Dark_Young_Lian.gpk",
+        "HighelfM_Healed_Elion.gpk",
+        "HighelfM_Old_Ekior.gpk",
+        "HighelfM_Old_Serion.gpk",
+        "HighelfM_Young_ElionA.gpk",
+        "HighelfM_Young_ElionB.gpk",
+        "HighelfM_Young_Lian.gpk",
+        "HighelfM_Young_Sephia.gpk",
+        "HumanF_Girl.gpk",
+        "HumanF_Old.gpk",
+        "HumanF_Young.gpk",
+        "HumanF_Young_Ona.gpk",
+        "HumanF_Young_Refugee.gpk",
+        "HumanF_Young_Sibel.gpk",
+        "HumanM_Boy.gpk",
+        "HumanM_Gray.gpk",
+        "HumanM_Lionas.gpk",
+        "HumanM_Madard.gpk",
+        "HumanM_MadardDurion.gpk",
+        "HumanM_Old.gpk",
+        "HumanM_Old_Graham.gpk",
+        "HumanM_Old_Malaki.gpk",
+        "HumanM_Old_Samael.gpk",
+        "HumanM_Rodos.gpk",
+        "HumanM_Young.gpk",
+        "HumanM_Young_Geliad.gpk",
+        "HumanM_Young_Gilbert.gpk",
+        "HumanM_Young_Refugee.gpk",
+        "HumanM_Young_Survivor.gpk",
+        "Monster_Arkus.gpk",
+        "Monster_Centaurs.gpk",
+        "Monster_Ceravi.gpk",
+        "Monster_DarkWitchMaster1.gpk",
+        "Monster_DarkWitchMaster2.gpk",
+        "Monster_DarkWitchMaster3.gpk",
+        "Monster_DarkWitchMaster4.gpk",
+        "Monster_Dog.gpk",
+        "Monster_FrostGiantJarl.gpk",
+        "Monster_Gagasu.gpk",
+        "Monster_Goblin.gpk",
+        "Monster_Hooka.gpk",
+        "Monster_HookaKing.gpk",
+        "Monster_ManEater1.gpk",
+        "Monster_ManEater2.gpk",
+        "Monster_ManEater3.gpk",
+        "Monster_NympiWarrior1.gpk",
+        "Monster_NympiWarrior2.gpk",
+        "Monster_NympiWarrior3.gpk",
+        "Monster_Orcan.gpk",
+        "Monster_Orpheus.gpk",
+        "Monster_Pixie1.gpk",
+        "Monster_Pixie2.gpk",
+        "Monster_Pixie3.gpk",
+        "Monster_PrionMadman.gpk",
+        "Monster_Ssalissali1.gpk",
+        "Monster_Ssalissali2.gpk",
+        "Monster_Ssilssaliking.gpk",
+        "Monster_Volcanus.gpk",
+        "Monster_WendigoShaman.gpk",
+        "Monster_WendigoWarrior.gpk",
+        "Monster_YoungCentaurs.gpk",
+        "Monster_witch.gpk",
+        "NPC_HighDragon.gpk",
+        "NPC_Naga.gpk",
+        "NPC_Unique_Interaction.gpk",
+        "PoporiF_Sioz.gpk",
+        "PoporiF_Yasring.gpk",
+        "PoporiF_Young.gpk",
+        "PoporiF_Young_Arin.gpk",
+        "PoporiF_Young_Lida.gpk",
+        "PoporiM_Boy.gpk",
+        "PoporiM_Poarong.gpk",
+        "PoporiM_Young.gpk",
+        "Spirit_Isrenia.gpk",
+        "humanM_MadGislan.gpk",
+        "humanM_NormalGislan.gpk"
+      ],
+      "parts": [
+        {
+          "name": "AIF_Viki",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AIF_Viki.gpk",
+          "sha256": "6001212b76af3e9046dcf252d40d0c037c18f44de8aa706501a56e2d749255b6",
+          "size_bytes": 83101,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AIF_Viki.gpk",
+          "loose_vanilla_sha256": "cc7a7e3d05e35b549a2cf5a721c8cd94764a0ae5194d8f5094bc4036e64bf906"
+        },
+        {
+          "name": "AmanF_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanF_Old.gpk",
+          "sha256": "e310e2d54220e91b498d2a8a3b08ac6de893f6df189f84d605fefd4ad5f4bc1b",
+          "size_bytes": 770002,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanF_Old.gpk",
+          "loose_vanilla_sha256": "32feb4a9f7bce0496e9fba2fb8245e8dc4f7292cefe1703e6aeb68df0324c970"
+        },
+        {
+          "name": "AmanF_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanF_Young.gpk",
+          "sha256": "0ddb660bf083a30552ffaa6ac4a91db9fab03a211e5c81fec1f2d56040471ccf",
+          "size_bytes": 1986050,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanF_Young.gpk",
+          "loose_vanilla_sha256": "800011f935aba428b21bf14e2ad16505788560e2d90c0debcdce1c6a460757df"
+        },
+        {
+          "name": "AmanM_Akhma",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Akhma.gpk",
+          "sha256": "9c0547a2d9bc43a6e65c2e57a4b6c56b0ff938288e51cd0804abbb6a40834eb6",
+          "size_bytes": 64001,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Akhma.gpk",
+          "loose_vanilla_sha256": "845bbcd10d9aa69f0b14ff40d09dcda940cad665f7e805125615d3cbaa35bd76"
+        },
+        {
+          "name": "AmanM_Boy",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Boy.gpk",
+          "sha256": "2324cdf0519daaeef739944ebbe97aafc39beea580facfeb5250b3a948259d0f",
+          "size_bytes": 558720,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Boy.gpk",
+          "loose_vanilla_sha256": "d013a5eb442f6741f36c1c2396873c5d0bb045e64fc6c9f4dbd07af9f59abd63"
+        },
+        {
+          "name": "AmanM_Mughrak",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Mughrak.gpk",
+          "sha256": "6974ea11bce16492f2708e0dc6c23bd2a28455aea336a8824405358305eaa514",
+          "size_bytes": 385264,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Mughrak.gpk",
+          "loose_vanilla_sha256": "1daa68067fac756b1e6d8ebb8b2ddd18c346030ab101c2a3a515e7ca2a9e2dc3"
+        },
+        {
+          "name": "AmanM_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Old.gpk",
+          "sha256": "bbd6e5b9bf074e1b82668a25fb3eba1ee2c5202b1ca46aee07877993076c5688",
+          "size_bytes": 1960497,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Old.gpk",
+          "loose_vanilla_sha256": "267caa38bf4fb5152175cefeab2d81ca66e034b0b6778fb4f7d8990fd4bc0a3f"
+        },
+        {
+          "name": "AmanM_Old_Tamur",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Old_Tamur.gpk",
+          "sha256": "5bd2fbe23f1b0e02158d3cdc263c5669477d511bc121cdcf2a0b366cfef29917",
+          "size_bytes": 168361,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Old_Tamur.gpk",
+          "loose_vanilla_sha256": "f58c7cfc301a7c033c404f5b11c567e11e3e01ad0bd488b8930f4405c881a5a1"
+        },
+        {
+          "name": "AmanM_Tamur",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Tamur.gpk",
+          "sha256": "34c14ce0dbfb092fc80940289c0bf753a3ea814ff8975465c4e6f189c9ee4333",
+          "size_bytes": 113312,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Tamur.gpk",
+          "loose_vanilla_sha256": "45d1dedc6ea3837b7fce46aadf92dd83d993d8bb4f1507af917edf8f64471fb0"
+        },
+        {
+          "name": "AmanM_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Young.gpk",
+          "sha256": "3d78b8c44f2c20aab660ee5987283a4ab83269f5ad9562df1b5bd6add802f3a0",
+          "size_bytes": 2150263,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Young.gpk",
+          "loose_vanilla_sha256": "b5de55540cf0c0cd9dd3e684af8fb9b8f31140f7b5b3b33101ee9b0b4300f11f"
+        },
+        {
+          "name": "AmanM_Young_Frateco",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Young_Frateco.gpk",
+          "sha256": "2679d72d0abda6a7ad6afd85b9721b22d5204ae39d8b2c40843415d5fcdbff05",
+          "size_bytes": 309805,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Young_Frateco.gpk",
+          "loose_vanilla_sha256": "594b540fb70853aca63652581a9955cae1b1b562dc80396f620eda984c01b246"
+        },
+        {
+          "name": "AmanM_Young_Kaidunghost",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__AmanM_Young_Kaidunghost.gpk",
+          "sha256": "37e9c92044c1b144143ed4239acabf46ff0bc50f4330003db8f2488e4d87ca79",
+          "size_bytes": 70133,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/AmanM_Young_Kaidunghost.gpk",
+          "loose_vanilla_sha256": "ea1821f698ea1df411fe7c65c2d821d92a09d9898bc8ade3dc64e756d0037a49"
+        },
+        {
+          "name": "Asha_Crying",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Asha_Crying.gpk",
+          "sha256": "a6d2d6b2c2df861872a9c4185d9be7ffa7b43e848b5f57841d95906425dcc4e3",
+          "size_bytes": 133199,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Asha_Crying.gpk",
+          "loose_vanilla_sha256": "1408ef51554fc7e2786e86d41b78001900c1c86cd26b0679867698ec7933cd93"
+        },
+        {
+          "name": "Asha_Happy",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Asha_Happy.gpk",
+          "sha256": "af7fee2d45d457e42059b4b9da5cb0dc74bf66e1966fc2315fdd0a71b5d76baf",
+          "size_bytes": 265780,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Asha_Happy.gpk",
+          "loose_vanilla_sha256": "0ac08168841148b8a6f324fa9d7c83da16155f70e1b76cd585699215d7ac7b35"
+        },
+        {
+          "name": "Asha_Sad",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Asha_Sad.gpk",
+          "sha256": "6b1db4c9a984ea28421a148dc349e14cd4db3e8d75e4b842bcf4144614b4e4e4",
+          "size_bytes": 330841,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Asha_Sad.gpk",
+          "loose_vanilla_sha256": "08c4e9bf6357d3556a399c016853a3f4a37a1d78dfe0f9ee8b1754cc5c0944d6"
+        },
+        {
+          "name": "BarakaM_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__BarakaM_Old.gpk",
+          "sha256": "304b2eacd30997a3e6dd2ca94b82e8951ebba324ae6e72f2a2f40a87442ef3c6",
+          "size_bytes": 1271800,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/BarakaM_Old.gpk",
+          "loose_vanilla_sha256": "ecb3f4b726210aee82051ed38e2647002f9d5754e5fe932f759150c505b1f623"
+        },
+        {
+          "name": "BarakaM_Veronicus",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__BarakaM_Veronicus.gpk",
+          "sha256": "bbafe342c2d18b0ba7b2376906efc21e8ae71f1acc5d383cb13c765f236a7484",
+          "size_bytes": 414284,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/BarakaM_Veronicus.gpk",
+          "loose_vanilla_sha256": "74c0162b97247b69b76c480391445b97cae7160c1d0ab1c0bdb71bf3fdc9db31"
+        },
+        {
+          "name": "BarakaM_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__BarakaM_Young.gpk",
+          "sha256": "dcd65532cbc5423357a37cc576039489b1f8437d106774a2ea490a5f4a6b1fc5",
+          "size_bytes": 1966241,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/BarakaM_Young.gpk",
+          "loose_vanilla_sha256": "fdfd860305a7125de6f83a92735bcba326e4fffbc657dbb6dec8a25de86ffabe"
+        },
+        {
+          "name": "CastanicF_Girl",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_Girl.gpk",
+          "sha256": "88c857a57f1c60b8360ee36cfbe9a9df1e591e52dcefcb7a39fcde9b09cb72c3",
+          "size_bytes": 496586,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_Girl.gpk",
+          "loose_vanilla_sha256": "4513eaabd2f1eeaa84c3f7e5ac63eaa66b53b8d178d31764f86934d6e445a0e9"
+        },
+        {
+          "name": "CastanicF_Hasmina",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_Hasmina.gpk",
+          "sha256": "f75ef194148d654f91422d800cefdae3a82f35b6921c30badac6eb665d20113b",
+          "size_bytes": 48807,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_Hasmina.gpk",
+          "loose_vanilla_sha256": "a712f0535cb7c269c2c211251076e3d58ea0898253bb89d76a0103eabe35e647"
+        },
+        {
+          "name": "CastanicF_MadHanna",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_MadHanna.gpk",
+          "sha256": "b52087da5556f147c89dbea4b188e534c3a9953cba8879e330a2d3930b5b9ec3",
+          "size_bytes": 153406,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_MadHanna.gpk",
+          "loose_vanilla_sha256": "00211c786de34dfd01d21080c3830644577160d68620ccd3b5868444fcf8f3aa"
+        },
+        {
+          "name": "CastanicF_NormalHanna",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_NormalHanna.gpk",
+          "sha256": "a49ffd319a30095932b389c0f5d5fd0c7b41e3eb5cb5e51ffd82be307de2d20c",
+          "size_bytes": 167065,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_NormalHanna.gpk",
+          "loose_vanilla_sha256": "b32ba5c32a3ce583fa84a04c25817e09347064f235dc8e7a3b8c5d903471725d"
+        },
+        {
+          "name": "CastanicF_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_Old.gpk",
+          "sha256": "e7f92a06415884cde4d461ee7d5cc78884c918ac0e8544e058bb771f066830d4",
+          "size_bytes": 543451,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_Old.gpk",
+          "loose_vanilla_sha256": "216fc727619b4e283817c2fa6b13f28f842be7a144af9e7e71cd5e8dc3a0a364"
+        },
+        {
+          "name": "CastanicF_UnwillingHanna",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_UnwillingHanna.gpk",
+          "sha256": "508144a1729286b1df63f271c19d769fe736e0d5e867d1dbe9c6679ca569a23c",
+          "size_bytes": 119573,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_UnwillingHanna.gpk",
+          "loose_vanilla_sha256": "0e5fb03425e821d6d3a91ceaa58d18c14a5963dd4eebc1afb21b94834466bfdf"
+        },
+        {
+          "name": "CastanicF_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_Young.gpk",
+          "sha256": "5ff561bf25393a7538d2f646cae7a907242370c3b7ce13f9acb52356d8c47128",
+          "size_bytes": 2543977,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_Young.gpk",
+          "loose_vanilla_sha256": "2c3b7229e1b46089117036943feff62758ed9d90defaa5998ebb9052228f0e96"
+        },
+        {
+          "name": "CastanicF_Young_Janela",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicF_Young_Janela.gpk",
+          "sha256": "1598e345b4312ca60d4ccd522b1590ba31ec3d10b007c70f3fcee4dc846882a0",
+          "size_bytes": 78999,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicF_Young_Janela.gpk",
+          "loose_vanilla_sha256": "7e6f7fb830570d19507158aedce112c8e31c257b9beeb578715175f489e4fa20"
+        },
+        {
+          "name": "CastanicM_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicM_Old.gpk",
+          "sha256": "9f0b15f9ef3699519107c04a7ec65ef76f3f36eda0c01eb50742e3a970f9d42f",
+          "size_bytes": 1360214,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicM_Old.gpk",
+          "loose_vanilla_sha256": "43ad1dc478841042a7b1bd7d2f57a60ea73ad8e4c1ca0a020fa5c2060785cdf4"
+        },
+        {
+          "name": "CastanicM_Seidos",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicM_Seidos.gpk",
+          "sha256": "2d35ead0e52e83997b22c3c4ef791370c318f0be1621f91c605827448a187c09",
+          "size_bytes": 67651,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicM_Seidos.gpk",
+          "loose_vanilla_sha256": "67ab107e46f97a1bea4843490d55bde48615099dbd3cdfc96bae74c197257e24"
+        },
+        {
+          "name": "CastanicM_Seltan",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicM_Seltan.gpk",
+          "sha256": "b4c4bcd8f50c3ce826664bbf85bc3cf3f8c89d3f7b2662f62764dee04deb8b29",
+          "size_bytes": 80348,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicM_Seltan.gpk",
+          "loose_vanilla_sha256": "160033b29e6757d38806e1d025cfc77ed99d03818fc14faf544b6ac57b1a49f0"
+        },
+        {
+          "name": "CastanicM_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__CastanicM_Young.gpk",
+          "sha256": "b3b49fbfc8cba0e6657dc5829d2e5fd2115ae1453ab3f2db708ef666888480a7",
+          "size_bytes": 2834296,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/CastanicM_Young.gpk",
+          "loose_vanilla_sha256": "edd06aa7b068a75e3cc4516169cabdd2bb593eda6975f572cad2bbbb97ffcb26"
+        },
+        {
+          "name": "DevaF_Young_Rokian",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__DevaF_Young_Rokian.gpk",
+          "sha256": "6272d73bbf911b53e91e74e114fc587556234304c6cbcc2ded18af2d43574c24",
+          "size_bytes": 86040,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/DevaF_Young_Rokian.gpk",
+          "loose_vanilla_sha256": "af187a88b4bae1f4e28bed9be9faa00e6f5cab1aaee6ed0e3837db5bece78829"
+        },
+        {
+          "name": "DevaM_Young_Rokian",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__DevaM_Young_Rokian.gpk",
+          "sha256": "81166791165367519d3e1d9d2caca29c1349f71e7ecb52632029b13d63d411c2",
+          "size_bytes": 95899,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/DevaM_Young_Rokian.gpk",
+          "loose_vanilla_sha256": "5b688bab0da7d7401ce95400c466461b86bc01cb915442a9e6e21694960a2fbe"
+        },
+        {
+          "name": "DungeonVoice",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__DungeonVoice.gpk",
+          "sha256": "26d06b27aeeb32dd5100b85fca0e31381c1319a00656b98ca10c10532a5055ce",
+          "size_bytes": 1416792,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/DungeonVoice.gpk",
+          "loose_vanilla_sha256": "032fea3a1c5ea2a14605a687f7bc7cb7367d7c0360af6bf17c027039d8f1b4dd"
+        },
+        {
+          "name": "God_Halrath",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__God_Halrath.gpk",
+          "sha256": "9ebecf1f346697f7b8b5719ef827f6850fd72f9f20ced6a8badaadb4425d77ab",
+          "size_bytes": 366902,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/God_Halrath.gpk",
+          "loose_vanilla_sha256": "c1d3a848391530fa6e70cfd52a40360137f49d8920c33e5dc4ae872ad31ba724"
+        },
+        {
+          "name": "God_SalreronFace",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__God_SalreronFace.gpk",
+          "sha256": "af2c023102aa567a5d5aaf064df47d934993fa042e2231dbbe4b098eff819412",
+          "size_bytes": 294692,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/God_SalreronFace.gpk",
+          "loose_vanilla_sha256": "85caff30f630f2b997cc359be69efb4c15ae4107ad9ca9157455b4b972cc5e57"
+        },
+        {
+          "name": "Goddess_Janovia",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Goddess_Janovia.gpk",
+          "sha256": "86ef7c299e01417aa19b6167902a7e4de433be099853b6d75bfc7355aaeaa0a4",
+          "size_bytes": 75415,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Goddess_Janovia.gpk",
+          "loose_vanilla_sha256": "1298c96c3522eefbc0a5bf15d4af397368a157100c8d7925d1029de97c5178f5"
+        },
+        {
+          "name": "Goddess_Kaia",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Goddess_Kaia.gpk",
+          "sha256": "0e19320db9e532282c99a3d61856d3ea3120b4ab4f820c6a3e871270bcfda378",
+          "size_bytes": 161528,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Goddess_Kaia.gpk",
+          "loose_vanilla_sha256": "2a3e150884a31fec1aca7868fbda31eb23f328a2656d162b6c528f42e1c3a404"
+        },
+        {
+          "name": "Goddess_Mistel",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Goddess_Mistel.gpk",
+          "sha256": "adec0c022ea1af72d7a31bd4ed39002f1c4a6267c837046aafb24cbdd5dd5b78",
+          "size_bytes": 194523,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Goddess_Mistel.gpk",
+          "loose_vanilla_sha256": "ee7e4cc010469aced6ee57d6d2d70ac17f47c25b50251e4325647939cfcc66a5"
+        },
+        {
+          "name": "Goddess_Velic",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Goddess_Velic.gpk",
+          "sha256": "6c85336a36896504e9910591425b2daaaa0b11cc9b285a86ac86d618395dbaa0",
+          "size_bytes": 166284,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Goddess_Velic.gpk",
+          "loose_vanilla_sha256": "a232a53ee814d4e3080bf80efb739f5f810ac74bd65be93ab4672728c763380f"
+        },
+        {
+          "name": "HighElfF_Girl",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighElfF_Girl.gpk",
+          "sha256": "8eac07f93c456c18162a6a049257802d72c33cabcd602556651ec00ac9c447d7",
+          "size_bytes": 550171,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighElfF_Girl.gpk",
+          "loose_vanilla_sha256": "948e424b1fb189a25b5901139734982b6755a64fb9b7c9740a3dc6ae0f131e41"
+        },
+        {
+          "name": "HighElfF_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighElfF_Old.gpk",
+          "sha256": "76ba166811353eeaadc45c237578d20fe8c132d4181cb91f63f1316b898ddb8a",
+          "size_bytes": 1446336,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighElfF_Old.gpk",
+          "loose_vanilla_sha256": "d0f78a009faaa2cac13b11df9554a6e2641d744297e8725d3bbfecd17573e213"
+        },
+        {
+          "name": "HighElfF_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighElfF_Young.gpk",
+          "sha256": "068a6d1c4caf03a51aec861f17f9aa1c52dc0c99c298fc9b96c35f7da760280e",
+          "size_bytes": 1967972,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighElfF_Young.gpk",
+          "loose_vanilla_sha256": "4eabdf86b1aeffc42130815dfb806ced98ee39cb047c706088dd2d047106f4ed"
+        },
+        {
+          "name": "HighElfF_Young_Demir",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighElfF_Young_Demir.gpk",
+          "sha256": "25150765067df1ddcd61a9e28bf297bc1e929e0ea64853e7cdcd534ce7d5ba67",
+          "size_bytes": 265619,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighElfF_Young_Demir.gpk",
+          "loose_vanilla_sha256": "418c5aba01f5d05fe6ecae852fb413a041d9d1528bf0057c173e427045521df4"
+        },
+        {
+          "name": "HighElfM_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighElfM_Old.gpk",
+          "sha256": "208d394b749b983a5f24869f1b404352b47dda6850f809076ecb25792c0641fb",
+          "size_bytes": 1717301,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighElfM_Old.gpk",
+          "loose_vanilla_sha256": "30f48e28eee0dd45c8323b1f8aa69bb729128b21f191a911626616bf84c9e0aa"
+        },
+        {
+          "name": "HighElfM_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighElfM_Young.gpk",
+          "sha256": "a3585cbe7873b5f7029d869a128dba6dc1d503e302897366a4996d92db84524f",
+          "size_bytes": 2357695,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighElfM_Young.gpk",
+          "loose_vanilla_sha256": "81ed531e00c9506a4c56d9f4de0c531e7f1110345ec05c6206031d87f518ba41"
+        },
+        {
+          "name": "HighelfF_Young_Freya",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfF_Young_Freya.gpk",
+          "sha256": "f3a6c51bee5660ed153736ce1a93867f98006911785fcfa781416b9f382ae6fe",
+          "size_bytes": 81479,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfF_Young_Freya.gpk",
+          "loose_vanilla_sha256": "a827188bce951e21cd743cdd54fb0d302b53bce28880d1bdf82a30a59a5493d8"
+        },
+        {
+          "name": "HighelfM_Dark_Young_Lian",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Dark_Young_Lian.gpk",
+          "sha256": "bbc81da5fc500c81f9d3369d00f78767ead3585b660f811d902b4354b3e4d673",
+          "size_bytes": 176934,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Dark_Young_Lian.gpk",
+          "loose_vanilla_sha256": "4b19802ab399f50155eb31b75f67e23a613b082f8236a923a45b42f0b10425a2"
+        },
+        {
+          "name": "HighelfM_Healed_Elion",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Healed_Elion.gpk",
+          "sha256": "43abeebf1f73b593f5382caf5ee3b6704fcf763c34c941aac305a82d9a21b205",
+          "size_bytes": 150215,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Healed_Elion.gpk",
+          "loose_vanilla_sha256": "ffc2299133de11712778dd4a8b11d70fe6fcb2d906eb2dacda3714276b7e0a33"
+        },
+        {
+          "name": "HighelfM_Old_Ekior",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Old_Ekior.gpk",
+          "sha256": "5631e17d63394318dcac4ca9ec3cc7652a0bbc0c2a7fd460a38a412728c69864",
+          "size_bytes": 144894,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Old_Ekior.gpk",
+          "loose_vanilla_sha256": "487de714cb9dcb3a99387c285d6151aa36027bbb1b1f4406b9974e254c7ad853"
+        },
+        {
+          "name": "HighelfM_Old_Serion",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Old_Serion.gpk",
+          "sha256": "f67bd38206f0b3b51e536f5b7e31dda1d0df3504aa96c7d0a565acf994ad2a39",
+          "size_bytes": 42763,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Old_Serion.gpk",
+          "loose_vanilla_sha256": "5b38c8fe5dc03133e4ff50993de0da8c36dc4e672c81f5bc854dafd2d2e4622a"
+        },
+        {
+          "name": "HighelfM_Young_ElionA",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Young_ElionA.gpk",
+          "sha256": "39aed5c9a3c2a40f01d2f4aecf4d206030b62772dbca3c8c724ee7b1e59ed3a6",
+          "size_bytes": 62729,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Young_ElionA.gpk",
+          "loose_vanilla_sha256": "c8b0d93f0904a0f510f57e028131ca5c8fab2eeef15e86bab951c650ca575cb2"
+        },
+        {
+          "name": "HighelfM_Young_ElionB",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Young_ElionB.gpk",
+          "sha256": "3975cbb6fb795332148ecfeb3e818fbe38522bacc4d717ae753076f4729f8f0e",
+          "size_bytes": 126411,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Young_ElionB.gpk",
+          "loose_vanilla_sha256": "599e7ea04a02796c7bb26fff1f3affd53e4ab013fea5bde1a00dcc02452ae016"
+        },
+        {
+          "name": "HighelfM_Young_Lian",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Young_Lian.gpk",
+          "sha256": "9ce61475f2525e8052f9722dc58f1b809381e1ea83c8acb3b6dad2c61660d7f3",
+          "size_bytes": 163477,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Young_Lian.gpk",
+          "loose_vanilla_sha256": "a0285a1cabe07269716d1c894e9e54c97e68df9563439a09bfdb3113dac9871b"
+        },
+        {
+          "name": "HighelfM_Young_Sephia",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HighelfM_Young_Sephia.gpk",
+          "sha256": "c80205cab402e1382ef7617cb96734a4b51c1ef8171e70b8fee6775c23823811",
+          "size_bytes": 49694,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HighelfM_Young_Sephia.gpk",
+          "loose_vanilla_sha256": "75b12d9f15ebf6e0113748c840eeec7a49a72646109aa821bc3dd35cfea08b0c"
+        },
+        {
+          "name": "HumanF_Girl",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanF_Girl.gpk",
+          "sha256": "14b54075ead28a5c86afd0d782a7beb69dc1c08a956becc0cab854b6f7826adb",
+          "size_bytes": 509154,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanF_Girl.gpk",
+          "loose_vanilla_sha256": "f8644e133cbd6049a0bab8da06d197ff3142e7d0c5ad4538fbd1dc367b34ff80"
+        },
+        {
+          "name": "HumanF_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanF_Old.gpk",
+          "sha256": "97088b0ad0ef694429b25820e3fe1e5f46b99bd90d14ec7c011d1f9885b1e238",
+          "size_bytes": 1227779,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanF_Old.gpk",
+          "loose_vanilla_sha256": "e31dae4281459d060cb92b425a7dd16da21a11177014f62233e18de50fd55e42"
+        },
+        {
+          "name": "HumanF_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanF_Young.gpk",
+          "sha256": "4150b5c4d5a6bd3c51e5b421b9850720709c577ef46937122d0482f2eb784758",
+          "size_bytes": 2500157,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanF_Young.gpk",
+          "loose_vanilla_sha256": "3b4b7953f1be844d53f077c9fa6e540fa02e72e15af92496642789dd17dbff06"
+        },
+        {
+          "name": "HumanF_Young_Ona",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanF_Young_Ona.gpk",
+          "sha256": "f5dd9908758923ed8a91bcd24879ed2ca20280e492f7684c2fcbd5c8779fc1f0",
+          "size_bytes": 141317,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanF_Young_Ona.gpk",
+          "loose_vanilla_sha256": "1abbec4255eace549dd4d2aa1ba8fba4fa89aa56369f24e0ea19c0c7a8b1dddf"
+        },
+        {
+          "name": "HumanF_Young_Refugee",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanF_Young_Refugee.gpk",
+          "sha256": "e455217dc23be7918cd12d81799941569b134bbfbb07fc987d76d1a13e8313cf",
+          "size_bytes": 98526,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanF_Young_Refugee.gpk",
+          "loose_vanilla_sha256": "401038d4cdc8d73178244e20005332d3b8db5f13133c8aee1f467db8b0771284"
+        },
+        {
+          "name": "HumanF_Young_Sibel",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanF_Young_Sibel.gpk",
+          "sha256": "c7dc9e31a97dcdbf6db987b01f56cb2797ee71821672c1d9d5fedc3f2ba795d4",
+          "size_bytes": 98797,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanF_Young_Sibel.gpk",
+          "loose_vanilla_sha256": "7612f8b1b8db107394c56675639e51b3bb0f1b84ab409c005e2bc74ebc50bddc"
+        },
+        {
+          "name": "HumanM_Boy",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Boy.gpk",
+          "sha256": "f4925f982d0e300b2d8f8ef908c3d7c43fb2fdcc7da9619857367d13e174ce6f",
+          "size_bytes": 468603,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Boy.gpk",
+          "loose_vanilla_sha256": "e7582ff48aad821e0740acab01bb36cab80962d8fc6098b39c5dcd1a11e21b58"
+        },
+        {
+          "name": "HumanM_Gray",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Gray.gpk",
+          "sha256": "c7e6a38f76809fc40b15c226ee3bd5fb4901400da28b05fa654a728ed843b16c",
+          "size_bytes": 90716,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Gray.gpk",
+          "loose_vanilla_sha256": "51ac60d6e08095548712d7e65488f28d64f8febfb7de31015ecc46a48ab30aec"
+        },
+        {
+          "name": "HumanM_Lionas",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Lionas.gpk",
+          "sha256": "68c9e87077c7a01943ec75baf407515120167670d60fce328fe821d2649031fc",
+          "size_bytes": 115325,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Lionas.gpk",
+          "loose_vanilla_sha256": "658eb61fbd59ec16079cfd96bf26f370076cc96d146d2f22bf6a9a322c334f44"
+        },
+        {
+          "name": "HumanM_Madard",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Madard.gpk",
+          "sha256": "d4df9b27ec0937e1fbbbb201553176b615b786ae6fa9e8150224040bccc951e5",
+          "size_bytes": 347764,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Madard.gpk",
+          "loose_vanilla_sha256": "a436d07d201da3237cc1c95ccf3ca65f0352a5d77fc0a23361a7bf138bda8c5d"
+        },
+        {
+          "name": "HumanM_MadardDurion",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_MadardDurion.gpk",
+          "sha256": "65808249888a23d8ef7cf388e2fd3f7b086b99b7bfa59ba063f852d11b38c7a5",
+          "size_bytes": 245741,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_MadardDurion.gpk",
+          "loose_vanilla_sha256": "19f120b40908701318bac3eed25dc30d891748a880428bc0da53030ef21547f6"
+        },
+        {
+          "name": "HumanM_Old",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Old.gpk",
+          "sha256": "df9d1799b0a7e35c016b81976ba5936404122c063aebb0152c33b1cf22720da4",
+          "size_bytes": 2252804,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Old.gpk",
+          "loose_vanilla_sha256": "581060d01367f4a69a8fae30952102a490e68e336575be4df51089748ed88ba9"
+        },
+        {
+          "name": "HumanM_Old_Graham",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Old_Graham.gpk",
+          "sha256": "96827d07af97e67a77e96483ac6eaf0efa8299e5af989ca8a895f8c30d7f1a94",
+          "size_bytes": 155990,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Old_Graham.gpk",
+          "loose_vanilla_sha256": "ecc62310059a92bdd94f7f4caafbe5d61555373c3bbedac662862f6085ed9620"
+        },
+        {
+          "name": "HumanM_Old_Malaki",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Old_Malaki.gpk",
+          "sha256": "c9922b1d0dfc608bf84f071b7ffa1ca1be4459be76bd5632d3e60b4984fa32c0",
+          "size_bytes": 56613,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Old_Malaki.gpk",
+          "loose_vanilla_sha256": "37fa8c90ddd16c3ee7f6cf1aa5a433c6ddbe77aa56de7ff1e6d3d790c1d3e11a"
+        },
+        {
+          "name": "HumanM_Old_Samael",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Old_Samael.gpk",
+          "sha256": "e0ea1327c9219f31d07c2edda4dcd2c96a3cdaa123caf4105959be96303694ab",
+          "size_bytes": 220392,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Old_Samael.gpk",
+          "loose_vanilla_sha256": "09443abb67ad2a6eb48347450923a865f52efe1d005782bf4092745d2d16610d"
+        },
+        {
+          "name": "HumanM_Rodos",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Rodos.gpk",
+          "sha256": "a4b74c7e5aa837688d229a7eb1eb1b7b36df5e60adf1a30d431e31be06b3de20",
+          "size_bytes": 198828,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Rodos.gpk",
+          "loose_vanilla_sha256": "113bace6be0276e350e95e07388bd57cc6fdb7f25ec426f1dbcd2cbd4eb2c158"
+        },
+        {
+          "name": "HumanM_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Young.gpk",
+          "sha256": "8a6fb7c63b6a74629a00eec8f772f71774a033697fef8c57ade756aad0d8a8ab",
+          "size_bytes": 3037016,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Young.gpk",
+          "loose_vanilla_sha256": "120841ca301ea739d0b91431452ab2419e977472017a1c63c6d0112304da5b07"
+        },
+        {
+          "name": "HumanM_Young_Geliad",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Young_Geliad.gpk",
+          "sha256": "836356dec369bb38ebb299a0d9eaee9632c99d943647523ed552a9e5f23b25d4",
+          "size_bytes": 263066,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Young_Geliad.gpk",
+          "loose_vanilla_sha256": "aa94cf0b66517ac394e5b85a043e94af46e0386a3795e428ad4b3c152ae5f77b"
+        },
+        {
+          "name": "HumanM_Young_Gilbert",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Young_Gilbert.gpk",
+          "sha256": "17eaa7aa6be912e367de883f1b43dca5fef8ac8980d5545e299214f6e3643f08",
+          "size_bytes": 66702,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Young_Gilbert.gpk",
+          "loose_vanilla_sha256": "e4edd86ec80da780e4022696a5b8c82736f8979e4cf3aac01604b234b4300214"
+        },
+        {
+          "name": "HumanM_Young_Refugee",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Young_Refugee.gpk",
+          "sha256": "6cc3d90c37c0cf536f2c43ae1d517d3bb770611a2bd9af97d5ccf043e3f27810",
+          "size_bytes": 97276,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Young_Refugee.gpk",
+          "loose_vanilla_sha256": "0d68292302427267f0c605cce5ba96dcf70c2a3bf2fbf3705b2a02ae15f3b443"
+        },
+        {
+          "name": "HumanM_Young_Survivor",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__HumanM_Young_Survivor.gpk",
+          "sha256": "d70116e7b0ec2d2fbb8dd730b602bdba1be8ac20bb1c8e7399acba1d86d221cf",
+          "size_bytes": 78756,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/HumanM_Young_Survivor.gpk",
+          "loose_vanilla_sha256": "2cad28131d9013cf7bd8605d1cadef164a77bb2d8ed402d30bea98d9dd5d0683"
+        },
+        {
+          "name": "Monster_Arkus",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Arkus.gpk",
+          "sha256": "b9b16bc30449f0b2db030fe8f51c696d0dff91649732a7a3a021ef4ab71dedac",
+          "size_bytes": 102959,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Arkus.gpk",
+          "loose_vanilla_sha256": "448ce645d71e5621cbc45ca6932d253c5bef896b9b50c0051fad48832626e095"
+        },
+        {
+          "name": "Monster_Centaurs",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Centaurs.gpk",
+          "sha256": "674c32127ee3725b62b8a040dde74a31c6d0237aee4232e806a97763b804f9e6",
+          "size_bytes": 111637,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Centaurs.gpk",
+          "loose_vanilla_sha256": "d06d8234f19b0b930bb2cd086b0cf2ad98332ca427c87ea5b7aed24469454164"
+        },
+        {
+          "name": "Monster_Ceravi",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Ceravi.gpk",
+          "sha256": "13b96fa811a1320f20f146d7c50c19160d6af9efa4b9e9640ec4e9dfc34a601e",
+          "size_bytes": 81394,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Ceravi.gpk",
+          "loose_vanilla_sha256": "0e4580933cbe01be94b5f70684975e9f0701c6f76d57e2e655da5f37ac13be32"
+        },
+        {
+          "name": "Monster_DarkWitchMaster1",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_DarkWitchMaster1.gpk",
+          "sha256": "dab63ab4bd6c520a75bb05e6aa62e6e4354e5543982175f28506a16a7fddd850",
+          "size_bytes": 90268,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_DarkWitchMaster1.gpk",
+          "loose_vanilla_sha256": "0ea4e6da42db53c5e9546a5688d01209d704f2b55ce36e51ee6b274bf1e741e5"
+        },
+        {
+          "name": "Monster_DarkWitchMaster2",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_DarkWitchMaster2.gpk",
+          "sha256": "923e7223f8b503b6a691cb97ad86ffbf411545af902bf4175c44f63763f51947",
+          "size_bytes": 90268,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_DarkWitchMaster2.gpk",
+          "loose_vanilla_sha256": "06a0d1ee4432971c221457a4efba2fe37ff5178707580b74c5263659da429aaa"
+        },
+        {
+          "name": "Monster_DarkWitchMaster3",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_DarkWitchMaster3.gpk",
+          "sha256": "748c75c982dab0a25b6eed112e6d9ef4ece6219178d6fd9ab08815e8675c6d12",
+          "size_bytes": 90268,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_DarkWitchMaster3.gpk",
+          "loose_vanilla_sha256": "4f21c64a703d806b19402a804bbf2d2eb7f7912cd650152cb2eab8fcf114f124"
+        },
+        {
+          "name": "Monster_DarkWitchMaster4",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_DarkWitchMaster4.gpk",
+          "sha256": "b5e6861bae865b22c48bd411dbb2f141014a52d425b1f9afe8a8895771b24339",
+          "size_bytes": 90268,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_DarkWitchMaster4.gpk",
+          "loose_vanilla_sha256": "d268a21d777fadb8e7bea56240e854ee1d154ecfca23e51271755c0308d680e8"
+        },
+        {
+          "name": "Monster_Dog",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Dog.gpk",
+          "sha256": "f4d39eaf5b88cc5b064487e9e3a13c6e0751d8ca8f84554465d043415d898ce1",
+          "size_bytes": 493234,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Dog.gpk",
+          "loose_vanilla_sha256": "61088c730d1d19d3e2583f94e2888cbefbd0850a6801b8458bb877d3db0655ef"
+        },
+        {
+          "name": "Monster_FrostGiantJarl",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_FrostGiantJarl.gpk",
+          "sha256": "87bbcf42dad262d3d24421f12198c1a34014cf8df3aef159d7fe15af606baea1",
+          "size_bytes": 78002,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_FrostGiantJarl.gpk",
+          "loose_vanilla_sha256": "fb4e8b63bdff5deb37a5263d44ae2a75864f5cdfab0bca94a6a82af8d618c95d"
+        },
+        {
+          "name": "Monster_Gagasu",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Gagasu.gpk",
+          "sha256": "14e020959e23fb4ecf2e4cb2c7d0bfaef28667ede57095cfc0adef6ad24f0bd4",
+          "size_bytes": 130632,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Gagasu.gpk",
+          "loose_vanilla_sha256": "f6c0186070746c66d0d8c1ae6a4eff12146614ed60af3338d31203682ccd203a"
+        },
+        {
+          "name": "Monster_Goblin",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Goblin.gpk",
+          "sha256": "371961de5e6f35bad1cff715001e0a0e43a180c01b0b814ab9c9199770db52ab",
+          "size_bytes": 68535,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Goblin.gpk",
+          "loose_vanilla_sha256": "4875b63e853837334269a39dabe738185c681293178c270c34e89695c1ad1f4c"
+        },
+        {
+          "name": "Monster_Hooka",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Hooka.gpk",
+          "sha256": "97644faf4c8a9b4b9dbe1edbef3954048d41818fb58b71e4322a0dc62a7405e0",
+          "size_bytes": 77061,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Hooka.gpk",
+          "loose_vanilla_sha256": "637ed0ab9294ae0fd3cee6e3b81b6994f1c48be55187e2390e86b0c332bf9d18"
+        },
+        {
+          "name": "Monster_HookaKing",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_HookaKing.gpk",
+          "sha256": "c142afd08d124b4f7042ea85fcc55ec7699a74be66f1332658e1ec39a0818d51",
+          "size_bytes": 98508,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_HookaKing.gpk",
+          "loose_vanilla_sha256": "25ee17b60581f2bec466aed329d6c7b1b7bec23d4c185c09a5120e4a34dd1734"
+        },
+        {
+          "name": "Monster_ManEater1",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_ManEater1.gpk",
+          "sha256": "3dd5018aa264dca0f9bf8e34290fe5e85dea1ea873d8c0d4f019bbd244b5f8e3",
+          "size_bytes": 84217,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_ManEater1.gpk",
+          "loose_vanilla_sha256": "ca788618f77bf93c27f14bea072f4e160896ef775d436ae3c47c4a3434e24465"
+        },
+        {
+          "name": "Monster_ManEater2",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_ManEater2.gpk",
+          "sha256": "6e3cb66e2ba4058be2e6487098430653f9fdb24182af5ffd99c3f4a9032aac05",
+          "size_bytes": 53612,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_ManEater2.gpk",
+          "loose_vanilla_sha256": "fd11a86836903e093fc545e6eedcf4aa9edc6eb090a8c54a87c29063326e03ac"
+        },
+        {
+          "name": "Monster_ManEater3",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_ManEater3.gpk",
+          "sha256": "5d0e7ee65827ebd6bd4a180e09f57bfa17a5b61303ca1eea43d5ddf168346a6d",
+          "size_bytes": 84217,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_ManEater3.gpk",
+          "loose_vanilla_sha256": "9abdd302f0abc83b40fe0594c7889312cb0d9892f386a7e3a86664877c298942"
+        },
+        {
+          "name": "Monster_NympiWarrior1",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_NympiWarrior1.gpk",
+          "sha256": "9f1477b1ab449eb474cfcf0e4621b595e4024f7b984bc692ef89cdf3c0e3ffc5",
+          "size_bytes": 57771,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_NympiWarrior1.gpk",
+          "loose_vanilla_sha256": "431b521b89fea7356567ce5a2e4d416db7045ab3b4393b6e957f902914c32253"
+        },
+        {
+          "name": "Monster_NympiWarrior2",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_NympiWarrior2.gpk",
+          "sha256": "5195d9356f4a020881367e43b0f4b553ed55e40610a2110a336d611cedd73a35",
+          "size_bytes": 57771,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_NympiWarrior2.gpk",
+          "loose_vanilla_sha256": "a242606a4ca6ce8503b022384364b469fd45b1802b884cee7e37d650b5613491"
+        },
+        {
+          "name": "Monster_NympiWarrior3",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_NympiWarrior3.gpk",
+          "sha256": "f80b02add1c4269366c5e5f3e8075e30f692aea342de3a3f716737366d029a96",
+          "size_bytes": 57771,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_NympiWarrior3.gpk",
+          "loose_vanilla_sha256": "4bda7b19f72e79790209ebb85141e4327ab9d8ceb5bc25d083549b9d542b5a55"
+        },
+        {
+          "name": "Monster_Orcan",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Orcan.gpk",
+          "sha256": "cba54fcd72587d0944aa87e838a64a78042bfd0f16d626c14fdb9b942202c1e4",
+          "size_bytes": 93104,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Orcan.gpk",
+          "loose_vanilla_sha256": "26d030b6433fdc05d6c95e7b5940038a815322d577016a5f81a29a2f5d7b0bc1"
+        },
+        {
+          "name": "Monster_Orpheus",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Orpheus.gpk",
+          "sha256": "e96452d07e683b92ba94a60b90e6efbd0d5f98ff99d94cfe4dabd053c1036e9c",
+          "size_bytes": 68837,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Orpheus.gpk",
+          "loose_vanilla_sha256": "1372a25cc1580662e4080839d81f08ec8ddea9e52c10ddb416eb333e874ae545"
+        },
+        {
+          "name": "Monster_Pixie1",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Pixie1.gpk",
+          "sha256": "30343a9ac4a504fb1a12aa2edce9b946dd9e624e79a31dfd9d1c7639a8ebe550",
+          "size_bytes": 24398,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Pixie1.gpk",
+          "loose_vanilla_sha256": "7586535de2292444ae44c7d6e94ef7cfe752ad41746ff8caa35c9e825b9a95ab"
+        },
+        {
+          "name": "Monster_Pixie2",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Pixie2.gpk",
+          "sha256": "3aede3e6459fa667441b5776dd4894b522cda20c7a291d274462503213f12ec0",
+          "size_bytes": 24398,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Pixie2.gpk",
+          "loose_vanilla_sha256": "18a023616a351734d3ff79834b4ca5cfbaedc0f0e8f9a4abdb9c8a1d8d013ddb"
+        },
+        {
+          "name": "Monster_Pixie3",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Pixie3.gpk",
+          "sha256": "459d2d43b741e8591ffa23f8f554220b69a972eb96627588361d5f2147224e51",
+          "size_bytes": 24398,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Pixie3.gpk",
+          "loose_vanilla_sha256": "2db783fcbdf8f8535ffb937e285decf3b2ee2c59c76eeb06ac2c34723c9cd24a"
+        },
+        {
+          "name": "Monster_PrionMadman",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_PrionMadman.gpk",
+          "sha256": "8b7d5280ae52774ced67d281887ebb95a93af4ae9cac2cbe0b905b4c4ebe798b",
+          "size_bytes": 83648,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_PrionMadman.gpk",
+          "loose_vanilla_sha256": "1fd663ffec48acc8219f76864b4d13f933024ddcb3b5409ebb5aaa63ceddeef4"
+        },
+        {
+          "name": "Monster_Ssalissali1",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Ssalissali1.gpk",
+          "sha256": "fc9dda7b1818bd4b4a606964a9fc632e27af095eaf5f360b6f10b288f6f76839",
+          "size_bytes": 56229,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Ssalissali1.gpk",
+          "loose_vanilla_sha256": "966a1e4a8d4dcc9516ccc7da8a046b6312a24e9c89cab4caec2754991c8225a4"
+        },
+        {
+          "name": "Monster_Ssalissali2",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Ssalissali2.gpk",
+          "sha256": "ad04fba56ddcd801cdeaaaa721f153cac9641702575de8e7137a11445385573b",
+          "size_bytes": 56229,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Ssalissali2.gpk",
+          "loose_vanilla_sha256": "9ae9948623b4424df6e31c4595580c1f208d76d01706fb0ed977adf54fbb86ba"
+        },
+        {
+          "name": "Monster_Ssilssaliking",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Ssilssaliking.gpk",
+          "sha256": "a5c4130ca46dbb4da2cc8f9c181a9d4a52c4fbbca5594b5d0db5a1a7dbde58b0",
+          "size_bytes": 224532,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Ssilssaliking.gpk",
+          "loose_vanilla_sha256": "e3f6e939c4bacbf5fb8d668b99f55b1337c2c6fe07a74c32df0239a296775e10"
+        },
+        {
+          "name": "Monster_Volcanus",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_Volcanus.gpk",
+          "sha256": "4f05f0ad966be5daee94f8145ef4edf4a38e183abbd2d74269e06bb4b030e2a1",
+          "size_bytes": 82867,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_Volcanus.gpk",
+          "loose_vanilla_sha256": "f0cb31f1b8521dc3701bf57177a36adda797305164c1f92dc15a4101c2b5a567"
+        },
+        {
+          "name": "Monster_WendigoShaman",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_WendigoShaman.gpk",
+          "sha256": "939231ced66ac69c0f9b70a4146c0b9740f3f0ea99411022bccc12fd1a9611b5",
+          "size_bytes": 127854,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_WendigoShaman.gpk",
+          "loose_vanilla_sha256": "c56148942fcd2e476f0982c3147929e4fea9611feca3ead08d6acaf3fc6b2f06"
+        },
+        {
+          "name": "Monster_WendigoWarrior",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_WendigoWarrior.gpk",
+          "sha256": "b30bb34b7ec100a4a2cbbaac259c320af3665a3aa462587cf76bca0767865343",
+          "size_bytes": 163862,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_WendigoWarrior.gpk",
+          "loose_vanilla_sha256": "b7aafb6f768fd2d3c4eab643d162e35b39e5d944fb18bcd7e8883b671bff5e06"
+        },
+        {
+          "name": "Monster_YoungCentaurs",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_YoungCentaurs.gpk",
+          "sha256": "8d64edafacf6f580f634ea5ba6e1582e6748bee6a866292d4a8fda5bdd1b63fa",
+          "size_bytes": 111672,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_YoungCentaurs.gpk",
+          "loose_vanilla_sha256": "8839b109c7919e5096b8eace8721edd260f0dcb8cf51bc8ae6bc457c5f691ddd"
+        },
+        {
+          "name": "Monster_witch",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Monster_witch.gpk",
+          "sha256": "78d6e2ce095347611dc101eb984220219cdf65afae1b0715fc05aeb2c66a2891",
+          "size_bytes": 52307,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Monster_witch.gpk",
+          "loose_vanilla_sha256": "179387fda89817ba647cbc43e521570677ba2886388234358bb8f86893c34d4c"
+        },
+        {
+          "name": "NPC_HighDragon",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__NPC_HighDragon.gpk",
+          "sha256": "5a735e86e13c6ebfa2dfc712efeebad5112d1bcdb9aa89f4ce52cd012bfa021d",
+          "size_bytes": 2615978,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/NPC_HighDragon.gpk",
+          "loose_vanilla_sha256": "0553afc604203c2b5d5fae8bff4b5fb9992548398368da05dfd3e6e67200c424"
+        },
+        {
+          "name": "NPC_Naga",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__NPC_Naga.gpk",
+          "sha256": "fa4cc0efcc6e153b4faf96e6ca62f842e93bd59ff37bf9217b2d7c947210d263",
+          "size_bytes": 9447694,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/NPC_Naga.gpk",
+          "loose_vanilla_sha256": "7b642f4a2010eb1c214b8a043856352ca5ca3fb62e7463e763ded61f10c01347"
+        },
+        {
+          "name": "NPC_Unique_Interaction",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__NPC_Unique_Interaction.gpk",
+          "sha256": "d62a61f96d5761837564113d18a707e8ec5bd4803128b47a945ae58745a648f4",
+          "size_bytes": 2123182,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/NPC_Unique_Interaction.gpk",
+          "loose_vanilla_sha256": "50a426ed5ba62276bfaed62cb29883ffbd7d872806871e6d73c7d02231fba73b"
+        },
+        {
+          "name": "PoporiF_Sioz",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiF_Sioz.gpk",
+          "sha256": "26e17f8162402f14a13a28ad3905486b40e0a0b432d9adae19ecbad0c3fb1b78",
+          "size_bytes": 193793,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiF_Sioz.gpk",
+          "loose_vanilla_sha256": "c466d7b093bf11ac9e296de59f295ca5fcc71fba2372a1a1b4112383c4e4475a"
+        },
+        {
+          "name": "PoporiF_Yasring",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiF_Yasring.gpk",
+          "sha256": "38cc8951563b478f5e46dab8ea0f8e89224e2d7480df950b9985710c18ef1bbc",
+          "size_bytes": 83475,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiF_Yasring.gpk",
+          "loose_vanilla_sha256": "94357925a526cd3439731d1bc04e9ab1608164430007756cf872531e078a0058"
+        },
+        {
+          "name": "PoporiF_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiF_Young.gpk",
+          "sha256": "c6b9a56ecc1a9fe325e88f54347da066d342481336f56b7188d20a084f3f3b38",
+          "size_bytes": 2847389,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiF_Young.gpk",
+          "loose_vanilla_sha256": "97fd5cf1feb6bfcf80e20399b726da6a091c8ca2bed286ad3a3c17672d64cd9f"
+        },
+        {
+          "name": "PoporiF_Young_Arin",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiF_Young_Arin.gpk",
+          "sha256": "8ed0c9254d13cc917990a71cf0add56d3f07afeb561826091c1c1b278b427e7d",
+          "size_bytes": 96785,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiF_Young_Arin.gpk",
+          "loose_vanilla_sha256": "4df0b03b17b62757be1dd86bcf1953fd39e394102b8316c84279ff801af03f79"
+        },
+        {
+          "name": "PoporiF_Young_Lida",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiF_Young_Lida.gpk",
+          "sha256": "57cac5ef2974087420e01964c10e2b4d8692fc47f64ef364856057cf6df0d912",
+          "size_bytes": 93033,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiF_Young_Lida.gpk",
+          "loose_vanilla_sha256": "2f8518dafdfd0530b0f1c1cffdb5b196172d932c9f718705420c9015155bb2ea"
+        },
+        {
+          "name": "PoporiM_Boy",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiM_Boy.gpk",
+          "sha256": "0beb0478283ed77280f21466e2d4633fbe0a92fb1150363ca32a1eab3a1f1cb1",
+          "size_bytes": 1409617,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiM_Boy.gpk",
+          "loose_vanilla_sha256": "b08229e9321fb6b6e75ca1a5181112a391583a0fc2877630a9dc72b257ac0025"
+        },
+        {
+          "name": "PoporiM_Poarong",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiM_Poarong.gpk",
+          "sha256": "4e1f003888fb96a18b962afe4110f397ad239987e5969c0b5989516fe5cea84c",
+          "size_bytes": 304500,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiM_Poarong.gpk",
+          "loose_vanilla_sha256": "bada994e7f0d61eed39bdc689ccda62cd68cfc188f3745d99d53393a36868029"
+        },
+        {
+          "name": "PoporiM_Young",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__PoporiM_Young.gpk",
+          "sha256": "794984cbdd5f683a11cc1151a3c5bd05769f6cf0cc9ebe59b60b7fa307ae6aa5",
+          "size_bytes": 4660070,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/PoporiM_Young.gpk",
+          "loose_vanilla_sha256": "003758bd59f393f102683b8241d5c0a46e393a7ae91dc05baedb53eb47a8e7d0"
+        },
+        {
+          "name": "Spirit_Isrenia",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__Spirit_Isrenia.gpk",
+          "sha256": "b5fea66928ddbb0fe9c66257b467d9bcd391ec11f3d8bbce4150d764b3a90284",
+          "size_bytes": 116929,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/Spirit_Isrenia.gpk",
+          "loose_vanilla_sha256": "9c29731a03d88ea75f46482f2596f4118c9878b1531dee91b8dd9652e77c39b8"
+        },
+        {
+          "name": "humanM_MadGislan",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__humanM_MadGislan.gpk",
+          "sha256": "acb475b1fc3aaa32ed691cb65d02a49796abd4a1cdb05cad88f73dcac56c4534",
+          "size_bytes": 137043,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/humanM_MadGislan.gpk",
+          "loose_vanilla_sha256": "91c031f645b3efd67acd9bd6b9a60216a8a91b5f44f5fdd6910dc77c37648138"
+        },
+        {
+          "name": "humanM_NormalGislan",
+          "deploy_strategy": "loose_replace",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-jp-voice-pack/jpvoice__humanM_NormalGislan.gpk",
+          "sha256": "0265ce4f7f1af92c8802f0cb74ff89af9983b1eed31f48b6264007476b6385fb",
+          "size_bytes": 112205,
+          "target_loose_path": "Sound_Data/Packages/NPCSpeechVoice/humanM_NormalGislan.gpk",
+          "loose_vanilla_sha256": "0596bf9a30f5f1f5d7d08e4f860e5e5d52dc10d487247fdca8ba31ed6dd9cd44"
+        }
+      ],
+      "replaces": "Replaces 122 NPC speech-voice packages (Sound_Data/Packages/NPCSpeechVoice/*.gpk) with Japanese voices. Check: talk to an NPC (e.g. Viki) and confirm Japanese audio.",
+      "compatibility_notes": "Only the 122 NPCs present in v100.02 are included (JP-only NPCs excluded). Reversible on uninstall.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert; loose_replace; in-game audio pending)"
     }
   ]
 }
