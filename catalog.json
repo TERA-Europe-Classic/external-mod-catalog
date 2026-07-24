@@ -17887,17 +17887,28 @@
    ],
    "deploy_strategy": "decal_patch",
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/decal-face-designs-v1/pantypon-elin-face-9-adornment-2-black-doll.dxt",
-   "sha256": "1743631caac1c21212f371fd8dc31896f09ec9a33543f162ea7967448bbb1589",
+   "sha256": "7a72870de4b95c84f3fa6addb8d3f11c7cac9b50f87053044af79bda6855052b",
    "parts": [
     {
-     "name": "decal",
+     "name": "decal-copy-0",
      "deploy_strategy": "decal_patch",
      "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/decal-face-designs-v1/pantypon-elin-face-9-adornment-2-black-doll.dxt",
-     "sha256": "1743631caac1c21212f371fd8dc31896f09ec9a33543f162ea7967448bbb1589",
+     "sha256": "7a72870de4b95c84f3fa6addb8d3f11c7cac9b50f87053044af79bda6855052b",
      "size_bytes": 262144,
      "target_loose_path": "Art_Data/Packages/CH/PC/PC_Decal.gpk",
      "loose_vanilla_sha256": "1743631caac1c21212f371fd8dc31896f09ec9a33543f162ea7967448bbb1589",
      "decal_offset": 904316,
+     "decal_len": 262144
+    },
+    {
+     "name": "decal-copy-1",
+     "deploy_strategy": "decal_patch",
+     "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/decal-face-designs-v1/pantypon-elin-face-9-adornment-2-black-doll.dxt",
+     "sha256": "7a72870de4b95c84f3fa6addb8d3f11c7cac9b50f87053044af79bda6855052b",
+     "size_bytes": 262144,
+     "target_loose_path": "Art_Data/Packages/CH/PC/PC_Decal.gpk",
+     "loose_vanilla_sha256": "1743631caac1c21212f371fd8dc31896f09ec9a33543f162ea7967448bbb1589",
+     "decal_offset": 271695764,
      "decal_len": 262144
     }
    ],
@@ -18359,6 +18370,55 @@
    ],
    "featured_image": "https://64.media.tumblr.com/a599042bc511fd906cf402c7478d290b/tumblr_opoexrMxTC1vlaz4ko1_1280.png",
    "icon_url": "https://64.media.tumblr.com/a599042bc511fd906cf402c7478d290b/tumblr_opoexrMxTC1vlaz4ko1_1280.png"
+  },
+  {
+   "id": "zephyia.amber-queen-face-8-adornment",
+   "kind": "gpk",
+   "name": "Amber Queen (Face 8 Adornment)",
+   "author": "zephyia",
+   "short_description": "Custom face decal for Elin (Popori) female — a fan design by zephyia.",
+   "long_description": "**Replaces:** the `Decal_popori_F_AI0002` face-adornment decal for Elin (Popori) female in `PC_Decal`. Check: character-creation / salon face-adornment slot (Face 8) for Elin.\n\nA community face-decal design by **zephyia**. Ported to v100 with the `decal_patch` strategy: only this decal's pixels are overwritten in the shared atlas (both duplicate copies), so every other v100 decal is untouched and the change is fully reversible. Source: zephyia's tumblr (crawled 2026-07-24).",
+   "category": "Eyes & Face",
+   "license": "Unknown",
+   "credits": "Original face-decal design by zephyia (https://zephyia.tumblr.com). Rehosted for the TERA Europe Classic+ launcher; if you are the creator and want this reattributed or removed, open an issue on TERA-Europe-Classic/external-mod-catalog.",
+   "version": "1.0.0",
+   "compatible_arch": "x64",
+   "replaces": "Decal_popori_F_AI0002 (Elin female Face 8 adornment) — Check: salon face-adornment slot",
+   "tags": [
+    "decal",
+    "face",
+    "eyes-face",
+    "zephyia"
+   ],
+   "deploy_strategy": "decal_patch",
+   "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/decal-face-designs-v1/zephyia-amber-queen-face-8.dxt",
+   "sha256": "e09f05d2554ae02bd92ac2e69c13b1b2e911ed5bfae572dcbe8157ab36147366",
+   "parts": [
+    {
+     "name": "decal-copy-0",
+     "deploy_strategy": "decal_patch",
+     "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/decal-face-designs-v1/zephyia-amber-queen-face-8.dxt",
+     "sha256": "e09f05d2554ae02bd92ac2e69c13b1b2e911ed5bfae572dcbe8157ab36147366",
+     "size_bytes": 262144,
+     "target_loose_path": "Art_Data/Packages/CH/PC/PC_Decal.gpk",
+     "loose_vanilla_sha256": "1d7c2fcb9e009f51f0cbd102565a269472aa3db35080947ec4e82d12e9ff06ed",
+     "decal_offset": 1167220,
+     "decal_len": 262144
+    },
+    {
+     "name": "decal-copy-1",
+     "deploy_strategy": "decal_patch",
+     "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/decal-face-designs-v1/zephyia-amber-queen-face-8.dxt",
+     "sha256": "e09f05d2554ae02bd92ac2e69c13b1b2e911ed5bfae572dcbe8157ab36147366",
+     "size_bytes": 262144,
+     "target_loose_path": "Art_Data/Packages/CH/PC/PC_Decal.gpk",
+     "loose_vanilla_sha256": "1d7c2fcb9e009f51f0cbd102565a269472aa3db35080947ec4e82d12e9ff06ed",
+     "decal_offset": 271958748,
+     "decal_len": 262144
+    }
+   ],
+   "featured_image": "https://64.media.tumblr.com/47343145b94862571c658c42815ebc1d/a40a05a6a7e5d8d7-01/s1280x1920/8da378cca9d479567808e394f980c12b0bfd492f.jpg",
+   "icon_url": "https://64.media.tumblr.com/47343145b94862571c658c42815ebc1d/a40a05a6a7e5d8d7-01/s1280x1920/8da378cca9d479567808e394f980c12b0bfd492f.jpg"
   }
  ]
 }
