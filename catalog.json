@@ -26,7 +26,10 @@
    "download_count": 0,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
-   "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkAAsBMJYwAAudTxwAAAP74UZD8SR5lKEKt3fg4qTkoqs6fzxugwAA="
+   "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkAAsBMJYwAAudTxwAAAP74UZD8SR5lKEKt3fg4qTkoqs6fzxugwAA=",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp"
+   ]
   },
   {
    "id": "classicplus.tcc",
@@ -52,7 +55,10 @@
    "last_verified_patch": "patch 115",
    "download_count": 0,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
-   "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkAAsBMJYwAAudPAYgAAP74Z/dzjGhLaH8C+YT5e68HvPG6K4AA"
+   "blur_data": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAQCdASoQAAkAAsBMJYwAAudPAYgAAP74Z/dzjGhLaH8C+YT5e68HvPG6K4AA",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp"
+   ]
   },
   {
    "id": "yupi.elin-matching-ears-tails",
@@ -123,7 +129,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACwAQCdASoQAA8AAsBMJbACdABzeQ9QAP63CQV3F+gKPa/eK0s5RjexmH2kqpml7/EPsDbC50Clun7EVeW1P8+fAQJYqk3YjES3jKkahicAkYzN1A+RD3E+yASd7ItNjKWqoHnzXZlWAA==",
    "replaces": "Replaces the Elin variant of the PC_Event_16 costume set — items such as Popori Titan Force Costume (#81153); Elin Devilicious Costume (#81159); Dyeable Popori Titan Force Costume (#200120). Check: preview/wear that costume (Devilicious costume line).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.genshin-mona/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.genshin-mona/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.genshin-mona/thumb.webp"
+   ]
   },
   {
    "id": "yupi.happy-summer-pink",
@@ -160,7 +169,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAsAAsBMJYwCdAEfUreob5yAAP73Yfr/SqG7/drvvUr0wQArrKZPgownXncHFTF074M/OUGpqCRPC5c9PNPHoY/qMdGdGw6RkLKygC6kwqGgAAA=",
    "replaces": "Replaces the Elin variant of the PC_Event_58 costume set — items such as Lifeguard Outfit (Popori) (#256016); Diving Suit (Popori) (#256028); Ostgarath Beauty (Elin) (#256040). Check: preview/wear that costume (summer 'Designer' costume line).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-pink/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-pink/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-pink/thumb.webp"
+   ]
   },
   {
    "id": "yupi.happy-summer-yellow",
@@ -197,7 +209,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAsAAsBMJYwCdAEfUreob5yAAP73Yfr/SqG7/drvvUr0wQArrKZPgownXncHFTF074M/OUGpqCRPC5c9PNPHoY/qMdGdGw6RkLKygC6kwqGgAAA=",
    "replaces": "Replaces the Elin variant of the PC_Event_58 costume set — items such as Lifeguard Outfit (Popori) (#256016); Diving Suit (Popori) (#256028); Ostgarath Beauty (Elin) (#256040). Check: preview/wear that costume (summer 'Designer' costume line).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-yellow/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-yellow/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-yellow/thumb.webp"
+   ]
   },
   {
    "id": "yupi.happy-summer-blue",
@@ -234,7 +249,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQAAsAAsBMJYwCdAEfUreob5yAAP73Yfr/SqG7/drvvUr0wQArrKZPgownXncHFTF074M/OUGpqCRPC5c9PNPHoY/qMdGdGw6RkLKygC6kwqGgAAA=",
    "replaces": "Replaces the Elin variant of the PC_Event_58 costume set — items such as Lifeguard Outfit (Popori) (#256016); Diving Suit (Popori) (#256028); Ostgarath Beauty (Elin) (#256040). Check: preview/wear that costume (summer 'Designer' costume line).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-blue/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-blue/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.happy-summer-blue/thumb.webp"
+   ]
   },
   {
    "id": "yupi.bns-plate-armor",
@@ -271,7 +289,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAoAAsBMJZQCw7YuvK9HY8atgAD+4oiuLlEoUHU+Q8l9rOyY+RX30iIX5AcQhIPTreUfJ9+qwCrj6FklZ8sTaX47gODtqPi0pfsiC+v6U2WdSuuGY7FF560BisYgZwAAAA==",
    "replaces": "Replaces the Elin variant of the PC_Event_55 costume set — items such as Resolute Plate Armor (Popori) (#254684); Enlightenment Plate Armor (Popori) (#254696); Resolute Plate Armor (Elin) (#254708). Check: preview/wear that costume (Enlightenment Plate Armor).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-armor/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-armor/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-armor/thumb.webp"
+   ]
   },
   {
    "id": "yupi.bns-plate-heavy-metal",
@@ -308,7 +329,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAoAAsBMJZQCw7YuvK9HY8atgAD+4oiuLlEoUHU+Q8l9rOyY+RX30iIX5AcQhIPTreUfJ9+qwCrj6FklZ8sTaX47gODtqPi0pfsiC+v6U2WdSuuGY7FF560BisYgZwAAAA==",
    "replaces": "Replaces the Elin variant of the PC_Event_32 costume set — items such as Popori Varsity Blue Dogs Outfit (#280376); Elin Varsity Blue Dogs Outfit (#280377); Popori Castanica Demons Outfit (#280387). Check: preview/wear that costume (Heavy Metal Star).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-heavy-metal/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-heavy-metal/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-heavy-metal/thumb.webp"
+   ]
   },
   {
    "id": "yupi.bns-plate-woden-thunor",
@@ -345,7 +369,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAoAAsBMJZQCw7YuvK9HY8atgAD+4oiuLlEoUHU+Q8l9rOyY+RX30iIX5AcQhIPTreUfJ9+qwCrj6FklZ8sTaX47gODtqPi0pfsiC+v6U2WdSuuGY7FF560BisYgZwAAAA==",
    "replaces": "Replaces the Elin variant of the PC_Event_101 costume set — items such as Thunor’s Armor (Popori) (#271118); Woden’s Armor (Popori) (#271125); Thunor’s Armor (Elin) (#271132). Check: preview/wear that costume (Thunor's Armor).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-woden-thunor/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-woden-thunor/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-woden-thunor/thumb.webp"
+   ]
   },
   {
    "id": "yupi.bns-plate-evil-god",
@@ -382,7 +409,10 @@
    "download_count": 0,
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAwAgCdASoQAAoAAsBMJZQCw7YuvK9HY8atgAD+4oiuLlEoUHU+Q8l9rOyY+RX30iIX5AcQhIPTreUfJ9+qwCrj6FklZ8sTaX47gODtqPi0pfsiC+v6U2WdSuuGY7FF560BisYgZwAAAA==",
    "replaces": "Replaces the Elin variant of the PC_Event_91 costume set — items such as Evil God's Armor (Popori) (#270936); Evil God's Armor (Elin) (#270943). Check: preview/wear that costume (Evil God's Armor).",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-evil-god/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-evil-god/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-evil-god/thumb.webp"
+   ]
   },
   {
    "id": "salty.clean-onscreen-messages",
@@ -417,7 +447,10 @@
    "download_count": 0,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/salty.clean-onscreen-messages/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAkAAsBMJYwAAueHjzgAAP74UZCT4SKB/FrOEJdU2nrsW0j43E3+2ywXIAAA",
-   "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game."
+   "replaces": "Replaces on-screen system/notification messages (center-screen text) (S1UI_Message). Check: open that window in game.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/salty.clean-onscreen-messages/thumb.webp"
+   ]
   },
   {
    "id": "lukas.thinkblob-mount",
@@ -502,7 +535,10 @@
    "replaces": "Replaces the Awakened Spirit King flying mount model (Awaken_SpiritKing) and its mount-skill icon (loose Icon_Skills.gpk). Check: summon the Spirit King mount.",
    "tagline": "Replaces the Awakened Spirit King flying mount model (Awaken_SpiritKing) and its mount-...",
    "long_description": "**Replaces:** Replaces the Awakened Spirit King flying mount model (Awaken_SpiritKing) and its mount-skill icon (loose Icon_Skills.gpk). Check: summon the Spirit King mount.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/lukas.thinkblob-mount/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/lukas.thinkblob-mount/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/lukas.thinkblob-mount/thumb.webp"
+   ]
   },
   {
    "id": "justcrazy.green-crosshair",
@@ -553,7 +589,10 @@
    "replaces": "Replaces the combat crosshair reticle textures (S1UI_Crosshair composite objects) with a green version. Check: crosshair in action-combat aim.",
    "size_bytes": 3151652,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-justcrazy.green-crosshair-v1.0.0/ffe86d35_16eb0d8e_1d73c.gpk",
-   "sha256": "ae13b63c69cbef3df0be234fa6945ed5a1494e029fa5db8f02d224c145e4eac4"
+   "sha256": "ae13b63c69cbef3df0be234fa6945ed5a1494e029fa5db8f02d224c145e4eac4",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/justcrazy.green-crosshair/thumb.webp"
+   ]
   },
   {
    "id": "htmslf.rgb-scarf",
@@ -622,7 +661,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/norukjerky.kitty-socks/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/norukjerky.kitty-socks/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQABAAAsBMJQBOgBy9oteI8AAA3Kqiw2nY4K/3MzZ8Rthdj8GNiU6ikzDCHqtcqb6VctgXOe31t1MaL8zzV4ZkrSRAWb7IzuJX5VjwnZLtLJuAgAA=",
-   "replaces": "Adds kitty socks to the Elin School Uniform's navy dyeable variant (PC_Event_09; School Uniform items #131218+). Check: Elin wearing the navy School Uniform."
+   "replaces": "Adds kitty socks to the Elin School Uniform's navy dyeable variant (PC_Event_09; School Uniform items #131218+). Check: Elin wearing the navy School Uniform.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/norukjerky.kitty-socks/thumb.webp"
+   ]
   },
   {
    "id": "novatera.sailor-moon-hp",
@@ -655,7 +697,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/novatera.sailor-moon-hp/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/novatera.sailor-moon-hp/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoQABAAAsBMJbACdAEO/HsxL8AA/cmTGVCVlajKno0vSpZp48I5Lzc//kxCODp3+lAqr/L+VVy6ILAA",
-   "replaces": "Replaces the player HP bar art in the character window (S1UI_CharacterWindow textures) with a Sailor Moon theme. Check: your HP/MP bars."
+   "replaces": "Replaces the player HP bar art in the character window (S1UI_CharacterWindow textures) with a Sailor Moon theme. Check: your HP/MP bars.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/novatera.sailor-moon-hp/thumb.webp"
+   ]
   },
   {
    "id": "kawaakari.pastel-fishing-rod-pink",
@@ -688,7 +733,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kawaakari.pastel-fishing-rod-pink/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kawaakari.pastel-fishing-rod-pink/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADQAQCdASoQABAAAsBMJbAAAu1+9hc8gAD++N0qIESv9vZ1qvSnyl/BZsoZY5QYAgrs/BBiP/5eENb9fB45gAAA",
-   "replaces": "Replaces all four fishing rod models (FishingRod_A–D) and the fishing float with pastel pink versions. Check: fish anywhere."
+   "replaces": "Replaces all four fishing rod models (FishingRod_A–D) and the fishing float with pastel pink versions. Check: fish anywhere.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kawaakari.pastel-fishing-rod-pink/thumb.webp"
+   ]
   },
   {
    "id": "kawaakari.pastel-fishing-rod-blue",
@@ -721,7 +769,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kawaakari.pastel-fishing-rod-blue/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kawaakari.pastel-fishing-rod-blue/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoQABAAAsBMJbACdAEf0pww2fTAAP73XDPSuBnlhXZwlse4qvlcwhGZaVqj3WsFeN5CIKlAr7TEGG5319Yrzvecf5GmL2FeAbCfkFlBlpyPKbuegAA=",
-   "replaces": "Replaces all four fishing rod models (FishingRod_A–D) and the fishing float with pastel blue versions. Check: fish anywhere."
+   "replaces": "Replaces all four fishing rod models (FishingRod_A–D) and the fishing float with pastel blue versions. Check: fish anywhere.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kawaakari.pastel-fishing-rod-blue/thumb.webp"
+   ]
   },
   {
    "id": "htmslf.gunner-mambo-dash",
@@ -754,7 +805,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/htmslf.gunner-mambo-dash/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/htmslf.gunner-mambo-dash/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAQCdASoQAAkAAsBMJYwAAueHZ1/IAAD++FGQk/qLISDP8ZQ75oM/kgOyDceeN0GAAA==",
-   "replaces": "Replaces the Gunner's awakened Beam Dash sound cue (Awaken_Engineer_Beam_Dash) with the Mambo clip. Check: dash on an awakened Gunner."
+   "replaces": "Replaces the Gunner's awakened Beam Dash sound cue (Awaken_Engineer_Beam_Dash) with the Mambo clip. Check: dash on an awakened Gunner.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/htmslf.gunner-mambo-dash/thumb.webp"
+   ]
   },
   {
    "id": "novatera.jp-voice-pack",
@@ -858,7 +912,10 @@
    "replaces": "Replaces character combat/emote voices with the Japanese voice-over: Castanic female, High Elf female and Human female packs. Check: emotes or combat shouts on those characters.",
    "size_bytes": 16308270,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.jp-voice-pack-v1.0.0/PCFemale_Voice01_07_cast.gpk",
-   "sha256": "d7ba12d7d9d8da21305ef03969b12b97500ba40f3d337a2a9d315eb8c37ac08d"
+   "sha256": "d7ba12d7d9d8da21305ef03969b12b97500ba40f3d337a2a9d315eb8c37ac08d",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/novatera.jp-voice-pack/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.strawberry-melody-2-5",
@@ -892,7 +949,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.strawberry-melody-2-5/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.strawberry-melody-2-5/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQABAAAsBMJQBOgCPpUZaA8R+AAP6Fe+om3S22OVEk+n2uWB9r6iuB2OEPypvFP+xwHwCd36QdbivpCYpVA1t1+Go8hAGsxAD6UJksHbXIVPbb1yAAAA==",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.strawberry-melody-2-5/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.brownee",
@@ -926,7 +986,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.brownee/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.brownee/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAQAgCdASoQABAAAsBMJQBOgB4ipoT2/ggAAPlpp2zVzds1iqdMteOIK5cgZxvLcl5M7Sn/9caJrk/x91L2cjSYlHS2jU9wkb07giBxA7iowVpNHKAAAA==",
-   "replaces": "Replaces Elin face decal E-1 (package popori_F_AE0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal E-1 (package popori_F_AE0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.brownee/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.darkyoukai",
@@ -960,7 +1023,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.darkyoukai/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.darkyoukai/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQABAAAsBMJZAC7AEPAY3WTFAA/vvdK5ctQV26pZH9FSJUy5f1OZC3LoqlRkcQwxIVrgAA",
-   "replaces": "Replaces Castanic female face decal K-10 (package Castanic_F_AK0010) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Castanic female face decal K-10 (package Castanic_F_AK0010) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.darkyoukai/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.enchantress",
@@ -995,7 +1061,11 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.enchantress/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAgAAsBMJYwCdAYvW8xr4lIAAP3FYNrGnYrRs1xD3wPaK2zxLThOAaX9wNvPxa4WpJC+C3OV0F1Jvypkp2P1ud+eRSqK0BdmH8PdeJCfJD4QkHoPCC7gEGZ0CpwA",
    "replaces": "Replaces Elin face decal J-1 (package popori_F_AJ0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
-   "source_url": "https://pantypon.tumblr.com/post/154579183065/elin-face-1-adornment-3-the-enchantress"
+   "source_url": "https://pantypon.tumblr.com/post/154579183065/elin-face-1-adornment-3-the-enchantress",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.enchantress/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.enchantress/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.goldie",
@@ -1029,7 +1099,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.goldie/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.goldie/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAACQAgCdASoQABAAAsBMJYgCdAYuvqhYmpWzVJq4AADOOTbW8tdTVccL6kk+7mpDpaOlfzOByYXjbX9V+9akxe+ZbzHSNdl740qHsiwDvorzB8u2bpPdUYkKTo2uXjzHYmuQq3fmRES4h0YzxRTnW8Lr/nS3cSSMydlAnmgAAAA=",
-   "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.goldie/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.indigo",
@@ -1063,7 +1136,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.indigo/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.indigo/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAwAgCdASoQABAAAsBMJYgCdAD5O7n/P1i62AD+Fmr8hT/M/cNoc1PT4JA2estldFr4EgZ+gbzYWa0Q6dHqYsYnvy2ALXS4f9vwuGOSiFj+LuYfDKX1k4AA",
-   "replaces": "Replaces Elin face decal J-1 (package popori_F_AJ0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal J-1 (package popori_F_AJ0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.indigo/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.starry",
@@ -1099,9 +1175,11 @@
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAQCdASoQAAgAAsBMJQBOgBBNnAAA/uleqmn41o9KL2IWsXEpI2i7977z74dFvRX9dME0B0ISS6T7ugWFihn5T2hxAV6WZX0eiXxeEDPoYAAA",
    "replaces": "Replaces Elin face decal E-1 (package popori_F_AE0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.starry/thumb.webp"
    ],
    "source_url": "https://mods-of-tera.tumblr.com/post/149344968237/yuseiphilia-tera-mod-starry-eyes-only-elin"
   },
@@ -1137,7 +1215,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sterlingsilver-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sterlingsilver-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADQAQCdASoQABAAAsBMJaACdADwwsHKIAD+6k55FRP6ehQR6+vw/4+CqgC0o601mOicm2Fd4smX4Bye9Jtzjn2VnrFiUXJxSsAy+eJRd5SXqvBfdAA=",
-   "replaces": "Replaces Castanic female face decal A-16 (package Castanic_F_AA0016) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Castanic female face decal A-16 (package Castanic_F_AA0016) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sterlingsilver-castanicf/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.sweet-memories",
@@ -1171,7 +1252,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sweet-memories/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sweet-memories/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAwAgCdASoQABAAAsBMJQBOgCP3nZEq1+WAYAD+qu/nXzl1kzxgUnXYtyqNY7smWqwwx7NHf4dpCZhHW8a8nhLznqs0CNyFgKwei9ei6tKvUNfjNlwHJCVgAAA=",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sweet-memories/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.turquoise",
@@ -1206,8 +1290,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwAgCdASoNABAAAsBMJbACdH8AgrSZvcZjJXwAAPYc6w9z13xzFwv0HOMiO8sQf+jm8MJIQjjXFnss3iAjv30oLet7EW7Usgh47wxVilYoizgV9W1owNoI2rxvTxoBPjQ3Uw5xQG3hXFEWmqeoyBhEBgcGk+G4fuVAcwGQAAA=",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/shot_1.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/shot_2.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/shot_2.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/thumb.webp"
    ],
    "source_url": "https://pantypon.tumblr.com/post/175317535545/elin-face-8-adornment-5",
    "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
@@ -1244,7 +1330,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hearteyes/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hearteyes/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQABAAAsBMJZACdAERCA6ROa2QAP72/sU9vz4GUnY7DM2zddhsHFH6KzwahvIbXDS8pbAQxhSm/bLlT2q01y4PhYHlIVVbe/bsqslVKfZtpXtbxO5kE9xY7eq9FaZV/GAAAA==",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hearteyes/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.darkice-castanicf",
@@ -1278,7 +1367,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.darkice-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.darkice-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoQAA0AAsBMJZQAAudOt6HYAAD++yGR/gRXk+6E6fp3JdkKgZZGSkdTL6ISX6htAVbQsajiq8+omQs+f8J82G1Fe+j5MaAA",
-   "replaces": "Replaces Castanic female face decal A-7 (package Castanic_F_AA0007) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Castanic female face decal A-7 (package Castanic_F_AA0007) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.darkice-castanicf/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.nightblue",
@@ -1312,7 +1404,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.nightblue/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.nightblue/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQAgCdASoQABAAAsBMJYwCdH8AgojL0qQst6wMEm4AAM44xsE/dx6bQBopeLBxxIbxkib49L79b8qI//v/YjR8EeLz+9vCe/0c2YzjcLJr9gHKsbwLHHwNh3T49AB3Nnp6DfBoNynXH9JQKRAqqmIJWL0zNGLsHqVOAF2YAAA=",
-   "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.nightblue/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.pink-eyes",
@@ -1347,9 +1442,11 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoKABAAAsBMJbACdADb7Rl9Q+AA/vdNhBj6igHF0FEDfRQyGA3K65e976MmkdpUVRGzBsb/2tmdesQz9bRer8oIK3rOpf9bVkZQjpEU8n/DmBgA",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pink-eyes/thumb.webp"
    ],
    "source_url": "https://pantypon.tumblr.com/post/157058672420/elin-face-12-adornment-1",
    "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
@@ -1387,7 +1484,11 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sunset/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAAAQAwCdASoPABAAAsBMJbACdDsANRLIisy4Y2LVmHUAbeAA/u0vULXfLYko69XnJj/mADv3h/uX5xCkHbulbPv1YUi0gQH8Nw9SFX5NY4N1LIruUgb6YUsy57U0dQFt7yicZaZHfExfrpaxJtsG3N/c/OvbftvzyafSg6bNOF18AnwduhOY/kBBeuMq4uIhuyyaVfPwsViFnAevl3S6/mqXPM4n/LiAAAA=",
    "replaces": "Replaces Elin face decal L-1 (package popori_F_AL0001) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
-   "source_url": "https://mods-of-tera.tumblr.com/post/176725137877/deathwrack-sunset-dreams-face-11-adornment-4"
+   "source_url": "https://mods-of-tera.tumblr.com/post/176725137877/deathwrack-sunset-dreams-face-11-adornment-4",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sunset/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sunset/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.hauntercatseye",
@@ -1421,7 +1522,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hauntercatseye/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hauntercatseye/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoQABAAAsBMJQBOgCBSoV/YZQEEAP6FEqJId4Bnr61m+JnU7AGmdK/VvMBujBJUzCBPs0uR2Qjn8WA0pT+l2/hSqa4DkAAA",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hauntercatseye/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.haunterdreamyeyes",
@@ -1455,7 +1559,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.haunterdreamyeyes/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.haunterdreamyeyes/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQABAAAsBMJQBOgCIhAbGdtWRe8AAA/vb+xT2/PgZSdjsMzVFsmW6hP4A9aQ2sSc6+mBAUAUkRyDiAAd593eczUuhjp9EL0Ox2rck+fIw5zZX7TxgFg4kWhtB0sIUE2+VSp84AAAA=",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.haunterdreamyeyes/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.pretty-eyes-mod",
@@ -1489,7 +1596,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pretty-eyes-mod/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pretty-eyes-mod/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoQABAAAsBMJQBdgBQzxfLDCNdgAP2Y5tci7X48cn7uFPJvfZt7Ordq01En8fdJG9ag9miCyseG0nGUF3anJMUuk0RoX3awwt79vavHeAoKETdKzb4AAA==",
-   "replaces": "Replaces Elin face decal A-2 (package Popori_F_AA0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal A-2 (package Popori_F_AA0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pretty-eyes-mod/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.valentines-eyes-2-0-mod",
@@ -1523,7 +1633,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-2-0-mod/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-2-0-mod/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAAsBMJQBOgCIhAdIf+QgcAP72/sU9vz4GUnY7DM2zddhsHFH6KzwahvqBTuJEkfdIQJd6IKGFmjw8W4yaQtwSlgJcFxdeybj2cdcXE24NGtptuKmJkHnqca1zn6CNk4AA",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-2-0-mod/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.valentines-eyes-2-0pink-mod",
@@ -1557,7 +1670,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-2-0pink-mod/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-2-0pink-mod/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoQABAAAsBMJQBOgCIhAdIf7YoAAP72/sU9vz4GUnY7DM2zddhsHFH6KzwahvqBTuJEkfXJnw54ghNo0+nTO5ddFqVsrKmvFwLlXokwyx2m07gIi9q9JnpS3JlRFol0S/8eNJAdQAA=",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-2-0pink-mod/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.valentines-eyes-mod",
@@ -1591,7 +1707,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-mod/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-mod/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQABAAAsBMJQBOgCP3mlJTBSRUAP6Fe+fPp1gPuf3rNYVQlFr3/nA6NAxAchGZqsZRnO5fTB/s0tsHovXjm1JEiE9bzZQKI9AAAA==",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.valentines-eyes-mod/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.bunny-v2",
@@ -1625,7 +1744,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.bunny-v2/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.bunny-v2/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAABQAgCdASoQABAAAsBMJZAC7AEQyzF0FfTAsgAA/qr7STq0ZmvN8Mv5ipvf47cNsqgQ0SV0d7rOXQOQM0X3ZOp3YIe+SAmiqtH7VhrwyIgLaBogAAA=",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.bunny-v2/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.crystal-bbrwon",
@@ -1659,7 +1781,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.crystal-bbrwon/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.crystal-bbrwon/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACwAQCdASoQABAAAsBMJYwCsADVbPhgAP2p1yYJNbu5KPdCnUsG9bRDInKthBohgQvInzXTjXqF3+zdUDrvaav2U/pkqVlVcaNAAA==",
-   "replaces": "Replaces High Elf female face decal A-11 (package Highelf_F_AA0011) — an eye-overlay decal in character creation. Check: High Elf female using that decal."
+   "replaces": "Replaces High Elf female face decal A-11 (package Highelf_F_AA0011) — an eye-overlay decal in character creation. Check: High Elf female using that decal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.crystal-bbrwon/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.emoprincess-elin",
@@ -1693,7 +1818,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.emoprincess-elin/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.emoprincess-elin/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoQABAAAsBMJYgCdAC1RV8UqeAA/qzPQ0aH4IpA+ZzeaXpbtQnAZpDa6QRU86G7SGG1nOY3khNlWMb1OZynVYPHH1BEHq52lNdSioMOYeKZ+WbzZQNd2AAA",
-   "replaces": "Replaces Elin face preset 10 (package Popori_F_Face10) — the whole face texture for that character-creation face. Check: character creation face 10, or any character using it."
+   "replaces": "Replaces Elin face preset 10 (package Popori_F_Face10) — the whole face texture for that character-creation face. Check: character creation face 10, or any character using it.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.emoprincess-elin/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.hu-tao-eyes",
@@ -1727,7 +1855,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAwAgCdASoQABAAAsBMJYgCdAERCA8k55W3AAD+9v7FPb8+BlJ2OwzNs3XYbBxR+is8GobemVZu0bZPg9Zd3eHuF5haa4GePYfaL4busPiAaD3yrsHr3AxiwEe99cZe00RUqzuLo4sdvVehZMnefAAA",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.hu-tao-eyes-11-05",
@@ -1761,7 +1892,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes-11-05/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes-11-05/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQAgCdASoQABAAAsBMJZACdAEK9MVaDiQAAP6Fe+om35CQsOzEDfa4Bxj2TPR/fTCfaHaRYQY3IpMjtelBcItsVcpaM6wwej/XjHovXjm51DaDdu/brq5qTacsnaIAAAA=",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes-11-05/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.hu-tao-eyeses",
@@ -1795,7 +1929,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyeses/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyeses/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwAQCdASoQABAAAsBMJYgCdAERCA5/kPAA/vb+xT2/PgZSdjsMzbN12GwcUforPBqG8Hlt37Q8k/3ZIqccjy59PQ296O1bXAiSBv6YIl5cwu8Q4zT+ZqGNu/1O9SFm82ZByU/dlc+ndZV/GAAAAA==",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyeses/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.padampadam-castanicf",
@@ -1829,7 +1966,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.padampadam-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.padampadam-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAwAgCdASoQAA4AAsBMJYgAD40wd2EEyJrWgAD+9Lhj6WK+MPTfPSYUNE/qYTye8fQLah1CrrFxhkfVNX9hnK36QY9e+XlS8hHDbyvUF/hx/o1jcFq8c4qpnhEEGSZR7OXae/uUHLjM1LV/JJx1/IQUHYuvRITN4FRYSztYAAA=",
-   "replaces": "Replaces Castanic female face decal A-2 (package Castanic_F_AA0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Castanic female face decal A-2 (package Castanic_F_AA0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.padampadam-castanicf/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.plum",
@@ -1865,9 +2005,11 @@
    "blur_data": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAABwAgCdASoQAA8AAsBMJQBOj+ADHXP0YMFfY7MgAP7d/Bdedy6Tpzr+KBlkSinhg7nwtPU4YtdmtMIAV6GWTzhg787GDmVot2CveoNXlNqSQJA2LZnLyNfWlP0eLK0fAx/bfzbNM5e1QawvfeQAAA==",
    "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.plum/thumb.webp"
    ],
    "source_url": "https://pantypon.tumblr.com/post/190182218325/elin-face-8-adornment-5-plum-requested-by-akura"
   },
@@ -1903,7 +2045,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.skull-emogi-11-5/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.skull-emogi-11-5/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoQABAAAsBMJQBOgCKxSYF+AAAA/qr7STxlaxI6RLLMvT7sNxMfsRTUVFOA09jr+lkgDH+d45K2714KmgSBtxrJFU0UaC8FaUlUAAAA",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.skull-emogi-11-5/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.zombie-patch",
@@ -1937,7 +2082,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.zombie-patch/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.zombie-patch/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQABAAAsBMJQBOgCIhAdIoN5fAAP72/sU9vz4GUnY7DM2zddhsHFH6KzwadtQKdxIkkaBxUmMQNAuPG7beCy1nfYGdGWmFfCPMalVvpmQAvlICPYsVtediy0uPMcfayKN6QAAA",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.zombie-patch/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.amethyst",
@@ -1973,8 +2121,10 @@
    "blur_data": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQAgCdASoJABAAAsBMJaACdAYrd2WLvBTa7QAA/omWzFZd061Sxpfcu51Xzn7sc34g1rhqpRyVL/aWrn3cdRxOhbLZVnlybsiDZXbMteY79SK5t066RmvKCV9HDEMHSxHopF6sA88ehiMPRBYcvBnsooAAAA==",
    "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/shot_1.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/shot_2.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/shot_2.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/thumb.webp"
    ],
    "source_url": "https://mods-of-tera.tumblr.com/post/171664707097/nueus-face-8-adornment-5-amethyst"
   },
@@ -2010,7 +2160,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQAgCdASoQABAAAsBMJYgCdAERCA70UPRpdqAA/vb+xT2/PgZSdjsMzbN12GwcUforPFmZVBVw4ext5NDH0xlNe5rB4ATx5F92YWUZYx2h+L/m3haX8+sm4n3xmA6Ni4dH7kOgzsPWj5RgAAA=",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.dragon-no-shine",
@@ -2044,7 +2197,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon-no-shine/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon-no-shine/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABwAgCdASoQABAAAsBMJYgCdAERCA6RTDp14kkAAP72/sU9vz4GUnY7DM2zddhsHFH6KzwadvVtsOHyo7sXrPy9P3ufNJbwJd3xT1Cu9x5z91PTei0HQDe5Sva9vQa4PbfAfsdUIj9UvQcAAAA=",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon-no-shine/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.honey",
@@ -2079,7 +2235,11 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.honey/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAABQAgCdASoQAAgAAsBMJYwCdG1/Dx/MYQVxE6AA/uzh1I26UOD+oz3lamidrNdQ+tMWO4duPdk9vG697+v+5xFkWk4ya2SV/Hhr9OffLB7HUJzBdhRqvbv5mwzJuYdxoz7tr1/8C/20AA==",
    "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
-   "source_url": "https://mods-of-tera.tumblr.com/post/176725177332/moddymcmodface-honey-download-here-for"
+   "source_url": "https://mods-of-tera.tumblr.com/post/176725177332/moddymcmodface-honey-download-here-for",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.honey/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.honey/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.light-green-eyes",
@@ -2113,7 +2273,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.light-green-eyes/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.light-green-eyes/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAAAwAgCdASoQABAAAsBMJQBOgCIhAdIpSAwT8AD+9v7FPb8+BlJ2OwzNs3XYbBxR+is8GnaQ2rqGA+4qrN9x4UDL/ibxU5K8yxPwUc8HpvM1m2/8rideosolmruc+FjsmMbrLSNmGgA=",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.light-green-eyes/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.pinkpinkpink",
@@ -2147,7 +2310,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pinkpinkpink/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pinkpinkpink/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAwAgCdASoQABAAAsBMJQBOgCBTM6ztI2FJAAD+fVg1NhwckiJVdm5gKwI/IctSirHAZH3fdYh2guNBgX3cqaBIGncVET+8zw3vS1EqUQAAAA==",
-   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-4 (package Popori_F_AK0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pinkpinkpink/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.red",
@@ -2181,7 +2347,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.red/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.red/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACQAQCdASoQABAAAsBMJYgCdACViNAA/kNrd8TT36jNojVa3V2x0NZR4hDOUEmh1/ADn+Juiecfqwp+nRdTvEY8OawnpmFONnOvWr0r++0gSsKp5Wispg4AAAA=",
-   "replaces": "Replaces Elin face preset 1 (package Popori_F_Face01) — the whole face texture for that character-creation face. Check: character creation face 1, or any character using it."
+   "replaces": "Replaces Elin face preset 1 (package Popori_F_Face01) — the whole face texture for that character-creation face. Check: character creation face 1, or any character using it.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.red/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.royalamber-castanicf",
@@ -2215,7 +2384,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.royalamber-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.royalamber-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADQAQCdASoQABAAAsBMJZACdADuK9bZ0AD+7Nu9i37ZGd11eOLBIiuK78vU6h3myuiGsbmeDt4pO+b/e9oHdWrLxKEFfc5CBiU3rkBMFcbYeS+MEZVnMPgf+7vSdtDhfwlplCDkGM46DQAA",
-   "replaces": "Replaces Castanic female face decal A-5 (package Castanic_F_AA0005) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Castanic female face decal A-5 (package Castanic_F_AA0005) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.royalamber-castanicf/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.cosmicgreenpink",
@@ -2249,7 +2421,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicgreenpink/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicgreenpink/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAAsBMJbACdDBRCIqLw3294JoAAP71+yP7ti7dIyWS1WQX6Xo+t6MC2fmroHaDZq0NOMo3/pshq7N2xFOgiECFOOjSGv1o1/REHQWHoJf9tnza1QAziTr8FgmBmcXmnQ8qudWdfm/WYB9RGj6c2fWi2a4yO3IAAA==",
-   "replaces": "Replaces Elin face decal K-2 (package popori_F_AK0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-2 (package popori_F_AK0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicgreenpink/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.cosmicpink",
@@ -2283,7 +2458,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicpink/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicpink/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAABQAgCdASoQABAAAsBMJbACdDBQAYl8v21nKKAA/vX7JDFDGFGYeLAHPKbowSrGljeL5BcvgI+eq1rc5on9ZEJWx5ol8FRJwlxU31EQ1+ubdY1AEnQt8LykUt06cURRQ9imoQxsvGVnfRyq5sT26FThifFMmgW/SN0PB2fvF0AAAA==",
-   "replaces": "Replaces Elin face decal K-2 (package popori_F_AK0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal K-2 (package popori_F_AK0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicpink/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.cotton-candy",
@@ -2318,7 +2496,11 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cotton-candy/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQAgCdASoQAAkAAsBMJQBdgBwzRaL4ANnAAP7ru/LyumknmyOKv5++H/4yI4cgK0khu/jgVgB7e/D4XPPPc3eU/Wac4tK0blLyO880CTGM+rGS47pqJQYcTpYL6hrTvz03Z7QA",
    "source_url": "https://pantypon.tumblr.com/post/152163569750/cotton-candy-face-8-adornment",
-   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cotton-candy/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cotton-candy/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.cosmic-nurse",
@@ -2354,9 +2536,11 @@
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoJABAAAsBMJaACdAEQ/hBqWn5AQAD+6plpXeIOJDau1ygC0q70TLG7dsScVtFHdgt7VbI5wOL4ZMurAAuuFicW8ynlZ9bj2SRPh2Ft3cyUDIFhQHejG6J234RAAA==",
    "replaces": "Replaces Elin face decal H-4 (package Popori_F_AH0004) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmic-nurse/thumb.webp"
    ],
    "source_url": "https://pantypon.tumblr.com/post/157334584915/elin-face-8-adornment-5-cosmic-nurse"
   },
@@ -2392,7 +2576,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.mioh-makeup-f9a3/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.mioh-makeup-f9a3/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQAgCdASoJABAAAsBMJZQCdAELQquuC5YAAP7SZpX9TJIyqbrR7pvVjTgY8q/5gK2rhi98LQx+GLdKFjNPvgeF5wYZTa0smiOn1rqCP40/gece+lbmCkv7nsLOVRu/Kye22tOr90/FJTDyQAA=",
-   "replaces": "Replaces Elin face decal I-2 (package popori_F_AI0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Elin face decal I-2 (package popori_F_AI0002) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.mioh-makeup-f9a3/thumb.webp"
+   ]
   },
   {
    "id": "mtforum.pantypon-yandere-face12-adorment2",
@@ -2428,7 +2615,8 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/thumb.webp"
    ],
    "source_url": "https://pantypon.tumblr.com/post/182072242300/elin-face-12-adornment-2",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/thumb.webp",
@@ -2467,7 +2655,10 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.passion-fruit/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.passion-fruit/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAABwAQCdASoQABAAAsBMJQBWABKVAAD++Vih06vm9wzftlC/Gajv/SyUd0Urq8OoqyGWDXoK/uIv399/cj3mxIAA",
-   "replaces": "Replaces Human female face decal A-16 (package Human_F_AA0016) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots)."
+   "replaces": "Replaces Human female face decal A-16 (package Human_F_AA0016) — one of the eye/face overlay decal options in character creation. Check: character creation face-decal rows, or any character using that decal (see screenshots).",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.passion-fruit/thumb.webp"
+   ]
   },
   {
    "id": "psina.gage-monster-hp",
@@ -2505,7 +2696,10 @@
      "loose_vanilla_sha256": "8390843152423d89a7d4f3802df2066d6e98e3f8127457990eb7355be27570f7"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/psina.gage-monster-hp/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/psina.gage-monster-hp/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/psina.gage-monster-hp/thumb.webp"
+   ]
   },
   {
    "id": "neowutran.s1ui-chat2",
@@ -2549,6 +2743,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Chat2.gpk",
      "loose_vanilla_sha256": "bfadf44e501b55649272076c861631009190e8c615ed8ec079563c17259b03e8"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/neowutran.s1ui-chat2/thumb.webp"
    ]
   },
   {
@@ -2593,6 +2790,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Message.gpk",
      "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.message-centered/thumb.webp"
    ]
   },
   {
@@ -2637,6 +2837,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_OverlayMap2.gpk",
      "loose_vanilla_sha256": "8438ca5c7f8d66d65993ced6847f9c9b1df4ddcd679e35e7e0426ff665d105e2"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.overlaymap-fixed/thumb.webp"
    ]
   },
   {
@@ -2681,6 +2884,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GageBoss.gpk",
      "loose_vanilla_sha256": "79cb184c155b4732f1d4362e68500ee39541091e576bae5ec188c118423ac6f7"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.gageboss-extended/thumb.webp"
    ]
   },
   {
@@ -2727,6 +2933,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_PartyWindowRaidInfo.gpk",
      "loose_vanilla_sha256": "319ff911ea11cbe20ae30f7f76b248c8abaace4e28c3e1694eedea4516ff4472"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/teralove.partywindowraidinfo/thumb.webp"
    ]
   },
   {
@@ -2773,6 +2982,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_TargetInfo.gpk",
      "loose_vanilla_sha256": "0c3e9743040cf9153d7e21a08e3c15a72e3b048ca03a0315669be411247a7200"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/teralove.targetinfo/thumb.webp"
    ]
   },
   {
@@ -2812,6 +3024,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_CommunityWindow.gpk",
      "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-community-window/thumb.webp"
    ]
   },
   {
@@ -2851,6 +3066,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_EpWindow.gpk",
      "loose_vanilla_sha256": "26241b7871e10a6406e98ccc144e3d2b0ee590ce84c7d1f2c18405130ad537e1"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-ep-window/thumb.webp"
    ]
   },
   {
@@ -2890,7 +3108,10 @@
      "loose_vanilla_sha256": "6c94d59f54d29924439607a853b6b6384b94771678333f2538b9d03b8bfc8a5f"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-combine/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-combine/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-combine/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-equipment-upgrade",
@@ -2929,7 +3150,10 @@
      "loose_vanilla_sha256": "7b4a15f8ac4465de9e2d41c4536cfccb13ca5ffedcc17648cac82837994081f7"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-upgrade/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-upgrade/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-equipment-upgrade/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-guild-window",
@@ -2968,6 +3192,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GuildWindow.gpk",
      "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-guild-window/thumb.webp"
    ]
   },
   {
@@ -3007,7 +3234,10 @@
      "loose_vanilla_sha256": "74732f2c3226d984975320fd150f36ed54dedf2279aecb8d38c22729035bf7c0"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-interaction-popup/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-interaction-popup/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-interaction-popup/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-inventory",
@@ -3033,7 +3263,7 @@
    "compatible_arch": "x64",
    "target_object_path": "S1UI_InventoryWindow.Inventory",
    "compatibility_notes": "Adapted from foglio's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as foglio intended.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-inventory/thumb.webp",
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-inventory/cover.webp",
    "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAwAgCdASoQABAAAsBMJQBOiP/wPk5ZES6QAAD+7Mi5bQNtbPqcnfDt4ZQ9d4LfaTfuJri+3EL3ISM3+y2AAA==",
    "replaces": "Replaces the inventory window (S1UI_InventoryWindow). Check: open that window in game.",
    "parts": [
@@ -3046,6 +3276,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InventoryWindow.gpk",
      "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-inventory/thumb.webp"
    ]
   },
   {
@@ -3085,7 +3318,10 @@
      "loose_vanilla_sha256": "e406ee5fcfaa1aed0ac7074e2c9b5a4cf1edb97b3569a6df3c81a69fcc68bc49"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-minimap/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-minimap/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-minimap/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-parcelpost",
@@ -3124,7 +3360,10 @@
      "loose_vanilla_sha256": "8e93f7a5519373fa1da0d3a7d456853bd5ae4bb5b6da5aea6b1a52c823601487"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-parcelpost/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-parcelpost/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-parcelpost/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-production-create",
@@ -3163,7 +3402,10 @@
      "loose_vanilla_sha256": "48318ba2b9f141af267e84d83231a274907aa7d5f9cb07f2fc11cf15eee6c7ad"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-create/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-create/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-create/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-production-list",
@@ -3202,7 +3444,10 @@
      "loose_vanilla_sha256": "53c0aecba0f5b72fc0bfebb8ce56fd0a76d7727f4fd081088393d78cc7a872bf"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-list/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-list/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-production-list/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-skill-window",
@@ -3241,7 +3486,10 @@
      "loose_vanilla_sha256": "3b120de47263eebb9e892eeb5eb34d9f7e68a752811a4fa088db6bde326d0253"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-skill-window/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-skill-window/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-skill-window/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-store-window",
@@ -3280,6 +3528,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_StoreWindow.gpk",
      "loose_vanilla_sha256": "dcd396150dbfa0374f4295c8ed9aebb57b82d2c5ebf062d56f0a0d9d7ca100a2"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-store-window/thumb.webp"
    ]
   },
   {
@@ -3319,7 +3570,10 @@
      "loose_vanilla_sha256": "ddc84364bcadd34732f3edd703f6e1d2b332c83135ea4fed71a97e0af436b434"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-system-option/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-system-option/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-system-option/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-quickslot",
@@ -3358,7 +3612,10 @@
      "loose_vanilla_sha256": "6e3f9be2e8bc6d71fc46f27cfac61bee9b4db6e2366b40adacec41bf94e487c6"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-quickslot/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-quickslot/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-quickslot/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-trade-popup",
@@ -3397,7 +3654,10 @@
      "loose_vanilla_sha256": "1eff1bca0c9b521e5204b967de65b70b14952d770d3b39930d24452002698e14"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-trade-popup/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-trade-popup/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-trade-popup/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.restyle-warehouse",
@@ -3436,7 +3696,10 @@
      "loose_vanilla_sha256": "023fe048e426da2f232fc9c9c4f80491e2d80ff21f7486e69f872c1efc3158e2"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-warehouse/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-warehouse/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.restyle-warehouse/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-jewels-fix-inventory",
@@ -3474,7 +3737,10 @@
      "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-inventory/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-inventory/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-inventory/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-jewels-fix-icons",
@@ -3501,7 +3767,10 @@
    "target_dropin_filename": "Icon_Items.gpk",
    "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoQABAAAsBMJYwCdAEO9vy6KpQAAP7CtRil97BbGUU4Ytr9JMw1QbYrc7Rk5hFai/NFSkDyeMgAAA==",
    "replaces": "Replaces jewelry item icons (Icon composite objects) to match the Modern UI restyle. Check: ring/earring/necklace icons in inventory.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-icons/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-icons/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-jewels-fix-icons/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-bosswindow",
@@ -3540,7 +3809,10 @@
      "loose_vanilla_sha256": "79cb184c155b4732f1d4362e68500ee39541091e576bae5ec188c118423ac6f7"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-bosswindow/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-bosswindow/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-bosswindow/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-targetinfo",
@@ -3579,7 +3851,10 @@
      "loose_vanilla_sha256": "0c3e9743040cf9153d7e21a08e3c15a72e3b048ca03a0315669be411247a7200"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-targetinfo/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-targetinfo/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-targetinfo/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-buffs",
@@ -3618,7 +3893,10 @@
      "loose_vanilla_sha256": "4111a0db7b1441673e189c0772d062eb49ddfc13df895f85fd168abbff5cab62"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-buffs/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-buffs/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-buffs/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-flight-gauge",
@@ -3657,7 +3935,10 @@
      "loose_vanilla_sha256": "00d874eb068364a17e07f2cf98e5b84e260f47bc0b94dd1d5b347f0506fbaaf1"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-flight-gauge/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-flight-gauge/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-flight-gauge/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-lfg-board",
@@ -3696,7 +3977,10 @@
      "loose_vanilla_sha256": "d6c9f4758eee5d7744e87b09891fcffa1b380a2089867ea6e143b8f32821e953"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-board/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-board/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-board/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-lfg-member",
@@ -3735,7 +4019,10 @@
      "loose_vanilla_sha256": "c4364306b4be8d67e2b5e70fb7c50334ffd01b65fc8c33ac18c2ce152db718f7"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-member/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-member/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-lfg-member/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-party-window",
@@ -3774,7 +4061,10 @@
      "loose_vanilla_sha256": "ce355a1a549eb194ab8ce8cfbeac8fdc849f3d331da99cb5fe8db017053a90c5"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-party-window/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-party-window/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-party-window/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.ui-remover-raid-window",
@@ -3813,7 +4103,10 @@
      "loose_vanilla_sha256": "319ff911ea11cbe20ae30f7f76b248c8abaace4e28c3e1694eedea4516ff4472"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-raid-window/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-raid-window/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.ui-remover-raid-window/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.toolbox-gagebar-topscreen",
@@ -3851,7 +4144,10 @@
      "loose_vanilla_sha256": "d10aad22758d89e062b48982522c9874925652684f50356401128d3de206be16"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.toolbox-gagebar-topscreen/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.toolbox-gagebar-topscreen/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.toolbox-gagebar-topscreen/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.badgui-loader",
@@ -3890,7 +4186,10 @@
      "loose_vanilla_sha256": "3bb6823410e64c698e3ce963e4bb861c4888e3ac2135bafcb2a93ce3925a398d"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.badgui-loader/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.badgui-loader/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.badgui-loader/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.s1ui-chat2-p75",
@@ -3928,7 +4227,10 @@
      "loose_vanilla_sha256": "bfadf44e501b55649272076c861631009190e8c615ed8ec079563c17259b03e8"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.s1ui-chat2-p75/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.s1ui-chat2-p75/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.s1ui-chat2-p75/thumb.webp"
+   ]
   },
   {
    "id": "taorelia.restyle-community",
@@ -3967,6 +4269,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_CommunityWindow.gpk",
      "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-community/thumb.webp"
    ]
   },
   {
@@ -4006,6 +4311,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GuildWindow.gpk",
      "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-guild/thumb.webp"
    ]
   },
   {
@@ -4045,6 +4353,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InventoryWindow.gpk",
      "loose_vanilla_sha256": "8e7e67faf30e8c7e0be9d0ba509a5e1215b1dea3fe7ac9250dbe8f096bcfc031"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-inventory/thumb.webp"
    ]
   },
   {
@@ -4084,6 +4395,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_WareHouseWindow.gpk",
      "loose_vanilla_sha256": "023fe048e426da2f232fc9c9c4f80491e2d80ff21f7486e69f872c1efc3158e2"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-warehouse/thumb.webp"
    ]
   },
   {
@@ -4123,6 +4437,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_InteractionPopup.gpk",
      "loose_vanilla_sha256": "74732f2c3226d984975320fd150f36ed54dedf2279aecb8d38c22729035bf7c0"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-interaction-popup/thumb.webp"
    ]
   },
   {
@@ -4162,6 +4479,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_ProductionCreatePopUp.gpk",
      "loose_vanilla_sha256": "48318ba2b9f141af267e84d83231a274907aa7d5f9cb07f2fc11cf15eee6c7ad"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taorelia.restyle-production-create/thumb.webp"
    ]
   },
   {
@@ -4195,7 +4515,10 @@
    "target_dropin_filename": "PostProcess.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-postprocess/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkAAsBMJYwAAueAOK9agAD++Gf3c4BmTSxEmb6/uV/8K+2ywXIAAAA=",
-   "replaces": "Replaces the global PostProcess chain with a stripped version (bloom/blur effects off) for FPS. Check: overall image after a zone reload."
+   "replaces": "Replaces the global PostProcess chain with a stripped version (bloom/blur effects off) for FPS. Check: overall image after a zone reload.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-postprocess/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-enchant",
@@ -4228,7 +4551,10 @@
    "target_dropin_filename": "FX_Enchant.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-enchant/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAADQAQCdASoQAAkAAsBMJYwAAueAOK92AAD++Gf3c4BmTSxD8PWdAe2ywXIAAA==",
-   "replaces": "Removes enchant-glow visual effects from weapons for FPS. Check: +12/+15 weapon glow gone."
+   "replaces": "Removes enchant-glow visual effects from weapons for FPS. Check: +12/+15 weapon glow gone.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-enchant/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-archer",
@@ -4261,7 +4587,10 @@
    "target_dropin_filename": "FX_Awaken_Archer.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-archer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
-   "replaces": "Removes/simplifies awakened skill visual effects for Archer (FX package) for FPS. Check: cast awakened skills on Archer — effects are minimal."
+   "replaces": "Removes/simplifies awakened skill visual effects for Archer (FX package) for FPS. Check: cast awakened skills on Archer — effects are minimal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-archer/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-berserker",
@@ -4294,7 +4623,10 @@
    "target_dropin_filename": "FX_Awaken_Berserker.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-berserker/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
-   "replaces": "Removes/simplifies awakened skill visual effects for Berserker (FX package) for FPS. Check: cast awakened skills on Berserker — effects are minimal."
+   "replaces": "Removes/simplifies awakened skill visual effects for Berserker (FX package) for FPS. Check: cast awakened skills on Berserker — effects are minimal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-berserker/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-sorcerer",
@@ -4327,7 +4659,10 @@
    "target_dropin_filename": "FX_Awaken_Sorcerer.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-sorcerer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
-   "replaces": "Removes/simplifies awakened skill visual effects for Sorcerer (FX package) for FPS. Check: cast awakened skills on Sorcerer — effects are minimal."
+   "replaces": "Removes/simplifies awakened skill visual effects for Sorcerer (FX package) for FPS. Check: cast awakened skills on Sorcerer — effects are minimal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-sorcerer/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-priest",
@@ -4360,7 +4695,10 @@
    "target_dropin_filename": "FX_Awaken_Priest.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-priest/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
-   "replaces": "Removes/simplifies awakened skill visual effects for Priest (FX package) for FPS. Check: cast awakened skills on Priest — effects are minimal."
+   "replaces": "Removes/simplifies awakened skill visual effects for Priest (FX package) for FPS. Check: cast awakened skills on Priest — effects are minimal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-priest/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-lancer",
@@ -4393,7 +4731,10 @@
    "target_dropin_filename": "FX_Awaken_Lancer.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-lancer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
-   "replaces": "Removes/simplifies awakened skill visual effects for Lancer (FX package) for FPS. Check: cast awakened skills on Lancer — effects are minimal."
+   "replaces": "Removes/simplifies awakened skill visual effects for Lancer (FX package) for FPS. Check: cast awakened skills on Lancer — effects are minimal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-lancer/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-slayer",
@@ -4426,7 +4767,10 @@
    "target_dropin_filename": "FX_Awaken_Slayer.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-slayer/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
-   "replaces": "Removes/simplifies awakened skill visual effects for Slayer (FX package) for FPS. Check: cast awakened skills on Slayer — effects are minimal."
+   "replaces": "Removes/simplifies awakened skill visual effects for Slayer (FX package) for FPS. Check: cast awakened skills on Slayer — effects are minimal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-slayer/thumb.webp"
+   ]
   },
   {
    "id": "owyn.fps-pack-fx-awaken-warrior",
@@ -4459,7 +4803,10 @@
    "target_dropin_filename": "FX_Awaken_Warrior.gpk",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-warrior/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAACwAQCdASoQAAkAAsBMJYwAAueAOokAAP74Z/dzgGZNLRg/YX3sgXX9zBa+T/543RXAAA==",
-   "replaces": "Removes/simplifies awakened skill visual effects for Warrior (FX package) for FPS. Check: cast awakened skills on Warrior — effects are minimal."
+   "replaces": "Removes/simplifies awakened skill visual effects for Warrior (FX package) for FPS. Check: cast awakened skills on Warrior — effects are minimal.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/owyn.fps-pack-fx-awaken-warrior/thumb.webp"
+   ]
   },
   {
    "id": "catannadev.pink-crosshair",
@@ -4503,6 +4850,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
      "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.pink-crosshair/thumb.webp"
    ]
   },
   {
@@ -4548,6 +4898,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_Crosshair.gpk",
      "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.red-crosshair/thumb.webp"
    ]
   },
   {
@@ -4592,6 +4945,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_LoadingProgress.gpk",
      "loose_vanilla_sha256": "9600a0521816181c08877bf5ef1f638b5920389167b52cbbd2f332ab998fcf8d"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.pink-loading-progress/thumb.webp"
    ]
   },
   {
@@ -4636,6 +4992,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_LoadingProgress.gpk",
      "loose_vanilla_sha256": "9600a0521816181c08877bf5ef1f638b5920389167b52cbbd2f332ab998fcf8d"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/catannadev.red-loading-progress/thumb.webp"
    ]
   },
   {
@@ -4709,7 +5068,10 @@
      "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/merusira.atlas-clean-onscreen-messages/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/merusira.atlas-clean-onscreen-messages/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/merusira.atlas-clean-onscreen-messages/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.cheerleader-shorts",
@@ -4773,9 +5135,11 @@
    "replaces": "Replaces the PC_Event_14 costume family — items such as [TBU] (#131808); [TBU] (#131809); [TBU] (#131810). Check: preview/wear one of those items.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/thumb.webp",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-black-business-suit/thumb.webp"
    ]
   },
   {
@@ -4808,7 +5172,10 @@
    "gpk_files": [
     "PC_Event_53.gpk"
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-strawberry-maid/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-strawberry-maid/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-strawberry-maid/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-pink-social-dress",
@@ -4834,9 +5201,11 @@
    "compatible_arch": "x64",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/thumb.webp"
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pink-social-dress/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoKABAAAsBMJbACdADzferecEAA/rX+W/IozPbFGONBxTGKg6r5d0BDTbbA62zo8I5xOLHQd4WpJcv6B/jNbZtRLor7odvJigq2oINONoAAAA==",
@@ -4908,7 +5277,8 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.red-miko-costume/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADQAQCdASoQAAkAAsBMJYwAAuawpfWAAAD++Gf3d5XyLqVzSJtwdnuWskPnjdFcAAA=",
    "screenshots": [
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.red-miko-costume/shot_0.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.red-miko-costume/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.red-miko-costume/thumb.webp"
    ],
    "replaces": "Replaces the PC_Event_36 costume family (Elin variant) — items such as Ruby Snow Blossom Hanbok (Human Female) (#153354); Golden Frost Blossom Hanbok (Human Female) (#153357); Sable Ice Blossom Hanbok (Human Female) (#153360). Check: preview/wear one of those items."
   },
@@ -4936,9 +5306,11 @@
    "compatible_arch": "x64",
    "compatibility_notes": "Reconverted from pantypon's x32 mod to v100.02 x64. Textures rebuilt (dev-tool verified valid x64); please report if anything looks off in-game.",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.white-castanica-demon/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAwAgCdASoLABAAAsBMJZgCsADdL1e6c8GjAAD+7DF08BqFans3TJb9In73Jj0Z3/cCjX4zm8YwZ0TmNzYlRyXqtqdtU1AVShmCj4AvcXAr4mqR94hLj9qqcNIU1GAA",
    "replaces": "Replaces the PC_Event_32 costume family (male variant) — items such as Arborean College Gear (Human Male) (#152312); Heavy Metal Star (Human Male) (#152315); Dyeable College Gear (Human Male) (#152318). Check: preview/wear one of those items.",
@@ -5007,9 +5379,12 @@
    "compatible_arch": "x64",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_3.gif",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.better-dyeable-flight-suit/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwAQCdASoQAA4AAsBMJQBOgBl8DBMAAP70n+KE2w4ZahBL57gV92fk/MS5loxyaHe7CxbymS+mK0PrWeMhhiJr5geSFxKjJ+QtYJ6GpApefU2VtfhyiaZHc1D5RJRl+9ZiGy8utBMZ7iKAAAA=",
    "replaces": "Replaces the PC_Event_62 costume family — items such as IM39 Prototype (Human Male) (#99630); IM39 Prototype COLORSTORM (Human Male) (#99642); IM39 Prototype (Human Female) (#99654). Check: preview/wear one of those items.",
@@ -5041,7 +5416,11 @@
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACQAQCdASoQAAoAAsBMJQBWAAwjvwAA/rx4Xy3yRebL6XHgfVKNho4XSBplvOJISbywdsk6ej8J7M3mbqu0aqEuEO8D2T+S6vE1+6xC7iflXmtfP8RLGUeeKdNE70AYAAA=",
    "replaces": "Replaces the PC_Event_03 costume family (Elin variant) — items such as Blue Running Togs (#60581); Red Running Togs (#60586); Blue Running Togs (#60611). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-sleepy-running-togs/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.charcoal-eldritch-no-skirt",
@@ -5069,7 +5448,10 @@
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABwAgCdASoKABAAAsBMJZACdH8AGX97PgHvcawQAP5s2f9+ndLSq0KYHL4HUeBpZ6YkSSLdrnV9vlWpxNqVnqXz3ROgkzyo6BLSR5QFAAe67oKO5HGmgQnwiGEoyrAA",
    "replaces": "Replaces the PC_Event_09 costume family (Elin variant) — items such as School Uniform (Elin) (#131224); School Uniform A (Elin) (#131232); School Uniform A (Elin) (#131233). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.charcoal-eldritch-no-skirt/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.charcoal-eldritch-no-skirt/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.charcoal-eldritch-no-skirt/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-sugar-alice",
@@ -5097,7 +5479,10 @@
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAQCdASoQABAAAsBMJZwAAtfWNAAA/pEl4GKJF7ZonCZxbt9g5HqvKKNhK16n6r7nmHNT1JusZo58iwtiwwtz9e/39DFvJHYAAA==",
    "replaces": "Replaces the PC_Event_23A costume family (Elin variant) — items such as Clover-green Kobold Dress (Elin) (#262632); Clover-green Kobold Tailcoat (Human Male) (#262524); Clover-green Kobold Dress (Human Female) (#262536). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-sugar-alice/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-sugar-alice/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-sugar-alice/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-rose-gold-raincoat",
@@ -5125,7 +5510,10 @@
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwAgCdASoIABAAAsBMJZQCdAEXtkUhvm7vgAD+0q8lJBvVyZ4c1PFR/vkrhgWnQ6yAgJOYAf4LSrCcLoV4Vjf/Ha+qaYta2bniDwUZ1Inock8AAAA=",
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Raincoat (#154850); Elin Dyeable Raincoat (#154853); Elin Summer Sprinkle Raincoat (#186519). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-rose-gold-raincoat/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-rose-gold-raincoat/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-rose-gold-raincoat/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-english-lavender-raincoat",
@@ -5153,7 +5541,10 @@
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "blur_data": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAAAQAgCdASoHABAAAsBMJYwC7AD0mCsIg6w4APY+FUgML763CH1ckaGIW4/NLNw4sHUN6yjSYtZdrX2qwQZ1Yc36i6KiqFgA",
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Raincoat (#154850); Elin Dyeable Raincoat (#154853); Elin Summer Sprinkle Raincoat (#186519). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-english-lavender-raincoat/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-english-lavender-raincoat/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-english-lavender-raincoat/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-picnic-dress",
@@ -5179,9 +5570,11 @@
    "compatible_arch": "x64",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-picnic-dress/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAABQAgCdASoQAAoAAsBMJZQAdoACsZwbTshtQEAA/t4uFaUn7U90Hss2+w7zsywKXuguSadj+qxBluealdenzDMQlo/E3a30GS8y2/GGXYlAlF7Pj1Fq67ZTWZ1L0h/fivlqpjxCAGgxslKo8+AxAcWkVgLpXzgA",
    "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.",
@@ -5218,7 +5611,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoQAA8AAsBMJagCdACnCs0wMgAA/uRB0b2W61uRADEZOArjGHh01Hj4LybKE0sr6jPNZ6IyTj2fOe4NNd9kkWdORrADOYwl6kPA3r6cagxCKvwfG94kb7GuAx/UXB/z3AaiuLSZFMj+ai6vZcY9HJgA",
    "replaces": "Replaces the Acc_388 item family — items such as Shadow Hunter Leather Mask[Untradable] (#141385); Rogue's Mask (#183890); Shadow Hunter Leather Mask (#204415). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bear-animal-mask/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bear-animal-mask/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bear-animal-mask/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.happy-kitty-mask",
@@ -5250,7 +5646,10 @@
    "gpk_files": [
     "Acc_004.gpk"
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.happy-kitty-mask/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.happy-kitty-mask/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.happy-kitty-mask/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.bunny-chu-mount",
@@ -5278,7 +5677,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bunny-chu-mount/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAACwAQCdASoQAAkAAsBMJYwAAudUR50AAP74UZD8SR+/3g9pAOyr1bZIGfPG6DAAAAA=",
-   "replaces": "Replaces the gold 'Bunny in the Moon' mount model (Vehicle_BunnyInTheMoon_Gold). Check: summon that bunny mount."
+   "replaces": "Replaces the gold 'Bunny in the Moon' mount model (Vehicle_BunnyInTheMoon_Gold). Check: summon that bunny mount.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bunny-chu-mount/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.candied-dragon",
@@ -5306,7 +5708,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAADwAQCdASoQAAoAAsBMJbACdACVEf+zxmAA/q0+gttu8zKtjl9FBwHEL+uEAOa85F2DMatgHpnMprXD6shkDuxZF48GvSsvooqhHBPJlAcnn1cjbvXeHWdW3nEUqe1sXk/uqPAA",
    "replaces": "Replaces the golden dragon flying mount model (Vehicle_Dragon variant E, e.g. from the Sunny Gold Dragon Box #138071). Check: summon the gold dragon.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.candied-dragon/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.candied-dragon/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.candied-dragon/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.bunny-coco",
@@ -5334,7 +5739,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAABQAgCdASoQAA4AAsBMJbACdLoAAw53tblDjgAA/vKurW9VTD+rzVQbmGlFzoCcczo+zewLvErMNUgXqZ/YbxpmHkrvvueZN/i2MnClCXx1pI3eJ3VGuBira/mAAA==",
    "replaces": "Replaces the event skin of the partner (pet) CoCo (Partner_C_CoCo_Event00). Check: summon CoCo.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bunny-coco/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bunny-coco/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bunny-coco/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.hanbok-bubblegum-princess",
@@ -5362,7 +5770,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAAAQAgCdASoLABAAAsBMJbACdADdqagDlYBAAPJGwodzGZTEa4vfRJrlPRkqj99yCFphEuLzktdxzHNuUlcQ/qlzv9xS9T++lszAmcn8/UAMPvYD/SLawplRmEgAAA==",
    "replaces": "Replaces the PC_Event_27A costume family (Elin variant) — items such as Orchid Blossom Hanbok (Human Female) (#150774); Rose Blossom Hanbok (Human Female) (#150777); Hyacinth Blossom Hanbok (Human Female) (#150780). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.hanbok-bubblegum-princess/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.hanbok-bubblegum-princess/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.hanbok-bubblegum-princess/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.peaches-and-jeans",
@@ -5390,7 +5801,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQAQCdASoQAAoAAsBMJbACdAYtAjNUAAD2t6ZnRyc+TqDuJQe/zvjMXGalNXgyJz8xCRwZ68XT5e+z3/92+2F1iEHFUa4o2EylY3sztMehIGHTClzOAToSnyH8kJX1+4AAAA==",
    "replaces": "Replaces the PC_Event_53 costume family (Elin variant) — items such as Chambermaid's Dress (Elin) (#254396); Dyeable Chambermaid's Dress (Elin) (#254408); Chambermaid's Dress (Human Female) (#254300). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.peaches-and-jeans/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.peaches-and-jeans/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.peaches-and-jeans/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.pikachu-raincoat",
@@ -5418,7 +5832,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoMABAAAsBMJYwCdADbQGkoAAD++JMpBbvC6EKeujGT7IvhfpmuKfjYfjUtsARbtq+zhwMRdQcGwliJMkgwUBoFkAA=",
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Raincoat (#154850); Elin Dyeable Raincoat (#154853); Elin Summer Sprinkle Raincoat (#186519). Check: preview/wear one of those items.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pikachu-raincoat/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pikachu-raincoat/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pikachu-raincoat/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.i-can-haz-backpack",
@@ -5446,7 +5863,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoLABAAAsBMJbACdAEfvZVifKQAAP6XiH8tQ2M8RhEJpuIQtqaKp/Cvq46NPxKX0gmHywh1NO7Ufq/SP2xCQtSALFpQI//NaZHUQUjbH5Z6cqZlnFns8gAA",
    "replaces": "Replaces the Acc_133 back accessory model (backpack). Check: equip the matching backpack accessory.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.i-can-haz-backpack/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.i-can-haz-backpack/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.i-can-haz-backpack/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.maria-maria",
@@ -5474,7 +5894,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQAgCdASoQAA4AAsBMJbACdH8AFXzWVHoAAP5H6EM0+pfs7JuwGdShhO9Jukp8dsqeniM1YmegNalHGLVR3cZSGH5jVsCaoDbrSpPx8md5qzwmquf+1hCLE2l8iHa+B/kIKTWux7u39MAA",
    "replaces": "Replaces the event skin of the partner (pet) Rumi (Partner_A_Rumi_F_Event00). Check: summon Rumi.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.maria-maria/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.maria-maria/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.maria-maria/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.pinky-kun",
@@ -5502,7 +5925,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoLABAAAsBMJbACdADWywiwAPqb15s2BSmOmc5rrVddf4iDsuoYLqu+DaV0wrxZrfCTREdHPPA1hPKkv6KD4UwJ8dOMGRs/Eae+GAAA",
    "replaces": "Replaces the event skin of the partner (pet) KunKun (Partner_B_KunKun_Event00). Check: summon KunKun.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pinky-kun/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pinky-kun/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.pinky-kun/thumb.webp"
+   ]
   },
   {
    "id": "taylorswiftmodding.blacker-bow",
@@ -5530,7 +5956,10 @@
    "compatibility_notes": "Adapted from TheTaylorSwiftOfModding's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as TheTaylorSwiftOfModding intended.",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.blacker-bow/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAQCdASoQAAkAAsBMJYwAA3AA/vNADnuske9fsAsB3/g4jhBG/9Wp9U5D/yv6PTlAkoYe2ywLgAAA",
-   "replaces": "Replaces the Acc_298 item family — items such as Black Bow (#182134); Black Hair Ribbon (#116106). Check: preview/wear one of those items."
+   "replaces": "Replaces the Acc_298 item family — items such as Black Bow (#182134); Black Hair Ribbon (#116106). Check: preview/wear one of those items.",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.blacker-bow/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.cute-crafter-icons",
@@ -5564,7 +5993,10 @@
    "target_dropin_filename": "Icon_System.gpk",
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoQAAsAAsBMJbAC7AEVY+5mqQngAPQNfDOhlkFLZwqrAorJXI/QpM5nshy2SS+d8xkOI+EHMIbnr0aGPJKc4jdL0o46tXxdaH/BTCyFyX3bDX+TRpD5Rl5Yf2tiFR6WbAAAAA==",
    "replaces": "Replaces crafting/profession system icons (Icon_System) with cute versions. Check: crafting windows and profession UI.",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cute-crafter-icons/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cute-crafter-icons/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.cute-crafter-icons/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.hana-reward-tier",
@@ -5597,7 +6029,8 @@
    "updated_at": "2026-05-01T23:00:00Z",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADwAQCdASoQAAgAAsBMJQBOgB9xzX7V0AAA/rpPjTDdOg9OIk1nYm+O6/uW11HNMXtIh9TZQJ5oAAAA",
    "replaces": "Replaces the TERA Rewards / benefit window (S1UI_Benefit). Check: open that window in game.",
@@ -5645,9 +6078,11 @@
    "updated_at": "2026-05-01T23:00:00Z",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-boss-hp-bar/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRi4AAABXRUJQVlA4ICIAAACQAQCdASoQAAIAAsBMJZwAAudZuFQA/u+DYlI8wJnvvQAA",
    "replaces": "Replaces the boss HP gauge (top of screen in boss fights) (S1UI_GageBoss). Check: open that window in game.",
@@ -5695,7 +6130,8 @@
    "updated_at": "2026-05-01T23:00:00Z",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-chat-window/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAcAAsBMJQBYdhB6oADd2UKUyEmweJ3rWYSg+Mgw3oAA",
    "replaces": "Replaces the chat window (S1UI_Chat2). Check: open that window in game.",
@@ -5793,9 +6229,11 @@
    "updated_at": "2026-05-01T23:00:00Z",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAwAgCdASoQAA8AAsBMJbACdLoAAwkN5A5HIAD+5wmRMUWwXKITt1Erfi2PDHFFLUv1rAQIDtSHgngA",
    "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
@@ -5810,7 +6248,7 @@
      "loose_vanilla_sha256": "ef1d5ceb60f588508f04e3b81cbf595b3c8a3b8c7f877e9b30b403f89cbaff08"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-hearts-crosshair/cover.webp"
   },
   {
    "id": "pantypon.pink-party-member-hp-bar",
@@ -5855,7 +6293,10 @@
      "loose_vanilla_sha256": "8390843152423d89a7d4f3802df2066d6e98e3f8127457990eb7355be27570f7"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-party-member-hp-bar/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-party-member-hp-bar/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-party-member-hp-bar/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-skill-slots-main",
@@ -5900,7 +6341,10 @@
      "loose_vanilla_sha256": "6e3f9be2e8bc6d71fc46f27cfac61bee9b4db6e2366b40adacec41bf94e487c6"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-main/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-main/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-main/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-skill-slots-ex",
@@ -5945,7 +6389,11 @@
      "loose_vanilla_sha256": "581ddc75438764c7d0450ebe309160d0105be5d7ffb169c18b5c98f1cfc89bdd"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-skill-slots-ex2",
@@ -5990,7 +6438,11 @@
      "loose_vanilla_sha256": "e7030062c100b10ac5a097d7e1ca67012c2cabac6ac9a5125eaa2a475251b405"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.static-heart-crosshair",
@@ -6023,9 +6475,14 @@
    "updated_at": "2026-05-01T23:00:00Z",
    "compatibility_notes": "Adapted from pantypon's x32 mod by TERA-Europe-Classic for v100.02 (x64). May not look exactly as pantypon intended.",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_0.gif",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_1.gif",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_3.gif",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.static-heart-crosshair/thumb.webp"
    ],
    "blur_data": "data:image/webp;base64,UklGRjYAAABXRUJQVlA4ICoAAACwAQCdASoQAA4AAsBMJZwAAujc7bQAAP74UvsW/lc4ABVzQBb2ol4AAAA=",
    "replaces": "Replaces the combat crosshair (S1UI_Crosshair). Check: open that window in game.",
@@ -6085,7 +6542,10 @@
      "loose_vanilla_sha256": "30cfde866057d6f495d05cf0ac5ff8ef54656f57a87ffa522e545ff31e3703c6"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.yunicorn-defense-pop-up/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.yunicorn-defense-pop-up/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.yunicorn-defense-pop-up/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.archer-pink-slingshot",
@@ -6163,7 +6623,10 @@
    "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMABAAAsBMJZQAAt0AoSuSpMAA/uV0iUXznUag0/OZBKJVqrriy+RgCpc23ryxXRZgPUcBrefPrCL0Sx8UD83QgAA=",
    "replaces": "Replaces the Berserker axe in the food weapon-skin family (PC_Weapons_Event04; e.g. Bento Ax #131155, Shish Kebab #131151). Check: that food axe skin.",
    "tagline": "Replaces the Berserker axe in the food weapon-skin family (PC_Weapons_Event04; e",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.berserker-dessert-fork/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.berserker-dessert-fork/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.berserker-dessert-fork/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.multiclass-just-plasma",
@@ -6198,7 +6661,10 @@
    "blur_data": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAwAgCdASoLABAAAsBMJQBOgMXXtYOrhZ0bMAD+Cw7xZXbgEX60kixqRyLYeraSDvAerXR45CSpVItlCvf5QIb3/W7nrexylKM/BN/uJ5fD8iLZDopOgCYdW9v7eb7p1Ig0iuH5SocIjyeI+Lalq+ZrTPI4QuJAAAA=",
    "replaces": "Replaces the Plasma weapon-skin family textures (PC_Weapons_Event16; Plasma Smart Box skins #184121+), plain glow only. Check: any Plasma weapon skin.",
    "tagline": "Replaces the Plasma weapon-skin family textures (PC_Weapons_Event16; Plasma Smart Box s...",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.multiclass-just-plasma/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.multiclass-just-plasma/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.multiclass-just-plasma/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.mystic-iceglow-rod",
@@ -6235,7 +6701,10 @@
    "deploy_strategy": "dropin",
    "target_dropin_filename": "PC_Weapons_Event03.gpk",
    "last_verified_patch": "v100.02 (dropin, smoke-verified)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-iceglow-rod/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-iceglow-rod/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-iceglow-rod/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.mystic-ninja-oni-removal",
@@ -6270,7 +6739,10 @@
    "blur_data": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwAgCdASoQAA4AAsBMJbACdAYwdTPo5PHz4AD+6vPv0/JtnJmVwhLudSDFgtUNc4M4cLEuc/27IyL1nBnC+wAKG2VeFG8RIZN6dK/W0dCPI8RpEctbz9e7v+TALuf2U3Mnx5hnQ7LVV7vO2Fm7WlxTe46hELQYlRM3ddhekRSWjHT6OMffZpZFgAA=",
    "replaces": "Removes the oni heads from the Three-Oni weapon-skin family (PC_Weapons_Event07; e.g. Ninja Three-Oni Scepter #180799). Check: that weapon skin.",
    "tagline": "Removes the oni heads from the Three-Oni weapon-skin family (PC_Weapons_Event07; e",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-ninja-oni-removal/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-ninja-oni-removal/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-ninja-oni-removal/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.mystic-pale-pink-princess-wand",
@@ -6305,7 +6777,10 @@
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAACwAQCdASoQAAsAAsBMJbACdACQnuAAAP72chvMxboIbdivwRFypHKDEUv419jHfjD5yJ2rSvd1+WJWHx8/L1P/LrrcoPyAfCzRg861St3jMz/4tPiTJnmKAAA=",
    "replaces": "Replaces the Mystic variant of the seasonal event weapon skin (R_Event_Season_Dual_01 family). Check: seasonal event scepter skin on Mystic.",
    "tagline": "Replaces the Mystic variant of the seasonal event weapon skin (R_Event_Season_Dual_01 f...",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-pale-pink-princess-wand/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-pale-pink-princess-wand/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-pale-pink-princess-wand/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.mystic-strawberry-nuthatch",
@@ -6380,7 +6855,10 @@
    "deploy_strategy": "dropin",
    "target_dropin_filename": "PC_Weapons_Event.gpk",
    "last_verified_patch": "v100.02 (dropin, smoke-verified)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ninja-pink-prop-fan/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ninja-pink-prop-fan/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ninja-pink-prop-fan/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.priest-iceglow-staff",
@@ -6417,7 +6895,10 @@
    "deploy_strategy": "dropin",
    "target_dropin_filename": "PC_Weapons_Event03.gpk",
    "last_verified_patch": "v100.02 (dropin, smoke-verified)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.priest-iceglow-staff/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.priest-iceglow-staff/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.priest-iceglow-staff/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.castanic-female-pink-horns-hair",
@@ -6454,9 +6935,11 @@
    "tagline": "Replaces Castanic female hairstyle 17's hair/horn textures (Castanic_F_Head)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/thumb.webp",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/thumb.webp"
    ]
   },
   {
@@ -6492,7 +6975,10 @@
    "blur_data": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAACwAgCdASoQABAAAsBMJZQC7AxQEab8VUOC9Mb/D4AA/DqiQRXfDngbUzEmdGjWgzoVWVhl+b67qvyQ2sw/T6Tb3bfA2QgHc163OQTLTNbopSw3opQc/VKSktX2DJsWbZ7Z9I2mKNKarHpzNk/3F1fb4oqisnA6Ff6058ubmy/NL0Z58v5n8f9A0Co+XUEHgVQnCS6ARPTIAA==",
    "replaces": "Brightens the Elin EX hairstyle set textures (popori_F_Head_E, e.g. hair 07). Check: Elin newer hairstyles in character creation.",
    "tagline": "Replaces Brightens the Elin EX hairstyle set textures (popori_F_Head_E, e",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-brighter-new-hairstyles/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-brighter-new-hairstyles/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-brighter-new-hairstyles/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-matching-ears-and-tails",
@@ -6529,8 +7015,10 @@
    "tagline": "Replaces Elin ear/tail textures (Popori_F_Head, e",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/thumb.webp",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/shot_1.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/shot_2.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/shot_2.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/thumb.webp"
    ]
   },
   {
@@ -6566,7 +7054,10 @@
    "blur_data": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACQAgCdASoQAAwAAsBMJQBdj+AcADhFRZjVGLu/4AD+6l2SG6EicTcaah+BAr8Y2/LKqYTr0/W+R4DYzmv/KGWEzHVP7GLpayefKCmKjPYmDvuBSaHg3onJM7xtIsog7p5t9L/KEhRdUKZkFDEthomSwAA=",
    "replaces": "Replaces the Elin base body skin textures (Event_BaseBody). Check: any Elin, bare skin areas.",
    "tagline": "Replaces the Elin base body skin textures (Event_BaseBody)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-prettier-skin/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-prettier-skin/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-prettier-skin/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.fairy-stump-mount",
@@ -6601,7 +7092,10 @@
    "blur_data": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAwAgCdASoNABAAAsBMJbACdH8GJ/gdmQjExgD+vhGZ6xU6T5lw4EcctVO3zCtAIyVd3Y+r8dudUE/zQVsd0Vuoh+i+05WvxL9Z4DPQJV/o6sEYb2puvSsd2M24/RhySwkdlexPoU56R7gA",
    "replaces": "Replaces the beetle mount model variant C (Vehicle_Beetle_C). Check: summon that beetle mount.",
    "tagline": "Replaces the beetle mount model variant C (Vehicle_Beetle_C)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.fairy-stump-mount/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.fairy-stump-mount/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.fairy-stump-mount/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.flying-pink-cushion-mount",
@@ -6636,7 +7130,10 @@
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoLABAAAsBMJYwCsAECpn0clhOUkAAA/upMQRqgRc6OuodylG8ZiXVNu9wEkxAem5ypI4DbqT4mVft72Ton7PFhcwKAGjZzM0IO/aiURiGCa0gGgAA=",
    "replaces": "Replaces the flying carpet mount model (Vehicle_Carpet). Check: summon the flying carpet.",
    "tagline": "Replaces the flying carpet mount model (Vehicle_Carpet)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.flying-pink-cushion-mount/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.flying-pink-cushion-mount/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.flying-pink-cushion-mount/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-fishing-float",
@@ -6671,7 +7168,10 @@
    "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAQCdASoMABAAAsBMJaACdADYXAAA/pgcIWYUWzBDoIy9jxtVwJ3Eb0n+BiNkq5i2ML2XWyxlJpjQQJJ5Ot/P3I167M30BnUPoAAA",
    "replaces": "Replaces the fishing float model (Fishing_Float). Check: cast a fishing line.",
    "tagline": "Replaces the fishing float model (Fishing_Float)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-float/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-float/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-float/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-fishing-rod",
@@ -6706,7 +7206,10 @@
    "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACQAQCdASoMABAAAsBMJaACdADYXAAA/pgcIWYUWzBDoIy9jxtVwJ3Eb0n+BiNkq5i2ML2XWyxlJpjQQJJ5Ot/P3I167M30BnUPoAAA",
    "replaces": "Replaces the fishing rod model (FishingRod_D). Check: fish with that rod.",
    "tagline": "Replaces the fishing rod model (FishingRod_D)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-rod/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-rod/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-rod/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-royal-diamond-dragon-mount",
@@ -6743,7 +7246,10 @@
    "deploy_strategy": "dropin",
    "target_dropin_filename": "Vehicle_Dragon.gpk",
    "last_verified_patch": "v100.02 (dropin, smoke-verified)",
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-royal-diamond-dragon-mount/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-royal-diamond-dragon-mount/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-royal-diamond-dragon-mount/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-community-window",
@@ -6787,7 +7293,10 @@
      "loose_vanilla_sha256": "0507fea571dde0fc3d0b7642bf65b0b502c5fef277b2afb119c53244517cfeba"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-community-window/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-community-window/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-community-window/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-ep-window",
@@ -6831,7 +7340,10 @@
      "loose_vanilla_sha256": "26241b7871e10a6406e98ccc144e3d2b0ee590ce84c7d1f2c18405130ad537e1"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-ep-window/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-ep-window/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-ep-window/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-equipment-combine",
@@ -6875,7 +7387,10 @@
      "loose_vanilla_sha256": "6c94d59f54d29924439607a853b6b6384b94771678333f2538b9d03b8bfc8a5f"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-equipment-combine/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-equipment-combine/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-equipment-combine/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-equipment-upgrade",
@@ -6919,7 +7434,10 @@
      "loose_vanilla_sha256": "7b4a15f8ac4465de9e2d41c4536cfccb13ca5ffedcc17648cac82837994081f7"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-equipment-upgrade/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-equipment-upgrade/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-equipment-upgrade/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-guild-window",
@@ -6963,7 +7481,10 @@
      "loose_vanilla_sha256": "9e8fd732f501b68a23682d223238f32604f2d6130fe93613db52f05ff39cba9c"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-guild-window/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-guild-window/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-guild-window/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-interaction-popup",
@@ -7007,7 +7528,10 @@
      "loose_vanilla_sha256": "74732f2c3226d984975320fd150f36ed54dedf2279aecb8d38c22729035bf7c0"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-interaction-popup/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-interaction-popup/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-interaction-popup/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-minimap",
@@ -7051,7 +7575,10 @@
      "loose_vanilla_sha256": "e406ee5fcfaa1aed0ac7074e2c9b5a4cf1edb97b3569a6df3c81a69fcc68bc49"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-minimap/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-minimap/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-minimap/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-parcel-post-log",
@@ -7095,7 +7622,10 @@
      "loose_vanilla_sha256": "8e93f7a5519373fa1da0d3a7d456853bd5ae4bb5b6da5aea6b1a52c823601487"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-parcel-post-log/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-parcel-post-log/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-parcel-post-log/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-production-create",
@@ -7139,7 +7669,10 @@
      "loose_vanilla_sha256": "48318ba2b9f141af267e84d83231a274907aa7d5f9cb07f2fc11cf15eee6c7ad"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-production-create/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-production-create/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-production-create/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-production-list",
@@ -7183,7 +7716,10 @@
      "loose_vanilla_sha256": "53c0aecba0f5b72fc0bfebb8ce56fd0a76d7727f4fd081088393d78cc7a872bf"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-production-list/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-production-list/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-production-list/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-store-window",
@@ -7227,7 +7763,10 @@
      "loose_vanilla_sha256": "dcd396150dbfa0374f4295c8ed9aebb57b82d2c5ebf062d56f0a0d9d7ca100a2"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-store-window/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-store-window/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-store-window/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-system-option",
@@ -7271,7 +7810,10 @@
      "loose_vanilla_sha256": "ddc84364bcadd34732f3edd703f6e1d2b332c83135ea4fed71a97e0af436b434"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-system-option/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-system-option/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-system-option/thumb.webp"
+   ]
   },
   {
    "id": "foglio1024.modern-ui-trade-popup",
@@ -7315,7 +7857,10 @@
      "loose_vanilla_sha256": "1eff1bca0c9b521e5204b967de65b70b14952d770d3b39930d24452002698e14"
     }
    ],
-   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-trade-popup/thumb.webp"
+   "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-trade-popup/thumb.webp",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.modern-ui-trade-popup/thumb.webp"
+   ]
   },
   {
    "id": "saltymonkey.instant-join-tba-mode",
@@ -7359,6 +7904,9 @@
      "target_loose_path": "Art_Data/Packages/S1UI/S1UI_GameModeSelectScene.gpk",
      "loose_vanilla_sha256": "0e8310507b8925671a55dbc0576b9179b3155dc63831b4951a770117b4a4384b"
     }
+   ],
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/saltymonkey.instant-join-tba-mode/thumb.webp"
    ]
   },
   {
@@ -7393,7 +7941,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.dyeable-housekeeper-fix/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoQAAkAAsBMJYwAAueHZJgAAP74UZCT+oshSGtvN5ABsaTPI/bbEzfbZYLkAAAA",
    "replaces": "Replaces the PC_Event_19 costume family (Elin variant) — items such as Elin Housekeeper Uniform (#81148); Human Female Housekeeper Uniform (#81144); High Elf Female Housekeeper Uniform (#81145). Check: preview/wear one of those items.",
-   "tagline": "Replaces Elin Housekeeper Uniform"
+   "tagline": "Replaces Elin Housekeeper Uniform",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.dyeable-housekeeper-fix/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-dyeable-raincoat-match",
@@ -7428,7 +7979,10 @@
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Dyeable Raincoat (#154853); Dyeable Elin Spring Shower Raincoat (#186522); Elin Raincoat (#154850). Check: preview/wear one of those items.",
    "tagline": "Replaces Elin Dyeable Raincoat",
    "deploy_strategy": "dropin",
-   "target_dropin_filename": "PC_Event_42A.gpk"
+   "target_dropin_filename": "PC_Event_42A.gpk",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-dyeable-raincoat-match/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-pale-writer-shoes-fix",
@@ -7464,9 +8018,11 @@
    "replaces": "Replaces the PC_Event_09 costume family (Elin variant) — items such as Elin Icaruna School for Girls Uniform (#131303); School Uniform (Elin) (#131224); School Uniform A (Elin) (#131232). Check: preview/wear one of those items.",
    "tagline": "Replaces Elin Icaruna School for Girls Uniform",
    "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_0.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_1.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_2.webp",
-    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_3.webp"
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/shot_3.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-pale-writer-shoes-fix/thumb.webp"
    ]
   },
   {
@@ -7501,7 +8057,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-whiter-ice-cream-social/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoQAAkAAsBMJYwAAueAOOw4EAD++FGPRIJFp/8kDy4f/f8SdzXkitbC9tlguQAA",
    "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Human Female) (#251400). Check: preview/wear one of those items.",
-   "tagline": "Replaces Dyeable Sunday Dress (Elin)"
+   "tagline": "Replaces Dyeable Sunday Dress (Elin)",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-whiter-ice-cream-social/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.elin-whiter-raincoat-accents",
@@ -7536,7 +8095,10 @@
    "replaces": "Replaces the PC_Event_42A costume family (Elin variant) — items such as Elin Dyeable Raincoat (#154853); Dyeable Elin Spring Shower Raincoat (#186522); Elin Raincoat (#154850). Check: preview/wear one of those items.",
    "tagline": "Replaces Elin Dyeable Raincoat",
    "deploy_strategy": "dropin",
-   "target_dropin_filename": "PC_Event_42A.gpk"
+   "target_dropin_filename": "PC_Event_42A.gpk",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-whiter-raincoat-accents/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.ice-cream-black-pantyhose",
@@ -7571,7 +8133,10 @@
    "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Human Female) (#251400). Check: preview/wear one of those items.",
    "tagline": "Replaces Dyeable Sunday Dress (Elin)",
    "deploy_strategy": "dropin",
-   "target_dropin_filename": "PC_Event_46.gpk"
+   "target_dropin_filename": "PC_Event_46.gpk",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-black-pantyhose/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.ice-cream-white-pantyhose-shoes",
@@ -7606,7 +8171,10 @@
    "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Human Female) (#251400). Check: preview/wear one of those items.",
    "tagline": "Replaces Dyeable Sunday Dress (Elin)",
    "deploy_strategy": "dropin",
-   "target_dropin_filename": "PC_Event_46.gpk"
+   "target_dropin_filename": "PC_Event_46.gpk",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-white-pantyhose-shoes/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.ice-cream-white-pantyhose",
@@ -7641,7 +8209,10 @@
    "replaces": "Replaces the PC_Event_46 costume family (Elin variant) — items such as Frilled Sunday Dress (Elin) (#251484); Dyeable Sunday Dress (Elin) (#251496); Frilled Sunday Dress (Human Female) (#251388). Check: preview/wear one of those items.",
    "tagline": "Replaces Frilled Sunday Dress (Elin)",
    "deploy_strategy": "dropin",
-   "target_dropin_filename": "PC_Event_46.gpk"
+   "target_dropin_filename": "PC_Event_46.gpk",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.ice-cream-white-pantyhose/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.whiter-jeans-and-jacket",
@@ -7676,7 +8247,11 @@
    "replaces": "Replaces the PC_Event_32 costume family (male variant) — items such as Dyeable College Gear (Human Male) (#152318); Dyeable College Gear (Human Female) (#152327); Dyeable College Gear (High Elf Male) (#152336). Check: preview/wear one of those items.",
    "tagline": "Replaces Dyeable College Gear (Human Male)",
    "deploy_strategy": "dropin",
-   "target_dropin_filename": "PC_Event_32.gpk"
+   "target_dropin_filename": "PC_Event_32.gpk",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.whiter-jeans-and-jacket/shot_0.webp",
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.whiter-jeans-and-jacket/thumb.webp"
+   ]
   },
   {
    "id": "artexlib.white-valkyrie-helmet",
@@ -7712,7 +8287,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/artexlib.white-valkyrie-helmet/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAACwAQCdASoQABAAAsBMJYgAAZ7qo6+AAPzWFSywnQYUEIgsC8yO2SweCzuLYMCFMdEiGgvu2g9UMziWUTzwLluc3mpB2trTshiHpxsgSaAAAA==",
    "replaces": "Replaces the Acc_262 item family — items such as Valkyrie Helm (#179505); [Promotion] Eagle Warrior Helm (#149374); Eagle Warrior Helm (#181587). Check: preview/wear one of those items.",
-   "tagline": "Replaces Valkyrie Helm"
+   "tagline": "Replaces Valkyrie Helm",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/artexlib.white-valkyrie-helmet/thumb.webp"
+   ]
   },
   {
    "id": "artexlib.gray-college-backpack",
@@ -7748,7 +8326,10 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/artexlib.gray-college-backpack/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoQABAAAsBMJaQAAlwptq9LYAD+ghAua+qxLEMgXBGAirgirDdaIYflLD0dFpYKbfyFu1CeBa/zmyDnXhAYn0JwEwwrKr+xqgAAAA==",
    "replaces": "Replaces the Acc_403 item family — items such as Gray College Backpack (#152411); Canvas Backpack (#184355); Campus Bag A (#204456). Check: preview/wear one of those items.",
-   "tagline": "Replaces Gray College Backpack"
+   "tagline": "Replaces Gray College Backpack",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/artexlib.gray-college-backpack/thumb.webp"
+   ]
   },
   {
    "id": "pantypon.pink-menu",
@@ -18727,7 +19308,13 @@
     }
    ],
    "featured_image": "https://64.media.tumblr.com/47343145b94862571c658c42815ebc1d/a40a05a6a7e5d8d7-01/s1280x1920/8da378cca9d479567808e394f980c12b0bfd492f.jpg",
-   "icon_url": "https://64.media.tumblr.com/47343145b94862571c658c42815ebc1d/a40a05a6a7e5d8d7-01/s1280x1920/8da378cca9d479567808e394f980c12b0bfd492f.jpg"
+   "icon_url": "https://64.media.tumblr.com/47343145b94862571c658c42815ebc1d/a40a05a6a7e5d8d7-01/s1280x1920/8da378cca9d479567808e394f980c12b0bfd492f.jpg",
+   "screenshots": [
+    "https://64.media.tumblr.com/beb4bf6447aa7fec8434af4d8c50d633/a40a05a6a7e5d8d7-24/s1280x1920/ec3db99be43a77b4a289b11f9c33a28f8d1f2993.png",
+    "https://64.media.tumblr.com/9af9340219e4a5eac7e5f1e233887e30/a40a05a6a7e5d8d7-00/s1280x1920/08228c13e2b0ec89d41880b79e5e0a35cc8920af.png",
+    "https://64.media.tumblr.com/4c5be85ea59b512f1cf309487421402e/a40a05a6a7e5d8d7-11/s640x960/3d059535598788c881059df864d1d2b6573ce8eb.png",
+    "https://64.media.tumblr.com/a37b1def8a570b7e09245909503b430f/a40a05a6a7e5d8d7-49/s1280x1920/77899dfb332893c29eb8761ff3811a8d6d195136.png"
+   ]
   }
  ]
 }
