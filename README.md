@@ -78,53 +78,42 @@ Every entry MUST populate:
 
 Submissions without those four fields are closed unmerged.
 
-## Current entries
+## What's in the catalog
 
-### External apps
+`catalog.json` is the source of truth. As of version 131 it holds **493 mods**
+from **99 creators** — 2 external apps and 491 GPK mods, across these categories:
+
+| Category | Count | | Category | Count |
+|---|--:|---|---|--:|
+| Costumes | 220 | | Mounts & Pets | 20 |
+| Eyes & Face | 89 | | Chat & Alerts | 10 |
+| Accessories | 49 | | Removers | 9 |
+| Windows & Menus | 42 | | Performance & FX | 9 |
+| HUD & Combat | 24 | | Weapon Skins | 9 |
+| Hair | 7 | | Sounds & Voice | 3 |
+| tools | 2 | | | |
+
+The two external apps:
 
 | id | name | source |
 |----|------|--------|
 | `classicplus.shinra` | Shinra Meter (Classic+) | [ShinraMeter](https://github.com/TERA-Europe-Classic/ShinraMeter) |
 | `classicplus.tcc` | TCC (Classic+) | [TCC](https://github.com/TERA-Europe-Classic/TCC) |
 
-### GPK mods — research pool (not yet shipped)
+## Where the mods come from
 
-The following community GPK mods have been catalogued but are **not**
-in the distributable catalog pending redistribution permission from
-the original uploaders. They were shared on the TERA Europe Classic
-Discord "Community UI mods :3" channel; authorship is per the
-attachment uploader.
+Most GPK mods were archived from the community — the mods-of-tera Tumblr and the
+TERA Europe Classic Discord "Community UI mods" channels. Each is rehosted with
+its original creator credited in the entry's `credits` field, and the 32-bit
+packs were converted to the v100 (x64) client. If you are a creator and want an
+entry reattributed or removed, open an issue.
 
-Uploader: **Псина** (Discord handle — Russian for "dog")
-- `S1UI_GageMonsterHp.gpk` — monster HP gauge restyled as party HP bar
-  (original Tumblr reference: miyo-ni/rainbow-hp-bar-group)
-- `FX_Awaken_Engineer.gpk`, `FX_E_HotFix_140925.gpk`, `PostProcess.gpk`
-  — "removing gunner from the game" effect pack
-- `NPC_DisPenser.gpk` — custom dispenser NPC model (install at
-  `S1Game\CookedPC\Art_Data\Packages\CH\NPC\NPC_Objects` read-only)
-- `Icon_Skills.gpk` — reworked skill icons for Slayer and Lancer
-- `S1UI_ExtShortCut.gpk`, `S1UI_ShortCut.gpk` — frameless shortcut bar
-  with corrected ESC behaviour and cooldown animation fixes
-- `S1UI_PaperDoll.gpk` — equipment/paperdoll window variant
-- `S1UI_PartyWindow_1.gpk` — party window with the player number
-  removed
-- `S1UI_PartyWindow_2.gpk` — party window with debuffs only (no
-  buffs)
-
-Uploader: **Vaise**
-- `S1UI_PartyWindow.gpk` — custom party window layout
-- `TexturedFonts.gpk` — themed font packs (New Year, Santa/Bow, blue
-  bow, hearts/knives) with styled healing numbers
-
-Before adding any of these to `catalog.json`, obtain explicit
-redistribution permission from the uploader and record the permission
-(with date) in the entry's `credits` field. The launcher's mod
-detail panel renders `credits` verbatim, so the acknowledgment is
-visible to every end user.
+Kept here for attribution: two of the early seed uploaders were **Псина**, whose
+monster-HP gauge shipped as `psina.gage-monster-hp` (plus party/shortcut window
+variants), and **Vaise**, who shared a party window and themed font packs.
 
 ### GPK tooling credit
 
-Applies to every GPK entry once shipped:
 - [lunchduck/GPK_RePack](https://github.com/lunchduck/GPK_RePack) —
   GPK unpack/repack tool the community uses to build redistributable
   mods.
