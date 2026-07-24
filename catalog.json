@@ -457,7 +457,7 @@
    "kind": "gpk",
    "name": "Thinkblob Mount",
    "author": "Foglio1024 (original thinkblob mod), x64 port by Lukas",
-   "version": "1.6",
+   "version": "1.7",
    "featured_image": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-lukas.thinkblob-mount-v1.5/thinkblob-showcase.png",
    "category": "Mounts & Pets",
    "tags": [],
@@ -511,14 +511,6 @@
        "vanilla_sha256": "e37c77319ce443428e9360660fa4bb95a9166096db0c5f0a8afe34ef4e9ae2ed"
       }
      ]
-    },
-    {
-     "name": "spec",
-     "deploy_strategy": "composite_redirect",
-     "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-lukas.thinkblob-mount-v1.6/Vehicle_Blob_dup.gpk",
-     "sha256": "da8ec03c65f775fd749773d1b37cfbdc555a9c8cb619eba5059a83cd0e4e3512",
-     "size_bytes": 2643003,
-     "target_object_path": "9dc1ecae_20294dea_z0154.Skel.Awaken_SpiritKing_Skel_dup"
     },
     {
      "name": "icon",
