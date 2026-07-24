@@ -15295,6 +15295,92 @@
       "replaces": "Replaces the Acc_532 package. Check: preview/wear the matching item in game.",
       "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Please report if it looks off.",
       "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)"
+    },
+    {
+      "id": "lilisahime.requested-hairstyle-hairstyle-1",
+      "kind": "gpk",
+      "name": "Requested Hairstyle Hairstyle 1",
+      "author": "lilisahime",
+      "category": "Hair",
+      "short_description": "Requested hairstyle. \nHairstyle 1:\nhttps://mega.nz/#!LCpGlSQQ!3L8cfzpKg09A9Q6yib75uqU_HMAjm6DJVMxobRwOUdg\nHairstyle 5 &amp;...",
+      "long_description": "Requested hairstyle. \nHairstyle 1:\nhttps://mega.nz/#!LCpGlSQQ!3L8cfzpKg09A9Q6yib75uqU_HMAjm6DJVMxobRwOUdg\nHairstyle 5 &amp;...\n\nMulti-part hair mod. Original by lilisahime, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by lilisahime. Source: https://mods-of-tera.tumblr.com/post/188305623732/lilisahime-requested-hairstyle-hairstyle-1",
+      "source_url": "https://mods-of-tera.tumblr.com/post/188305623732/lilisahime-requested-hairstyle-hairstyle-1",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/c5ccd7e7645431135672fc74575c8e49/tumblr_pxmmj3FWsT1y86myqo1_1280.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/c5ccd7e7645431135672fc74575c8e49/tumblr_pxmmj3FWsT1y86myqo1_1280.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Popori_F_Head.patched.gpk",
+        "popori_F_Head_E.patched.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Popori_F_Head.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch7/lilisahime_requested-hairstyle-hairstyle__Popori_F_Head.patched.gpk",
+          "sha256": "a6d733ddd524c80bd7453e8ceb8a7fb2f53740bc3b6c64590647af80dd55860c",
+          "size_bytes": 64521608,
+          "target_dropin_filename": "Popori_F_Head.patched.gpk"
+        },
+        {
+          "name": "popori_F_Head_E.patched",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch7/lilisahime_requested-hairstyle-hairstyle__popori_F_Head_E.patched.gpk",
+          "sha256": "6bc7b4690e63fb4edcd78aa70173de987c3f916037c6f0088aa23f3387b5f014",
+          "size_bytes": 15300294,
+          "target_dropin_filename": "popori_F_Head_E.patched.gpk"
+        }
+      ],
+      "replaces": "Replaces: Popori_F_Head.patched, popori_F_Head_E.patched. Check: preview the hairstyle in the salon.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
+    },
+    {
+      "id": "nefristreo.mod-for-a-friend-makes-the-hair-for",
+      "kind": "gpk",
+      "name": "Mod For A Friend Makes The Hair",
+      "author": "nefristreo",
+      "category": "Hair",
+      "short_description": "Mod for a friend, makes the hair for the High Elf Female Hairstyle 10 two colors. There is also an experimental alternative where the textur",
+      "long_description": "Mod for a friend, makes the hair for the High Elf Female Hairstyle 10 two colors. There is also an experimental alternative where the textur\n\nMulti-part hair mod. Original by nefristreo, shared on the mods-of-tera archive.",
+      "credits": "Shared on the mods-of-tera archive; original by nefristreo. Source: https://mods-of-tera.tumblr.com/post/177730612857/nefristreo-mod-for-a-friend-makes-the-hair-for",
+      "source_url": "https://mods-of-tera.tumblr.com/post/177730612857/nefristreo-mod-for-a-friend-makes-the-hair-for",
+      "version": "2026-r1",
+      "featured_image": "https://64.media.tumblr.com/8474bafb4fbfd0ae57cfcdcc202daaed/tumblr_pe90nzjzBA1xvk4kco1_250.png",
+      "screenshots": [
+        "https://64.media.tumblr.com/8474bafb4fbfd0ae57cfcdcc202daaed/tumblr_pe90nzjzBA1xvk4kco1_250.png"
+      ],
+      "target_patch": "v100.02",
+      "compatible_arch": "x64",
+      "gpk_files": [
+        "Highelf_F_Head.gpk",
+        "Highelf_F_Head.gpk"
+      ],
+      "parts": [
+        {
+          "name": "Highelf_F_Head",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch7/nefristreo_mod-for-a-friend-makes-the-ha__Highelf_F_Head.gpk",
+          "sha256": "d9bb042ec45aea865da409da4f731d65c0d56be17cf3a1c03e95ce8cc04bc24a",
+          "size_bytes": 42757481,
+          "target_dropin_filename": "Highelf_F_Head.gpk"
+        },
+        {
+          "name": "Highelf_F_Head_aed004",
+          "deploy_strategy": "dropin",
+          "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mods-of-tera-intake-batch7/nefristreo_mod-for-a-friend-makes-the-ha__Highelf_F_Head_aed004.gpk",
+          "sha256": "d9bb042ec45aea865da409da4f731d65c0d56be17cf3a1c03e95ce8cc04bc24a",
+          "size_bytes": 42757481,
+          "target_dropin_filename": "Highelf_F_Head.gpk"
+        }
+      ],
+      "replaces": "Replaces: Highelf_F_Head, Highelf_F_Head. Check: preview the hairstyle in the salon.",
+      "compatibility_notes": "Reconverted x32->v100.02 x64 (LZO-compressed, pixel-verified). Multi-part dropin.",
+      "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)"
     }
   ]
 }
