@@ -1,0 +1,41 @@
+name: parts[] must not shadow a rebuilt payload
+
+# The launcher installs an entry's parts[] and never applies its top-level
+# composite redirect. So rebuilding an entry at the top level while leaving an
+# older parts[] behind ships the OLD payload — and it does so invisibly: the
+# download succeeds, the deploy succeeds, the registry says enabled, no error
+# surfaces anywhere. The only symptom is the mod doing nothing, which looks
+# exactly like a wrong-layer no-op.
+#
+# That cost two full rebuild cycles on the loading-progress entries, both
+# announced to the tester as ready while the install put down a stale file.
+# Nothing about it is catchable by eye in review, so it is caught here.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+    paths:
+      - catalog.json
+      - scripts/check_parts_shadowing.py
+      - scripts/check_parts_shadowing_test.py
+      - .github/workflows/parts-shadowing.yml
+
+jobs:
+  parts-shadowing:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Self-test the detector
+        # A guard that quietly stops detecting is worse than no guard, so prove
+        # it still catches the shape it exists for before trusting its verdict.
+        run: python scripts/check_parts_shadowing_test.py
+
+      - name: No entry ships a payload that is not its top-level rebuild
+        run: python scripts/check_parts_shadowing.py

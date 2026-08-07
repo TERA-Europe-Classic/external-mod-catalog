@@ -1,0 +1,272 @@
+{
+ "foglio1024.restyle-equipment-combine": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-equipment-upgrade": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-interaction-popup": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-minimap": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-parcelpost": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-production-create": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-production-list": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-skill-window": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-system-option": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-quickslot": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-trade-popup": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.restyle-warehouse": {
+  "source": "https://github.com/foglio1024/tera-restyle",
+  "why": "wiki screenshots are 2018 cdn.discordapp.com links; expired, and GitHub camo 404s because it proxies live images rather than archiving them",
+  "next": "render the payload UI textures, or ask the author for fresh shots"
+ },
+ "foglio1024.modern-ui-jewels-fix-inventory": {
+  "source": "https://github.com/foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-jewels-fix-icons": {
+  "source": "https://github.com/foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-bosswindow": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-targetinfo": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-buffs": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-flight-gauge": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-lfg-board": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-lfg-member": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-party-window": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.ui-remover-raid-window": {
+  "source": "https://github.com/foglio1024/UI-Remover",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.badgui-loader": {
+  "source": "https://github.com/foglio1024/badGUILoader",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.s1ui-chat2-p75": {
+  "source": "https://github.com/foglio1024/S1UI_chat2",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "owyn.fps-pack-fx-awaken-berserker": {
+  "source": "https://github.com/Owyn/fps-pack",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "owyn.fps-pack-fx-awaken-sorcerer": {
+  "source": "https://github.com/Owyn/fps-pack",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "owyn.fps-pack-fx-awaken-priest": {
+  "source": "https://github.com/Owyn/fps-pack",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "owyn.fps-pack-fx-awaken-lancer": {
+  "source": "https://github.com/Owyn/fps-pack",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "owyn.fps-pack-fx-awaken-slayer": {
+  "source": "https://github.com/Owyn/fps-pack",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "owyn.fps-pack-fx-awaken-warrior": {
+  "source": "https://github.com/Owyn/fps-pack",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-community-window": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-ep-window": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-equipment-combine": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-equipment-upgrade": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-guild-window": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-interaction-popup": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-minimap": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-parcel-post-log": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-production-create": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-production-list": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-store-window": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-system-option": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "foglio1024.modern-ui-trade-popup": {
+  "source": "https://github.com/Foglio1024/tera-modern-ui",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "jtera.japanese-voice-pack": {
+  "source": "",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-black": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-blue": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-dark-blue": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-dark-yellow": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-orange": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-other-pink": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-peach": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-pink": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-purple": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ },
+ "henapuff.pearl-bow-recolors-red": {
+  "source": "https://mods-of-tera.tumblr.com/post/184666379172/henapuff-pearl-bow-recolors-they-released-this",
+  "why": "source page served no image above 20 KB that was not site chrome",
+  "next": "check the Discord archive, then the payload"
+ }
+}

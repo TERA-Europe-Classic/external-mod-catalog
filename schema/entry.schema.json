@@ -1,0 +1,143 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tera-europe-classic.github.io/external-mod-catalog/entry.schema.json",
+  "title": "catalog entry",
+  "description": "One mod. The category decides which shape of `replaces` is legal, and the schema enforces it -- a Costume that omits `targets` does not validate, full stop. That is the difference between this and the old checker, which could only ask whether a sentence looked about right.",
+
+  "type": "object",
+  "required": ["id", "kind", "name", "author", "category", "version", "short_description", "credits"],
+
+  "properties": {
+    "id": {
+      "description": "author.slug, lowercase. The install directory and the registry key.",
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9._-]*\\.[a-z0-9][a-z0-9._-]*$"
+    },
+    "kind": { "enum": ["gpk", "external"] },
+    "name": { "type": "string", "minLength": 2, "maxLength": 80 },
+    "author": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "category": {
+      "enum": ["Costumes", "Accessories", "Mounts & Pets", "Weapon Skins",
+               "Eyes & Face", "Hair",
+               "HUD & Combat", "Windows & Menus", "Chat & Alerts",
+               "Performance & FX", "Removers", "Sounds & Voice", "tools"]
+    },
+    "version": { "type": "string", "minLength": 1 },
+    "short_description": { "type": "string", "minLength": 8, "maxLength": 300 },
+    "credits": {
+      "description": "Who made it and how it reached us. Every entry owes this -- it is the debt we can always pay, even when the source URL is a dead forum.",
+      "type": "string",
+      "minLength": 4
+    },
+    "replaces": {
+      "description": "The rendered sentence, GENERATED from replaces_data. Never hand-written -- CI asserts it equals render_replaces.render(replaces_data). Kept as a plain string so launcher builds older than v0.2.126, which type this field as String, keep working.",
+      "type": "string",
+      "minLength": 8
+    },
+    "replaces_data": { "$ref": "replaces.schema.json" },
+
+    "deploy_strategy": {
+      "enum": ["composite_redirect", "tmm", "dropin", "loose_replace", "loose_add",
+               "tfc_patch", "decal_patch", "composite_patch"]
+    },
+    "target_object_path": { "type": "string", "minLength": 3 },
+    "target_dropin_filename": { "type": "string", "minLength": 3 },
+    "target_loose_path": { "type": "string", "minLength": 3 },
+    "tfc_file": { "type": "string", "minLength": 3 },
+    "download_url": { "type": "string" },
+    "sha256": { "type": "string", "pattern": "^([a-f0-9]{64})?$" },
+    "size_bytes": { "type": "integer", "minimum": 0 },
+    "gpk_files": { "type": "array", "items": { "type": "string" } },
+    "parts": { "type": "array" }
+  },
+
+  "allOf": [
+    {
+      "description": "Wearables owe item ids WHEN an item exists -- and `objects` when one does not. The first draft of this rule demanded `targets` outright, on the belief that there is always an item behind a costume, a mount or a weapon skin. 34 entries proved otherwise: the fishing float is a single global mesh in FishingResourceData that nothing equips, an NPC recolor targets a townsperson nobody can wear, and armour mesh packages are not named anywhere in the datacenter (poporiFemalePartid spans 0-510325104 with no positional encoding, so `Popori_F_H31` cannot be joined to an item by name).\n\nDemanding an id that does not exist does not raise the bar, it forces a fabricated one -- and a fabricated target is exactly what made a costume mod import ballast over an outfit it never touched, twice. `objects` is the stricter answer, not the softer one: it is read out of the payload and re-verified against it.",
+      "if": {
+        "properties": { "category": { "enum": ["Costumes", "Accessories", "Mounts & Pets", "Weapon Skins"] } },
+        "required": ["category"]
+      },
+      "then": {
+        "properties": {
+          "replaces_data": { "anyOf": [{ "required": ["targets"] }, { "required": ["objects"] }] }
+        }
+      }
+    },
+    {
+      "description": "Customization has no item at all -- it owes the character-creator slot and race. Some `Hair` entries are hair ACCESSORIES with real items, so either shape passes here.",
+      "if": {
+        "properties": { "category": { "enum": ["Eyes & Face", "Hair"] } },
+        "required": ["category"]
+      },
+      "then": {
+        "properties": {
+          "replaces_data": {
+            "anyOf": [{ "required": ["slots"] }, { "required": ["targets"] }, { "required": ["objects"] }]
+          }
+        }
+      }
+    },
+    {
+      "description": "Interface and system mods owe a named surface, and must NOT claim item ids they cannot have.",
+      "if": {
+        "properties": { "category": { "enum": ["HUD & Combat", "Windows & Menus", "Chat & Alerts", "Performance & FX", "Removers", "Sounds & Voice"] } },
+        "required": ["category"]
+      },
+      "then": {
+        "properties": {
+          "replaces_data": {
+            "required": ["loose"],
+            "not": { "anyOf": [{ "required": ["targets"] }, { "required": ["slots"] }] }
+          }
+        }
+      }
+    },
+    {
+      "description": "A gpk entry must say WHAT it swaps. External tools (Shinra, TCC) are overlay apps that swap no game asset, so `replaces` has nothing true to say and its absence is the honest answer.",
+      "if": {
+        "properties": { "kind": { "const": "gpk" } },
+        "required": ["kind"]
+      },
+      "then": { "required": ["replaces", "replaces_data"] }
+    },
+    {
+      "description": "A gpk entry must say HOW it deploys. Multi-part entries carry a strategy per part instead of one at the top level -- either is fine, neither is not: without one it installs, reports success, and does nothing.",
+      "if": {
+        "properties": { "kind": { "const": "gpk" } },
+        "required": ["kind"]
+      },
+      "then": {
+        "anyOf": [
+          { "required": ["deploy_strategy"] },
+          {
+            "properties": {
+              "parts": {
+                "type": "array",
+                "minItems": 1,
+                "items": { "type": "object", "required": ["deploy_strategy"] }
+              }
+            },
+            "required": ["parts"]
+          }
+        ]
+      }
+    },
+    {
+      "if": { "properties": { "deploy_strategy": { "const": "composite_redirect" } }, "required": ["deploy_strategy"] },
+      "then": { "required": ["target_object_path"] }
+    },
+    {
+      "if": { "properties": { "deploy_strategy": { "const": "dropin" } }, "required": ["deploy_strategy"] },
+      "then": { "required": ["target_dropin_filename"] }
+    },
+    {
+      "if": { "properties": { "deploy_strategy": { "enum": ["loose_replace", "loose_add", "decal_patch"] } }, "required": ["deploy_strategy"] },
+      "then": { "required": ["target_loose_path"] }
+    },
+    {
+      "if": { "properties": { "deploy_strategy": { "const": "tfc_patch" } }, "required": ["deploy_strategy"] },
+      "then": { "required": ["tfc_file"] }
+    }
+  ]
+}

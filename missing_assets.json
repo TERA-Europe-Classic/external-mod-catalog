@@ -1,0 +1,1262 @@
+[
+ {
+  "id": "classicplus.shinra",
+  "tag": "v3.0.16-classicplus",
+  "name": "ShinraMeter-v3.0.16-classicplus.zip"
+ },
+ {
+  "id": "classicplus.tcc",
+  "tag": "v2.0.31-classicplus",
+  "name": "TCC-v2.0.31-classicplus.zip"
+ },
+ {
+  "id": "artexlib.gray-college-backpack",
+  "tag": "dropin-to-composite-v1",
+  "name": "GrayCollegeBackpack_Attach_403_skel.gpk"
+ },
+ {
+  "id": "littleshistar.pastel-blue-spun-sugar-wings",
+  "tag": "dropin-to-composite-v1",
+  "name": "PastelBlueSpunSugarWings_Attach_143_skel.gpk"
+ },
+ {
+  "id": "littleshistar.black-lil-devil-horns",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackLilDevilHorns_Attach_060_Skel.gpk"
+ },
+ {
+  "id": "littleshistar.notes-by-dolme",
+  "tag": "dropin-to-composite-v1",
+  "name": "NotesByDolme_Attach_205_Skel.gpk"
+ },
+ {
+  "id": "pinkteachan.aura-kingdom-zepheryine-head-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "AuraKingdomZepheryineHeadFor_Attach_023_Skel.gpk"
+ },
+ {
+  "id": "aioshe.kitsune-mask-converted-to-look-like",
+  "tag": "dropin-to-composite-v1",
+  "name": "KitsuneMaskConvertedToLookLi_Attach_077_Skel.gpk"
+ },
+ {
+  "id": "tera.elin-aesthetics-hi-i-made-a",
+  "tag": "dropin-to-composite-v1",
+  "name": "ElinAestheticsHiIMadeA_PC_Event_73_Popori_F_Dye_MI.gpk"
+ },
+ {
+  "id": "tera.elin-aesthetics-hi-i-made-a",
+  "tag": "dropin-to-composite-v1",
+  "name": "ElinAestheticsHiIMadeA_PC_Event_73_Popori_F_Dye_Skel.gpk"
+ },
+ {
+  "id": "tera.elin-aesthetics-hi-i-made-a",
+  "tag": "dropin-to-composite-v1",
+  "name": "ElinAestheticsHiIMadeA_PC_Event_73_Popori_F_Dye_Skel_Phys.gpk"
+ },
+ {
+  "id": "recolor.for-arthurian-knight-scepter-for-mystic",
+  "tag": "dropin-to-composite-v1",
+  "name": "ForArthurianKnightScepterFor_Staff08_MI.gpk"
+ },
+ {
+  "id": "recolor.for-arthurian-knight-scepter-for-mystic",
+  "tag": "dropin-to-composite-v1",
+  "name": "ForArthurianKnightScepterFor_Staff08_MI.gpk"
+ },
+ {
+  "id": "recolor.for-arthurian-knight-scepter-for-mystic",
+  "tag": "dropin-to-composite-v1",
+  "name": "ForArthurianKnightScepterFor_Staff08_MI.gpk"
+ },
+ {
+  "id": "recolor.for-cheeks",
+  "tag": "dropin-to-composite-v1",
+  "name": "ForCheeks_Popori_boy03_MI.gpk"
+ },
+ {
+  "id": "recolor.for-cheeks",
+  "tag": "dropin-to-composite-v1",
+  "name": "ForCheeks_Popori_boy03_Skel.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Axe04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Axe04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Bow04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Bow04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Lance04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Lance04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Lance04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Twohand04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Twohand04_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.no-panda-ice-cream-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "NoPandaIceCreamStaff_Twohand04_MI.gpk"
+ },
+ {
+  "id": "aioshe.sparky-got-a-spiffy-new-makeover",
+  "tag": "dropin-to-composite-v1",
+  "name": "SparkyGotASpiffyNewMakeover_Vehicle_Raptor_Skel.gpk"
+ },
+ {
+  "id": "aioshe.need-that-golden-tommy-gun-to-mow-down",
+  "tag": "dropin-to-composite-v1",
+  "name": "NeedThatGoldenTommyGunToMowD_Attach_201_skel.gpk"
+ },
+ {
+  "id": "puppetplayers.these-heckin-shades-into-regular",
+  "tag": "dropin-to-composite-v1",
+  "name": "TheseHeckinShadesIntoRegular_Attach_110_Aman_M_Skel.gpk"
+ },
+ {
+  "id": "puppetplayers.these-heckin-shades-into-regular",
+  "tag": "dropin-to-composite-v1",
+  "name": "TheseHeckinShadesIntoRegular_Attach_110_Popori_M_Skel.gpk"
+ },
+ {
+  "id": "puppetplayers.these-heckin-shades-into-regular",
+  "tag": "dropin-to-composite-v1",
+  "name": "TheseHeckinShadesIntoRegular_Attach_110_Skel.gpk"
+ },
+ {
+  "id": "deathwrack.snake-eyes-for-coldarctic-bomber",
+  "tag": "dropin-to-composite-v1",
+  "name": "SnakeEyesForColdarcticBomber_PC_Event_49_F_MI.gpk"
+ },
+ {
+  "id": "deathwrack.snake-eyes-for-coldarctic-bomber",
+  "tag": "dropin-to-composite-v1",
+  "name": "SnakeEyesForColdarcticBomber_PC_Event_49_F_Fur_MI.gpk"
+ },
+ {
+  "id": "deathwrack.snake-eyes-for-coldarctic-bomber",
+  "tag": "dropin-to-composite-v1",
+  "name": "SnakeEyesForColdarcticBomber_PC_Event_49_F_Dye_MI.gpk"
+ },
+ {
+  "id": "tyfia.pinky-thrall-of-vengeance-my-mystic-is",
+  "tag": "dropin-to-composite-v1",
+  "name": "PinkyThrallOfVengeanceMyMyst_Awaken_LightningSpirit_skel.gpk"
+ },
+ {
+  "id": "tetorichu.dyeable-sheriff-uniforme-mods",
+  "tag": "dropin-to-composite-v1",
+  "name": "DyeableSheriffUniformeMods_PC_Event_48_F_Dye_MI.gpk"
+ },
+ {
+  "id": "tetorichu.hey-guys-its-my-first-mods",
+  "tag": "dropin-to-composite-v1",
+  "name": "HeyGuysItsMyFirstMods_Attach_373_Skel.gpk"
+ },
+ {
+  "id": "timeless.woods-pink-heart-shades-turns",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsPinkHeartShadesTurns_Attach_166_Skel.gpk"
+ },
+ {
+  "id": "pantypon.just-bows-hello-kitty-pink-headband",
+  "tag": "dropin-to-composite-v1",
+  "name": "JustBowsHelloKittyPinkHeadba_Attach_519_Skel.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Rod03_ClearBlue_MI.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Rod03_MI.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Rod03_MI.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Rod03_MI.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Rod03_MI.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Twohand04_MI.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Twohand04_MI.gpk"
+ },
+ {
+  "id": "princessbuttpunch.soo-i-made-my-very-first-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "SooIMadeMyVeryFirstMod_Twohand04_MI.gpk"
+ },
+ {
+  "id": "zynnobia.santa-suit-recolor-for-aman-female",
+  "tag": "dropin-to-composite-v1",
+  "name": "SantaSuitRecolorForAmanFemal_PC_Event_05_Aman_F_Fur_MI.gpk"
+ },
+ {
+  "id": "zynnobia.santa-suit-recolor-for-aman-female",
+  "tag": "dropin-to-composite-v1",
+  "name": "SantaSuitRecolorForAmanFemal_PC_Event_05_Aman_F_MI.gpk"
+ },
+ {
+  "id": "zynnobia.santa-suit-recolor-for-aman-female",
+  "tag": "dropin-to-composite-v1",
+  "name": "SantaSuitRecolorForAmanFemal_PC_Event_05_Aman_F_Skel.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "puppetplayers.flowery-tattoos-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "FloweryTattoosFor_Highelf_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-aubergine-topper",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheAubergineToppe_Attach_414_Skel.gpk"
+ },
+ {
+  "id": "yunachiu.qq-i-make-a",
+  "tag": "dropin-to-composite-v1",
+  "name": "QqIMakeA_Attach_410_Skel.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Blaster13_Rare_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Blaster13_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Circle13_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Circle13_B_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Circle13_A_Rare_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Circle13_B_Rare_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Circle13_A_MI.gpk"
+ },
+ {
+  "id": "yunachiu.i-make-a-mod-of-the-rogues-weapon",
+  "tag": "dropin-to-composite-v1",
+  "name": "IMakeAModOfTheRoguesWeapon_Circle13_MI.gpk"
+ },
+ {
+  "id": "i.made-a-mod-of-car-add-the-cat-pictures-on-the",
+  "tag": "dropin-to-composite-v1",
+  "name": "MadeAModOfCarAddTheCatPictur_Vehicle_SportCar_A_Skel.gpk"
+ },
+ {
+  "id": "i.made-a-mod-of-car-add-the-cat-pictures-on-the",
+  "tag": "dropin-to-composite-v1",
+  "name": "MadeAModOfCarAddTheCatPictur_Vehicle_SportCar_B_Skel.gpk"
+ },
+ {
+  "id": "i.made-a-mod-of-car-add-the-cat-pictures-on-the",
+  "tag": "dropin-to-composite-v1",
+  "name": "MadeAModOfCarAddTheCatPictur_Vehicle_SportCar_Skel.gpk"
+ },
+ {
+  "id": "i.made-a-mod-of-car-add-the-cat-pictures-on-the",
+  "tag": "dropin-to-composite-v1",
+  "name": "MadeAModOfCarAddTheCatPictur_Vehicle_SportCar_C_Skel.gpk"
+ },
+ {
+  "id": "yunachiu.dds",
+  "tag": "dropin-to-composite-v1",
+  "name": "Dds_Rod08_MI.gpk"
+ },
+ {
+  "id": "yunachiu.dds",
+  "tag": "dropin-to-composite-v1",
+  "name": "Dds_Rod08_MI.gpk"
+ },
+ {
+  "id": "yunachiu.dds",
+  "tag": "dropin-to-composite-v1",
+  "name": "Dds_Rod08_MI.gpk"
+ },
+ {
+  "id": "yunachiu.dds",
+  "tag": "dropin-to-composite-v1",
+  "name": "Dds_Staff08_MI.gpk"
+ },
+ {
+  "id": "yunachiu.dds",
+  "tag": "dropin-to-composite-v1",
+  "name": "Dds_Staff08_MI.gpk"
+ },
+ {
+  "id": "yunachiu.dds",
+  "tag": "dropin-to-composite-v1",
+  "name": "Dds_Staff08_MI.gpk"
+ },
+ {
+  "id": "norukjerky.artemis-felicity-mod-made-this",
+  "tag": "dropin-to-composite-v1",
+  "name": "ArtemisFelicityModMadeThis_Pet_Cat_skel.gpk"
+ },
+ {
+  "id": "yunachiu.asian-silk-dress-patterns",
+  "tag": "dropin-to-composite-v1",
+  "name": "AsianSilkDressPatterns_PC_Event_24_F_MI.gpk"
+ },
+ {
+  "id": "yunachiu.asian-silk-dress-patterns",
+  "tag": "dropin-to-composite-v1",
+  "name": "AsianSilkDressPatterns_PC_Event_24_F_Dye_MI.gpk"
+ },
+ {
+  "id": "tera.elin-aesthetics-hii-i-changed-dyeable",
+  "tag": "dropin-to-composite-v1",
+  "name": "ElinAestheticsHiiIChangedDye_PC_Event_81_F_Dye_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "katmods.here-is-the-mod-some-of-you-asking-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "HereIsTheModSomeOfYouAskingF_Popori_F_BaseBody_MI.gpk"
+ },
+ {
+  "id": "fyregem.rockstar-hello-my-lovelies-today-i",
+  "tag": "dropin-to-composite-v1",
+  "name": "RockstarHelloMyLoveliesToday_PC_Event_49_F_MI.gpk"
+ },
+ {
+  "id": "fyregem.rockstar-hello-my-lovelies-today-i",
+  "tag": "dropin-to-composite-v1",
+  "name": "RockstarHelloMyLoveliesToday_PC_Event_49_F_Fur_MI.gpk"
+ },
+ {
+  "id": "fyregem.rockstar-hello-my-lovelies-today-i",
+  "tag": "dropin-to-composite-v1",
+  "name": "RockstarHelloMyLoveliesToday_PC_Event_49_F_Dye_MI.gpk"
+ },
+ {
+  "id": "littleshistar.snowflakes-summersilk-robe",
+  "tag": "dropin-to-composite-v1",
+  "name": "SnowflakesSummersilkRobe_PC_Event_75_F_A_MI.gpk"
+ },
+ {
+  "id": "littleshistar.blue-elin-ninjagi-costumes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlueElinNinjagiCostumes_PC_Event_18_Popori_F_MI.gpk"
+ },
+ {
+  "id": "littleshistar.blue-elin-ninjagi-costumes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlueElinNinjagiCostumes_PC_Event_18_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "littleshistar.blue-elin-ninjagi-costumes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlueElinNinjagiCostumes_PC_Event_18_Popori_F_01_Skel.gpk"
+ },
+ {
+  "id": "littleshistar.dyeable-alice-dress-fix",
+  "tag": "dropin-to-composite-v1",
+  "name": "DyeableAliceDressFix_PC_Event_23_Popori_F_Dye_MI.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_rare_white_MI.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_beige_MI.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_navy_MI.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_rare_navy_MI.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_navy_Dye_MI.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_01_Skel.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_01_Dye_Skel.gpk"
+ },
+ {
+  "id": "littleshistar.cardigan-charcoal-eldritch",
+  "tag": "dropin-to-composite-v1",
+  "name": "CardiganCharcoalEldritch_PC_Event_09_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "littleshistar.arcadian-academy-triple-t-school",
+  "tag": "dropin-to-composite-v1",
+  "name": "ArcadianAcademyTripleTSchool_PC_Event_20_F_B_01_MI.gpk"
+ },
+ {
+  "id": "littleshistar.arcadian-academy-triple-t-school",
+  "tag": "dropin-to-composite-v1",
+  "name": "ArcadianAcademyTripleTSchool_PC_Event_20_F_B_01A_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.a-re-color-of-the-school",
+  "tag": "dropin-to-composite-v1",
+  "name": "AReColorOfTheSchool_PC_Event_72_F_B_MI.gpk"
+ },
+ {
+  "id": "elinsailorsuit.2017-maid-dress-pink-mod-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "2017MaidDressPinkModChanges_PC_Event_156_F_Trans_MI.gpk"
+ },
+ {
+  "id": "elinsailorsuit.2017-maid-dress-pink-mod-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "2017MaidDressPinkModChanges_PC_Event_157_F_Trans_MI.gpk"
+ },
+ {
+  "id": "elinsailorsuit.2017-maid-dress-pink-mod-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "2017MaidDressPinkModChanges_PC_Event_53_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "elinsailorsuit.2017-maid-dress-pink-mod-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "2017MaidDressPinkModChanges_PC_Event_166_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Axe07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Axe07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Axe07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Axe07_Rare_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Circle07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Circle07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Circle07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Circle07_Rare_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Rod07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Rod07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Rod07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Rod07_Rare_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Staff07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Staff07_Rare_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Staff07_MI.gpk"
+ },
+ {
+  "id": "veinlace.blood-petals-recolors-silver-into",
+  "tag": "dropin-to-composite-v1",
+  "name": "BloodPetalsRecolorsSilverInt_Staff07_MI.gpk"
+ },
+ {
+  "id": "2017maidfix.elin",
+  "tag": "dropin-to-composite-v1",
+  "name": "Elin_PC_Event_156_F_Trans_MI.gpk"
+ },
+ {
+  "id": "2017maidfix.elin",
+  "tag": "dropin-to-composite-v1",
+  "name": "Elin_PC_Event_157_F_Trans_MI.gpk"
+ },
+ {
+  "id": "2017maidfix.elin",
+  "tag": "dropin-to-composite-v1",
+  "name": "Elin_PC_Event_53_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "a.lyssu-mod-requested-by-iwakiii-this-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "LyssuModRequestedByIwakiiiTh_PC_Event_20_F_B_02_MI.gpk"
+ },
+ {
+  "id": "a.lyssu-mod-requested-by-iwakiii-this-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "LyssuModRequestedByIwakiiiTh_PC_Event_20_F_B_02A_MI.gpk"
+ },
+ {
+  "id": "eroaulon.recolor-of-noble-moon-down",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolorOfNobleMoonDown_Vehicle_Ookami_Black_Skel.gpk"
+ },
+ {
+  "id": "eroaulon.recolor-of-noble-moon-down",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolorOfNobleMoonDown_Vehicle_Ookami_Skel.gpk"
+ },
+ {
+  "id": "eroaulon.recolor-of-noble-moon-down",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolorOfNobleMoonDown_Vehicle_Ookami_Green_Skel.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Circle07_Rare_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Rod07_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Rod07_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Rod07_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Rod07_Rare_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Staff07_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Staff07_Rare_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Staff07_MI.gpk"
+ },
+ {
+  "id": "readeyedghost.black-and-white-sakura-staff",
+  "tag": "dropin-to-composite-v1",
+  "name": "BlackAndWhiteSakuraStaff_Staff07_MI.gpk"
+ },
+ {
+  "id": "etsaki.celeboom-red-white-retextures-i-was",
+  "tag": "dropin-to-composite-v1",
+  "name": "CeleboomRedWhiteRetexturesIW_Bow30_MI.gpk"
+ },
+ {
+  "id": "etsaki.celeboom-red-white-retextures-i-was",
+  "tag": "dropin-to-composite-v1",
+  "name": "CeleboomRedWhiteRetexturesIW_Bow30_MI.gpk"
+ },
+ {
+  "id": "etsaki.celeboom-red-white-retextures-i-was",
+  "tag": "dropin-to-composite-v1",
+  "name": "CeleboomRedWhiteRetexturesIW_Bow30_B_MI.gpk"
+ },
+ {
+  "id": "etsaki.celeboom-red-white-retextures-i-was",
+  "tag": "dropin-to-composite-v1",
+  "name": "CeleboomRedWhiteRetexturesIW_Bow30_A_MI.gpk"
+ },
+ {
+  "id": "norukjerky.rainbow-robin-since-a-few-people",
+  "tag": "dropin-to-composite-v1",
+  "name": "RainbowRobinSinceAFewPeople_Vehicle_Ostrich_B_Skel.gpk"
+ },
+ {
+  "id": "recolor.of-2017-maid-dress-for-elin",
+  "tag": "dropin-to-composite-v1",
+  "name": "Of2017MaidDressForElin_PC_Event_156_F_Trans_MI.gpk"
+ },
+ {
+  "id": "recolor.of-2017-maid-dress-for-elin",
+  "tag": "dropin-to-composite-v1",
+  "name": "Of2017MaidDressForElin_PC_Event_157_F_Trans_MI.gpk"
+ },
+ {
+  "id": "recolor.of-2017-maid-dress-for-elin",
+  "tag": "dropin-to-composite-v1",
+  "name": "Of2017MaidDressForElin_PC_Event_53_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "recolor.of-2017-maid-dress-for-elin",
+  "tag": "dropin-to-composite-v1",
+  "name": "Of2017MaidDressForElin_PC_Event_166_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "2017.maid-dress-mod-dyeable-version",
+  "tag": "dropin-to-composite-v1",
+  "name": "MaidDressModDyeableVersion_PC_Event_156_F_Trans_MI.gpk"
+ },
+ {
+  "id": "2017.maid-dress-mod-dyeable-version",
+  "tag": "dropin-to-composite-v1",
+  "name": "MaidDressModDyeableVersion_PC_Event_157_F_Trans_MI.gpk"
+ },
+ {
+  "id": "2017.maid-dress-mod-dyeable-version",
+  "tag": "dropin-to-composite-v1",
+  "name": "MaidDressModDyeableVersion_PC_Event_53_Popori_F_Skel.gpk"
+ },
+ {
+  "id": "tera.majuki-norukjerky-this-was-just-me",
+  "tag": "dropin-to-composite-v1",
+  "name": "MajukiNorukjerkyThisWasJustM_PC_Event_27_Popori_F_A_MI.gpk"
+ },
+ {
+  "id": "tera.majuki-norukjerky-this-was-just-me",
+  "tag": "dropin-to-composite-v1",
+  "name": "MajukiNorukjerkyThisWasJustM_PC_Event_27_Popori_F_B_MI.gpk"
+ },
+ {
+  "id": "tera.majuki-norukjerky-this-was-just-me",
+  "tag": "dropin-to-composite-v1",
+  "name": "MajukiNorukjerkyThisWasJustM_PC_Event_27_Popori_F_C_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_hair07_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_hair07_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_hair07_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_hair07_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Switch_Castanic_F_Hair07_255.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_Hair07_Skel.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_Hair07_E_Skel.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_Hair11_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_Hair11_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_Hair11B_MI.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_Hair11B_Skel.gpk"
+ },
+ {
+  "id": "timeless.woods-vampira-another-mod-for",
+  "tag": "dropin-to-composite-v1",
+  "name": "WoodsVampiraAnotherModFor_Castanic_F_Hair11_Skel.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Popori_F_Hair06B_Skel.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_782.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_783.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Popori_F_Hair07C_MI.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_PoPori_F_hair07_MI.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Popori_F_Hair07D_MI.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_PoPori_F_hair07B_MI.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_PoPori_F_hair07_MI.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_PoPori_F_hair07_skel.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_741.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_121.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_119.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_423.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_260.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Popori_F_Hair07B_Skel.gpk"
+ },
+ {
+  "id": "elin.matching-hairtail-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "MatchingHairtailMod_Switch_Popori_F_Hair07B_510.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Castanic_F_BaseBody_NonTattoo_Unde.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_HighElf_F_Base_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Highelf_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "katmods.recolour-for-the-designer-shirt-3-some",
+  "tag": "dropin-to-composite-v1",
+  "name": "RecolourForTheDesignerShirt3_Human_F_Base_Foot_MI.gpk"
+ },
+ {
+  "id": "litterboxchan.ready-for-school-new-mod",
+  "tag": "dropin-to-composite-v1",
+  "name": "ReadyForSchoolNewMod_PC_Event_29_Popori_F_MI.gpk"
+ },
+ {
+  "id": "pantypon.better-dyeable-flight-suit-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BetterDyeableFlightSuitChang_PC_Event_62_HighElf_F_Skel.gpk"
+ },
+ {
+  "id": "pantypon.better-dyeable-flight-suit-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BetterDyeableFlightSuitChang_PC_Event_62A_Aman_F_Skel.gpk"
+ },
+ {
+  "id": "pantypon.better-dyeable-flight-suit-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BetterDyeableFlightSuitChang_PC_Event_62_Castanic_F_Skel.gpk"
+ },
+ {
+  "id": "pantypon.better-dyeable-flight-suit-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BetterDyeableFlightSuitChang_PC_Event_62_Aman_F_Skel.gpk"
+ },
+ {
+  "id": "pantypon.better-dyeable-flight-suit-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BetterDyeableFlightSuitChang_PC_Event_62A_Human_F_Skel.gpk"
+ },
+ {
+  "id": "pantypon.better-dyeable-flight-suit-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BetterDyeableFlightSuitChang_PC_Event_62_Human_F_Skel.gpk"
+ },
+ {
+  "id": "pantypon.better-dyeable-flight-suit-changes",
+  "tag": "dropin-to-composite-v1",
+  "name": "BetterDyeableFlightSuitChang_PC_Event_62A_Castanic_F_Skel.gpk"
+ }
+]

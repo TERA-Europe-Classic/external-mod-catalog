@@ -1,0 +1,50 @@
+name: entry schema
+
+# HARD gate. Every entry, every rule, red on the first violation.
+#
+# The previous guard asked "does this sentence contain a #id" and passed
+# everything -- it could not catch a wrong id, a missing race, a name lifted
+# from a different costume, or a range whose interior is a separate item. So
+# entries shipped claiming ids for five races when one race was modified.
+#
+# `replaces_data` is now the source of truth, validated against
+# schema/replaces.schema.json AND against the datacenter itself: every id must
+# exist, every name must match what the game calls that id, every race must
+# match its requiredRace. The `replaces` string is generated from it and CI
+# asserts they are equal, so the copy cannot drift from the data.
+#
+# This job does not warn. It blocks.
+
+on:
+  pull_request:
+    paths:
+      - catalog.json
+      - schema/**
+      - scripts/validate_catalog.py
+      - scripts/render_replaces.py
+      - scripts/migrate_replaces.py
+      - scripts/item_index.json
+      - .github/workflows/entry-schema.yml
+  push:
+    branches: [main]
+    paths:
+      - catalog.json
+      - schema/**
+      - scripts/validate_catalog.py
+      - scripts/render_replaces.py
+      - scripts/item_index.json
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: install
+        run: pip install jsonschema referencing
+      - name: Self-test the gate
+        run: python scripts/validate_catalog_test.py
+      - name: every entry validates against the schema and the datacenter
+        run: python scripts/validate_catalog.py

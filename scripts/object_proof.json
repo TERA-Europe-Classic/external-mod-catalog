@@ -1,0 +1,3291 @@
+{
+ "taylorswiftmodding.maria-maria": {
+  "sha256": "abf204c4c36e9f8fa2071b718419f4b3a59d86d543965019be47b1d4693d916e",
+  "objects": [
+   "Partner_A_Rumi_F_Event00_skel.BaseBody_cstm",
+   "Partner_A_Rumi_F_Event00_skel.CubemapFace0",
+   "Partner_A_Rumi_F_Event00_skel.CubemapFace1",
+   "Partner_A_Rumi_F_Event00_skel.CubemapFace2",
+   "Partner_A_Rumi_F_Event00_skel.CubemapFace3",
+   "Partner_A_Rumi_F_Event00_skel.CubemapFace4",
+   "Partner_A_Rumi_F_Event00_skel.CubemapFace5",
+   "Partner_A_Rumi_F_Event00_skel.Default00_Invisible_diff",
+   "Partner_A_Rumi_F_Event00_skel.Default_Black_diff",
+   "Partner_A_Rumi_F_Event00_skel.Default_White_diff",
+   "Partner_A_Rumi_F_Event00_skel.Default_mask",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Body00_diff",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Body00_mask",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Body00_norm",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Body00_spec",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Event00_diff",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Event00_emis",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Event00_norm",
+   "Partner_A_Rumi_F_Event00_skel.Partner_A_Rumi_F_Event00_spec",
+   "Partner_A_Rumi_F_Event00_skel.TestTex00_01_Diff",
+   "Partner_A_Rumi_F_Event00_skel.TestTex00_02_Diff",
+   "Partner_A_Rumi_F_Event00_skel.TestTex00_04_Diff",
+   "Partner_A_Rumi_F_Event00_skel.TestTex00_05_Diff",
+   "Partner_A_Rumi_F_Event00_skel.TestTex00_Norm",
+   "Partner_A_Rumi_F_Event00_skel.TestTex_Addon00_mask"
+  ],
+  "why": "MAD-filtered"
+ },
+ "taylorswiftmodding.pinky-kun": {
+  "sha256": "217f1d2b35bb7ab3b07f53fd57425e919e3c96e6a77713e5ff50711a6295b84d",
+  "objects": [
+   "Partner_B_KunKun_Event00_Skel.CubemapFace0",
+   "Partner_B_KunKun_Event00_Skel.CubemapFace1",
+   "Partner_B_KunKun_Event00_Skel.CubemapFace2",
+   "Partner_B_KunKun_Event00_Skel.CubemapFace3",
+   "Partner_B_KunKun_Event00_Skel.CubemapFace4",
+   "Partner_B_KunKun_Event00_Skel.CubemapFace5",
+   "Partner_B_KunKun_Event00_Skel.Default00_Invisible_diff",
+   "Partner_B_KunKun_Event00_Skel.Default_Black_diff",
+   "Partner_B_KunKun_Event00_Skel.Default_White_diff",
+   "Partner_B_KunKun_Event00_Skel.Default_mask",
+   "Partner_B_KunKun_Event00_Skel.Partner_B_KunKun_Body00_diff",
+   "Partner_B_KunKun_Event00_Skel.Partner_B_KunKun_Body00_norm",
+   "Partner_B_KunKun_Event00_Skel.Partner_B_KunKun_Body00_spec",
+   "Partner_B_KunKun_Event00_Skel.Partner_B_KunKun_Event00_diff",
+   "Partner_B_KunKun_Event00_Skel.Partner_B_KunKun_Event00_mask",
+   "Partner_B_KunKun_Event00_Skel.Partner_B_KunKun_Event00_norm",
+   "Partner_B_KunKun_Event00_Skel.Partner_B_KunKun_Event00_spec",
+   "Partner_B_KunKun_Event00_Skel.TestTex00_01_Diff",
+   "Partner_B_KunKun_Event00_Skel.TestTex00_02_Diff",
+   "Partner_B_KunKun_Event00_Skel.TestTex00_04_Diff",
+   "Partner_B_KunKun_Event00_Skel.TestTex00_05_Diff",
+   "Partner_B_KunKun_Event00_Skel.TestTex00_Norm",
+   "Partner_B_KunKun_Event00_Skel.TestTex_Addon00_mask",
+   "Partner_B_KunKun_Event00_Skel.default_MaskMap_Monster00"
+  ],
+  "why": "MAD-filtered"
+ },
+ "pantypon.mystic-strawberry-nuthatch": {
+  "sha256": "85bf7990243626197819cf408f05499dd77d4a10286a3b4f4d0a99ab332c33d5",
+  "objects": [
+   "Axe09_diff.Axe09_diff",
+   "Axe09_norm.Axe09_norm",
+   "Axe09_spec.Axe09_spec",
+   "Bow09_diff.Bow09_diff",
+   "Bow09_norm.Bow09_norm",
+   "Bow09_spec.Bow09_spec",
+   "Circle09_diff.Circle09_diff",
+   "Circle09_norm.Circle09_norm",
+   "Circle09_spec.Circle09_spec",
+   "Dual09_diff.Dual09_diff",
+   "Dual09_norm.Dual09_norm",
+   "Dual09_spec.Dual09_spec",
+   "Lance09_diff.Lance09_diff",
+   "Lance09_norm.Lance09_norm",
+   "Lance09_spec.Lance09_spec",
+   "Rod09_diff.Rod09_diff",
+   "Rod09_norm.Rod09_norm",
+   "Rod09_spec.Rod09_spec",
+   "Shield09_diff.Shield09_diff",
+   "Shield09_norm.Shield09_norm",
+   "Shield09_spec.Shield09_spec",
+   "Staff09_diff.Staff09_diff",
+   "Staff09_norm.Staff09_norm",
+   "Staff09_spec.Staff09_spec",
+   "TwoHand09_diff.TwoHand09_diff",
+   "TwoHand09_norm.TwoHand09_norm",
+   "TwoHand09_spec.TwoHand09_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "pinkteachan.aura-kingdom-zepheryine-head-for": {
+  "sha256": "d5b683644d745f380de0120d83e100b0cde59587a0ff881c5bf1096accfb6c1c",
+  "objects": [
+   "Attach_023_cstm",
+   "Attach_023_diff",
+   "Attach_023_mask",
+   "Attach_023_norm",
+   "Attach_023_spec",
+   "Switch_Aman_F_Hair00_023_cstm",
+   "Switch_Aman_F_Hair00_023_diff",
+   "Switch_Aman_F_Hair00_023_mask",
+   "Switch_Aman_F_Hair00_023_norm",
+   "Switch_Aman_F_Hair00_023_spec",
+   "Switch_Aman_M_Hair00_023_cstm",
+   "Switch_Aman_M_Hair00_023_diff",
+   "Switch_Aman_M_Hair00_023_mask",
+   "Switch_Aman_M_Hair00_023_norm",
+   "Switch_Aman_M_Hair00_023_spec",
+   "Switch_Castanic_F_Hair00_023_cstm",
+   "Switch_Castanic_F_Hair00_023_diff",
+   "Switch_Castanic_F_Hair00_023_mask",
+   "Switch_Castanic_F_Hair00_023_norm",
+   "Switch_Castanic_F_Hair00_023_spec",
+   "Switch_Castanic_M_Hair07_023_cstm",
+   "Switch_Castanic_M_Hair07_023_diff",
+   "Switch_Castanic_M_Hair07_023_mask",
+   "Switch_Castanic_M_Hair07_023_norm",
+   "Switch_Castanic_M_Hair07_023_spec",
+   "Switch_Highelf_F_Hair01_023_cstm",
+   "Switch_Highelf_F_Hair01_023_diff",
+   "Switch_Highelf_F_Hair01_023_mask",
+   "Switch_Highelf_F_Hair01_023_norm",
+   "Switch_Highelf_F_Hair01_023_spec",
+   "Switch_Highelf_M_Hair00_023_cstm",
+   "Switch_Highelf_M_Hair00_023_diff",
+   "Switch_Highelf_M_Hair00_023_mask",
+   "Switch_Highelf_M_Hair00_023_norm",
+   "Switch_Highelf_M_Hair00_023_spec",
+   "Switch_Human_F_Hair02B_023_cstm",
+   "Switch_Human_F_Hair02B_023_diff",
+   "Switch_Human_F_Hair02B_023_mask",
+   "Switch_Human_F_Hair02B_023_norm",
+   "Switch_Human_F_Hair02B_023_spec",
+   "Switch_Human_M_Hair00_023_cstm",
+   "Switch_Human_M_Hair00_023_diff",
+   "Switch_Human_M_Hair00_023_mask",
+   "Switch_Human_M_Hair00_023_norm",
+   "Switch_Human_M_Hair00_023_spec",
+   "Switch_Popori_F_Hair01B_023_cstm",
+   "Switch_Popori_F_Hair01B_023_diff",
+   "Switch_Popori_F_Hair01B_023_mask",
+   "Switch_Popori_F_Hair01B_023_norm",
+   "Switch_Popori_F_Hair01B_023_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "litterboxchan.pets-i-re-colored-two-of-the": {
+  "sha256": "9d40af06081cef2ce32681680af26360f8ab7c5e15207a53dd566ab6a31e50f0",
+  "objects": [
+   "Partner_D_Rico_Body00_diff",
+   "Partner_D_Rico_Body00_norm",
+   "Partner_D_Rico_Body00_spec",
+   "Partner_D_Rico_Event00_diff",
+   "Partner_D_Rico_Event00_mask",
+   "Partner_D_Rico_Event00_norm",
+   "Partner_D_Rico_Event00_spec",
+   "Partner_D_Rico_Face00_diff",
+   "Partner_D_Rico_Face00_emis",
+   "Partner_D_Rico_Face00_mask",
+   "Partner_D_Rico_Face00_norm",
+   "Partner_D_Rico_Face00_spec"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "aioshe.simple-healthmanacenter-piece-recolor": {
+  "sha256": "5e7707690d117828c52ae066834786564e9dc288dc1625b58820abced03680d5",
+  "objects": [
+   "CharacterWindow_I13F",
+   "CharacterWindow_I15D",
+   "class21"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "aioshe.hank-hill-is-impressed-by-your-ability-to": {
+  "sha256": "1c8cf11945af4a20af38ca842db2607d1409a3cf77c047fe0a926836409efc68",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2",
+   "Message_I1E7",
+   "Message_I1EE",
+   "Message_I1F1",
+   "Message_I200",
+   "Message_I207"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "aioshe.king-blob-seems-very-excited-to-tell-you": {
+  "sha256": "610fbf063295f30803763e56eed6b6ac74fe77a313a50527b39a6e44a8678e95",
+  "objects": [
+   "Awaken_SpiritKing_diff",
+   "Awaken_SpiritKing_norm",
+   "Awaken_SpiritKing_spec",
+   "Awaken_Spiritking_Mask"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "aioshe.king-blob-likes-to-cosplay-as-totoro": {
+  "sha256": "d658f2bba00469c6801f7c700762a52c4e562e53669c2023575b5903dbf64826",
+  "objects": [
+   "Awaken_SpiritKing_diff",
+   "Awaken_SpiritKing_norm",
+   "Awaken_SpiritKing_spec",
+   "Awaken_Spiritking_Mask"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "kirabera.blushy-emote-that-pops-up-during": {
+  "sha256": "a8190254b09868cb953a8f0ab7666acda86d22e7d2117888e2ac0faf27756a13",
+  "objects": [
+   "Message_I1E7"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "mystics.king-thrall-mod": {
+  "sha256": "35f1e0c356aa679b7efde571be53eb6728208b66e6c18a50fbde61df3df29bae",
+  "objects": [
+   "Awaken_SpiritKing_diff",
+   "Awaken_SpiritKing_norm",
+   "Awaken_SpiritKing_spec",
+   "Awaken_Spiritking_Mask"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "recolor.for-cheeks": {
+  "sha256": "2ecf1ab6d6969da89102a953d341a38a096a176c236b772aad29c49ff56dc823",
+  "objects": [
+   "Popori_boy03_diff",
+   "Popori_boy03_mask",
+   "Popori_boy03_norm",
+   "Popori_boy03_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "puppetplayers.these-heckin-shades-into-regular": {
+  "sha256": "4e7acdbf479a44dfdb9a823a84b158c86a28de3188d316a421faed0fe2841aff",
+  "objects": [
+   "Acc_110_cstm",
+   "Acc_110_diff",
+   "Acc_110_mask",
+   "Acc_110_norm",
+   "Acc_110_spec"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "tyfia.pinky-thrall-of-vengeance-my-mystic-is": {
+  "sha256": "7f8c43549ab0b44b0c57dc69232712d3f300284b4b854a89daae4e4cd8dd5693",
+  "objects": [
+   "Awaken_LightningSpirit_diff",
+   "Awaken_LightningSpirit_emis",
+   "Awaken_LightningSpirit_norm",
+   "Awaken_LightningSpirit_rage",
+   "Awaken_LightningSpirit_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "eroaulon.got-bored-waiting-for-servers-to-come": {
+  "sha256": "ea6daa53e8979e957bf504900e4ae8b443d073a976e8b38fc51f1f9b2b936bee",
+  "objects": [
+   "Castanic_F_L21A_Body_diff",
+   "Castanic_F_L21A_Body_spec",
+   "Castanic_F_L21A_Hand_diff",
+   "Castanic_F_L21A_Hand_spec",
+   "Castanic_F_L21A_Leg_diff",
+   "Castanic_F_L21A_Leg_spec",
+   "Castanic_F_L21_Body_Lod2",
+   "Castanic_F_L21_Body_cstm",
+   "Castanic_F_L21_Body_diff",
+   "Castanic_F_L21_Body_mask",
+   "Castanic_F_L21_Body_norm",
+   "Castanic_F_L21_Body_spec",
+   "Castanic_F_L21_Hand_cstm",
+   "Castanic_F_L21_Hand_diff",
+   "Castanic_F_L21_Hand_mask",
+   "Castanic_F_L21_Hand_norm",
+   "Castanic_F_L21_Hand_spec",
+   "Castanic_F_L21_Leg_cstm",
+   "Castanic_F_L21_Leg_diff",
+   "Castanic_F_L21_Leg_mask",
+   "Castanic_F_L21_Leg_norm",
+   "Castanic_F_L21_Leg_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "norukjerky.something-cute-ive-wanted-to-make": {
+  "sha256": "078322585921335dcc9d90c23462fa0a3a3f1af61fa43a360ab94f6deeeaba0d",
+  "objects": [
+   "Axe04_diff",
+   "Axe04_norm",
+   "Axe04_spec",
+   "Bow04_diff",
+   "Bow04_norm",
+   "Bow04_spec",
+   "Circle04_diff",
+   "Circle04_norm",
+   "Circle04_spec",
+   "Dual04_diff",
+   "Dual04_norm",
+   "Dual04_spec",
+   "Lance04_diff",
+   "Lance04_norm",
+   "Lance04_spec",
+   "Mask",
+   "Rod03_diff",
+   "Rod03_norm",
+   "Rod03_spec",
+   "Staff04_diff",
+   "Staff04_norm",
+   "Staff04_spec",
+   "TwoHand04_diff",
+   "TwoHand04_norm",
+   "TwoHand04_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "yunachiu.i-make-a-mod-of-the-rogues-weapon": {
+  "sha256": "35ca890e8b96b7e5eece7630f53e042ac827557346c35e717437d67ca75647ad",
+  "objects": [
+   "Axe13_Rare_mask",
+   "Axe13_diff",
+   "Axe13_norm",
+   "Axe13_spec",
+   "Blaster13_Rare_mask",
+   "Blaster13_diff",
+   "Blaster13_norm",
+   "Blaster13_spec",
+   "Bow13_Rare_mask",
+   "Bow13_diff",
+   "Bow13_norm",
+   "Bow13_spec",
+   "Circle13_Out_diff",
+   "Circle13_Rare_mask",
+   "Circle13_diff",
+   "Circle13_norm",
+   "Circle13_spec",
+   "Dual13_Rare_mask",
+   "Dual13_diff",
+   "Dual13_norm",
+   "Dual13_spec",
+   "Gauntlet13_Rare_mask",
+   "Gauntlet13_diff",
+   "Gauntlet13_norm",
+   "Gauntlet13_spec",
+   "Lance13_Rare_mask",
+   "Lance13_diff",
+   "Lance13_norm",
+   "Lance13_spec",
+   "Mask",
+   "Rod13_Rare_mask",
+   "Rod13_diff",
+   "Rod13_norm",
+   "Rod13_spec",
+   "Shield13_Rare_mask",
+   "Shield13_diff",
+   "Shield13_norm",
+   "Shield13_spec",
+   "Staff13_Rare_mask",
+   "Staff13_diff",
+   "Staff13_norm",
+   "Staff13_spec",
+   "TwoHand13_diff",
+   "TwoHand13_norm",
+   "TwoHand13_spec",
+   "Twohand13_Rare_mask",
+   "Weapon13_Rare_Emis"
+  ],
+  "why": "MAD-filtered"
+ },
+ "norukjerky.artemis-felicity-mod-made-this": {
+  "sha256": "5d4f14d12f121edf77226ffcbb7ffd7e02b9fc277d360dfab8e43f7c4ab1af32",
+  "objects": [
+   "Pet_Cat_diff",
+   "Pet_Cat_norm",
+   "Pet_Cat_spec"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "norukjerky.based-off-luna-from-sailor-moon": {
+  "sha256": "aa04c4f58fa9af5aa683326c08840954b2bf754ee2902cff49b87c3d54b7cbff",
+  "objects": [
+   "Pet_Cat_diff",
+   "Pet_Cat_norm",
+   "Pet_Cat_spec"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "gyunuslab.im-sorry-about-the-shitty": {
+  "sha256": "0eb7562f388ca9d2311645a364831ee90740fe5e0158c66090be88cecea86a60",
+  "objects": [
+   "Pet_Cat_diff",
+   "Pet_Cat_norm",
+   "Pet_Cat_spec"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "a.lyssu-this-is-probably-my-very-first-official": {
+  "sha256": "b75d22ffad2725b12f40ba9335a881e754e7702eb04b445df88e44980d1cf578",
+  "objects": [
+   "Castanic_F_R27_Body_Lod2",
+   "Castanic_F_R27_Body_cstm",
+   "Castanic_F_R27_Body_diff",
+   "Castanic_F_R27_Body_mask",
+   "Castanic_F_R27_Body_norm",
+   "Castanic_F_R27_Body_spec",
+   "Castanic_F_R27_Hand_cstm",
+   "Castanic_F_R27_Hand_diff",
+   "Castanic_F_R27_Hand_mask",
+   "Castanic_F_R27_Hand_norm",
+   "Castanic_F_R27_Hand_spec",
+   "Castanic_F_R27_Leg_cstm",
+   "Castanic_F_R27_Leg_diff",
+   "Castanic_F_R27_Leg_mask",
+   "Castanic_F_R27_Leg_norm",
+   "Castanic_F_R27_Leg_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "yunachiu.mods-bl-wwww": {
+  "sha256": "59ba4056e0713e5bfcc7966a5526c8c97569baffc52f422a5956603056daceec",
+  "objects": [
+   "Event_Rare_Axe_01_diff",
+   "Event_Rare_Axe_01_norm",
+   "Event_Rare_Axe_01_spec",
+   "Event_Rare_Bow_01_diff",
+   "Event_Rare_Bow_01_norm",
+   "Event_Rare_Bow_01_spec",
+   "Event_Rare_Circle_01_diff",
+   "Event_Rare_Circle_01_norm",
+   "Event_Rare_Circle_01_spec",
+   "Event_Rare_Lance_01_diff",
+   "Event_Rare_Lance_01_norm",
+   "Event_Rare_Lance_01_spec",
+   "Event_Rare_Rod_01_diff",
+   "Event_Rare_Rod_01_norm",
+   "Event_Rare_Rod_01_spec",
+   "Event_Rare_Staff_01_diff",
+   "Event_Rare_Staff_01_norm",
+   "Event_Rare_Staff_01_spec",
+   "Event_Rare_Twohandsword_01_diff",
+   "Event_Rare_Twohandsword_01_norm",
+   "Event_Rare_Twohandsword_01_spec",
+   "Event_Season_Axe_01_diff",
+   "Event_Season_Axe_01_diff_Black",
+   "Event_Season_Axe_01_diff_Silver",
+   "Event_Season_Axe_01_norm",
+   "Event_Season_Axe_01_spec",
+   "Event_Season_Axe_01_spec_Silver",
+   "Event_Season_Bow_01_diff",
+   "Event_Season_Bow_01_diff_Black",
+   "Event_Season_Bow_01_diff_Silver",
+   "Event_Season_Bow_01_norm",
+   "Event_Season_Bow_01_spec",
+   "Event_Season_Bow_01_spec_Silver",
+   "Event_Season_Circle_01_diff",
+   "Event_Season_Circle_01_diff_Black",
+   "Event_Season_Circle_01_diff_Silver",
+   "Event_Season_Circle_01_norm",
+   "Event_Season_Circle_01_spec",
+   "Event_Season_Circle_01_spec_Silver",
+   "Event_Season_Lance_01_diff",
+   "Event_Season_Lance_01_diff_Black",
+   "Event_Season_Lance_01_diff_Silver",
+   "Event_Season_Lance_01_norm",
+   "Event_Season_Lance_01_norm_Silver",
+   "Event_Season_Lance_01_spec",
+   "Event_Season_Lance_01_spec_Silver",
+   "Event_Season_Rod_01_diff",
+   "Event_Season_Rod_01_diff_Black",
+   "Event_Season_Rod_01_diff_Silver",
+   "Event_Season_Rod_01_norm",
+   "Event_Season_Rod_01_spec",
+   "Event_Season_Rod_01_spec_Silver",
+   "Event_Season_Staff_01_diff",
+   "Event_Season_Staff_01_diff_Black",
+   "Event_Season_Staff_01_diff_Silver",
+   "Event_Season_Staff_01_norm",
+   "Event_Season_Staff_01_spec",
+   "Event_Season_Staff_01_spec_Silver",
+   "Event_Season_Twohandsword_01_diff",
+   "Event_Season_Twohandsword_01_diff_Black",
+   "Event_Season_Twohandsword_01_diff_Silver",
+   "Event_Season_Twohandsword_01_norm",
+   "Event_Season_Twohandsword_01_spec",
+   "Event_Season_Twohandsword_01_spec_Silver",
+   "Event_Wit_Axe_01_diff",
+   "Event_Wit_Axe_01_norm",
+   "Event_Wit_Axe_01_spec",
+   "Event_Wit_Bow_01_diff",
+   "Event_Wit_Bow_01_norm",
+   "Event_Wit_Bow_01_spec",
+   "Event_Wit_Circle_01_diff",
+   "Event_Wit_Circle_01_norm",
+   "Event_Wit_Circle_01_spec",
+   "Event_Wit_Lance_01_diff",
+   "Event_Wit_Lance_01_norm",
+   "Event_Wit_Lance_01_spec",
+   "Event_Wit_Rod_01_diff",
+   "Event_Wit_Rod_01_norm",
+   "Event_Wit_Rod_01_spec",
+   "Event_Wit_Staff_01_diff",
+   "Event_Wit_Staff_01_norm",
+   "Event_Wit_Staff_01_spec",
+   "Event_Wit_Twohandsword_01_diff",
+   "Event_Wit_Twohandsword_01_norm",
+   "Event_Wit_Twohandsword_01_spec",
+   "Event_mask",
+   "R_Event_Rare_Dual_01_diff",
+   "R_Event_Rare_Dual_01_norm",
+   "R_Event_Rare_Dual_01_spec",
+   "R_Event_Season_Dual_01_diff",
+   "R_Event_Season_Dual_01_diff_Black",
+   "R_Event_Season_Dual_01_diff_Silver",
+   "R_Event_Season_Dual_01_norm",
+   "R_Event_Season_Dual_01_spec_Silver",
+   "R_Event_Season_Dual_spec",
+   "R_Event_Wit_Dual_01_diff",
+   "R_Event_Wit_Dual_01_norm",
+   "R_Event_Wit_Dual_01_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "yunachiu.qq": {
+  "sha256": "289c4832727e8c55421600d1bfa98572a21370d9b59b82eb738b6117b80d4c8f",
+  "objects": [
+   "Event_Rare_Axe_01_diff",
+   "Event_Rare_Axe_01_norm",
+   "Event_Rare_Axe_01_spec",
+   "Event_Rare_Bow_01_diff",
+   "Event_Rare_Bow_01_norm",
+   "Event_Rare_Bow_01_spec",
+   "Event_Rare_Circle_01_diff",
+   "Event_Rare_Circle_01_norm",
+   "Event_Rare_Circle_01_spec",
+   "Event_Rare_Lance_01_diff",
+   "Event_Rare_Lance_01_norm",
+   "Event_Rare_Lance_01_spec",
+   "Event_Rare_Rod_01_diff",
+   "Event_Rare_Rod_01_norm",
+   "Event_Rare_Rod_01_spec",
+   "Event_Rare_Staff_01_diff",
+   "Event_Rare_Staff_01_norm",
+   "Event_Rare_Staff_01_spec",
+   "Event_Rare_Twohandsword_01_diff",
+   "Event_Rare_Twohandsword_01_norm",
+   "Event_Rare_Twohandsword_01_spec",
+   "Event_Season_Axe_01_diff",
+   "Event_Season_Axe_01_diff_Black",
+   "Event_Season_Axe_01_diff_Silver",
+   "Event_Season_Axe_01_norm",
+   "Event_Season_Axe_01_spec",
+   "Event_Season_Axe_01_spec_Silver",
+   "Event_Season_Bow_01_diff",
+   "Event_Season_Bow_01_diff_Black",
+   "Event_Season_Bow_01_diff_Silver",
+   "Event_Season_Bow_01_norm",
+   "Event_Season_Bow_01_spec",
+   "Event_Season_Bow_01_spec_Silver",
+   "Event_Season_Circle_01_diff",
+   "Event_Season_Circle_01_diff_Black",
+   "Event_Season_Circle_01_diff_Silver",
+   "Event_Season_Circle_01_norm",
+   "Event_Season_Circle_01_spec",
+   "Event_Season_Circle_01_spec_Silver",
+   "Event_Season_Lance_01_diff",
+   "Event_Season_Lance_01_diff_Black",
+   "Event_Season_Lance_01_diff_Silver",
+   "Event_Season_Lance_01_norm",
+   "Event_Season_Lance_01_norm_Silver",
+   "Event_Season_Lance_01_spec",
+   "Event_Season_Lance_01_spec_Silver",
+   "Event_Season_Rod_01_diff",
+   "Event_Season_Rod_01_diff_Black",
+   "Event_Season_Rod_01_diff_Silver",
+   "Event_Season_Rod_01_norm",
+   "Event_Season_Rod_01_spec",
+   "Event_Season_Rod_01_spec_Silver",
+   "Event_Season_Staff_01_diff",
+   "Event_Season_Staff_01_diff_Black",
+   "Event_Season_Staff_01_diff_Silver",
+   "Event_Season_Staff_01_norm",
+   "Event_Season_Staff_01_spec",
+   "Event_Season_Staff_01_spec_Silver",
+   "Event_Season_Twohandsword_01_diff",
+   "Event_Season_Twohandsword_01_diff_Black",
+   "Event_Season_Twohandsword_01_diff_Silver",
+   "Event_Season_Twohandsword_01_norm",
+   "Event_Season_Twohandsword_01_spec",
+   "Event_Season_Twohandsword_01_spec_Silver",
+   "Event_Wit_Axe_01_diff",
+   "Event_Wit_Axe_01_norm",
+   "Event_Wit_Axe_01_spec",
+   "Event_Wit_Bow_01_diff",
+   "Event_Wit_Bow_01_norm",
+   "Event_Wit_Bow_01_spec",
+   "Event_Wit_Circle_01_diff",
+   "Event_Wit_Circle_01_norm",
+   "Event_Wit_Circle_01_spec",
+   "Event_Wit_Lance_01_diff",
+   "Event_Wit_Lance_01_norm",
+   "Event_Wit_Lance_01_spec",
+   "Event_Wit_Rod_01_diff",
+   "Event_Wit_Rod_01_norm",
+   "Event_Wit_Rod_01_spec",
+   "Event_Wit_Staff_01_diff",
+   "Event_Wit_Staff_01_norm",
+   "Event_Wit_Staff_01_spec",
+   "Event_Wit_Twohandsword_01_diff",
+   "Event_Wit_Twohandsword_01_norm",
+   "Event_Wit_Twohandsword_01_spec",
+   "Event_mask",
+   "R_Event_Rare_Dual_01_diff",
+   "R_Event_Rare_Dual_01_norm",
+   "R_Event_Rare_Dual_01_spec",
+   "R_Event_Season_Dual_01_diff",
+   "R_Event_Season_Dual_01_diff_Black",
+   "R_Event_Season_Dual_01_diff_Silver",
+   "R_Event_Season_Dual_01_norm",
+   "R_Event_Season_Dual_01_spec_Silver",
+   "R_Event_Season_Dual_spec",
+   "R_Event_Wit_Dual_01_diff",
+   "R_Event_Wit_Dual_01_norm",
+   "R_Event_Wit_Dual_01_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "etsaki.celeboom-red-white-retextures-i-was": {
+  "sha256": "c0630924d999042d3e36599a976728528e87e4b4d278592f996916ae4a529f16",
+  "objects": [
+   "Axe30_A_diff",
+   "Axe30_A_spec",
+   "Axe30_B_diff",
+   "Axe30_B_spec",
+   "Axe30_diff",
+   "Axe30_norm",
+   "Axe30_spec",
+   "Blaster30_A_diff",
+   "Blaster30_A_emis",
+   "Blaster30_A_rage",
+   "Blaster30_A_spec",
+   "Blaster30_B_diff",
+   "Blaster30_B_emis",
+   "Blaster30_B_rage",
+   "Blaster30_B_spec",
+   "Blaster30_diff",
+   "Blaster30_emis",
+   "Blaster30_norm",
+   "Blaster30_rage",
+   "Blaster30_spec",
+   "Bow30_A_diff",
+   "Bow30_A_spec",
+   "Bow30_B_diff",
+   "Bow30_B_spec",
+   "Bow30_diff",
+   "Bow30_norm",
+   "Bow30_spec",
+   "Circle30_A_diff",
+   "Circle30_A_spec",
+   "Circle30_B_diff",
+   "Circle30_B_spec",
+   "Circle30_diff",
+   "Circle30_norm",
+   "Circle30_spec",
+   "Lance30_A_diff",
+   "Lance30_A_spec",
+   "Lance30_B_diff",
+   "Lance30_B_spec",
+   "Lance30_diff",
+   "Lance30_norm",
+   "Lance30_spec",
+   "LesserElementalBlue_FX00_emis_Dup_Dup",
+   "LesserElementalBlue_FX00_mask_Dup_Dup",
+   "Mask",
+   "R_Dual30_A_diff",
+   "R_Dual30_A_spec",
+   "R_Dual30_B_diff",
+   "R_Dual30_B_spec",
+   "R_Dual30_diff",
+   "R_Dual30_norm",
+   "R_Dual30_spec",
+   "Rod30_A_diff",
+   "Rod30_A_spec",
+   "Rod30_B_diff",
+   "Rod30_B_spec",
+   "Rod30_diff",
+   "Rod30_norm",
+   "Rod30_spec",
+   "Staff30_A_diff",
+   "Staff30_A_spec",
+   "Staff30_B_diff",
+   "Staff30_B_spec",
+   "Staff30_diff",
+   "Staff30_norm",
+   "Staff30_spec",
+   "TwoHand30_A_diff",
+   "TwoHand30_A_spec",
+   "TwoHand30_B_diff",
+   "TwoHand30_B_spec",
+   "TwoHand30_diff",
+   "TwoHand30_norm",
+   "TwoHand30_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "magus.imperator-antipyretic-although-i": {
+  "sha256": "",
+  "objects": [
+   "Arcdeva_master_diff",
+   "Arcdeva_master_emis",
+   "Arcdeva_master_norm",
+   "Arcdeva_master_rage",
+   "Arcdeva_master_spec"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "norukjerky.riddling-set-texture-replacement": {
+  "sha256": "",
+  "objects": [
+   "Popori_F_H31_Body_cstm",
+   "Popori_F_H31_Body_diff",
+   "Popori_F_H31_Body_mask",
+   "Popori_F_H31_Body_norm",
+   "Popori_F_H31_Body_spec",
+   "Popori_F_H31_Hand_cstm",
+   "Popori_F_H31_Hand_diff",
+   "Popori_F_H31_Hand_mask",
+   "Popori_F_H31_Hand_norm",
+   "Popori_F_H31_Hand_spec",
+   "Popori_F_H31_Leg_cstm",
+   "Popori_F_H31_Leg_diff",
+   "Popori_F_H31_Leg_mask",
+   "Popori_F_H31_Leg_norm",
+   "Popori_F_H31_Leg_spec",
+   "Popori_F_L31_Body_cstm",
+   "Popori_F_L31_Body_diff",
+   "Popori_F_L31_Body_mask",
+   "Popori_F_L31_Body_norm",
+   "Popori_F_L31_Body_spec",
+   "Popori_F_L31_Hand_cstm",
+   "Popori_F_L31_Hand_diff",
+   "Popori_F_L31_Hand_mask",
+   "Popori_F_L31_Hand_norm",
+   "Popori_F_L31_Hand_spec",
+   "Popori_F_L31_Leg_cstm",
+   "Popori_F_L31_Leg_diff",
+   "Popori_F_L31_Leg_mask",
+   "Popori_F_L31_Leg_norm",
+   "Popori_F_L31_Leg_spec",
+   "Popori_F_R31_Body_cstm",
+   "Popori_F_R31_Body_diff",
+   "Popori_F_R31_Body_mask",
+   "Popori_F_R31_Body_norm",
+   "Popori_F_R31_Body_spec",
+   "Popori_F_R31_Hand_cstm",
+   "Popori_F_R31_Hand_diff",
+   "Popori_F_R31_Hand_mask",
+   "Popori_F_R31_Hand_norm",
+   "Popori_F_R31_Hand_spec",
+   "Popori_F_R31_Leg_cstm",
+   "Popori_F_R31_Leg_diff",
+   "Popori_F_R31_Leg_mask",
+   "Popori_F_R31_Leg_norm",
+   "Popori_F_R31_Leg_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "elin.matching-hairtail-mod": {
+  "sha256": "826da1be0d50393d612e75293cb64bf44594b02f1eb2c727acc1b15cdaf6db43",
+  "objects": [
+   "PoPori_F_Hair06B_cstm",
+   "PoPori_F_Hair06_cstm",
+   "PoPori_F_hair06B_diff",
+   "PoPori_F_hair06B_norm",
+   "PoPori_F_hair06B_spec",
+   "PoPori_F_hair06_diff",
+   "PoPori_F_hair06_norm",
+   "PoPori_F_hair06_spec",
+   "Popori_F_Face00_diff",
+   "Popori_F_Face00_mask",
+   "Popori_F_Face00_norm",
+   "Popori_F_Face00_spec",
+   "Popori_F_Face01_cstm",
+   "Popori_F_Face01_diff",
+   "Popori_F_Face01_mask",
+   "Popori_F_Face01_norm",
+   "Popori_F_Face01_spec",
+   "Popori_F_Face03_cstm",
+   "Popori_F_Face04_mask",
+   "Popori_F_Face04_norm",
+   "Popori_F_Face04_spec",
+   "Popori_F_Face05_mask",
+   "Popori_F_Face06_cstm",
+   "Popori_F_Face06_mask",
+   "Popori_F_Face06_spec",
+   "Popori_F_Face07_diff",
+   "Popori_F_Face07_mask",
+   "Popori_F_Face07_norm",
+   "Popori_F_Face07_spec",
+   "Popori_F_Face08_cstm",
+   "Popori_F_Face08_diff",
+   "Popori_F_Face08_mask",
+   "Popori_F_Face08_spec",
+   "Popori_F_Face10_cstm",
+   "Popori_F_Face10_diff",
+   "Popori_F_Face10_mask",
+   "Popori_F_Face10_norm",
+   "Popori_F_Face10_spec",
+   "Popori_F_Face11_cstm",
+   "Popori_F_Face11_diff",
+   "Popori_F_Face11_mask",
+   "Popori_F_Face11_norm",
+   "Popori_F_Face11_spec",
+   "Popori_F_Hair00B_mask",
+   "Popori_F_Hair00C_diff",
+   "Popori_F_Hair00D_diff",
+   "Popori_F_Hair00_mask",
+   "Popori_F_Hair01C_diff",
+   "Popori_F_Hair01_mask",
+   "Popori_F_Hair02C_diff",
+   "Popori_F_Hair02_mask",
+   "Popori_F_Hair03C_diff",
+   "Popori_F_Hair03_diff",
+   "Popori_F_Hair03_mask",
+   "Popori_F_Hair03_norm",
+   "Popori_F_Hair03_spec",
+   "Popori_F_Hair04B_cstm",
+   "Popori_F_Hair04B_mask",
+   "Popori_F_Hair04C_diff",
+   "Popori_F_Hair04D_diff",
+   "Popori_F_Hair04_cstm",
+   "Popori_F_Hair04_mask",
+   "Popori_F_Hair05C_diff",
+   "Popori_F_Hair05_mask",
+   "Popori_F_Hair06B_mask",
+   "Popori_F_Hair06C_diff",
+   "Popori_F_Hair06D_diff",
+   "Popori_F_Hair06_mask",
+   "Popori_F_Hair07B_mask",
+   "Popori_F_Hair07C_diff",
+   "Popori_F_Hair07D_diff",
+   "Popori_F_Hair07_mask",
+   "Popori_F_Hair08B_mask",
+   "Popori_F_Hair08C_diff",
+   "Popori_F_Hair08D_diff",
+   "Popori_F_Hair08_mask",
+   "Popori_F_Hair09C_diff",
+   "Popori_F_Hair10C_diff",
+   "Popori_F_Hair10_cstm",
+   "Popori_F_Hair10_diff",
+   "Popori_F_Hair10_mask",
+   "Popori_F_Hair10_norm",
+   "Popori_F_Hair10_spec",
+   "Popori_F_Hair11C_diff",
+   "Popori_F_Hair11_cstm",
+   "Popori_F_Hair11_diff",
+   "Popori_F_Hair11_mask",
+   "Popori_F_Hair11_norm",
+   "Popori_F_Hair11_spec",
+   "Popori_F_Hair12B_diff",
+   "Popori_F_Hair12B_norm",
+   "Popori_F_Hair12B_spec",
+   "Popori_F_Hair12C_diff",
+   "Popori_F_Hair12D_diff",
+   "Popori_F_Hair12_cstm",
+   "Popori_F_Hair12_diff",
+   "Popori_F_Hair12_mask",
+   "Popori_F_Hair12_norm",
+   "Popori_F_Hair12_spec",
+   "Popori_F_Hair13C_diff",
+   "Popori_F_Hair13_cstm",
+   "Popori_F_Hair13_diff",
+   "Popori_F_Hair13_mask",
+   "Popori_F_Hair13_norm",
+   "Popori_F_Hair13_spec",
+   "Popori_F_Hair14C_diff",
+   "Popori_F_Hair14_cstm",
+   "Popori_F_Hair14_diff",
+   "Popori_F_Hair14_mask",
+   "Popori_F_Hair14_norm",
+   "Popori_F_Hair14_spec",
+   "Popori_F_Tail10_cstm",
+   "Popori_F_Tail10_diff",
+   "Popori_F_Tail10_mask",
+   "Popori_F_Tail10_norm",
+   "Popori_F_Tail10_spec",
+   "Popori_F_Tail11_cstm",
+   "Popori_F_Tail11_diff",
+   "Popori_F_Tail11_mask",
+   "Popori_F_Tail11_norm",
+   "Popori_F_Tail11_spec",
+   "Popori_F_Tail14_cstm",
+   "Popori_F_Tail14_diff",
+   "Popori_F_Tail14_mask",
+   "Popori_F_Tail14_norm",
+   "Popori_F_Tail14_spec",
+   "Popori_F_face08_norm",
+   "Popori_F_face09_mask",
+   "Popori_F_hair08B_cstm",
+   "Popori_F_hair08B_diff",
+   "Popori_F_hair08B_norm",
+   "Popori_F_hair08B_spec",
+   "Popori_F_hair08_cstm",
+   "Popori_F_hair08_diff",
+   "Popori_F_hair08_norm",
+   "Popori_F_hair08_spec",
+   "Popori_F_hair09_cstm",
+   "Popori_F_hair09_diff",
+   "Popori_F_hair09_mask",
+   "Popori_F_hair09_norm",
+   "Popori_F_hair09_spec",
+   "popori_F_Face00_cstm",
+   "popori_F_Face02_cstm",
+   "popori_F_Face02_diff",
+   "popori_F_Face02_mask",
+   "popori_F_Face02_norm",
+   "popori_F_Face02_spec",
+   "popori_F_Face03_diff",
+   "popori_F_Face03_mask",
+   "popori_F_Face03_norm",
+   "popori_F_Face03_spec",
+   "popori_F_Face04_cstm",
+   "popori_F_Face05_cstm",
+   "popori_F_Face07_cstm",
+   "popori_F_Face09_cstm",
+   "popori_F_Hair00B_cstm",
+   "popori_F_Hair00_cstm",
+   "popori_F_Hair01_cstm",
+   "popori_F_Hair02_cstm",
+   "popori_F_Hair03_cstm",
+   "popori_F_Hair07B_cstm",
+   "popori_F_Hair07_cstm",
+   "popori_F_face04_diff",
+   "popori_F_face05_diff",
+   "popori_F_face05_norm",
+   "popori_F_face05_spec",
+   "popori_F_face06_diff",
+   "popori_F_face06_norm",
+   "popori_F_face09_diff",
+   "popori_F_face09_norm",
+   "popori_F_face09_spec",
+   "popori_F_hair00B_diff",
+   "popori_F_hair00B_norm",
+   "popori_F_hair00B_spec",
+   "popori_F_hair00_diff",
+   "popori_F_hair00_norm",
+   "popori_F_hair00_spec",
+   "popori_F_hair01_diff",
+   "popori_F_hair01_norm",
+   "popori_F_hair01_spec",
+   "popori_F_hair02_diff",
+   "popori_F_hair02_norm",
+   "popori_F_hair02_spec",
+   "popori_F_hair04B_diff",
+   "popori_F_hair04B_norm",
+   "popori_F_hair04B_spec",
+   "popori_F_hair04_diff",
+   "popori_F_hair04_norm",
+   "popori_F_hair04_spec",
+   "popori_F_hair05_cstm",
+   "popori_F_hair05_diff",
+   "popori_F_hair05_norm",
+   "popori_F_hair05_spec",
+   "popori_F_hair07B_diff",
+   "popori_F_hair07B_norm",
+   "popori_F_hair07B_spec",
+   "popori_F_hair07_diff",
+   "popori_F_hair07_norm",
+   "popori_F_hair07_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "nmg.1305-azn-so-i-guess-people-wont-do-much-for": {
+  "sha256": "bfe5b0c985fb2dda9b2cb25ab957a629f9dc9eb78490f1ef567afcc4958119f9",
+  "objects": [
+   "Human_M_Face00_cstm",
+   "Human_M_Face00_diff",
+   "Human_M_Face00_mask",
+   "Human_M_Face00_norm",
+   "Human_M_Face00_spec",
+   "Human_M_Face01_cstm",
+   "Human_M_Face01_diff",
+   "Human_M_Face01_mask",
+   "Human_M_Face01_norm",
+   "Human_M_Face01_spec",
+   "Human_M_Face02_cstm",
+   "Human_M_Face02_diff",
+   "Human_M_Face02_mask",
+   "Human_M_Face02_norm",
+   "Human_M_Face02_spec",
+   "Human_M_Face03_cstm",
+   "Human_M_Face03_diff",
+   "Human_M_Face03_mask",
+   "Human_M_Face03_norm",
+   "Human_M_Face03_spec",
+   "Human_M_Face04_cstm",
+   "Human_M_Face04_diff",
+   "Human_M_Face04_mask",
+   "Human_M_Face04_norm",
+   "Human_M_Face04_spec",
+   "Human_M_Face05_cstm",
+   "Human_M_Face05_diff",
+   "Human_M_Face05_mask",
+   "Human_M_Face05_norm",
+   "Human_M_Face05_spec",
+   "Human_M_Face06_cstm",
+   "Human_M_Face06_diff",
+   "Human_M_Face06_mask",
+   "Human_M_Face06_norm",
+   "Human_M_Face06_spec",
+   "Human_M_Face07_cstm",
+   "Human_M_Face07_diff",
+   "Human_M_Face07_mask",
+   "Human_M_Face07_norm",
+   "Human_M_Face07_spec",
+   "Human_M_Face08_cstm",
+   "Human_M_Face08_diff",
+   "Human_M_Face08_mask",
+   "Human_M_Face08_norm",
+   "Human_M_Face08_spec",
+   "Human_M_Face09_cstm",
+   "Human_M_Face09_diff",
+   "Human_M_Face09_mask",
+   "Human_M_Face09_norm",
+   "Human_M_Face09_spec",
+   "Human_M_Face10_cstm",
+   "Human_M_Face10_diff",
+   "Human_M_Face10_mask",
+   "Human_M_Face10_norm",
+   "Human_M_Face10_spec",
+   "Human_M_Face11_cstm",
+   "Human_M_Face11_diff",
+   "Human_M_Face11_mask",
+   "Human_M_Face11_norm",
+   "Human_M_Face11_spec",
+   "Human_M_Face12_cstm",
+   "Human_M_Face12_diff",
+   "Human_M_Face12_mask",
+   "Human_M_Face12_norm",
+   "Human_M_Face12_spec",
+   "Human_M_Face13_cstm",
+   "Human_M_Face13_diff",
+   "Human_M_Face13_mask",
+   "Human_M_Face13_norm",
+   "Human_M_Face13_spec",
+   "Human_M_Hair00_cstm",
+   "Human_M_Hair00_diff",
+   "Human_M_Hair00_mask",
+   "Human_M_Hair00_norm",
+   "Human_M_Hair00_spec",
+   "Human_M_Hair01_cstm",
+   "Human_M_Hair01_diff",
+   "Human_M_Hair01_norm",
+   "Human_M_Hair01_spec",
+   "Human_M_Hair02B_cstm",
+   "Human_M_Hair02B_diff",
+   "Human_M_Hair02B_mask",
+   "Human_M_Hair02B_norm",
+   "Human_M_Hair02B_spec",
+   "Human_M_Hair02_cstm",
+   "Human_M_Hair02_diff",
+   "Human_M_Hair02_mask",
+   "Human_M_Hair02_norm",
+   "Human_M_Hair02_spec",
+   "Human_M_Hair03_cstm",
+   "Human_M_Hair03_diff",
+   "Human_M_Hair03_mask",
+   "Human_M_Hair03_norm",
+   "Human_M_Hair03_spec",
+   "Human_M_Hair04_cstm",
+   "Human_M_Hair04_diff",
+   "Human_M_Hair04_mask",
+   "Human_M_Hair04_norm",
+   "Human_M_Hair04_spec",
+   "Human_M_Hair05_cstm",
+   "Human_M_Hair05_diff",
+   "Human_M_Hair05_mask",
+   "Human_M_Hair05_norm",
+   "Human_M_Hair05_spec",
+   "Human_M_Hair06_cstm",
+   "Human_M_Hair06_diff",
+   "Human_M_Hair06_mask",
+   "Human_M_Hair06_norm",
+   "Human_M_Hair06_spec",
+   "Human_M_Hair07_cstm",
+   "Human_M_Hair07_diff",
+   "Human_M_Hair07_mask",
+   "Human_M_Hair07_norm",
+   "Human_M_Hair07_spec",
+   "Human_M_Hair08_cstm",
+   "Human_M_Hair08_diff",
+   "Human_M_Hair08_mask",
+   "Human_M_Hair08_norm",
+   "Human_M_Hair08_spec",
+   "Human_M_Hair09_cstm",
+   "Human_M_Hair09_diff",
+   "Human_M_Hair09_mask",
+   "Human_M_Hair09_norm",
+   "Human_M_Hair09_spec",
+   "Human_M_Hair10_cstm",
+   "Human_M_Hair10_diff",
+   "Human_M_Hair10_mask",
+   "Human_M_Hair10_norm",
+   "Human_M_Hair10_spec",
+   "Human_M_Hair11_cstm",
+   "Human_M_Hair11_diff",
+   "Human_M_Hair11_mask",
+   "Human_M_Hair11_norm",
+   "Human_M_Hair11_spec",
+   "Human_M_Hair12B_cstm",
+   "Human_M_Hair12B_diff",
+   "Human_M_Hair12B_mask",
+   "Human_M_Hair12B_norm",
+   "Human_M_Hair12B_spec",
+   "Human_M_Hair12_cstm",
+   "Human_M_Hair12_diff",
+   "Human_M_Hair12_mask",
+   "Human_M_Hair12_norm",
+   "Human_M_Hair12_spec",
+   "Human_M_Hair13_cstm",
+   "Human_M_Hair13_diff",
+   "Human_M_Hair13_mask",
+   "Human_M_Hair13_norm",
+   "Human_M_Hair13_spec",
+   "Human_M_Hair14_cstm",
+   "Human_M_Hair14_diff",
+   "Human_M_Hair14_mask",
+   "Human_M_Hair14_norm",
+   "Human_M_Hair14_spec",
+   "Human_M_Hair15_cstm",
+   "Human_M_Hair15_diff",
+   "Human_M_Hair15_mask",
+   "Human_M_Hair15_norm",
+   "Human_M_Hair15_spec",
+   "Human_M_Hair16_cstm",
+   "Human_M_Hair16_diff",
+   "Human_M_Hair16_mask",
+   "Human_M_Hair16_norm",
+   "Human_M_Hair16_spec",
+   "Human_M_Hair17B_diff",
+   "Human_M_Hair17B_norm",
+   "Human_M_Hair17B_spec",
+   "Human_M_Hair17_cstm",
+   "Human_M_Hair17_diff",
+   "Human_M_Hair17_mask",
+   "Human_M_Hair17_norm",
+   "Human_M_Hair17_spec",
+   "Human_M_hair01_mask"
+  ],
+  "why": "MAD-filtered"
+ },
+ "yunachiu.i-make-a-mod-of-the-kunoichi-robe-to": {
+  "sha256": "e574df42368ea0ef7ae1aeeede52b1834eec4b0e21d44f6b185ee7b062bd7f9b",
+  "objects": [
+   "Popori_F_N01_Body_Dye_diff",
+   "Popori_F_N01_Body_Dye_spec",
+   "Popori_F_N01_Body_cstm",
+   "Popori_F_N01_Body_diff",
+   "Popori_F_N01_Body_mask",
+   "Popori_F_N01_Body_norm",
+   "Popori_F_N01_Body_spec",
+   "Popori_F_N01_Hand_Dye_diff",
+   "Popori_F_N01_Hand_Dye_spec",
+   "Popori_F_N01_Hand_cstm",
+   "Popori_F_N01_Hand_diff",
+   "Popori_F_N01_Hand_mask",
+   "Popori_F_N01_Hand_norm",
+   "Popori_F_N01_Hand_spec",
+   "Popori_F_N01_Leg_Dye_diff",
+   "Popori_F_N01_Leg_Dye_spec",
+   "Popori_F_N01_Leg_cstm",
+   "Popori_F_N01_Leg_diff",
+   "Popori_F_N01_Leg_mask",
+   "Popori_F_N01_Leg_norm",
+   "Popori_F_N01_Leg_spec",
+   "Popori_F_N02_Body_Dye_diff",
+   "Popori_F_N02_Body_Dye_spec",
+   "Popori_F_N02_Body_cstm",
+   "Popori_F_N02_Body_diff",
+   "Popori_F_N02_Body_mask",
+   "Popori_F_N02_Body_norm",
+   "Popori_F_N02_Body_spec",
+   "Popori_F_N02_Hand_Dye_diff",
+   "Popori_F_N02_Hand_Dye_spec",
+   "Popori_F_N02_Hand_cstm",
+   "Popori_F_N02_Hand_diff",
+   "Popori_F_N02_Hand_mask",
+   "Popori_F_N02_Hand_norm",
+   "Popori_F_N02_Hand_spec",
+   "Popori_F_N02_Leg_Dye_diff",
+   "Popori_F_N02_Leg_Dye_spec",
+   "Popori_F_N02_Leg_cstm",
+   "Popori_F_N02_Leg_diff",
+   "Popori_F_N02_Leg_mask",
+   "Popori_F_N02_Leg_norm",
+   "Popori_F_N02_Leg_spec",
+   "Popori_F_N03_Body_Dye_diff",
+   "Popori_F_N03_Body_Dye_spec",
+   "Popori_F_N03_Body_cstm",
+   "Popori_F_N03_Body_diff",
+   "Popori_F_N03_Body_mask",
+   "Popori_F_N03_Body_norm",
+   "Popori_F_N03_Body_spec",
+   "Popori_F_N03_Hand_Dye_diff",
+   "Popori_F_N03_Hand_Dye_spec",
+   "Popori_F_N03_Hand_cstm",
+   "Popori_F_N03_Hand_diff",
+   "Popori_F_N03_Hand_mask",
+   "Popori_F_N03_Hand_norm",
+   "Popori_F_N03_Hand_spec",
+   "Popori_F_N03_Leg_Dye_diff",
+   "Popori_F_N03_Leg_Dye_spec",
+   "Popori_F_N03_Leg_cstm",
+   "Popori_F_N03_Leg_diff",
+   "Popori_F_N03_Leg_mask",
+   "Popori_F_N03_Leg_norm",
+   "Popori_F_N03_Leg_spec",
+   "Popori_F_N04_Body_Dye_diff",
+   "Popori_F_N04_Body_Dye_spec",
+   "Popori_F_N04_Body_cstm",
+   "Popori_F_N04_Body_diff",
+   "Popori_F_N04_Body_mask",
+   "Popori_F_N04_Body_norm",
+   "Popori_F_N04_Body_spec",
+   "Popori_F_N04_Hand_Dye_diff",
+   "Popori_F_N04_Hand_Dye_spec",
+   "Popori_F_N04_Hand_cstm",
+   "Popori_F_N04_Hand_diff",
+   "Popori_F_N04_Hand_mask",
+   "Popori_F_N04_Hand_norm",
+   "Popori_F_N04_Hand_spec",
+   "Popori_F_N04_Leg_Dye_diff",
+   "Popori_F_N04_Leg_Dye_spec",
+   "Popori_F_N04_Leg_cstm",
+   "Popori_F_N04_Leg_diff",
+   "Popori_F_N04_Leg_mask",
+   "Popori_F_N04_Leg_norm",
+   "Popori_F_N04_Leg_spec",
+   "Popori_F_N05_Body_Dye_diff",
+   "Popori_F_N05_Body_Dye_spec",
+   "Popori_F_N05_Body_cstm",
+   "Popori_F_N05_Body_diff",
+   "Popori_F_N05_Body_mask",
+   "Popori_F_N05_Body_norm",
+   "Popori_F_N05_Body_spec",
+   "Popori_F_N05_Hand_Dye_diff",
+   "Popori_F_N05_Hand_Dye_spec",
+   "Popori_F_N05_Hand_cstm",
+   "Popori_F_N05_Hand_diff",
+   "Popori_F_N05_Hand_mask",
+   "Popori_F_N05_Hand_norm",
+   "Popori_F_N05_Hand_spec",
+   "Popori_F_N05_Leg_Dye_diff",
+   "Popori_F_N05_Leg_Dye_spec",
+   "Popori_F_N05_Leg_cstm",
+   "Popori_F_N05_Leg_diff",
+   "Popori_F_N05_Leg_mask",
+   "Popori_F_N05_Leg_norm",
+   "Popori_F_N05_Leg_spec",
+   "Popori_F_N06_Body_cstm",
+   "Popori_F_N06_Body_diff",
+   "Popori_F_N06_Body_mask",
+   "Popori_F_N06_Body_norm",
+   "Popori_F_N06_Body_spec",
+   "Popori_F_N06_Hand_cstm",
+   "Popori_F_N06_Hand_diff",
+   "Popori_F_N06_Hand_mask",
+   "Popori_F_N06_Hand_norm",
+   "Popori_F_N06_Hand_spec",
+   "Popori_F_R00_Body_Lod2",
+   "Popori_F_R00_Body_cstm",
+   "Popori_F_R00_Body_diff",
+   "Popori_F_R00_Body_mask",
+   "Popori_F_R00_Body_norm",
+   "Popori_F_R00_Body_spec",
+   "Popori_F_R00_Hand_cstm",
+   "Popori_F_R00_Hand_diff",
+   "Popori_F_R00_Hand_mask",
+   "Popori_F_R00_Hand_norm",
+   "Popori_F_R00_Hand_spec",
+   "Popori_F_R00_Leg_cstm",
+   "Popori_F_R00_Leg_diff",
+   "Popori_F_R00_Leg_mask",
+   "Popori_F_R00_Leg_norm",
+   "Popori_F_R00_Leg_spec",
+   "Popori_F_R01A_Body_Lod2",
+   "Popori_F_R01A_Body_diff",
+   "Popori_F_R01A_Hand_cstm",
+   "Popori_F_R01A_Hand_diff",
+   "Popori_F_R01A_Leg_cstm",
+   "Popori_F_R01A_Leg_diff",
+   "Popori_F_R01_Body_Lod2",
+   "Popori_F_R01_Body_cstm",
+   "Popori_F_R01_Body_diff",
+   "Popori_F_R01_Body_mask",
+   "Popori_F_R01_Body_norm",
+   "Popori_F_R01_Body_spec",
+   "Popori_F_R01_Hand_cstm",
+   "Popori_F_R01_Hand_diff",
+   "Popori_F_R01_Hand_mask",
+   "Popori_F_R01_Hand_norm",
+   "Popori_F_R01_Hand_spec",
+   "Popori_F_R01_Leg_cstm",
+   "Popori_F_R01_Leg_diff",
+   "Popori_F_R01_Leg_mask",
+   "Popori_F_R01_Leg_norm",
+   "Popori_F_R01_Leg_spec",
+   "Popori_F_R02_Body_Lod2",
+   "Popori_F_R02_Body_cstm",
+   "Popori_F_R02_Body_diff",
+   "Popori_F_R02_Body_mask",
+   "Popori_F_R02_Body_norm",
+   "Popori_F_R02_Body_spec",
+   "Popori_F_R02_Hand_cstm",
+   "Popori_F_R02_Hand_diff",
+   "Popori_F_R02_Hand_mask",
+   "Popori_F_R02_Hand_norm",
+   "Popori_F_R02_Hand_spec",
+   "Popori_F_R02_Leg_cstm",
+   "Popori_F_R02_Leg_diff",
+   "Popori_F_R02_Leg_mask",
+   "Popori_F_R02_Leg_norm",
+   "Popori_F_R02_Leg_spec",
+   "Popori_F_R03_Body_Lod2",
+   "Popori_F_R03_Body_cstm",
+   "Popori_F_R03_Body_diff",
+   "Popori_F_R03_Body_mask",
+   "Popori_F_R03_Body_norm",
+   "Popori_F_R03_Body_spec",
+   "Popori_F_R03_Hand_cstm",
+   "Popori_F_R03_Hand_diff",
+   "Popori_F_R03_Hand_mask",
+   "Popori_F_R03_Hand_norm",
+   "Popori_F_R03_Hand_spec",
+   "Popori_F_R03_Leg_cstm",
+   "Popori_F_R03_Leg_diff",
+   "Popori_F_R03_Leg_mask",
+   "Popori_F_R03_Leg_norm",
+   "Popori_F_R03_Leg_spec",
+   "Popori_F_R04_Body_Lod2",
+   "Popori_F_R04_Body_cstm",
+   "Popori_F_R04_Body_diff",
+   "Popori_F_R04_Body_mask",
+   "Popori_F_R04_Body_norm",
+   "Popori_F_R04_Body_spec",
+   "Popori_F_R04_Hand_cstm",
+   "Popori_F_R04_Hand_diff",
+   "Popori_F_R04_Hand_mask",
+   "Popori_F_R04_Hand_norm",
+   "Popori_F_R04_Hand_spec",
+   "Popori_F_R04_Leg_cstm",
+   "Popori_F_R04_Leg_diff",
+   "Popori_F_R04_Leg_mask",
+   "Popori_F_R04_Leg_norm",
+   "Popori_F_R04_Leg_spec",
+   "Popori_F_R05_Body_Lod2",
+   "Popori_F_R05_Body_cstm",
+   "Popori_F_R05_Body_diff",
+   "Popori_F_R05_Body_mask",
+   "Popori_F_R05_Body_norm",
+   "Popori_F_R05_Body_spec",
+   "Popori_F_R05_Hand_cstm",
+   "Popori_F_R05_Hand_diff",
+   "Popori_F_R05_Hand_mask",
+   "Popori_F_R05_Hand_norm",
+   "Popori_F_R05_Hand_spec",
+   "Popori_F_R05_Leg_cstm",
+   "Popori_F_R05_Leg_diff",
+   "Popori_F_R05_Leg_mask",
+   "Popori_F_R05_Leg_norm",
+   "Popori_F_R05_Leg_spec",
+   "Popori_F_R06_Body_Lod2",
+   "Popori_F_R06_Body_cstm",
+   "Popori_F_R06_Body_diff",
+   "Popori_F_R06_Body_mask",
+   "Popori_F_R06_Body_norm",
+   "Popori_F_R06_Body_spec",
+   "Popori_F_R06_Hand_cstm",
+   "Popori_F_R06_Hand_diff",
+   "Popori_F_R06_Hand_mask",
+   "Popori_F_R06_Hand_norm",
+   "Popori_F_R06_Hand_spec",
+   "Popori_F_R06_Leg_cstm",
+   "Popori_F_R06_Leg_diff",
+   "Popori_F_R06_Leg_mask",
+   "Popori_F_R06_Leg_norm",
+   "Popori_F_R06_Leg_spec",
+   "Popori_F_R07_Body_Lod2",
+   "Popori_F_R07_Body_cstm",
+   "Popori_F_R07_Body_diff",
+   "Popori_F_R07_Body_mask",
+   "Popori_F_R07_Body_norm",
+   "Popori_F_R07_Body_spec",
+   "Popori_F_R07_Hand_cstm",
+   "Popori_F_R07_Hand_diff",
+   "Popori_F_R07_Hand_mask",
+   "Popori_F_R07_Hand_norm",
+   "Popori_F_R07_Hand_spec",
+   "Popori_F_R07_Leg_cstm",
+   "Popori_F_R07_Leg_diff",
+   "Popori_F_R07_Leg_mask",
+   "Popori_F_R07_Leg_norm",
+   "Popori_F_R07_Leg_spec",
+   "Popori_F_R08_Body_Lod2",
+   "Popori_F_R08_Body_cstm",
+   "Popori_F_R08_Body_diff",
+   "Popori_F_R08_Body_mask",
+   "Popori_F_R08_Body_norm",
+   "Popori_F_R08_Body_spec",
+   "Popori_F_R08_Hand_cstm",
+   "Popori_F_R08_Hand_diff",
+   "Popori_F_R08_Hand_mask",
+   "Popori_F_R08_Hand_norm",
+   "Popori_F_R08_Hand_spec",
+   "Popori_F_R08_Leg_cstm",
+   "Popori_F_R08_Leg_diff",
+   "Popori_F_R08_Leg_mask",
+   "Popori_F_R08_Leg_norm",
+   "Popori_F_R08_Leg_spec",
+   "Popori_F_R09_Body_Lod2",
+   "Popori_F_R09_Body_cstm",
+   "Popori_F_R09_Body_diff",
+   "Popori_F_R09_Body_mask",
+   "Popori_F_R09_Body_norm",
+   "Popori_F_R09_Body_spec",
+   "Popori_F_R09_Hand_cstm",
+   "Popori_F_R09_Hand_diff",
+   "Popori_F_R09_Hand_mask",
+   "Popori_F_R09_Hand_norm",
+   "Popori_F_R09_Hand_spec",
+   "Popori_F_R09_Leg_cstm",
+   "Popori_F_R09_Leg_diff",
+   "Popori_F_R09_Leg_mask",
+   "Popori_F_R09_Leg_norm",
+   "Popori_F_R09_Leg_spec",
+   "Popori_F_R0_Body_cstm",
+   "Popori_F_R0_Body_diff",
+   "Popori_F_R0_Body_mask",
+   "Popori_F_R0_Body_norm",
+   "Popori_F_R0_Body_spec",
+   "Popori_F_R0_diff_LOD2",
+   "Popori_F_R10_Body_Lod2",
+   "Popori_F_R10_Body_cstm",
+   "Popori_F_R10_Body_diff",
+   "Popori_F_R10_Body_mask",
+   "Popori_F_R10_Body_norm",
+   "Popori_F_R10_Body_spec",
+   "Popori_F_R10_Hand_cstm",
+   "Popori_F_R10_Hand_diff",
+   "Popori_F_R10_Hand_mask",
+   "Popori_F_R10_Hand_norm",
+   "Popori_F_R10_Hand_spec",
+   "Popori_F_R10_Leg_cstm",
+   "Popori_F_R10_Leg_diff",
+   "Popori_F_R10_Leg_mask",
+   "Popori_F_R10_Leg_norm",
+   "Popori_F_R10_Leg_spec",
+   "Popori_F_R11_Body_Lod2",
+   "Popori_F_R11_Body_cstm",
+   "Popori_F_R11_Body_diff",
+   "Popori_F_R11_Body_mask",
+   "Popori_F_R11_Body_norm",
+   "Popori_F_R11_Body_spec",
+   "Popori_F_R11_Hand_cstm",
+   "Popori_F_R11_Hand_diff",
+   "Popori_F_R11_Hand_mask",
+   "Popori_F_R11_Hand_norm",
+   "Popori_F_R11_Hand_spec",
+   "Popori_F_R11_Leg_cstm",
+   "Popori_F_R11_Leg_diff",
+   "Popori_F_R11_Leg_mask",
+   "Popori_F_R11_Leg_norm",
+   "Popori_F_R11_Leg_spec",
+   "Popori_F_R12_Body_Lod2",
+   "Popori_F_R12_Body_cstm",
+   "Popori_F_R12_Body_diff",
+   "Popori_F_R12_Body_mask",
+   "Popori_F_R12_Body_norm",
+   "Popori_F_R12_Body_spec",
+   "Popori_F_R12_Hand_cstm",
+   "Popori_F_R12_Hand_diff",
+   "Popori_F_R12_Hand_mask",
+   "Popori_F_R12_Hand_norm",
+   "Popori_F_R12_Hand_spec",
+   "Popori_F_R12_Leg_cstm",
+   "Popori_F_R12_Leg_diff",
+   "Popori_F_R12_Leg_mask",
+   "Popori_F_R12_Leg_norm",
+   "Popori_F_R12_Leg_spec",
+   "Popori_F_R13_Body_Lod2",
+   "Popori_F_R13_Body_cstm",
+   "Popori_F_R13_Body_diff",
+   "Popori_F_R13_Body_mask",
+   "Popori_F_R13_Body_norm",
+   "Popori_F_R13_Body_spec",
+   "Popori_F_R13_Hand_cstm",
+   "Popori_F_R13_Hand_diff",
+   "Popori_F_R13_Hand_mask",
+   "Popori_F_R13_Hand_norm",
+   "Popori_F_R13_Hand_spec",
+   "Popori_F_R13_Leg_cstm",
+   "Popori_F_R13_Leg_diff",
+   "Popori_F_R13_Leg_mask",
+   "Popori_F_R13_Leg_norm",
+   "Popori_F_R13_Leg_spec",
+   "Popori_F_R14_Body_Lod2",
+   "Popori_F_R14_Body_cstm",
+   "Popori_F_R14_Body_diff",
+   "Popori_F_R14_Body_mask",
+   "Popori_F_R14_Body_norm",
+   "Popori_F_R14_Body_spec",
+   "Popori_F_R14_Hand_cstm",
+   "Popori_F_R14_Hand_diff",
+   "Popori_F_R14_Hand_mask",
+   "Popori_F_R14_Hand_norm",
+   "Popori_F_R14_Hand_spec",
+   "Popori_F_R14_Leg_cstm",
+   "Popori_F_R14_Leg_diff",
+   "Popori_F_R14_Leg_mask",
+   "Popori_F_R14_Leg_norm",
+   "Popori_F_R14_Leg_spce",
+   "Popori_F_R15_Body_Lod2",
+   "Popori_F_R15_Body_cstm",
+   "Popori_F_R15_Body_diff",
+   "Popori_F_R15_Body_mask",
+   "Popori_F_R15_Body_norm",
+   "Popori_F_R15_Body_spec",
+   "Popori_F_R15_Hand_cstm",
+   "Popori_F_R15_Hand_diff",
+   "Popori_F_R15_Hand_mask",
+   "Popori_F_R15_Hand_norm",
+   "Popori_F_R15_Hand_spec",
+   "Popori_F_R15_Leg_cstm",
+   "Popori_F_R15_Leg_diff",
+   "Popori_F_R15_Leg_mask",
+   "Popori_F_R15_Leg_norm",
+   "Popori_F_R15_Leg_spec",
+   "Popori_F_R16_Body_Lod2",
+   "Popori_F_R16_Body_Spec",
+   "Popori_F_R16_Body_addon",
+   "Popori_F_R16_Body_cstm",
+   "Popori_F_R16_Body_diff",
+   "Popori_F_R16_Body_mask",
+   "Popori_F_R16_Body_norm",
+   "Popori_F_R16_Hand_Spec",
+   "Popori_F_R16_Hand_cstm",
+   "Popori_F_R16_Hand_diff",
+   "Popori_F_R16_Hand_mask",
+   "Popori_F_R16_Hand_norm",
+   "Popori_F_R16_Leg_cstm",
+   "Popori_F_R16_Leg_diff",
+   "Popori_F_R16_Leg_mask",
+   "Popori_F_R16_Leg_norm",
+   "Popori_F_R16_Leg_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "short.hair-for-elin": {
+  "sha256": "e2508dbf139c1f63b702f16e81815267e623ddd0656a1f0d0f319a6d183c1843",
+  "objects": [
+   "PoPori_F_Hair06B_cstm",
+   "PoPori_F_Hair06_cstm",
+   "PoPori_F_hair06B_diff",
+   "PoPori_F_hair06B_norm",
+   "PoPori_F_hair06B_spec",
+   "PoPori_F_hair06_diff",
+   "PoPori_F_hair06_norm",
+   "PoPori_F_hair06_spec",
+   "Popori_F_Face00_diff",
+   "Popori_F_Face00_mask",
+   "Popori_F_Face00_norm",
+   "Popori_F_Face00_spec",
+   "Popori_F_Face01_cstm",
+   "Popori_F_Face01_diff",
+   "Popori_F_Face01_mask",
+   "Popori_F_Face01_norm",
+   "Popori_F_Face01_spec",
+   "Popori_F_Face03_cstm",
+   "Popori_F_Face04_mask",
+   "Popori_F_Face04_norm",
+   "Popori_F_Face04_spec",
+   "Popori_F_Face05_mask",
+   "Popori_F_Face06_cstm",
+   "Popori_F_Face06_mask",
+   "Popori_F_Face06_spec",
+   "Popori_F_Face07_diff",
+   "Popori_F_Face07_mask",
+   "Popori_F_Face07_norm",
+   "Popori_F_Face07_spec",
+   "Popori_F_Face08_cstm",
+   "Popori_F_Face08_diff",
+   "Popori_F_Face08_mask",
+   "Popori_F_Face08_spec",
+   "Popori_F_Face10_cstm",
+   "Popori_F_Face10_diff",
+   "Popori_F_Face10_mask",
+   "Popori_F_Face10_norm",
+   "Popori_F_Face10_spec",
+   "Popori_F_Face11_cstm",
+   "Popori_F_Face11_diff",
+   "Popori_F_Face11_mask",
+   "Popori_F_Face11_norm",
+   "Popori_F_Face11_spec",
+   "Popori_F_Hair00B_mask",
+   "Popori_F_Hair00C_diff",
+   "Popori_F_Hair00D_diff",
+   "Popori_F_Hair00_mask",
+   "Popori_F_Hair01C_diff",
+   "Popori_F_Hair01_mask",
+   "Popori_F_Hair02C_diff",
+   "Popori_F_Hair02_mask",
+   "Popori_F_Hair03C_diff",
+   "Popori_F_Hair03_diff",
+   "Popori_F_Hair03_mask",
+   "Popori_F_Hair03_norm",
+   "Popori_F_Hair03_spec",
+   "Popori_F_Hair04B_cstm",
+   "Popori_F_Hair04B_mask",
+   "Popori_F_Hair04C_diff",
+   "Popori_F_Hair04D_diff",
+   "Popori_F_Hair04_cstm",
+   "Popori_F_Hair04_mask",
+   "Popori_F_Hair05C_diff",
+   "Popori_F_Hair05_mask",
+   "Popori_F_Hair06B_mask",
+   "Popori_F_Hair06C_diff",
+   "Popori_F_Hair06D_diff",
+   "Popori_F_Hair06_mask",
+   "Popori_F_Hair07B_mask",
+   "Popori_F_Hair07C_diff",
+   "Popori_F_Hair07D_diff",
+   "Popori_F_Hair07_mask",
+   "Popori_F_Hair08B_mask",
+   "Popori_F_Hair08C_diff",
+   "Popori_F_Hair08D_diff",
+   "Popori_F_Hair08_mask",
+   "Popori_F_Hair09C_diff",
+   "Popori_F_Hair10C_diff",
+   "Popori_F_Hair10_cstm",
+   "Popori_F_Hair10_diff",
+   "Popori_F_Hair10_mask",
+   "Popori_F_Hair10_norm",
+   "Popori_F_Hair10_spec",
+   "Popori_F_Hair11C_diff",
+   "Popori_F_Hair11_cstm",
+   "Popori_F_Hair11_diff",
+   "Popori_F_Hair11_mask",
+   "Popori_F_Hair11_norm",
+   "Popori_F_Hair11_spec",
+   "Popori_F_Hair12B_diff",
+   "Popori_F_Hair12B_norm",
+   "Popori_F_Hair12B_spec",
+   "Popori_F_Hair12C_diff",
+   "Popori_F_Hair12D_diff",
+   "Popori_F_Hair12_cstm",
+   "Popori_F_Hair12_diff",
+   "Popori_F_Hair12_mask",
+   "Popori_F_Hair12_norm",
+   "Popori_F_Hair12_spec",
+   "Popori_F_Hair13C_diff",
+   "Popori_F_Hair13_cstm",
+   "Popori_F_Hair13_diff",
+   "Popori_F_Hair13_mask",
+   "Popori_F_Hair13_norm",
+   "Popori_F_Hair13_spec",
+   "Popori_F_Hair14C_diff",
+   "Popori_F_Hair14_cstm",
+   "Popori_F_Hair14_diff",
+   "Popori_F_Hair14_mask",
+   "Popori_F_Hair14_norm",
+   "Popori_F_Hair14_spec",
+   "Popori_F_Tail10_cstm",
+   "Popori_F_Tail10_diff",
+   "Popori_F_Tail10_mask",
+   "Popori_F_Tail10_norm",
+   "Popori_F_Tail10_spec",
+   "Popori_F_Tail11_cstm",
+   "Popori_F_Tail11_diff",
+   "Popori_F_Tail11_mask",
+   "Popori_F_Tail11_norm",
+   "Popori_F_Tail11_spec",
+   "Popori_F_Tail14_cstm",
+   "Popori_F_Tail14_diff",
+   "Popori_F_Tail14_mask",
+   "Popori_F_Tail14_norm",
+   "Popori_F_Tail14_spec",
+   "Popori_F_face08_norm",
+   "Popori_F_face09_mask",
+   "Popori_F_hair08B_cstm",
+   "Popori_F_hair08B_diff",
+   "Popori_F_hair08B_norm",
+   "Popori_F_hair08B_spec",
+   "Popori_F_hair08_cstm",
+   "Popori_F_hair08_diff",
+   "Popori_F_hair08_norm",
+   "Popori_F_hair08_spec",
+   "Popori_F_hair09_cstm",
+   "Popori_F_hair09_diff",
+   "Popori_F_hair09_mask",
+   "Popori_F_hair09_norm",
+   "Popori_F_hair09_spec",
+   "popori_F_Face00_cstm",
+   "popori_F_Face02_cstm",
+   "popori_F_Face02_diff",
+   "popori_F_Face02_mask",
+   "popori_F_Face02_norm",
+   "popori_F_Face02_spec",
+   "popori_F_Face03_diff",
+   "popori_F_Face03_mask",
+   "popori_F_Face03_norm",
+   "popori_F_Face03_spec",
+   "popori_F_Face04_cstm",
+   "popori_F_Face05_cstm",
+   "popori_F_Face07_cstm",
+   "popori_F_Face09_cstm",
+   "popori_F_Hair00B_cstm",
+   "popori_F_Hair00_cstm",
+   "popori_F_Hair01_cstm",
+   "popori_F_Hair02_cstm",
+   "popori_F_Hair03_cstm",
+   "popori_F_Hair07B_cstm",
+   "popori_F_Hair07_cstm",
+   "popori_F_face04_diff",
+   "popori_F_face05_diff",
+   "popori_F_face05_norm",
+   "popori_F_face05_spec",
+   "popori_F_face06_diff",
+   "popori_F_face06_norm",
+   "popori_F_face09_diff",
+   "popori_F_face09_norm",
+   "popori_F_face09_spec",
+   "popori_F_hair00B_diff",
+   "popori_F_hair00B_norm",
+   "popori_F_hair00B_spec",
+   "popori_F_hair00_diff",
+   "popori_F_hair00_norm",
+   "popori_F_hair00_spec",
+   "popori_F_hair01_diff",
+   "popori_F_hair01_norm",
+   "popori_F_hair01_spec",
+   "popori_F_hair02_diff",
+   "popori_F_hair02_norm",
+   "popori_F_hair02_spec",
+   "popori_F_hair04B_diff",
+   "popori_F_hair04B_norm",
+   "popori_F_hair04B_spec",
+   "popori_F_hair04_diff",
+   "popori_F_hair04_norm",
+   "popori_F_hair04_spec",
+   "popori_F_hair05_cstm",
+   "popori_F_hair05_diff",
+   "popori_F_hair05_norm",
+   "popori_F_hair05_spec",
+   "popori_F_hair07B_diff",
+   "popori_F_hair07B_norm",
+   "popori_F_hair07B_spec",
+   "popori_F_hair07_diff",
+   "popori_F_hair07_norm",
+   "popori_F_hair07_spec"
+  ],
+  "why": "MAD-filtered"
+ },
+ "la.petite-soeur-tera-thrall-lord-as-gudetama": {
+  "sha256": "7199acf5c1959ca0705f27c1be0a169ee97ef80b856e1da8f8464fe19dec1126",
+  "objects": [
+   "Awaken_SpiritKing_diff",
+   "Awaken_SpiritKing_norm",
+   "Awaken_SpiritKing_spec",
+   "Awaken_Spiritking_Mask"
+  ],
+  "why": "not TFC-streamed, payload taken as-is"
+ },
+ "moddymcmodface.my-new-projects-are-giving-me-so": {
+  "sha256": "bd1126f2996af9113ec27561156e45a543f6dda96b2ecf78baeb1ec7a6bbaed5",
+  "objects": [
+   "Decal_Human_M_AA0000.Decal_Human_M_AA0000",
+   "Human_M_Face00_Skel.CubemapFace0",
+   "Human_M_Face00_Skel.CubemapFace1",
+   "Human_M_Face00_Skel.CubemapFace2",
+   "Human_M_Face00_Skel.CubemapFace3",
+   "Human_M_Face00_Skel.CubemapFace4",
+   "Human_M_Face00_Skel.CubemapFace5",
+   "Human_M_Face00_Skel.Default00_Invisible_diff",
+   "Human_M_Face00_Skel.Default_Black_diff",
+   "Human_M_Face00_Skel.Default_White_diff",
+   "Human_M_Face00_Skel.Default_mask",
+   "Human_M_Face00_Skel.Human_M_Face00_cstm",
+   "Human_M_Face00_Skel.Human_M_Face00_diff",
+   "Human_M_Face00_Skel.Human_M_Face00_mask",
+   "Human_M_Face00_Skel.Human_M_Face00_norm",
+   "Human_M_Face00_Skel.Human_M_Face00_spec",
+   "Human_M_Face00_Skel.TestTex00_01_Diff",
+   "Human_M_Face00_Skel.TestTex00_02_Diff",
+   "Human_M_Face00_Skel.TestTex00_Norm",
+   "Human_M_Face00_Skel.TestTex_Addon00_mask"
+  ],
+  "why": "MAD-filtered"
+ },
+ "justcrazy.green-crosshair": {
+  "sha256": "ae13b63c69cbef3df0be234fa6945ed5a1494e029fa5db8f02d224c145e4eac4",
+  "objects": [
+   "Crosshair_I5",
+   "normalBg"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "novatera.jp-voice-pack": {
+  "sha256": "d7ba12d7d9d8da21305ef03969b12b97500ba40f3d337a2a9d315eb8c37ac08d",
+  "objects": [
+   "AttackFCue",
+   "Baraka_M_SmileCue",
+   "DamageCUE",
+   "Death02CUE",
+   "PreAttackLCue",
+   "ShotMCue",
+   "StandUpCUE"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "psina.gage-monster-hp": {
+  "sha256": "a9656bebbee502e6c677685e773bff729cb3f3b7edd16c2de587c1ba437ba846",
+  "objects": [
+   "GageMonsterHp"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "neowutran.s1ui-chat2": {
+  "sha256": "90896112ec05489869741e6d3fcbe71622eee1506997e4210eccb9e29693298d",
+  "objects": [
+   "Chat2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "saltymonkey.message-centered": {
+  "sha256": "2c7374aa6a50f06e8bf220ecd196b75a5959ebfb47dbac5f33eec86a2469de5a",
+  "objects": [
+   "Message"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "saltymonkey.overlaymap-fixed": {
+  "sha256": "a4b99fb4bf7b89b2f90b5f0e6bcb4d19ed6973a1911497a3848285d8d3cea2fd",
+  "objects": [
+   "OverlayMap2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "saltymonkey.gageboss-extended": {
+  "sha256": "57a52e52b664a0c61ae4dec3ad225578da06bddd750c4d3619c40a4568890cb8",
+  "objects": [
+   "GageBoss"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "teralove.partywindowraidinfo": {
+  "sha256": "b975e667fb95b124902ff01e4f2bda50628795682818b98f0bdde8a897206013",
+  "objects": [
+   "PartyWindowRaidInfo"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "teralove.targetinfo": {
+  "sha256": "b434658757d8e083c94d0363f6ac0da3dbddaa9735eb4e338c8c39154a213b1b",
+  "objects": [
+   "TargetInfo"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-community-window": {
+  "sha256": "3e0d8399a5dd10e57d4be5eab441882fdb7c0773382d98d7fcebfca349e9f2cf",
+  "objects": [
+   "CommunityWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-ep-window": {
+  "sha256": "e9d03f5704bd066d38decfef810729ca94a082ea68d84715bddec834391f66a2",
+  "objects": [
+   "EpWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-equipment-combine": {
+  "sha256": "654c5eb9f0158fb4b4079c9b0599ab9b17ecb34aa06a3045f53bbaddb41a92c6",
+  "objects": [
+   "EquipmentCombine"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-equipment-upgrade": {
+  "sha256": "a840787b036995dda8d6a9c06a15deb015bb3734e3ae717cde7361598194f52f",
+  "objects": [
+   "EquipmentUpgrade"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-guild-window": {
+  "sha256": "03237a841ab0e3fb4ee7e464abfca050f30162b97485baeec87751329e12ccd6",
+  "objects": [
+   "GuildWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-interaction-popup": {
+  "sha256": "9215a3e704b759ea7a71291fd2e9c95ecd256e7825184a37bb77968ed648ff48",
+  "objects": [
+   "InteractionPopup"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-inventory": {
+  "sha256": "8453810f64565cede3c07ab01387a478b1c4b1ef149c5ed26d1245282bec5c39",
+  "objects": [
+   "Inventory"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-minimap": {
+  "sha256": "1a066274d2bf0cbd3a1901502dad2725f0e061756bd88129a8292ed1052bb509",
+  "objects": [
+   "MiniMap"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-parcelpost": {
+  "sha256": "bc041ef40e37d349daa561d5f166a389fdeef682859328562760bb3c41ca80bb",
+  "objects": [
+   "ParcelPostLog"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-production-create": {
+  "sha256": "2c5ba8d679180c5efa0111e062f5b81eb8911403283d83eb504130003a9df5c7",
+  "objects": [
+   "ProductionCreatePopUp"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-production-list": {
+  "sha256": "1d34f8f1d43bf7f525e5d7538735853148292a3053130830a87e9cd403bc34f7",
+  "objects": [
+   "ProductionList"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-skill-window": {
+  "sha256": "8a75b9ebb2ec0b2169a483197c8730a1d30bdf4c6b3961f395fb922639212231",
+  "objects": [
+   "SkillWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-store-window": {
+  "sha256": "3c7ccfcc7d13aef645d1e125cb525b1ac9ad0c459341827dc9cb1f07bc0b9010",
+  "objects": [
+   "StoreWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-system-option": {
+  "sha256": "0996e38172d2de853fbccfc966ab24c3bb41af584828b49a072efea9301ba9fb",
+  "objects": [
+   "SystemOption"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-quickslot": {
+  "sha256": "e11aac37effeb2f9caf4ccf3abc295a02327f719eb4cfc8306b619543b8e4e26",
+  "objects": [
+   "TestQuickSlot"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-trade-popup": {
+  "sha256": "871e1adbc883df2789a45a4b1547f00bd0012e70466184b273189a83377b2831",
+  "objects": [
+   "TradePopup"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.restyle-warehouse": {
+  "sha256": "4a204cac290344f36c7554f15f2c1d2b4c0a731e2ec342da639f2fec36cf7273",
+  "objects": [
+   "WareHouseWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-jewels-fix-inventory": {
+  "sha256": "4bd1e1517453cec80e47b1c21578f5d4fc635de45b31f6c306f6fcb9dbc00217",
+  "objects": [
+   "Inventory"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-jewels-fix-icons": {
+  "sha256": "8827aae172c0617ae104d1eeaf1faa26e9b0324359db2cf46650b7a43ecee374",
+  "objects": [
+   "Icon_Items"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-bosswindow": {
+  "sha256": "49d22550d72698d96336d46e80b6a8f97cd860dba1ac8bae0d6953e0b25d43c7",
+  "objects": [
+   "GageBoss"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-targetinfo": {
+  "sha256": "1ea768263c38a9b8ad821f44af285fd84530a257718255f522965b34f23055be",
+  "objects": [
+   "TargetInfo"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-buffs": {
+  "sha256": "ea68bad2ceda083177d51bb415552d9814a1cb242f7d9d978fe6814bc57389e7",
+  "objects": [
+   "Abnormality"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-flight-gauge": {
+  "sha256": "fdc654be60ba16b23b68d96abee520ede2ddf17c6f006ea6e908e58a4a9e2fb4",
+  "objects": [
+   "ProgressBar"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-lfg-board": {
+  "sha256": "88fe7d85875e353c16dead239bab84707139c4cd36a1fe8241bddfdad44f058f",
+  "objects": [
+   "PartyBoard"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-lfg-member": {
+  "sha256": "50ad8bb29f6d0ab6b05ba211ce2d2c74008d383a48a800e9ace81e3985a887be",
+  "objects": [
+   "PartyBoardMemberInfo"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-party-window": {
+  "sha256": "e6c497ed09190956bcaf20326f0b3803c3e64fe2fc8d294bc26759d26696b1e9",
+  "objects": [
+   "PartyWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.ui-remover-raid-window": {
+  "sha256": "b34df800f4930b476a3e00b4cc861dcea4d4558fc81be5b3d6d04f61f2804964",
+  "objects": [
+   "PartyWindowRaidInfo"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.toolbox-gagebar-topscreen": {
+  "sha256": "5a19c2bc729f455f4fa3f3cc46a5b4c4f4ea9c6f83eb62653927022e15ad94c8",
+  "objects": [
+   "GageBar"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.badgui-loader": {
+  "sha256": "4e3c0f2192f65391f9c24975edb06554be920cd663bdbec0c3a7d4949ec9c5c6",
+  "objects": [
+   "UpdateNotification"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.s1ui-chat2-p75": {
+  "sha256": "0d01d744ae358c35e33bb8ea307224337634c0843259451a7c6cd51ea8784487",
+  "objects": [
+   "Chat2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "taorelia.restyle-community": {
+  "sha256": "82b7c739f09bb589e545479ec4a7ff1a4f72e036ae65760fd90333c28e840d8f",
+  "objects": [
+   "CommunityWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "taorelia.restyle-guild": {
+  "sha256": "4606ae5f731b9fdbd486dd6b2e601e61de8f81865ed405f7ad33f93363b6d74e",
+  "objects": [
+   "GuildWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "taorelia.restyle-inventory": {
+  "sha256": "56d3e430b6b1a860790015e933d22c89e748531300547a5959a33a18e25ba587",
+  "objects": [
+   "Inventory"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "taorelia.restyle-warehouse": {
+  "sha256": "f60eab87bd24483b34226e10e1bfd0a175f748eb56c7df1435aef59cae97b96d",
+  "objects": [
+   "WareHouseWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "taorelia.restyle-interaction-popup": {
+  "sha256": "a5ae0fa1a757099a2b2fbe04b7b0c3cb27b669b974bc4049d6d996adf2cc5bcb",
+  "objects": [
+   "InteractionPopup"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "taorelia.restyle-production-create": {
+  "sha256": "fa28a0085c950d860064f5063192f23c86caaff0d1cb447b0cf0d4a15d178c6e",
+  "objects": [
+   "ProductionCreatePopUp"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-postprocess": {
+  "sha256": "a58dfbabaab8a0abf718a9f9253703d15f379a9ad9323ca2643243e790e086da",
+  "objects": [
+   "PostProcess"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-enchant": {
+  "sha256": "288515a45d4b35722c5dd1ce0ed101a93b3a10aa14574c2261ce475834182885",
+  "objects": [
+   "FX_Enchant"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-awaken-archer": {
+  "sha256": "1a76a20d6e0ccf2520a07d9777f799bc4170f6f341877c16cc031e2fb384160f",
+  "objects": [
+   "FX_Awaken_Archer"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-awaken-berserker": {
+  "sha256": "9c64dd351ef52e924dd59daca47ee7667aa3ee59873471806f2db3ff1e33ee06",
+  "objects": [
+   "FX_Awaken_Berserker"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-awaken-sorcerer": {
+  "sha256": "7333152746c3245baf3901bfc5f50c7deb1fbf4e99a73689fa5e8bc5ea268525",
+  "objects": [
+   "FX_Awaken_Sorcerer"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-awaken-priest": {
+  "sha256": "0c464fb81bf1adc8ad93034cd746413933afb43f4e9919248b925ef31d2de3ea",
+  "objects": [
+   "FX_Awaken_Priest"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-awaken-lancer": {
+  "sha256": "00913637a862f7f0583440e1d825340f18052b3d0198240f7fa8cdacf2106048",
+  "objects": [
+   "FX_Awaken_Lancer"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-awaken-slayer": {
+  "sha256": "c676cfc69dc564d1acb3efbea8aadb0a0b5bcc69959b2317f52c7ab3e6a549a6",
+  "objects": [
+   "FX_Awaken_Slayer"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "owyn.fps-pack-fx-awaken-warrior": {
+  "sha256": "404c6e75c82d5ba133f1e6423545a88e05328187194e0fe5303e32c4c4a6f901",
+  "objects": [
+   "FX_Awaken_Warrior"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "catannadev.pink-crosshair": {
+  "sha256": "7b65fb3f4df901d543e01e64bb4f2c283e6771d2ecd1c40c4b32b19804bd90b4",
+  "objects": [
+   "Crosshair_I5"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "catannadev.red-crosshair": {
+  "sha256": "704a271124eb44949c81615aed89070353d4deaa9d6dd30b0fe15d2ebd5fb1e3",
+  "objects": [
+   "Crosshair_I5"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "catannadev.pink-loading-progress": {
+  "sha256": "f3568241b8de95d8a3b9bc6b645cbd7306f075533bfdabcd531790e57d42cb2c",
+  "objects": [
+   "LoadingProgress_I1"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "catannadev.red-loading-progress": {
+  "sha256": "c50d5422744e46618e866da978bae3c2f920d505549e4edcf42de23bdf9997a5",
+  "objects": [
+   "LoadingProgress_I1"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "teralove.remove-artisan-icons": {
+  "sha256": "80e86a69e192e629fd669cf97c6e1cd2dea20bd3f3769d17bd804af4ef7774f1",
+  "objects": [
+   "Icon_System"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "merusira.atlas-clean-onscreen-messages": {
+  "sha256": "7258b146ab918bcd22ecd437cced940b710193d4ca4716bd950ea280c0deec48",
+  "objects": [
+   "Message"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "taylorswiftmodding.bunny-coco": {
+  "sha256": "5102985f1a9df21f54ee7364902b73561b2163f24481e45f96fcc7e754b97eca",
+  "objects": [
+   "Partner_C_CoCo_Event01_Skel"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.cute-crafter-icons": {
+  "sha256": "d3ec8ca0e6b502491f11d502fa6136f517a9535dc529f12cc6dee2c53132e2b1",
+  "objects": [
+   "Icon_System"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.hana-reward-tier": {
+  "sha256": "c32a4245945b91e91a3d62926fb5c837fad8dc4e5811b85ae633333e2d5b0686",
+  "objects": [
+   "Benefit"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-boss-hp-bar": {
+  "sha256": "350670a79efe4ca54e50d9ed0e2ea07999cb6236762cdec3d835f4cabab37b22",
+  "objects": [
+   "GageBoss"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-chat-window": {
+  "sha256": "c9be18abcdbff9dbd3f78e14ff1142d8225d18edfcfd32d5c91c621b5c746111",
+  "objects": [
+   "Chat2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-controller-ui": {
+  "sha256": "c107b21a252a7f7990fa907fe097cc1eff34342ec0396521b547fb7ed72a7296",
+  "objects": [
+   "GameControllerShortCut"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-hearts-crosshair": {
+  "sha256": "1edf80e8a13e0111c72827e030608b5fd23bbfc750393387da6c8769e1be9f72",
+  "objects": [
+   "Crosshair_I5",
+   "normalBg"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-party-member-hp-bar": {
+  "sha256": "97b2a51d1fd93264e8b0f76218660535fce9aae652860f562549ac4666045b1d",
+  "objects": [
+   "GageMonsterHp"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-skill-slots-main": {
+  "sha256": "039a430b20d6cd14b710374d0da42bb73bff6e08367a1d88de9d226abd22d076",
+  "objects": [
+   "TestQuickSlot"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-skill-slots-ex": {
+  "sha256": "0121fc2bfde65025e819944fc45d5bc0a55e5599a59106390bebaad1dc073696",
+  "objects": [
+   "TestQuickSlotEx"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-skill-slots-ex2": {
+  "sha256": "f6cae257e971c64b949e0b33cab19dfbdb37665c48403f8f8d2e24142edeecac",
+  "objects": [
+   "TestQuickSlotEx2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.static-heart-crosshair": {
+  "sha256": "416c08ac51da04cc9394c1007706b95acdf013f95c9ea76e33f1a57d8ce7f894",
+  "objects": [
+   "Crosshair_I5",
+   "normalBg"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.yunicorn-defense-pop-up": {
+  "sha256": "aa394a634ff31eebae4968aae14a1b988d9a8b6b7f90013c8a4b4ec9d7463040",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-fishing-float": {
+  "sha256": "eb3ceaaca84419b5f5fbc40a17855623c1db8a61f8eb65f5b4292efc58223a75",
+  "objects": [
+   "Fishing_Float_Skel"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.pink-royal-diamond-dragon-mount": {
+  "sha256": "9093245af18117f92c556e6fb667692568bb93c42a10403f473d8a79f6d51a4f",
+  "objects": [
+   "Vehicle_Dragon"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-community-window": {
+  "sha256": "82b7c739f09bb589e545479ec4a7ff1a4f72e036ae65760fd90333c28e840d8f",
+  "objects": [
+   "CommunityWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-ep-window": {
+  "sha256": "432acd27aa22ad050b00408e16d3ae9a5e0eb858c2864a3744d0a6c1035a1713",
+  "objects": [
+   "EpWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-equipment-combine": {
+  "sha256": "654c5eb9f0158fb4b4079c9b0599ab9b17ecb34aa06a3045f53bbaddb41a92c6",
+  "objects": [
+   "EquipmentCombine"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-equipment-upgrade": {
+  "sha256": "a840787b036995dda8d6a9c06a15deb015bb3734e3ae717cde7361598194f52f",
+  "objects": [
+   "EquipmentUpgrade"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-guild-window": {
+  "sha256": "03237a841ab0e3fb4ee7e464abfca050f30162b97485baeec87751329e12ccd6",
+  "objects": [
+   "GuildWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-interaction-popup": {
+  "sha256": "a5ae0fa1a757099a2b2fbe04b7b0c3cb27b669b974bc4049d6d996adf2cc5bcb",
+  "objects": [
+   "InteractionPopup"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-minimap": {
+  "sha256": "5716b31991f3716d60310094ace21851857bf14f7612d66c3f3ea4abce47949e",
+  "objects": [
+   "MiniMap"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-parcel-post-log": {
+  "sha256": "d4455afce8aa200f374c9d759fbb9ba3ca656db542794636d6afe9803e020a2b",
+  "objects": [
+   "ParcelPostLog"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-production-create": {
+  "sha256": "70d69df7b45bcee347522f8e13707bb00ab57e248768812b12dd8b03bafb0e8b",
+  "objects": [
+   "ProductionCreatePopUp"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-production-list": {
+  "sha256": "1d34f8f1d43bf7f525e5d7538735853148292a3053130830a87e9cd403bc34f7",
+  "objects": [
+   "ProductionList"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-store-window": {
+  "sha256": "3c7ccfcc7d13aef645d1e125cb525b1ac9ad0c459341827dc9cb1f07bc0b9010",
+  "objects": [
+   "StoreWindow"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-system-option": {
+  "sha256": "bf98fcfdd9eaabf4ce5be0140b0bb08e2e43cb4281ba930854cda57610504ce2",
+  "objects": [
+   "SystemOption"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "foglio1024.modern-ui-trade-popup": {
+  "sha256": "871e1adbc883df2789a45a4b1547f00bd0012e70466184b273189a83377b2831",
+  "objects": [
+   "TradePopup"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "saltymonkey.instant-join-tba-mode": {
+  "sha256": "ebd96e4d899a9a983c0ab4174450271dd2459024bcf151b0f72755fadafc58dd",
+  "objects": [
+   "GameModeSelectScene"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.sugar-witch-works-on-loorumi": {
+  "sha256": "",
+  "objects": [
+   "Partner_A_Rumi_F_Event01_skel"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "igeluu.awaken-gunner-skill-voice-mod-i-applied": {
+  "sha256": "1f3ec25924953350753a44e2b79996219227c0e4c1aa24c347af7bfac25d1911",
+  "objects": [
+   "PC_Skill_00"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.battle-bunny-for-gunner-awakened": {
+  "sha256": "",
+  "objects": [
+   "Awaken_Booster_Skel"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "timeless.woods-cat-hair-tie-recolor-changes": {
+  "sha256": "a98ef58328536564e1705bfea6b19123f9fcb3e544bdbf88add7b7d56fed8208",
+  "objects": [
+   "popori_F_Head_E"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "watmod.this-mod-was-inspired": {
+  "sha256": "",
+  "objects": [
+   "Popori_F_ANI",
+   "Popori_F_Face_ANI",
+   "Popori_F_Hair_ANI",
+   "Popori_F_Tail_ANI"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "timeless.woods-vampira-another-mod-for": {
+  "sha256": "",
+  "objects": [
+   "Castanic_F_Hair07_E_Skel",
+   "Castanic_F_Hair07_Skel",
+   "Castanic_F_Hair11B_MI",
+   "Castanic_F_Hair11B_Skel",
+   "Castanic_F_Hair11_MI",
+   "Castanic_F_Hair11_Skel",
+   "Castanic_F_hair07_MI",
+   "Switch_Castanic_F_Hair07_255"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "honestlylovingbunny.ui-perfect-block-icon-for": {
+  "sha256": "08213a1f1202c6b47866d8b7f99dc31ed18e941f7af8a1df5b2f05b8894cd4b4",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2",
+   "Message_I1E7",
+   "Message_I200",
+   "Message_I207"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "nyanko.block-onigiri-cat": {
+  "sha256": "2043f1d37b79c4f6420d071c797a2f6363995e29f4746004ee2fbdbff8bd54e1",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "nyanko.block-onigiri-cat-2": {
+  "sha256": "0fb43a365efd2431298f53df4700a4596d6086361b7d516823d3a113ed74d2d3",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "nyanko.block-kuromi": {
+  "sha256": "8b17fe1b7731bc58123a858d0eafcaf585176503c9ecf9e76148c897c58bfab3",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "nyanko.block-sketch-girl": {
+  "sha256": "482be3f0b929ed01e1228748a661328e43465aca882ef10ca62ec21917f354b8",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "nyanko.block-dark-sketch": {
+  "sha256": "6fe5dff986bb823461a66ca31d378674bf17ddc845738f74162ccff4e47a34f7",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "moonshi.block-gachi": {
+  "sha256": "6e699cd6f91ff9f9767efd5ed58af96a2946de3cb097577f4f4b556243f89b49",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "luke.block-sad-pepe": {
+  "sha256": "127c777103b8373c186c6001c4d45d13b570f9fdb3c7a6cb2db5c59b134bc95c",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "moonshi.block-ricardo-milos": {
+  "sha256": "66cba81517ad5c47f324b48326e10b2097875cf1a7f8341bfadd78ba81632a21",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "aunu.block-moon": {
+  "sha256": "11adc02b5b1d32385910f610580c9a41f0f5d7d693122e45efda4ba6a12b892d",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "aunu.block-strawberry": {
+  "sha256": "08213a1f1202c6b47866d8b7f99dc31ed18e941f7af8a1df5b2f05b8894cd4b4",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "aunu.block-cat-peach": {
+  "sha256": "b6dcf2147630130fea1526e58ba15e289d6b7baf2d0b7905d2fa87df06934ad0",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "artexlib.block-gigachad": {
+  "sha256": "35994dcf0ae8d779b2936bfde1aa4dc604922034c5417eacb1aa9ddab959ead7",
+  "objects": [
+   "Message_I1CF",
+   "Message_I1D2"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "nyanko.counter-kaneki": {
+  "sha256": "1afb807cddef04c9b4517d6fd36c68b65826cdd177c2c330fec5797c73fff056",
+  "objects": [
+   "Message_I1EE",
+   "Message_I1F1"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "nyanko.counter-cat": {
+  "sha256": "9b4f15e13757fa6069d2b0ac776dafd7064786f072a8c2b7442be4a2ae0e2ed2",
+  "objects": [
+   "Message_I1EE",
+   "Message_I1F1"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.simplicity-ui": {
+  "sha256": "1fe2f9ae23a851c4416b9f0e4bd42e12a9dbfc7eb0883114bb7448be9accadab",
+  "objects": [
+   "CharacterWindow_I174",
+   "CharacterWindow_I177",
+   "CharacterWindow_I19B"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "pantypon.simplicity-2-pastel": {
+  "sha256": "a41f8e26370fde57e41eb5f01cd1a8972e7c3516ecbe0534586966a9026c145f",
+  "objects": [
+   "CharacterWindow_I105",
+   "CharacterWindow_I114",
+   "CharacterWindow_I13E",
+   "CharacterWindow_I149",
+   "CharacterWindow_I14D",
+   "CharacterWindow_I151",
+   "CharacterWindow_I155",
+   "CharacterWindow_I159",
+   "CharacterWindow_I15B",
+   "CharacterWindow_I15D",
+   "CharacterWindow_I15F",
+   "CharacterWindow_I174",
+   "CharacterWindow_I177",
+   "CharacterWindow_I19B"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "aioshe.loading-bar-recolor": {
+  "sha256": "f54eb26143b897ebc2263de8780e714a8954635dd1ccaf3357ce69260847eb9c",
+  "objects": [
+   "LoadingProgress_I1"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "aioshe.steam-powered-recolor": {
+  "sha256": "fcecef9f1432e6f115f4f3f1928fd25c245ff836dddaf9744e5b6276c943a46e",
+  "objects": [
+   "Axe05_diff",
+   "Bow05_diff",
+   "Circle05_diff",
+   "Dual05_diff",
+   "Lance05_diff",
+   "Rod05_diff",
+   "Staff05_diff",
+   "TwoHand05_diff"
+  ],
+  "why": "tfc_patch part name, confirmed against the live mapper"
+ },
+ "pantypon.sherbert-days": {
+  "sha256": "d90c9f3e76740c2361fe918f426208cd1275ceb5a42c214680a7b2657279d040",
+  "objects": [
+   "Staff04_diff"
+  ],
+  "why": "tfc_patch part name, confirmed against the live mapper"
+ },
+ "pantypon.mystic-wand-pink": {
+  "sha256": "7a3a88d637a7bc7eed804d517f531884acf7be5ce7accc3308eb8353136974f8",
+  "objects": [
+   "Event_Wit_Rod_01_diff"
+  ],
+  "why": "tfc_patch part name, confirmed against the live mapper"
+ },
+ "kourinn.shadowlaced-mooncloak-weapons": {
+  "sha256": "76b328d8b8c4297bf96323e7b9068a10329269b65b53f0321bca554fe44f489b",
+  "objects": [
+   "PC_Weapons_13.Mat.Bow13_MI",
+   "PC_Weapons_13.Mat.Circle13_MI",
+   "PC_Weapons_13.SM.Bow13_SM",
+   "PC_Weapons_13.SM.Circle13_SM",
+   "PC_Weapons_3.SM.13.Axe13_SM",
+   "PC_Weapons_Event13.Mat.Lance13_MI",
+   "PC_Weapons_Event13.Mat.Lance13_Rare_MI",
+   "PC_Weapons_Event13.SM.Lance13_Rare_SM",
+   "PC_Weapons_Event13.SM.Lance13_SM",
+   "PC_Weapons_Event13.SM.Unarmed_Lance13_Rare_SM",
+   "PC_Weapons_Event13.SM.Unarmed_Lance13_SM"
+  ]
+ },
+ "kourinn.elena-elite-steward-swimsuit": {
+  "sha256": "0c2d49112249fbbd6b83040848e2fe4351e19a5de6d2a5acc08c28f88afd3d7c",
+  "objects": [
+   "Human_F_Aide.Mat.Human_F_Aide_MI",
+   "Human_F_Aide.Skel.Human_F_Aide_Skel"
+  ]
+ },
+ "amynet.blue-horn-glow": {
+  "sha256": "3a349ad35852b62f4020b94c746b9cb0d0b484dd9983131f11841cd304424a07",
+  "objects": [
+   "Acc_178.Skel.Attach_178_Skel"
+  ]
+ },
+ "amynet.iceglow-staff": {
+  "sha256": "20bc5fb0882096c7c78d695cc0c0b24349cb33521dcf6efec1de835b89cc3157",
+  "objects": [
+   "PC_Weapons_03.SM.Aman_M_Soldier_Dual03_SM",
+   "PC_Weapons_03.SM.HighElf_F_Soldier_Dual03_SM",
+   "PC_Weapons_03.SM.Human_F_Soldier_Dual03_SM",
+   "PC_Weapons_03.SM.Human_M_Soldier_Dual03_SM",
+   "PC_Weapons_03.SM.R_Dual03_SM",
+   "PC_Weapons_Event03.Mat.Bow03_ClearBlue_MI",
+   "PC_Weapons_Event03.Mat.Bow03_MI",
+   "PC_Weapons_Event03.Mat.Circle03_ClearBlue_MI",
+   "PC_Weapons_Event03.Mat.Circle03_MI",
+   "PC_Weapons_Event03.Mat.Rod03_ClearBlue_MI",
+   "PC_Weapons_Event03.Mat.Rod03_MI",
+   "PC_Weapons_Event03.Mat.Staff03_MI",
+   "PC_Weapons_Event03.SM.Bow03_SM",
+   "PC_Weapons_Event03.SM.Circle03_SM",
+   "PC_Weapons_Event03.SM.Rod03_SM",
+   "PC_Weapons_Event03.SM.Unarmed_Bow03_SM"
+  ]
+ },
+ "amynet.steam-weapons": {
+  "sha256": "",
+  "objects": [
+   "Axe05_MI",
+   "Axe05_RARE_MI",
+   "Axe05_RARE_SM",
+   "Axe05_SM",
+   "Bow05_MI",
+   "Bow05_RARE_SM",
+   "Circle05_MI",
+   "Dual05_L_RARE_SM",
+   "Dual05_L_SM",
+   "Dual05_MI",
+   "Dual05_R_RARE_SM",
+   "Dual05_R_SM",
+   "Lance05_MI",
+   "Lance05_RARE_SM",
+   "Rod05_MI",
+   "Rod05_RARE_MI",
+   "Rod05_RARE_SM",
+   "Rod05_SM",
+   "Shield05_RARE_SM",
+   "Staff05_MI",
+   "Staff05_RARE_MI",
+   "Staff05_SM",
+   "TwoHand05_MI",
+   "TwoHand05_RARE_MI",
+   "TwoHand05_RARE_SM",
+   "TwoHand05_SM",
+   "Unarmed_Axe05_RARE_SM",
+   "Unarmed_Axe05_SM",
+   "Unarmed_Bow05_RARE_SM",
+   "Unarmed_Bow05_SM",
+   "Unarmed_Dual05_L_RARE_SM",
+   "Unarmed_Dual05_R_SM",
+   "Unarmed_Lance05_Aman_SM",
+   "Unarmed_Lance05_RARE_SM",
+   "Unarmed_Shield05_SM",
+   "Unarmed_TwoHand05_RARE_SM",
+   "Unarmed_TwoHand05_SM"
+  ],
+  "why": "the entry's own declared deploy target"
+ },
+ "kourinn.elleon-moon-weapons": {
+  "sha256": "35308bb8f1b20792f584e2db4137b1de2ea8ec53e3821e0e62125e6b6b5071e6",
+  "objects": [
+   "PC_Weapons_21.SM.Axe17_Rare_A_SM",
+   "PC_Weapons_21.SM.Axe17_SM",
+   "PC_Weapons_21.SM.Axe21_SM",
+   "PC_Weapons_21.SM.Blaster17_Rare_A_SM",
+   "PC_Weapons_21.SM.Blaster17_Rare_B_SM",
+   "PC_Weapons_21.SM.Blaster17_SM",
+   "PC_Weapons_21.SM.Bow17_Rare_A_SM",
+   "PC_Weapons_21.SM.Bow17_SM",
+   "PC_Weapons_21.SM.Bow21_SM",
+   "PC_Weapons_21.SM.Circle17_Rare_A_SM",
+   "PC_Weapons_21.SM.Circle17_SM",
+   "PC_Weapons_21.SM.Circle21_SM",
+   "PC_Weapons_21.SM.Gauntlet17_L_Rare_A_SM",
+   "PC_Weapons_21.SM.Gauntlet17_L_Rare_B_SM",
+   "PC_Weapons_21.SM.Gauntlet17_L_SM",
+   "PC_Weapons_21.SM.Gauntlet17_R_Rare_A_SM",
+   "PC_Weapons_21.SM.Gauntlet17_R_Rare_B_SM",
+   "PC_Weapons_21.SM.Gauntlet17_R_SM",
+   "PC_Weapons_21.SM.L_Dual17_Rare_A_SM",
+   "PC_Weapons_21.SM.L_Dual17_SM",
+   "PC_Weapons_21.SM.L_Dual21_SM",
+   "PC_Weapons_21.SM.Lance17_Rare_A_SM",
+   "PC_Weapons_21.SM.Lance17_SM",
+   "PC_Weapons_21.SM.Lance21_SM",
+   "PC_Weapons_21.SM.R_Dual17_Rare_A_SM",
+   "PC_Weapons_21.SM.R_Dual17_SM",
+   "PC_Weapons_21.SM.R_Dual21_SM",
+   "PC_Weapons_21.SM.Rod17_Rare_A_SM",
+   "PC_Weapons_21.SM.Rod17_SM",
+   "PC_Weapons_21.SM.Rod21_SM",
+   "PC_Weapons_21.SM.Shield17_Rare_A_SM",
+   "PC_Weapons_21.SM.Shield17_Rare_SM",
+   "PC_Weapons_21.SM.Shield17_SM",
+   "PC_Weapons_21.SM.Shield21_SM",
+   "PC_Weapons_21.SM.Staff17_Rare_A_SM",
+   "PC_Weapons_21.SM.Staff17_SM",
+   "PC_Weapons_21.SM.Staff21_SM",
+   "PC_Weapons_21.SM.TwoHand17_SM",
+   "PC_Weapons_21.SM.Twohand17_Rare_A_SM",
+   "PC_Weapons_21.SM.Twohand21_SM",
+   "PC_Weapons_21.SM.Unarmed_Axe17_Rare_A_SM",
+   "PC_Weapons_21.SM.Unarmed_Axe17_SM",
+   "PC_Weapons_21.SM.Unarmed_Axe21_SM",
+   "PC_Weapons_21.SM.Unarmed_Blaster17_Rare_A_SM",
+   "PC_Weapons_21.SM.Unarmed_Blaster17_Rare_B_SM",
+   "PC_Weapons_21.SM.Unarmed_Blaster17_SM",
+   "PC_Weapons_21.SM.Unarmed_Bow17_Rare_A_SM",
+   "PC_Weapons_21.SM.Unarmed_Bow17_SM",
+   "PC_Weapons_21.SM.Unarmed_Bow21_SM",
+   "PC_Weapons_21.SM.Unarmed_Lance17_Rare_A_SM",
+   "PC_Weapons_21.SM.Unarmed_Lance17_SM",
+   "PC_Weapons_21.SM.Unarmed_Lance21_SM",
+   "PC_Weapons_21.SM.Unarmed_Rod17_Rare_A_SM",
+   "PC_Weapons_21.SM.Unarmed_Rod17_SM",
+   "PC_Weapons_21.SM.Unarmed_Rod21_SM",
+   "PC_Weapons_21.SM.Unarmed_Shield21_SM",
+   "PC_Weapons_21.SM.Unarmed_TwoHand17_Rare_A_SM",
+   "PC_Weapons_21.SM.Unarmed_TwoHand17_SM",
+   "PC_Weapons_21.SM.Unarmed_TwoHand21_SM",
+   "PC_Weapons_21.SM.shuriken17_Rare_A_SM",
+   "PC_Weapons_21.SM.shuriken17_Rare_B_SM",
+   "PC_Weapons_21.SM.shuriken17_SM"
+  ],
+  "why": "the transformed payload's own StaticMesh export list"
+ },
+ "kourinn.elleon-sun-weapons": {
+  "sha256": "2e4538bb4dc991e06fdd4ce2bcd66b708b2d7ac3d7bff671ba389b80684ebdb7",
+  "objects": [
+   "PC_Weapons_21.SM.Axe17_Rare_B_SM",
+   "PC_Weapons_21.SM.Axe17_SM",
+   "PC_Weapons_21.SM.Axe21_SM",
+   "PC_Weapons_21.SM.Blaster17_Rare_B_SM",
+   "PC_Weapons_21.SM.Blaster17_SM",
+   "PC_Weapons_21.SM.Blaster21_SM",
+   "PC_Weapons_21.SM.Bow17_Rare_B_SM",
+   "PC_Weapons_21.SM.Bow17_SM",
+   "PC_Weapons_21.SM.Bow21_SM",
+   "PC_Weapons_21.SM.Circle17_Rare_B_SM",
+   "PC_Weapons_21.SM.Circle17_SM",
+   "PC_Weapons_21.SM.Circle21_SM",
+   "PC_Weapons_21.SM.Gauntlet17_L_Rare_A_SM",
+   "PC_Weapons_21.SM.Gauntlet17_L_Rare_B_SM",
+   "PC_Weapons_21.SM.Gauntlet17_L_SM",
+   "PC_Weapons_21.SM.Gauntlet17_R_Rare_A_SM",
+   "PC_Weapons_21.SM.Gauntlet17_R_Rare_B_SM",
+   "PC_Weapons_21.SM.Gauntlet17_R_SM",
+   "PC_Weapons_21.SM.L_Dual17_Rare_B_SM",
+   "PC_Weapons_21.SM.L_Dual17_SM",
+   "PC_Weapons_21.SM.L_Dual21_SM",
+   "PC_Weapons_21.SM.Lance17_Rare_B_SM",
+   "PC_Weapons_21.SM.Lance17_SM",
+   "PC_Weapons_21.SM.Lance21_SM",
+   "PC_Weapons_21.SM.R_Dual17_Rare_B_SM",
+   "PC_Weapons_21.SM.R_Dual17_SM",
+   "PC_Weapons_21.SM.R_Dual21_SM",
+   "PC_Weapons_21.SM.Rod17_Rare_B_SM",
+   "PC_Weapons_21.SM.Rod17_SM",
+   "PC_Weapons_21.SM.Rod21_SM",
+   "PC_Weapons_21.SM.Shield17_Rare_B_SM",
+   "PC_Weapons_21.SM.Shield17_Rare_SM",
+   "PC_Weapons_21.SM.Shield17_SM",
+   "PC_Weapons_21.SM.Shield21_SM",
+   "PC_Weapons_21.SM.Staff17_Rare_B_SM",
+   "PC_Weapons_21.SM.Staff17_SM",
+   "PC_Weapons_21.SM.Staff21_SM",
+   "PC_Weapons_21.SM.TwoHand17_SM",
+   "PC_Weapons_21.SM.Twohand17_Rare_B_SM",
+   "PC_Weapons_21.SM.Twohand21_SM",
+   "PC_Weapons_21.SM.Unarmed_Axe17_Rare_B_SM",
+   "PC_Weapons_21.SM.Unarmed_Axe17_SM",
+   "PC_Weapons_21.SM.Unarmed_Axe21_SM",
+   "PC_Weapons_21.SM.Unarmed_Blaster17_Rare_B_SM",
+   "PC_Weapons_21.SM.Unarmed_Blaster17_SM",
+   "PC_Weapons_21.SM.Unarmed_Blaster21_SM",
+   "PC_Weapons_21.SM.Unarmed_Bow17_Rare_B_SM",
+   "PC_Weapons_21.SM.Unarmed_Bow17_SM",
+   "PC_Weapons_21.SM.Unarmed_Bow21_SM",
+   "PC_Weapons_21.SM.Unarmed_Lance17_Rare_B_SM",
+   "PC_Weapons_21.SM.Unarmed_Lance17_SM",
+   "PC_Weapons_21.SM.Unarmed_Lance21_SM",
+   "PC_Weapons_21.SM.Unarmed_Rod17_Rare_B_SM",
+   "PC_Weapons_21.SM.Unarmed_Rod17_SM",
+   "PC_Weapons_21.SM.Unarmed_Rod21_SM",
+   "PC_Weapons_21.SM.Unarmed_Shield21_SM",
+   "PC_Weapons_21.SM.Unarmed_TwoHand17_Rare_B_SM",
+   "PC_Weapons_21.SM.Unarmed_TwoHand17_SM",
+   "PC_Weapons_21.SM.Unarmed_TwoHand21_SM",
+   "PC_Weapons_21.SM.shuriken17_Rare_B_SM",
+   "PC_Weapons_21.SM.shuriken17_SM",
+   "PC_Weapons_21.SM.shuriken21_SM"
+  ],
+  "why": "the transformed payload's own StaticMesh export list"
+ },
+ "unknown.guardian-argo-wolf": {
+  "sha256": "",
+  "objects": [
+   "GuardianSpirit_1.GuardianSpirit_1_skel",
+   "GuardianSpirit_1.MorphedArcaneHunter_Rage_Mask",
+   "GuardianSpirit_1.MorphedArcaneHunter_diff",
+   "GuardianSpirit_1.MorphedArcaneHunter_emis",
+   "GuardianSpirit_1.MorphedArcaneHunter_norm",
+   "GuardianSpirit_1.MorphedArcaneHunter_spec",
+   "GuardianSpirit_2.GuardianSpirit_2_skel",
+   "GuardianSpirit_2.MorphedArcaneHunter_Rage_Mask",
+   "GuardianSpirit_2.MorphedArcaneHunter_diff",
+   "GuardianSpirit_2.MorphedArcaneHunter_emis",
+   "GuardianSpirit_2.MorphedArcaneHunter_norm",
+   "GuardianSpirit_2.MorphedArcaneHunter_spec",
+   "GuardianSpirit_ANI.GuardianSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.guardian-new-year": {
+  "sha256": "",
+  "objects": [
+   "GuardianSpirit_1.Enchanteddoll_ev_Rage",
+   "GuardianSpirit_1.Enchanteddoll_ev_diff",
+   "GuardianSpirit_1.Enchanteddoll_ev_emis",
+   "GuardianSpirit_1.Enchanteddoll_ev_norm",
+   "GuardianSpirit_1.Enchanteddoll_ev_spec",
+   "GuardianSpirit_1.GuardianSpirit_1_skel",
+   "GuardianSpirit_1.Information_Bugle_Skel",
+   "GuardianSpirit_1.Information_Bugle_diff",
+   "GuardianSpirit_1.Information_Bugle_mask",
+   "GuardianSpirit_1.Information_Bugle_norm",
+   "GuardianSpirit_1.Information_Bugle_spec",
+   "GuardianSpirit_1.Store_Stick_Skel",
+   "GuardianSpirit_1.Store_Stick_diff",
+   "GuardianSpirit_1.Store_Stick_mask",
+   "GuardianSpirit_1.Store_Stick_norm",
+   "GuardianSpirit_1.Store_Stick_spec",
+   "GuardianSpirit_2.Enchanteddoll_ev_Rage",
+   "GuardianSpirit_2.Enchanteddoll_ev_diff",
+   "GuardianSpirit_2.Enchanteddoll_ev_emis",
+   "GuardianSpirit_2.Enchanteddoll_ev_norm",
+   "GuardianSpirit_2.Enchanteddoll_ev_spec",
+   "GuardianSpirit_2.GuardianSpirit_2_skel",
+   "GuardianSpirit_2.Information_Bugle_Skel",
+   "GuardianSpirit_2.Information_Bugle_diff",
+   "GuardianSpirit_2.Information_Bugle_mask",
+   "GuardianSpirit_2.Information_Bugle_norm",
+   "GuardianSpirit_2.Information_Bugle_spec",
+   "GuardianSpirit_2.Store_Stick_Skel",
+   "GuardianSpirit_2.Store_Stick_diff",
+   "GuardianSpirit_2.Store_Stick_mask",
+   "GuardianSpirit_2.Store_Stick_norm",
+   "GuardianSpirit_2.Store_Stick_spec",
+   "GuardianSpirit_ANI.GuardianSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.guardian-elin": {
+  "sha256": "",
+  "objects": [
+   "GuardianSpirit_1.AbominationElin_Mask",
+   "GuardianSpirit_1.AbominationElin_Rage",
+   "GuardianSpirit_1.AbominationElin_diff",
+   "GuardianSpirit_1.AbominationElin_emis",
+   "GuardianSpirit_1.AbominationElin_norm",
+   "GuardianSpirit_1.AbominationElin_spec",
+   "GuardianSpirit_1.GuardianSpirit_1_skel",
+   "GuardianSpirit_2.AbominationElin_Mask",
+   "GuardianSpirit_2.AbominationElin_Rage",
+   "GuardianSpirit_2.AbominationElin_diff",
+   "GuardianSpirit_2.AbominationElin_emis",
+   "GuardianSpirit_2.AbominationElin_norm",
+   "GuardianSpirit_2.AbominationElin_spec",
+   "GuardianSpirit_2.GuardianSpirit_2_skel",
+   "GuardianSpirit_ANI.GuardianSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.guardian-sandra-thrall": {
+  "sha256": "",
+  "objects": [
+   "GuardianSpirit_1.GuardianSpirit_1_Skel",
+   "GuardianSpirit_1.GuardianSpirit_diff",
+   "GuardianSpirit_1.GuardianSpirit_emis",
+   "GuardianSpirit_1.GuardianSpirit_norm",
+   "GuardianSpirit_1.GuardianSpirit_rage",
+   "GuardianSpirit_1.GuardianSpirit_spec",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia01_diff",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia01_emis",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia01_norm",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia01_rage",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia01_spec",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia02_diff",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia02_emis",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia02_norm",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia02_rage",
+   "GuardianSpirit_1.SeparateMonsterOfSandramanaia02_spec",
+   "GuardianSpirit_2.GuardianSpirit_2_Skel",
+   "GuardianSpirit_2.GuardianSpirit_diff",
+   "GuardianSpirit_2.GuardianSpirit_emis",
+   "GuardianSpirit_2.GuardianSpirit_norm",
+   "GuardianSpirit_2.GuardianSpirit_rage",
+   "GuardianSpirit_2.GuardianSpirit_spec",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia01_diff",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia01_emis",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia01_norm",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia01_rage",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia01_spec",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia02_diff",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia02_emis",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia02_norm",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia02_rage",
+   "GuardianSpirit_2.SeparateMonsterOfSandramanaia02_spec",
+   "GuardianSpirit_ANI.GuardianSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.guardian-kr-original": {
+  "sha256": "",
+  "objects": [
+   "GuardianSpirit_1.GuardianSpirit_1_skel",
+   "GuardianSpirit_1.Summoned_Defender01_diff",
+   "GuardianSpirit_1.Summoned_Defender01_norm",
+   "GuardianSpirit_1.Summoned_Defender01_spec",
+   "GuardianSpirit_1.Summoned_Defender_diff",
+   "GuardianSpirit_1.Summoned_Defender_norm",
+   "GuardianSpirit_1.Summoned_Defender_spec",
+   "GuardianSpirit_1.Summoned_Defender_w_diff",
+   "GuardianSpirit_1.Summoned_Defender_w_norm",
+   "GuardianSpirit_1.Summoned_Defender_w_spec",
+   "GuardianSpirit_2.GuardianSpirit_2_skel",
+   "GuardianSpirit_2.Summoned_Defender01_diff",
+   "GuardianSpirit_2.Summoned_Defender01_norm",
+   "GuardianSpirit_2.Summoned_Defender01_spec",
+   "GuardianSpirit_2.Summoned_Defender_diff",
+   "GuardianSpirit_2.Summoned_Defender_norm",
+   "GuardianSpirit_2.Summoned_Defender_spec",
+   "GuardianSpirit_2.Summoned_Defender_w_diff",
+   "GuardianSpirit_2.Summoned_Defender_w_norm",
+   "GuardianSpirit_2.Summoned_Defender_w_spec",
+   "GuardianSpirit_ANI.GuardianSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.healer-khil": {
+  "sha256": "",
+  "objects": [
+   "HealSpirit_1.HealSpirit_1_skel",
+   "HealSpirit_1.Summoned_Healer01_diff",
+   "HealSpirit_1.Summoned_Healer01_norm",
+   "HealSpirit_1.Summoned_Healer01_spec",
+   "HealSpirit_1.Summoned_Healer_diff",
+   "HealSpirit_1.Summoned_Healer_norm",
+   "HealSpirit_1.Summoned_Healer_spec",
+   "HealSpirit_2.HealSpirit_2_skel",
+   "HealSpirit_2.Summoned_Healer01_diff",
+   "HealSpirit_2.Summoned_Healer01_norm",
+   "HealSpirit_2.Summoned_Healer01_spec",
+   "HealSpirit_2.Summoned_Healer_diff",
+   "HealSpirit_2.Summoned_Healer_norm",
+   "HealSpirit_2.Summoned_Healer_spec",
+   "HealSpirit_ANI.HealSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.healer-blue-girl": {
+  "sha256": "",
+  "objects": [
+   "HealSpirit_1.HealSpirit_1_Skel",
+   "HealSpirit_1.HealSpirit_diff",
+   "HealSpirit_1.WitchApprentice_Top_w_diff",
+   "HealSpirit_1.WitchApprentice_rage",
+   "HealSpirit_1.WitchApprentice_w_rage",
+   "HealSpirit_2.HealSpirit_2_Skel",
+   "HealSpirit_2.HealSpirit_diff",
+   "HealSpirit_2.WitchApprentice_Top_w_diff",
+   "HealSpirit_2.WitchApprentice_rage",
+   "HealSpirit_2.WitchApprentice_w_rage",
+   "HealSpirit_ANI.HealSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.avenger-witch": {
+  "sha256": "",
+  "objects": [
+   "LightningSpirit_1.DarkWitchMaste01_rage",
+   "LightningSpirit_1.DarkWitchMaster_diff",
+   "LightningSpirit_1.DarkWitchMaster_emis",
+   "LightningSpirit_1.DarkWitchMaster_norm",
+   "LightningSpirit_1.DarkWitchMaster_rage",
+   "LightningSpirit_1.DarkWitchMaster_spec",
+   "LightningSpirit_1.DarkWitchMaster_w_diff",
+   "LightningSpirit_1.DarkWitchMaster_w_norm",
+   "LightningSpirit_1.DarkWitchMaster_w_spec",
+   "LightningSpirit_1.LightningSpirit_1_skel",
+   "LightningSpirit_2.DarkWitchMaste01_rage",
+   "LightningSpirit_2.DarkWitchMaster_diff",
+   "LightningSpirit_2.DarkWitchMaster_emis",
+   "LightningSpirit_2.DarkWitchMaster_norm",
+   "LightningSpirit_2.DarkWitchMaster_rage",
+   "LightningSpirit_2.DarkWitchMaster_spec",
+   "LightningSpirit_2.DarkWitchMaster_w_diff",
+   "LightningSpirit_2.DarkWitchMaster_w_norm",
+   "LightningSpirit_2.DarkWitchMaster_w_spec",
+   "LightningSpirit_2.LightningSpirit_2_skel",
+   "LightningSpirit_ANI.LightningSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.destroyer-nukes": {
+  "sha256": "",
+  "objects": [
+   "NukesSpirit_1.NukesSpirit_1_Skel",
+   "NukesSpirit_1.NukesSpirit_diff",
+   "NukesSpirit_1.NukesSpirit_emis",
+   "NukesSpirit_1.NukesSpirit_norm",
+   "NukesSpirit_1.NukesSpirit_rage",
+   "NukesSpirit_1.NukesSpirit_spec",
+   "NukesSpirit_2.NukesSpirit_2_Skel",
+   "NukesSpirit_2.NukesSpirit_diff",
+   "NukesSpirit_2.NukesSpirit_emis",
+   "NukesSpirit_2.NukesSpirit_norm",
+   "NukesSpirit_2.NukesSpirit_rage",
+   "NukesSpirit_2.NukesSpirit_spec",
+   "NukesSpirit_ANI.NukesSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.destroyer-elion": {
+  "sha256": "",
+  "objects": [
+   "NukesSpirit_1.Elion_Kubel_Body_d",
+   "NukesSpirit_1.Elion_Kubel_Body_m",
+   "NukesSpirit_1.Elion_Kubel_Body_n",
+   "NukesSpirit_1.Elion_Kubel_Body_s",
+   "NukesSpirit_1.Elion_Kubel_D_DIFF",
+   "NukesSpirit_1.Elion_Kubel_D_mask",
+   "NukesSpirit_1.Elion_Kubel_D_norm",
+   "NukesSpirit_1.Elion_Kubel_D_spec",
+   "NukesSpirit_1.Elion_Kubel_Face_diff",
+   "NukesSpirit_1.Elion_Kubel_Face_mask",
+   "NukesSpirit_1.Elion_Kubel_Face_norm",
+   "NukesSpirit_1.Elion_Kubel_Face_spec",
+   "NukesSpirit_1.Elion_Kubel_M_Skel",
+   "NukesSpirit_1.Elion_Kubel_Skel",
+   "NukesSpirit_1.Elion_Kubel_hair_diff",
+   "NukesSpirit_1.Elion_Kubel_hair_mask",
+   "NukesSpirit_1.Elion_Kubel_hair_norm",
+   "NukesSpirit_1.Elion_Kubel_hair_spec",
+   "NukesSpirit_1.Elion_Kuble_Face_D_noshadow",
+   "NukesSpirit_1.NukesSpirit_1_Skel",
+   "NukesSpirit_1.kubel_Disguise_D",
+   "NukesSpirit_1.kubel_Disguise_M",
+   "NukesSpirit_1.kubel_Disguise_N",
+   "NukesSpirit_1.kubel_Disguise_S",
+   "NukesSpirit_2.Elion_Kubel_Body_d",
+   "NukesSpirit_2.Elion_Kubel_Body_m",
+   "NukesSpirit_2.Elion_Kubel_Body_n",
+   "NukesSpirit_2.Elion_Kubel_Body_s",
+   "NukesSpirit_2.Elion_Kubel_D_DIFF",
+   "NukesSpirit_2.Elion_Kubel_D_mask",
+   "NukesSpirit_2.Elion_Kubel_D_norm",
+   "NukesSpirit_2.Elion_Kubel_D_spec",
+   "NukesSpirit_2.Elion_Kubel_Face_diff",
+   "NukesSpirit_2.Elion_Kubel_Face_mask",
+   "NukesSpirit_2.Elion_Kubel_Face_norm",
+   "NukesSpirit_2.Elion_Kubel_Face_spec",
+   "NukesSpirit_2.Elion_Kubel_M_Skel",
+   "NukesSpirit_2.Elion_Kubel_Skel",
+   "NukesSpirit_2.Elion_Kubel_hair_diff",
+   "NukesSpirit_2.Elion_Kubel_hair_mask",
+   "NukesSpirit_2.Elion_Kubel_hair_norm",
+   "NukesSpirit_2.Elion_Kubel_hair_spec",
+   "NukesSpirit_2.Elion_Kuble_Face_D_noshadow",
+   "NukesSpirit_2.NukesSpirit_2_Skel",
+   "NukesSpirit_2.kubel_Disguise_D",
+   "NukesSpirit_2.kubel_Disguise_M",
+   "NukesSpirit_2.kubel_Disguise_N",
+   "NukesSpirit_2.kubel_Disguise_S",
+   "NukesSpirit_ANI.NukesSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "unknown.destroyer-zolin": {
+  "sha256": "",
+  "objects": [
+   "NukesSpirit_1.NukesSpirit_1_Skel",
+   "NukesSpirit_1.NukesSpirit_Mask",
+   "NukesSpirit_1.NukesSpirit_diff",
+   "NukesSpirit_1.NukesSpirit_emis",
+   "NukesSpirit_1.NukesSpirit_norm",
+   "NukesSpirit_1.NukesSpirit_rage",
+   "NukesSpirit_1.NukesSpirit_spec",
+   "NukesSpirit_2.NukesSpirit_2_Skel",
+   "NukesSpirit_2.NukesSpirit_Mask",
+   "NukesSpirit_2.NukesSpirit_diff",
+   "NukesSpirit_2.NukesSpirit_emis",
+   "NukesSpirit_2.NukesSpirit_norm",
+   "NukesSpirit_2.NukesSpirit_rage",
+   "NukesSpirit_2.NukesSpirit_spec",
+   "NukesSpirit_ANI.NukesSpirit_Anim"
+  ],
+  "why": "the transformed payloads' own mesh/texture/animation exports"
+ },
+ "taylorswiftmodding.grin-and-bear-it-cocomin": {
+  "objects": [
+   "Acc_557_diff",
+   "Acc_557_mask",
+   "Acc_557_norm",
+   "Acc_557_spec",
+   "Acc_562_diff",
+   "Acc_562_mask",
+   "Acc_562_norm",
+   "Acc_562_spec",
+   "CubemapFace0",
+   "CubemapFace1",
+   "CubemapFace2",
+   "CubemapFace3",
+   "CubemapFace4",
+   "CubemapFace5",
+   "Default00_Diff",
+   "Default00_Invisible_diff",
+   "Default00_Norm",
+   "Default_Black_DXT1_diff",
+   "Default_Black_diff",
+   "Default_White_diff",
+   "Default_mask",
+   "Fur_Height3",
+   "Fur_Normal",
+   "PartnerC_CoCo_Body00_diff",
+   "PartnerC_CoCo_Body00_norm",
+   "PartnerC_CoCo_Body00_spec",
+   "PartnerC_CoCo_Event00_diff",
+   "PartnerC_CoCo_Event00_norm",
+   "PartnerC_CoCo_Event00_spec",
+   "RageModeMask_mask",
+   "TestTex00_01_Diff",
+   "TestTex00_02_Diff",
+   "TestTex00_Norm",
+   "TestTex_Addon00_mask",
+   "default_MaskMap_Monster00"
+  ],
+  "sha256": "37966d416449dc2f8267dfae758d22fafb94e630ee4ada309c37a7295caf8da4",
+  "note": "read from the rebuilt composite payloads on 2026-08-01"
+ },
+ "taylorswiftmodding.grin-and-bear-it-kunkun": {
+  "objects": [
+   "Acc_557_diff",
+   "Acc_557_mask",
+   "Acc_557_norm",
+   "Acc_557_spec",
+   "Acc_562_diff",
+   "Acc_562_mask",
+   "Acc_562_norm",
+   "Acc_562_spec",
+   "CubemapFace0",
+   "CubemapFace1",
+   "CubemapFace2",
+   "CubemapFace3",
+   "CubemapFace4",
+   "CubemapFace5",
+   "Default00_Diff",
+   "Default00_Invisible_diff",
+   "Default00_Norm",
+   "Default_Black_DXT1_diff",
+   "Default_Black_diff",
+   "Default_White_diff",
+   "Default_mask",
+   "Fur_Height3",
+   "Fur_Normal",
+   "Partner_B_KunKun_Body00_diff",
+   "Partner_B_KunKun_Body00_norm",
+   "Partner_B_KunKun_Body00_spec",
+   "Partner_B_KunKun_Event00_diff",
+   "Partner_B_KunKun_Event00_mask",
+   "Partner_B_KunKun_Event00_norm",
+   "Partner_B_KunKun_Event00_spec",
+   "TestTex00_01_Diff",
+   "TestTex00_02_Diff",
+   "TestTex00_04_Diff",
+   "TestTex00_05_Diff",
+   "TestTex00_Norm",
+   "TestTex_Addon00_mask",
+   "default_MaskMap_Monster00"
+  ],
+  "sha256": "37966d416449dc2f8267dfae758d22fafb94e630ee4ada309c37a7295caf8da4",
+  "note": "read from the rebuilt composite payloads on 2026-08-01"
+ }
+}

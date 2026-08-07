@@ -1,0 +1,42 @@
+[
+ {
+  "owner": "thetaylorswiftofmodding",
+  "repo": "Mod-Grin-and-Bear-it-w-Cocomin",
+  "gpks": [
+   "Acc_557.gpk",
+   "Acc_562.gpk",
+   "Partner_C_CoCo_Event00.gpk"
+  ],
+  "url": "https://github.com/thetaylorswiftofmodding/Mod-Grin-and-Bear-it-w-Cocomin",
+  "note": "costume + partner textures; the Acc_562 package also holds a SkeletalMesh, which must NOT be transplanted (binds the wrong material)"
+ },
+ {
+  "owner": "thetaylorswiftofmodding",
+  "repo": "Mod-Grin-and-bear-it-w-KunKun",
+  "gpks": [
+   "Acc_557.gpk",
+   "Acc_562.gpk",
+   "Partner_B_KunKun_Event00.gpk"
+  ],
+  "url": "https://github.com/thetaylorswiftofmodding/Mod-Grin-and-bear-it-w-KunKun",
+  "note": "costume + partner textures; the Acc_562 package also holds a SkeletalMesh, which must NOT be transplanted (binds the wrong material)"
+ },
+ {
+  "owner": "saltymonkey",
+  "repo": "tera-online-clean-onscreen-messages",
+  "gpks": [
+   "S1UI_Message.gpk"
+  ],
+  "url": "https://github.com/saltymonkey/tera-online-clean-onscreen-messages",
+  "note": "movie route (GFxMovieInfo) -- gated on the guild-window test"
+ },
+ {
+  "owner": "saltymonkey",
+  "repo": "tera-online-instant-join-tera-mode",
+  "gpks": [
+   "S1UI_GameModeSelectScene.gpk"
+  ],
+  "url": "https://github.com/saltymonkey/tera-online-instant-join-tera-mode",
+  "note": "movie route (GFxMovieInfo) -- gated on the guild-window test"
+ }
+]

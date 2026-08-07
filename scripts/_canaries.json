@@ -1,0 +1,18 @@
+{
+ "diagnostic.animation-canary": {
+  "gates": "every animation mod (12) -- decides whether composite_redirect can carry an animation slice at all",
+  "test": "FIRST, before GFTime Dance. Install, restart, and just tell me whether you reach the character screen -- do not test the dance. These 12 slices are re-serialised and redirected through the identical route with every animation byte unchanged from vanilla, so a crash means the route itself cannot carry an animation slice, and a clean boot means the earlier fatal was the x32 payload data. Uninstalling in the launcher restores everything."
+ },
+ "katmods.gftime-dance": {
+  "gates": "the remaining animation mods, once the canary answers",
+  "test": "ONLY IF THE CANARY BOOTS. Reinstall so the launcher fetches the new files, restart fully, /dance on an Elin. The KTERA GFTime choreography should play and the whole character should move -- face, hair and tail, not just the body. The GFTime emote itself is untouched, so /dance and the GFTime emote should now look the same."
+ },
+ "amynet.steam-weapons": {
+  "gates": "the importer-fix rebuild class",
+  "test": "install, restart, preview any series-05 steam event weapon -- the reskin should show on every weapon type including the rod"
+ },
+ "foglio1024.modern-ui-guild-window": {
+  "gates": "the other 17 movie-route UI mods, all built and verified against vanilla",
+  "test": "SUPERVISED. Install, restart, open the guild window. This is the first movie-route mod offered -- a composite redirect of a Flash movie crashed the client once before, so if the game fails to launch, uninstall in the launcher (that restores everything) and tell me. A redesigned guild window means the whole foglio/taorelia family unlocks."
+ }
+}

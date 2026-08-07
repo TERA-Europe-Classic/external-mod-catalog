@@ -1,0 +1,14 @@
+[
+ [
+  "htmslf.rgb-scarf",
+  "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/rgb-scarf-preview.gif",
+  "ERR",
+  "HTTP Error 404: Not Found"
+ ],
+ [
+  "teralove.remove-artisan-icons",
+  "https://github.com/teralove/remove-artisan-icons/blob/master/artisan_mastery_icons.png",
+  200,
+  "text/html; charset=utf-8"
+ ]
+]

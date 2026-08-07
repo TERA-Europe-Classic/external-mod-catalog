@@ -1,0 +1,31 @@
+name: README ↔ catalog.json schema parity
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+    paths:
+      - README.md
+      - catalog.json
+      - scripts/check-readme-schema.mjs
+      - scripts/check-readme-schema.test.mjs
+      - .github/workflows/readme-schema.yml
+
+jobs:
+  schema-parity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Self-test the scanner
+        # If the detector itself regressed, we want to know before it
+        # rubber-stamps a bad README or catalog.json.
+        run: node scripts/check-readme-schema.test.mjs
+
+      - name: README ↔ catalog schema parity check
+        run: node scripts/check-readme-schema.mjs

@@ -1,0 +1,4 @@
+scripts/__pycache__/
+__pycache__/
+# Local payload staging area -- 366 MB of .gpk rebuilt on demand, never shipped.
+.payload-cache/

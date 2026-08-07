@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tera-europe-classic.github.io/external-mod-catalog/replaces.schema.json",
+  "title": "replaces_data",
+  "description": "What a mod swaps, as DATA. The sentence a player reads is GENERATED from this by scripts/render_replaces.py, and CI asserts the stored `replaces` string matches that render exactly -- so the two cannot drift and nobody hand-writes the copy.\n\nProse was the old format and could not be validated. A checker can ask whether a sentence contains a #id; it cannot ask whether the id exists, whether the name matches it, or whether the race is right. Entries shipped claiming 153 ids across five races when only one race was modified, and claiming ids that were written as a range spanning an id that is a separate item.",
+
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["summary"],
+
+  "properties": {
+    "summary": {
+      "description": "One sentence: what the mod changes visually. Not what it fits -- that is `targets`.",
+      "type": "string",
+      "minLength": 12,
+      "maxLength": 200,
+      "pattern": "^[A-Z][^\\n]*[.!]$"
+    },
+
+    "targets": {
+      "description": "Wearables: the real items a player can search for. One entry per race+gender the mod ACTUALLY changes -- not every race its package happens to hold.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/target" }
+    },
+
+    "slots": {
+      "description": "Customization: character-creator slots, which have no item id at all.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/slot" }
+    },
+
+    "loose": {
+      "description": "Interface, HUD and system mods: named UI surfaces, no item and no slot.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 3, "maxLength": 80 }
+    },
+
+    "objects": {
+      "description": "The engine objects the mod actually carries, for the things the game does not sell.\n\nAn NPC recolor, a fishing float and a character-creator hairstyle have no item id and never will -- the float is one global mesh in FishingResourceData that nothing equips. Demanding `targets` for those does not make the gate stricter, it forces an invented id, which is how a costume mod shipped ballast over an outfit it never touched.\n\nThis is not the soft option. `targets` can be typed from a guess; `objects` cannot. Every path here is read back out of the mod's OWN payload -- a .bin dropin is a gpk and a tmm is N inner gpks, and both name their exports -- and CI re-opens the payload and asserts the objects are still there.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/object" }
+    }
+  },
+
+  "$defs": {
+    "race": {
+      "enum": ["human", "highelf", "aman", "castanic", "elin", "baraka", "any"]
+    },
+    "gender": { "enum": ["male", "female", "any"] },
+
+    "item": {
+      "description": "One item, resolved against the datacenter. NEVER a range: #185412-#185414 looks tidy and hides that #185413 is a separate copy of the same item. Discrete ids only, each with the name the game shows.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "name"],
+      "properties": {
+        "id": { "type": "integer", "minimum": 1, "maximum": 9999999 },
+        "name": { "type": "string", "minLength": 2, "maxLength": 100 }
+      }
+    },
+
+    "target": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["race", "gender", "items"],
+      "properties": {
+        "race": { "$ref": "#/$defs/race" },
+        "gender": { "$ref": "#/$defs/gender" },
+        "items": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/item" }
+        }
+      }
+    },
+
+    "object": {
+      "description": "One engine object exactly as the payload exports it. A tmm container qualifies its exports with the inner package (`PC_Event_39A.PC_Event_39A_Popori_F_diff`); a plain gpk exports them bare (`Awaken_SpiritKing_diff`). Both forms are real, so the pattern allows either -- what makes this checkable is not the shape but gate rule 7, which re-opens the payload and asserts the name is in its export list. The `_dup` suffix is stripped; it is a container artefact, not part of the name.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["path", "what"],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 5,
+          "maxLength": 160,
+          "pattern": "^[A-Za-z0-9_]+(\\.[A-Za-z0-9_]+)*$"
+        },
+        "what": {
+          "description": "What a player sees change. `Partner_C_CoCo_Event00.Skel...` means nothing to them.",
+          "type": "string",
+          "minLength": 4,
+          "maxLength": 80
+        }
+      }
+    },
+
+    "slot": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind", "numbers", "race", "gender"],
+      "properties": {
+        "kind": { "enum": ["face", "hair", "adornment", "preset", "tail", "horn", "ear"] },
+        "numbers": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "integer", "minimum": 1, "maximum": 999 }
+        },
+        "race": { "$ref": "#/$defs/race" },
+        "gender": { "$ref": "#/$defs/gender" }
+      }
+    }
+  }
+}
