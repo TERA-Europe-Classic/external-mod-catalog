@@ -1,5 +1,5 @@
 {
- "version": 341,
+ "version": 342,
  "updated_at": "2026-08-07T14:46:42Z",
  "mods": [
   {
@@ -6707,7 +6707,7 @@
    "updated_at": "2026-06-30T19:12:37Z",
    "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers.",
    "last_verified_patch": "patch 115",
-   "download_count": 94,
+   "download_count": 116,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwAA4BaJZQCdAEf9owUEAAA/ukEplWT3acmdkLDzSQKozoWKpGdPNAAAA==",
@@ -6752,7 +6752,7 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/cover.webp",
    "tagline": "Custom cooldowns, boss gauges and party UI.",
    "last_verified_patch": "patch 115",
-   "download_count": 36,
+   "download_count": 53,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbUZyEsrAAD+7nxlqEmt/p8z55sjET45d9xTqeCGTXXYKm32mr3hRplrVC1OB40wORatI5c8ICyhl5YMa0cAAAA=",
    "screenshots": [
@@ -24951,7 +24951,7 @@
    "conflicts_with": [
     "foglio1024.modern-ui-minimap"
    ],
-   "download_count": 13,
+   "download_count": 14,
    "replaces_data": {
     "summary": "Replaces the minimap.",
     "loose": [
@@ -25655,7 +25655,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.toolbox-gagebar-topscreen/thumb.webp"
    ],
    "broken": "SUPERVISED FIRST TEST -- the first movie-route mod offered. The author's compiled window layout now sits in the composite object the client resolves, and the rebuilt slice matches vanilla's export table exactly. A composite redirect of a Flash movie crashed the client once before, so if the game fails to launch, uninstall in the launcher (that restores everything) and report. A working window unlocks the other 17 built the same way.",
-   "download_count": 3,
+   "download_count": 4,
    "replaces_data": {
     "summary": "Replaces the gauge bar (class resource).",
     "loose": [
@@ -36158,7 +36158,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 11,
+   "download_count": 12,
    "gpk_files": [
     "Crosshair_I5_dup.gpk",
     "normalBg_dup.gpk"
@@ -37997,7 +37997,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.here-is-the-mod-some-of-you-asking-for/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAsAA4BaJQBOgCKo+W2RdYAA/vWjIsWcK9qjc1ElSHblWuJMaUt1WqsD2JOvu2VZ6Oxqqyza23x1snTS7AuDa2y3CB5r5g06LYVf6E3TD8oqAAA=",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Adds a full-body tattoo set to the Elin base body, including the thigh skull.",
     "targets": [
@@ -171689,7 +171689,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 13,
+   "download_count": 14,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/cover.webp",
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_2.webp",
@@ -172866,7 +172866,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 13,
+   "download_count": 14,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoMAAcAA4BaJYgCdAEG0RVeAADOMInpORKQv3mmdVjSzq0ayZnk0lyc1ygzgfA949XkmAAA",
@@ -194215,7 +194215,7 @@
    "compatibility_notes": "Use v2.0 or newer; older versions could crash the client on launch. Disabling the mod restores the vanilla voices exactly.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:30:00Z",
-   "download_count": 18,
+   "download_count": 21,
    "parts": [
     {
      "name": "voice-pcfemale_voice01",
@@ -307860,7 +307860,7 @@
     "litterboxchan.pastel-varsity-turns-the",
     "yupi.bns-plate-heavy-metal"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "verification_status": "working",
    "gpk_files": [
     "PantyponWhiteCastanicaDemon.gpk"
@@ -399044,7 +399044,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-17T20:30:00Z",
-   "download_count": 40,
+   "download_count": 46,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.elin-matching-ears-tails/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.elin-matching-ears-tails/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoOABIAPu1iqU2ppaOiMAgBMB2JYgAAVL5dIfolUUhMMAD9+iRnxUk5SLrP+NfoPxCfrbGYtD46RNW+FFlOkIDr02zLuJjmgPpA/jzVUU01nK/IKqGfSO40CAA=",
