@@ -1,5 +1,5 @@
 {
- "version": 343,
+ "version": 344,
  "updated_at": "2026-08-07T14:46:42Z",
  "mods": [
   {
@@ -3445,7 +3445,7 @@
    ],
    "compatibility_notes": "Verified in game 2026-07-31 (tester).",
    "updated_at": "2026-07-25T00:00:00Z",
-   "download_count": 6,
+   "download_count": 7,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.loading-bar-recolor/src0.png",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.loading-bar-recolor/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoMAAcAAoBCJZACw7EOI/yAAP72zB+5DoyZsaEk/Ky6+9iiNJfjxjQy/J6ierUf2bL+iuAA",
@@ -5331,7 +5331,7 @@
      "target_object_path": "ffe86d35_ee52dd0e_eb.Message_I1D2_dup"
     }
    ],
-   "download_count": 10,
+   "download_count": 11,
    "conflicts_with": [
     "aioshe.hank-hill-is-impressed-by-your-ability-to",
     "aunu.block-cat-peach",
@@ -6707,7 +6707,7 @@
    "updated_at": "2026-06-30T19:12:37Z",
    "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers.",
    "last_verified_patch": "patch 115",
-   "download_count": 156,
+   "download_count": 185,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwAA4BaJZQCdAEf9owUEAAA/ukEplWT3acmdkLDzSQKozoWKpGdPNAAAA==",
@@ -6752,7 +6752,7 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/cover.webp",
    "tagline": "Custom cooldowns, boss gauges and party UI.",
    "last_verified_patch": "patch 115",
-   "download_count": 83,
+   "download_count": 106,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbUZyEsrAAD+7nxlqEmt/p8z55sjET45d9xTqeCGTXXYKm32mr3hRplrVC1OB40wORatI5c8ICyhl5YMa0cAAAA=",
    "screenshots": [
@@ -6819,7 +6819,7 @@
      "loose_vanilla_sha256": "17bc16aa35b7237b3864cee654a853a09fc64e4127d7920b24064b4746a6cd79"
     }
    ],
-   "download_count": 9,
+   "download_count": 11,
    "conflicts_with": [
     "cosy.dragon-crit-orange-0",
     "cosy.dragon-crit-orange-50",
@@ -7004,7 +7004,7 @@
      "loose_vanilla_sha256": "17bc16aa35b7237b3864cee654a853a09fc64e4127d7920b24064b4746a6cd79"
     }
    ],
-   "download_count": 7,
+   "download_count": 9,
    "conflicts_with": [
     "cosy.digits-50-transp",
     "cosy.dragon-crit-orange-0",
@@ -24539,7 +24539,7 @@
     "foglio1024.modern-ui-community-window",
     "taorelia.restyle-community"
    ],
-   "download_count": 11,
+   "download_count": 13,
    "replaces_data": {
     "summary": "Replaces the LFG/community window.",
     "loose": [
@@ -24595,7 +24595,7 @@
    "conflicts_with": [
     "foglio1024.modern-ui-ep-window"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces the EP (talent) window.",
     "loose": [
@@ -24711,7 +24711,7 @@
    "conflicts_with": [
     "foglio1024.modern-ui-equipment-upgrade"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces the enchanting window.",
     "loose": [
@@ -24772,7 +24772,7 @@
     "foglio1024.modern-ui-guild-window",
     "taorelia.restyle-guild"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces the guild window.",
     "loose": [
@@ -24951,7 +24951,7 @@
    "conflicts_with": [
     "foglio1024.modern-ui-minimap"
    ],
-   "download_count": 14,
+   "download_count": 16,
    "replaces_data": {
     "summary": "Replaces the minimap.",
     "loose": [
@@ -25009,7 +25009,7 @@
      "the equipment paper doll"
     ]
    },
-   "download_count": 11,
+   "download_count": 12,
    "alternatives": [
     "foglio1024.modern-ui-jewels-fix-paperdoll"
    ]
@@ -25233,7 +25233,7 @@
     "S1UI_TestQuickSlot.gpk"
    ],
    "broken": "Expected not to work. The loose-S1UI route was tested once in game on 2026-07-25 and did not change what the client renders; this mod uses that route, so it is expected to be a no-op. It has NOT been tested individually. (v100 sources these images from the composite container). A rebuild that redirects the individual texture objects is queued — the same fix that made the block popup work.",
-   "download_count": 11,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces the main skill/quickslot bar.",
     "loose": [
@@ -25710,7 +25710,7 @@
     "pantypon.pink-boss-hp-bar",
     "saltymonkey.gageboss-extended"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces the boss HP gauge (top of screen in boss fights).",
     "loose": [
@@ -25767,7 +25767,7 @@
     "S1UI_Abnormality.gpk"
    ],
    "broken": "Expected not to work. The loose-S1UI route was tested once in game on 2026-07-25 and did not change what the client renders; this mod uses that route, so it is expected to be a no-op. It has NOT been tested individually. (v100 sources these images from the composite container). A rebuild that redirects the individual texture objects is queued — the same fix that made the block popup work.",
-   "download_count": 12,
+   "download_count": 14,
    "replaces_data": {
     "summary": "Replaces the buff/debuff bar.",
     "loose": [
@@ -25868,7 +25868,7 @@
     "S1UI_ProgressBar.gpk"
    ],
    "broken": "Expected not to work. The loose-S1UI route was tested once in game on 2026-07-25 and did not change what the client renders; this mod uses that route, so it is expected to be a no-op. It has NOT been tested individually. (v100 sources these images from the composite container). A rebuild that redirects the individual texture objects is queued — the same fix that made the block popup work.",
-   "download_count": 13,
+   "download_count": 16,
    "replaces_data": {
     "summary": "Replaces the progress/flight gauge bar.",
     "loose": [
@@ -25925,7 +25925,7 @@
     "S1UI_PartyBoard.gpk"
    ],
    "broken": "The author's real art IS available and the payload does not carry it -- located 2026-08-01 at github.com/foglio1024/tera-restyle, which holds 455 .dds files plus the GIMP sources, organised by window and transparency variant (177 of them are the modified '_2' versions; a spot check put CommunityWindow_I112_2 at 70.7% different from the vanilla extract beside it). What blocks the rebuild is not the art but the naming: those files are named for x32 object ids, and this client compiles the same windows differently -- of the six textures in CommunityWindow/p0, only CommunityWindow_I50 and stateIcon1 exist here by name. So the art cannot be placed by object name and needs the pixel-swap route into the compiled Flash movie, which is what the guild-window test gates. Re-harvesting alone will not fix these.",
-   "download_count": 11,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces the LFG board.",
     "loose": [
@@ -25977,7 +25977,7 @@
     "S1UI_PartyBoardMemberInfo.gpk"
    ],
    "broken": "The author's real art IS available and the payload does not carry it -- located 2026-08-01 at github.com/foglio1024/tera-restyle, which holds 455 .dds files plus the GIMP sources, organised by window and transparency variant (177 of them are the modified '_2' versions; a spot check put CommunityWindow_I112_2 at 70.7% different from the vanilla extract beside it). What blocks the rebuild is not the art but the naming: those files are named for x32 object ids, and this client compiles the same windows differently -- of the six textures in CommunityWindow/p0, only CommunityWindow_I50 and stateIcon1 exist here by name. So the art cannot be placed by object name and needs the pixel-swap route into the compiled Flash movie, which is what the guild-window test gates. Re-harvesting alone will not fix these.",
-   "download_count": 12,
+   "download_count": 13,
    "replaces_data": {
     "summary": "Replaces the LFG applicant list.",
     "loose": [
@@ -26029,7 +26029,7 @@
     "S1UI_PartyWindow.gpk"
    ],
    "broken": "The author's real art IS available and the payload does not carry it -- located 2026-08-01 at github.com/foglio1024/tera-restyle, which holds 455 .dds files plus the GIMP sources, organised by window and transparency variant (177 of them are the modified '_2' versions; a spot check put CommunityWindow_I112_2 at 70.7% different from the vanilla extract beside it). What blocks the rebuild is not the art but the naming: those files are named for x32 object ids, and this client compiles the same windows differently -- of the six textures in CommunityWindow/p0, only CommunityWindow_I50 and stateIcon1 exist here by name. So the art cannot be placed by object name and needs the pixel-swap route into the compiled Flash movie, which is what the guild-window test gates. Re-harvesting alone will not fix these.",
-   "download_count": 11,
+   "download_count": 12,
    "conflicts_with": [
     "pantypon.ui-party-window-no-background-20"
    ],
@@ -26090,7 +26090,7 @@
    "conflicts_with": [
     "teralove.partywindowraidinfo"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces the raid party frames.",
     "loose": [
@@ -35474,7 +35474,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 7,
+   "download_count": 8,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/RGB_scarf.gpk",
    "sha256": "4466be298a6753d99d1309bbf1e850a19117802a50381ece515d3e44f79818d2",
    "size_bytes": 31901900,
@@ -36158,7 +36158,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 14,
+   "download_count": 16,
    "gpk_files": [
     "Crosshair_I5_dup.gpk",
     "normalBg_dup.gpk"
@@ -165751,7 +165751,7 @@
     "by": "Lukas (in-game summon)",
     "note": "Mount summons and renders (crown + geometric skin). Confirmed after removing the v1.6 spec part, whose SkeletalMesh composite_redirect crashed on summon."
    },
-   "download_count": 20,
+   "download_count": 22,
    "conflicts_with": [
     "pantypon.black-double-buns"
    ],
@@ -168548,7 +168548,7 @@
    "conflicts_with": [
     "saltymonkey.message-centered"
    ],
-   "download_count": 10,
+   "download_count": 12,
    "replaces_data": {
     "summary": "Replaces on-screen system/notification messages (center-screen text).",
     "loose": [
@@ -169546,7 +169546,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 9,
+   "download_count": 10,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAcAA4BaJYgCdAEV+pF3wAD84rMpLi03zX80wrWHghebJHVXZCsB9myga4kAAAA=",
@@ -169657,7 +169657,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 10,
+   "download_count": 12,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.brownee/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.brownee/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAcAA4BaJaAC7ADbfDZ1gAD9UAAqhevHzN6c+O/7wJeclC6nuwh2neDPmBNkomUgqd9HOx0gnrfk+l+AAA==",
@@ -169734,7 +169734,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 12,
+   "download_count": 13,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.bunny-v2/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.bunny-v2/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAQCdASoMAAcAA4BaJZAAAY6KXWAAzXbSVOEELHSbJJtBKF4yzwxyK0WOiFSoQreveLf8VpUe07VH+R4bv/3/Ura4xqEubQAAAA==",
@@ -169997,7 +169997,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 10,
+   "download_count": 11,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.crystal-bbrwon/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.crystal-bbrwon/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAcAA4BaJZACdADcQc8NVgAA/oQbVsAiMYe48gnpO+JnWjQzxSqSAkdyOpxbWH4ACi3Zan2FLdytPUCVfDfObg4AAA==",
@@ -170552,7 +170552,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 14,
+   "download_count": 15,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hauntercatseye/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hauntercatseye/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAACwAQCdASoMAAcAA4BaJQBOgBdLbmkkAPkHW4kYf5OnwkXO/vpv68MapcUVXEOgWjKvV6GgAAA=",
@@ -171618,7 +171618,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 11,
+   "download_count": 13,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.padampadam-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.padampadam-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAcAA4BaJZgCdAD7KhpQ1qAA/qLQtqkm8IPsNWeHIVMkBLaXCt8DBzFZ4V0OOu0Q/dAoVKwW0A0AAAA=",
@@ -171689,7 +171689,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 15,
+   "download_count": 16,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/cover.webp",
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_2.webp",
@@ -172485,7 +172485,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 15,
+   "download_count": 16,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sterlingsilver-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sterlingsilver-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoMAAcAA4BaJaACdH8AFwIVQ99qAAD+pqtV+ATssk4hC1BDwzVuNQxKCcocZtGQYSnxPv0tDkTbi2Ei4AA=",
@@ -172562,7 +172562,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 9,
+   "download_count": 10,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.strawberry-melody-2-5/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.strawberry-melody-2-5/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAcAA4BaJYgCdAEV+84f6AD4/FM0sFcVgJZOsjtrKG650D2Zcdv0OlaTaRIAAAA=",
@@ -172866,7 +172866,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 15,
+   "download_count": 17,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.turquoise/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAADQAQCdASoMAAcAA4BaJYgCdAEG0RVeAADOMInpORKQv3mmdVjSzq0ayZnk0lyc1ygzgfA949XkmAAA",
@@ -194215,7 +194215,7 @@
    "compatibility_notes": "Use v2.0 or newer; older versions could crash the client on launch. Disabling the mod restores the vanilla voices exactly.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:30:00Z",
-   "download_count": 28,
+   "download_count": 30,
    "parts": [
     {
      "name": "voice-pcfemale_voice01",
@@ -195407,7 +195407,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 18,
+   "download_count": 21,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.sailor-moon-hp-v1.0.0/Sailor_Moon_HP.gpk",
    "sha256": "acfe48ad2211511445510794290deb16a647f88a3c63c02194a46c4df824f3c1",
    "size_bytes": 882236,
@@ -223616,7 +223616,7 @@
    "gpk_files": [
     "PantyponElinBlackBusinessSuit.gpk"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "conflicts_with": [
     "deathwrack.renegade-for-dyeable",
     "yupi.elin-matching-ears-tails"
@@ -244189,7 +244189,7 @@
     "pantypon.tea-time-raincoats",
     "taylorswiftmodding.pikachu-raincoat"
    ],
-   "download_count": 10,
+   "download_count": 11,
    "deploy_strategy": "tmm",
    "objects": [
     "9dc1ecae_dfcb04fc_f167.Skel.PC_Event_42A_Popori_F_Skel_dup",
@@ -299654,7 +299654,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pastel-purple-alice-bow-request/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoQAAoAA4BaJQBOgMWqrKk/o0x4APw6x2q84BZr1qm9cKmVS5DkblFgKBO2XxM1IphR7dV0lg5oAaeYGOIhgskhg3iQJehdNuPgNmKXPhk6/oVZfpf6f7xWuDsTHRl9cD5/BY1FSHvcAAAA",
-   "download_count": 1,
+   "download_count": 3,
    "conflicts_with": [
     "elinsailorsuit.decided-to-upload-my-red-alice",
     "taylorswiftmodding.blacker-bow"
@@ -307860,7 +307860,7 @@
     "litterboxchan.pastel-varsity-turns-the",
     "yupi.bns-plate-heavy-metal"
    ],
-   "download_count": 13,
+   "download_count": 15,
    "verification_status": "working",
    "gpk_files": [
     "PantyponWhiteCastanicaDemon.gpk"
@@ -311054,7 +311054,7 @@
    "conflicts_with": [
     "litterboxchan.pink-bell-antlers-re-color"
    ],
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Removes the antlers and headband from the Reindeer with Bells accessory.",
     "targets": [
@@ -311523,7 +311523,7 @@
    "conflicts_with": [
     "pantypon.pink-party-member-hp-bar"
    ],
-   "download_count": 14,
+   "download_count": 15,
    "replaces_data": {
     "summary": "Replaces the monster HP gauge above enemies.",
     "loose": [
@@ -398706,7 +398706,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 14,
+   "download_count": 16,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Resolute Plate Armor (Elin) (#254708); Enlightenment Plate Armor (Elin) (#254720); Renegade Plate Armor (Elin) (#254912); Witchhunter Plate Armor (Elin) (#261624)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-armor/thumb.webp",
@@ -398800,7 +398800,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 14,
+   "download_count": 16,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Evil God's Armor (Elin) (#270943)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-evil-god/thumb.webp",
@@ -398878,7 +398878,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 16,
+   "download_count": 18,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Heavy Metal Star (Elin) (#152396); Elin Castanica Demons Outfit (#280388)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-heavy-metal/thumb.webp",
@@ -398963,7 +398963,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 13,
+   "download_count": 15,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Thunor’s Armor (Elin) (#271132); Woden’s Armor (Elin) (#271139)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-woden-thunor/thumb.webp",
@@ -399044,7 +399044,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-17T20:30:00Z",
-   "download_count": 59,
+   "download_count": 62,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.elin-matching-ears-tails/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.elin-matching-ears-tails/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoOABIAPu1iqU2ppaOiMAgBMB2JYgAAVL5dIfolUUhMMAD9+iRnxUk5SLrP+NfoPxCfrbGYtD46RNW+FFlOkIDr02zLuJjmgPpA/jzVUU01nK/IKqGfSO40CAA=",
@@ -399411,7 +399411,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 23,
+   "download_count": 26,
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAA8AA4BaJbACdH8AE4jPRjYCaAD+mdjBXS/eKGA06ytBONU5FXVnFCfMHmKRfXGkEiylwSV3O3mxnpsizsnOiJm7LxuUjlj70O+ltlcX72V7Oh+fs1UAAAA=",
    "replaces": "Elin Devilicious Costume (#81159); Bewitching Elin Costume (#200126); Dyeable Bewitching Elin Costume (#200127)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.genshin-mona/thumb.webp",
