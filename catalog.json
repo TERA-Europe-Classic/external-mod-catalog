@@ -1,5 +1,5 @@
 {
- "version": 347,
+ "version": 348,
  "updated_at": "2026-08-07T14:46:42Z",
  "mods": [
   {
@@ -6707,7 +6707,7 @@
    "updated_at": "2026-06-30T19:12:37Z",
    "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers.",
    "last_verified_patch": "patch 115",
-   "download_count": 255,
+   "download_count": 283,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwAA4BaJZQCdAEf9owUEAAA/ukEplWT3acmdkLDzSQKozoWKpGdPNAAAA==",
@@ -6752,7 +6752,7 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/cover.webp",
    "tagline": "Custom cooldowns, boss gauges and party UI.",
    "last_verified_patch": "patch 115",
-   "download_count": 159,
+   "download_count": 179,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbUZyEsrAAD+7nxlqEmt/p8z55sjET45d9xTqeCGTXXYKm32mr3hRplrVC1OB40wORatI5c8ICyhl5YMa0cAAAA=",
    "screenshots": [
@@ -6819,7 +6819,7 @@
      "loose_vanilla_sha256": "17bc16aa35b7237b3864cee654a853a09fc64e4127d7920b24064b4746a6cd79"
     }
    ],
-   "download_count": 20,
+   "download_count": 22,
    "conflicts_with": [
     "cosy.dragon-crit-orange-0",
     "cosy.dragon-crit-orange-50",
@@ -7004,7 +7004,7 @@
      "loose_vanilla_sha256": "17bc16aa35b7237b3864cee654a853a09fc64e4127d7920b24064b4746a6cd79"
     }
    ],
-   "download_count": 9,
+   "download_count": 10,
    "conflicts_with": [
     "cosy.digits-50-transp",
     "cosy.dragon-crit-orange-0",
@@ -9838,7 +9838,7 @@
    "conflicts_with": [
     "mtforum.sterlingsilver-castanicf"
    ],
-   "download_count": 4,
+   "download_count": 5,
    "size_bytes": 254262,
    "last_verified_patch": "v100.02 (TMM on Tex.Decal_Castanic_F_AA0016_dup; TextureFileCacheName severed, FirstResourceMemMip 0, 11-mip resident chain; in-game render pending)",
    "source_url": "https://mods-of-tera.tumblr.com/post/177730380267/deathwrack-archdevan-for-fyregem-for-face",
@@ -9895,7 +9895,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/deathwrack.better-now-for-rapidos-works-on/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADwAgCdASoQABAAA4BaJZACdMn9KAA5OTiNpowHbcCOAAD+9MCwdity5e8ZW18uIUJpCH7+GOblGS3Um4tv4l7XZPB27A/Hp5947ZH66vvg3rTkjmVSaXfZCWBoaRDrONGVlv38ZQXczM1MnhbdSs0Kqyp278ndp4QNnC/1ORpN1epv2S7GX1gfj68zQAAA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Adds tattoos and a happy trail to the Castanic male Rapidos and removes sandal straps.",
     "targets": [
@@ -12352,7 +12352,7 @@
     "veinlace.party-monster-for-face-11-adornment-8",
     "pantypon.castanic-f11a8"
    ],
-   "download_count": 6,
+   "download_count": 7,
    "size_bytes": 63183,
    "last_verified_patch": "v100.02 (TMM on Tex.Decal_Castanic_F_AK0007_dup; TextureFileCacheName severed, FirstResourceMemMip 0, 10-mip resident chain; in-game render pending)",
    "source_url": "https://mods-of-tera.tumblr.com/post/172412570067/deathwrack-love-letter-for-f-11-a-8",
@@ -14301,7 +14301,7 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/deathwrack.summer-breeze-for-regular-and/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAADwAgCdASoQABAAA4BaJZACdB2gDnwdA7twDlX9Vn0LgAD+9fkA5cpEz3Iz9qe2vntv3C5wtdPPRWWES5bttTS20OqAfWcpynWr/NDq1/b3e9M5nuHYw45DW2owOHFiE+HzhsEg8poe7QlOfLSgpnh3LZuZAcOr4JQ+eXn2+yaqpHNtgblYVFFVRuwTfv5MAAA=",
    "broken": "Re-harvested from its own source post on 2026-07-31 and the fresh payload STILL reads vanilla on every comparable texture -- the original release itself may have shipped vanilla files. Needs an author-side copy or an in-game look to settle; not installable until then.",
-   "download_count": 4,
+   "download_count": 5,
    "replaces_data": {
     "summary": "Adds tattoos to the regular and dyeable Crop Top Swimsuit, Castanic female only.",
     "targets": [
@@ -21808,7 +21808,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/eroaulon.got-bored-waiting-for-servers-to-come/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJQBOgB7BE921AAD+4mJHzNEIYf9Ijk7mA2U22HA6RKw1ka8774+Rzf4+hwTrveVfr+jJsMO+sO0K7HcloFyL8r33JmH1JPGqxkk8AAA=",
-   "download_count": 10,
+   "download_count": 11,
    "replaces_data": {
     "summary": "Repaints the castanic female L21 armor body texture.",
     "objects": [
@@ -25655,7 +25655,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.toolbox-gagebar-topscreen/thumb.webp"
    ],
    "broken": "SUPERVISED FIRST TEST -- the first movie-route mod offered. The author's compiled window layout now sits in the composite object the client resolves, and the rebuilt slice matches vanilla's export table exactly. A composite redirect of a Flash movie crashed the client once before, so if the game fails to launch, uninstall in the launcher (that restores everything) and report. A working window unlocks the other 17 built the same way.",
-   "download_count": 7,
+   "download_count": 8,
    "replaces_data": {
     "summary": "Replaces the gauge bar (class resource).",
     "loose": [
@@ -26190,7 +26190,7 @@
    "conflicts_with": [
     "deathwrack.snake-eyes-for-coldarctic-bomber"
    ],
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Replaces Carmine Winter Dress, Flying Jacket, Shearling Flying Jacket and Winter Dress, dyeable versions included.",
     "targets": [
@@ -35474,7 +35474,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 8,
+   "download_count": 9,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/RGB_scarf.gpk",
    "sha256": "4466be298a6753d99d1309bbf1e850a19117802a50381ece515d3e44f79818d2",
    "size_bytes": 31901900,
@@ -36158,7 +36158,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 24,
+   "download_count": 27,
    "gpk_files": [
     "Crosshair_I5_dup.gpk",
     "normalBg_dup.gpk"
@@ -36329,7 +36329,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kanstria.umbra-for-the-sanguine-niveous/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAACwAQCdASoGABAAA4BaJQBOgB5uIJi4AP6tNdc2EozNbLM6MpsV02Rr6XJvaxl1M+omN72P4nNSzB8XKGBGhQAAAAA=",
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Recolors the Sanguine, Niveous and Smoking Torpedo swimsuits.",
     "targets": [
@@ -37997,7 +37997,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.here-is-the-mod-some-of-you-asking-for/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoQAAsAA4BaJQBOgCKo+W2RdYAA/vWjIsWcK9qjc1ElSHblWuJMaUt1WqsD2JOvu2VZ6Oxqqyza23x1snTS7AuDa2y3CB5r5g06LYVf6E3TD8oqAAA=",
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Adds a full-body tattoo set to the Elin base body, including the thigh skull.",
     "targets": [
@@ -55034,7 +55034,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.recolour-for-the-designer-shirt-3-some/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoMABAAA4BaJaACdAEQ+b8IgAD9dsmlwup4QTCPspm5aCD92iAWBIFVdbb0AC47aC3s53Av3UUHWQ9k34P3x+vZDw4tyJiyvCuJgAAA",
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Recolors details of the designer shirt red.",
     "targets": [
@@ -106026,7 +106026,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.recolour-mod-for-frostrune-sword-top/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAAAQAgCdASoQABAAA4BaJaACdAC4caERrwqAAPYZM+V73DZglKDnA7SfU27dMXxfoKxP2ccWHWzJeeCB4Jsz8o0hM26d9BcRYQkO4z6lXJe2hoyW7Ql0mwFxnvgiECgA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Recolors the Frostrune sword, with and without effects.",
     "targets": [
@@ -107273,7 +107273,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; multi-part dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.so-more-elin-stuff-d-here-are-two/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoQAA0AA4BaJYgC7AEPDJb/j7gA/u9zHskRgOPt792xFV52tK1kuyxKVDO8d4/i8LZP+CdSod4YAA==",
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Recolors the gold Glimmerdress in two options; also fits the dyeable fur-collar version.",
     "targets": [
@@ -107810,7 +107810,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 7,
+   "download_count": 8,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-kawaakari.pastel-fishing-rods-v1.0.0/Pastel_Blue_Fishing_Rod.gpk",
    "sha256": "f8a241a8d4648df93ec1c21c5e7d614283806268715765b9e49649cf10089510",
    "size_bytes": 9174639,
@@ -107982,7 +107982,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 8,
+   "download_count": 9,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-kawaakari.pastel-fishing-rods-v1.0.0/Pastel_Pink_Fishing_Rod.gpk",
    "sha256": "9da2cd2675d7eb5a2f0365e8347c2f3baec74ff31aa043bca5fec3c89da23724",
    "size_bytes": 9174639,
@@ -109020,7 +109020,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/kirabera.bright-pastel-hpmp-bar-with-edge-and/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAADQAQCdASoQAAIAA4BaJZQCdADdIjs6gAD+y/d2VyDpIbE94oozRgAA",
-   "download_count": 7,
+   "download_count": 8,
    "replaces_data": {
     "summary": "Replaces your HP/MP bar art.",
     "loose": [
@@ -111566,7 +111566,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/lilisahime.my-first-mod-an-outfit-mod-on-my/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAQCdASoOABAAA4BaJQBOgCILSVwqeAD+8Z19HrqwvMVkWef0OQihk/U3fYIi1C/PA6VzqlFIw9newPi1ubQw433znyiS/KHtPIexLgsVETALmS1SYVzKqAAX20AAAAA=",
-   "download_count": 6,
+   "download_count": 7,
    "replaces_data": {
     "summary": "Replaces the female and Elin textures of the River Dokkaebi Hanbok.",
     "targets": [
@@ -166210,7 +166210,7 @@
      "target_object_path": "ffe86d35_ee52dd0e_eb.Message_I1D2_dup"
     }
    ],
-   "download_count": 5,
+   "download_count": 6,
    "conflicts_with": [
     "aioshe.hank-hill-is-impressed-by-your-ability-to",
     "artexlib.block-gigachad",
@@ -168603,7 +168603,7 @@
     "henapuff.freckles-elin-face-12",
     "pantypon.elin-face-12-adornment-3-senseless"
    ],
-   "download_count": 2,
+   "download_count": 3,
    "size_bytes": 112996,
    "last_verified_patch": "v100.02 (TMM on Tex.Decal_popori_F_AL0002_dup; TextureFileCacheName severed, FirstResourceMemMip 0, 10-mip resident chain; in-game render pending)",
    "source_url": "https://mods-of-tera.tumblr.com/post/168511812487/miscellaneousdotcom-tera-mod-face-12-adornment",
@@ -168887,7 +168887,7 @@
     "ModdymcmodfaceGlamourHighElfFemaleFace.gpk"
    ],
    "blur_data": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAADQAQCdASoQAAoAA4BaJZwAArAtLtI0AAD+9LaUJkiA/1e3f/WNMtAF6jcWY/WYlXajHJXAEtwTjY79tXMLBthzlLQe6GyCX5Koho0u3BYv9VWnOC5gF+n0qZqY1T6KLYK/ku6igAA=",
-   "download_count": 5,
+   "download_count": 6,
    "size_bytes": 1175686,
    "last_verified_patch": "patch 100.02",
    "compatibility_notes": "Complete port of the author's \"Glamour\" release. The separate \"GlamourHAIR\" download, a matching black hairstyle, is not in the catalog yet.",
@@ -169546,7 +169546,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 10,
+   "download_count": 11,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.amethyst/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAcAA4BaJYgCdAEV+pF3wAD84rMpLi03zX80wrWHghebJHVXZCsB9myga4kAAAA=",
@@ -169923,7 +169923,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 8,
+   "download_count": 9,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicpink/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.cosmicpink/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAACwAQCdASoMAAcAA4BaJQBOgBhigHCAAPhZo47k1iTiK/lMxvbfgjA7W6PGxcsdabKBPNAA",
@@ -169997,7 +169997,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 14,
+   "download_count": 15,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.crystal-bbrwon/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.crystal-bbrwon/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAcAA4BaJZACdADcQc8NVgAA/oQbVsAiMYe48gnpO+JnWjQzxSqSAkdyOpxbWH4ACi3Zan2FLdytPUCVfDfObg4AAA==",
@@ -170131,7 +170131,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 8,
+   "download_count": 9,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMAAcAA4BaJYgCdACnZRjAAM488uh9c7Ri1WLFhvqbvuOpLQayK28C7OqsS6cjbHnhlaK0P/AAAA==",
@@ -170236,7 +170236,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 8,
+   "download_count": 9,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon-no-shine/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.dragon-no-shine/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACwAQCdASoMAAcAA4BaJYgCdACnZRjAAM488uh9c7Ri1WLFhvqbvuOpLQayK28C7OqsS6cjbHnhlaK0P/AAAA==",
@@ -170341,7 +170341,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 8,
+   "download_count": 9,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.emoprincess-elin/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.emoprincess-elin/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAcAA4BaJYgCdAC55G+vAAD8DziV24NLTxY9LLRq4gdSHzvNUPdKMUHbjjnHkG/jebEgAAA=",
@@ -171083,7 +171083,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 8,
+   "download_count": 9,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes-11-05/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.hu-tao-eyes-11-05/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAADQAQCdASoMAAcAA4BaJQBOgCK/e6/WuAD84rMrEvsf953dAlsR+zv+6LTKukl9K0m0iQAA",
@@ -171618,7 +171618,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 15,
+   "download_count": 16,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.padampadam-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.padampadam-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADwAQCdASoMAAcAA4BaJZgCdAD7KhpQ1qAA/qLQtqkm8IPsNWeHIVMkBLaXCt8DBzFZ4V0OOu0Q/dAoVKwW0A0AAAA=",
@@ -171689,7 +171689,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 16,
+   "download_count": 17,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/cover.webp",
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.pantypon-yandere-face12-adorment2/shot_2.webp",
@@ -172485,7 +172485,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 20,
+   "download_count": 22,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sterlingsilver-castanicf/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.sterlingsilver-castanicf/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAwAgCdASoMAAcAA4BaJaACdH8AFwIVQ99qAAD+pqtV+ATssk4hC1BDwzVuNQxKCcocZtGQYSnxPv0tDkTbi2Ei4AA=",
@@ -172562,7 +172562,7 @@
    "compatibility_notes": "",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T06:00:00Z",
-   "download_count": 10,
+   "download_count": 11,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.strawberry-melody-2-5/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/mtforum.strawberry-melody-2-5/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAcAA4BaJYgCdAEV+84f6AD4/FM0sFcVgJZOsjtrKG650D2Zcdv0OlaTaRIAAAA=",
@@ -192071,7 +192071,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/nmg.1305-azn-so-i-guess-people-wont-do-much-for/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACwAQCdASoQAAgAA4BaJQBOgCHXZCDwAP7c/9ZOkRIAM7BrLFK7+bkYTTDHu6eHk15WI7rusk6JgX+mAKSFg1ek/pnfrEkuoR4ihxkZBLVhAAAA",
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Replaces the first human male face texture plus eight hairstyle textures.",
     "targets": [
@@ -192862,7 +192862,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 9,
+   "download_count": 10,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-norukjerky.kitty-socks-v1.0.0/Kitty_Socks.gpk",
    "sha256": "cf553da62cbbf12cb370b57b28648dd202f9b94f1a6b11df5013fddea719701a",
    "size_bytes": 84071909,
@@ -193692,7 +193692,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/norukjerky.rainbow-robin-since-a-few-people/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoQAAkAA4BaJYgCdAEVV8oicvnAAP4ECfbuWhULs5U2U0Xj7m4/vwwVsSz0YcVxrM5XEpkSRGnuUrVyVvwf82OGqxoAAA==",
-   "download_count": 5,
+   "download_count": 6,
    "replaces_data": {
     "summary": "Turns the bird mount rainbow.",
     "targets": [
@@ -194215,7 +194215,7 @@
    "compatibility_notes": "Use v2.0 or newer; older versions could crash the client on launch. Disabling the mod restores the vanilla voices exactly.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:30:00Z",
-   "download_count": 41,
+   "download_count": 43,
    "parts": [
     {
      "name": "voice-pcfemale_voice01",
@@ -195407,7 +195407,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 27,
+   "download_count": 28,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.sailor-moon-hp-v1.0.0/Sailor_Moon_HP.gpk",
    "sha256": "acfe48ad2211511445510794290deb16a647f88a3c63c02194a46c4df824f3c1",
    "size_bytes": 882236,
@@ -200325,7 +200325,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.battle-bunny-for-gunner-awakened/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAQAgCdASoQABAAA4BaJbACdADMmICe1cAAAP65S0jcUGph2UxWjOBG7TESgWnQl2DffWQetO0r13rx4KsjwQ02VhBQSlvt4fPvrjuzNisml3ClcAA=",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Retextures the Gunner's awakened mecha companion in pastel pink with bunnies, strawberries and stars.",
     "objects": [
@@ -201927,7 +201927,7 @@
    "size_bytes": 11089684,
    "compatibility_notes": "Ships both layers the engine reads: the hair packages (near view) and the streamed TFC mips (all distances). Absorbed the separate TFC-only entry, which was the same source mod.",
    "last_verified_patch": "v100.02 (built from the archived original; in-game render pending)",
-   "download_count": 5,
+   "download_count": 6,
    "replaces_data": {
     "summary": "Replaces both castanic female Hair 11 textures — the base style and the B variant — across every hairstyle package that carries them.",
     "slots": [
@@ -202167,7 +202167,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/src2.png",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.castanic-female-pink-horns-hair/thumb.webp"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "broken": "Cannot work as built: this build carries no deploy_strategy, so it never routes anywhere, and its ~8 KB payload is only the costume's specular/custom map — the colour map that would actually change the look is not in it. Reported vanilla on Castanic Sleepy Running Togs and Better Dyeable Flight Suit; the whole \"2026-05-01-x64-port\" batch shares the defect. Needs re-harvesting from the author's original release.",
    "replaces_data": {
     "summary": "Replaces Castanic female hairstyle 17's hair/horn textures.",
@@ -226172,7 +226172,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/src1.png",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-matching-ears-and-tails/thumb.webp"
    ],
-   "download_count": 10,
+   "download_count": 11,
    "broken": "Cannot work as built: this build carries no deploy_strategy, so it never routes anywhere, and its ~8 KB payload is only the costume's specular/custom map — the colour map that would actually change the look is not in it. Reported vanilla on Castanic Sleepy Running Togs and Better Dyeable Flight Suit; the whole \"2026-05-01-x64-port\" batch shares the defect. Needs re-harvesting from the author's original release.",
    "replaces_data": {
     "summary": "Recolours the Elin ear and tail textures to match her hair.",
@@ -244189,7 +244189,7 @@
     "pantypon.tea-time-raincoats",
     "taylorswiftmodding.pikachu-raincoat"
    ],
-   "download_count": 12,
+   "download_count": 13,
    "deploy_strategy": "tmm",
    "objects": [
     "9dc1ecae_dfcb04fc_f167.Skel.PC_Event_42A_Popori_F_Skel_dup",
@@ -244257,7 +244257,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-smooth-skin-this-mod-is-super/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwAgCdASoQAA4AA4BaJZQAD46tx9le5gQcMAD+wrowl5oJBnH5iJODdiN9eh14d2jPZ95hNxRrmF15dj9/qaLnd6ctpRsvuGD0LpmCP3LbDqICRTatspmtfyfJB9VAkStnONNA4YdRkrakxm8jGw0jDz46AAAA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Replaces the Elin base-body skin texture; affects every Elin regardless of face choice.",
     "targets": [
@@ -275837,7 +275837,7 @@
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.elin-strawberry-maid/thumb.webp"
    ],
-   "download_count": 8,
+   "download_count": 9,
    "objects": [
     "9dc1ecae_19a36e87_f421.Skel.PC_Event_53_Human_F_Skel_dup",
     "9dc1ecae_45eb1cae_f41f.Skel.PC_Event_53_Popori_F_Skel_dup",
@@ -294431,7 +294431,7 @@
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.hana-reward-tier/thumb.webp",
    "broken": "Expected not to work. The loose-S1UI route was tested once in game on 2026-07-25 and did not change what the client renders; this mod uses that route, so it is expected to be a no-op. It has NOT been tested individually. (v100 sources these images from the composite container). A rebuild that redirects the individual texture objects is queued — the same fix that made the block popup work.",
-   "download_count": 9,
+   "download_count": 10,
    "replaces_data": {
     "summary": "Replaces the TERA Rewards / benefit window.",
     "loose": [
@@ -297765,7 +297765,7 @@
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.mystic-pale-pink-princess-wand/thumb.webp"
    ],
-   "download_count": 11,
+   "download_count": 12,
    "broken": "Cannot work as built: this build carries no deploy_strategy, so it never routes anywhere, and its ~8 KB payload is only the costume's specular/custom map — the colour map that would actually change the look is not in it. Reported vanilla on Castanic Sleepy Running Togs and Better Dyeable Flight Suit; the whole \"2026-05-01-x64-port\" batch shares the defect. Needs re-harvesting from the author's original release.",
    "replaces_data": {
     "summary": "Replaces the Mystic variant of the seasonal event weapon skin.",
@@ -298326,7 +298326,7 @@
    "conflicts_with": [
     "pantypon.archer-pink-slingshot"
    ],
-   "download_count": 5,
+   "download_count": 6,
    "replaces_data": {
     "summary": "Replaces the Ninja variant of the seasonal event weapon skin.",
     "targets": [
@@ -299099,7 +299099,7 @@
    "gpk_files": [
     "PantyponPastelPoraElinuUniform.gpk"
    ],
-   "download_count": 8,
+   "download_count": 9,
    "deploy_strategy": "tmm",
    "objects": [
     "9dc1ecae_13d0f268_f029.Skel.PC_Event_38_Popori_F_D_Under_Skel_dup",
@@ -299771,7 +299771,7 @@
     "foglio1024.ui-remover-bosswindow",
     "saltymonkey.gageboss-extended"
    ],
-   "download_count": 9,
+   "download_count": 10,
    "replaces_data": {
     "summary": "Replaces the boss HP gauge (top of screen in boss fights).",
     "loose": [
@@ -299894,7 +299894,7 @@
    ],
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-controller-ui/thumb.webp",
    "broken": "Expected not to work. The loose-S1UI route was tested once in game on 2026-07-25 and did not change what the client renders; this mod uses that route, so it is expected to be a no-op. It has NOT been tested individually. (v100 sources these images from the composite container). A rebuild that redirects the individual texture objects is queued — the same fix that made the block popup work.",
-   "download_count": 9,
+   "download_count": 10,
    "replaces_data": {
     "summary": "Replaces the controller shortcut UI.",
     "loose": [
@@ -300235,7 +300235,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-float/source-post-1.png",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-float/thumb.webp"
    ],
-   "download_count": 8,
+   "download_count": 9,
    "broken": "This build carries no deploy_strategy, so the launcher falls back to its default composite path and the mod may install without taking effect. Part of the \"2026-05-01-x64-port\" batch; needs its strategy set and verifying in game.",
    "replaces_data": {
     "summary": "Replaces the fishing float model.",
@@ -300287,7 +300287,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-rod/cover.webp",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-fishing-rod/thumb.webp"
    ],
-   "download_count": 8,
+   "download_count": 9,
    "broken": "This build carries no deploy_strategy, so the launcher falls back to its default composite path and the mod may install without taking effect. Part of the \"2026-05-01-x64-port\" batch; needs its strategy set and verifying in game.",
    "replaces_data": {
     "summary": "Replaces the fishing rod model.",
@@ -300541,7 +300541,7 @@
     "justcrazy.green-crosshair",
     "pantypon.static-heart-crosshair"
    ],
-   "download_count": 8,
+   "download_count": 9,
    "deploy_strategy": "composite_redirect",
    "last_verified": {
     "date": "2026-07-30",
@@ -300661,7 +300661,7 @@
    "conflicts_with": [
     "psina.gage-monster-hp"
    ],
-   "download_count": 13,
+   "download_count": 14,
    "replaces_data": {
     "summary": "Replaces the monster HP gauge above enemies.",
     "loose": [
@@ -300716,7 +300716,7 @@
     "pantypon.ice-cream-black-pantyhose",
     "pantypon.ice-cream-white-pantyhose-shoes"
    ],
-   "download_count": 7,
+   "download_count": 8,
    "objects": [
     "9dc1ecae_1e2acd03_f29a.Skel.PC_Event_46_HighElf_F_A_Skel_dup",
     "9dc1ecae_337490d7_f29f.Skel.PC_Event_46_Aman_F_B_Skel_dup",
@@ -301150,7 +301150,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/src0.png",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex/thumb.webp"
    ],
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Replaces the extra quickslot bar 1.",
     "loose": [
@@ -301215,7 +301215,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/src0.png",
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.pink-skill-slots-ex2/thumb.webp"
    ],
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Replaces the extra quickslot bar 2.",
     "loose": [
@@ -303839,7 +303839,7 @@
    ],
    "compatibility_notes": "Ported offline from layer evidence; not yet verified in-game.",
    "updated_at": "2026-07-25T00:00:00Z",
-   "download_count": 5,
+   "download_count": 6,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.simplicity-ui/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.simplicity-ui/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADQAQCdASoMAAcAAoBCJZQCdAEOwVbQUAD+8SM0wEkYoegL5uLmbeV0Ec3XwOpPaAJdACCOAAA=",
@@ -303948,7 +303948,7 @@
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.simplified-pastel-ui/src0.webp"
    ],
-   "download_count": 6,
+   "download_count": 7,
    "replaces_data": {
     "summary": "Pastel-color character window simplification.",
     "loose": [
@@ -307860,7 +307860,7 @@
     "litterboxchan.pastel-varsity-turns-the",
     "yupi.bns-plate-heavy-metal"
    ],
-   "download_count": 15,
+   "download_count": 16,
    "verification_status": "working",
    "gpk_files": [
     "PantyponWhiteCastanicaDemon.gpk"
@@ -311137,7 +311137,7 @@
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/princessbuttpunch.soo-i-made-my-very-first-mod/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAAAQAgCdASoOABAAA4BaJbACsADLvdGWcaIAAP7A7cxhKvkVPdTXEth4lt5l8WgPm39GhjQkQVMrlR/4FdXDWgWhmmNke49Yr2nqEjlcR4FhBgGx/9M1n/Lv1ezjP+1kz5pNcZak7oGkzXF3Qz7nHsAA",
    "broken": "Duplicate-payload defect: this entry shares its exact payload with No Panda Ice Cream Staff, Panda Ice Cream Bar Mod Blushy — it cannot deliver its own distinct content. Re-port from the original source is queued.",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Retextures an event staff weapon skin.",
     "targets": [
@@ -311523,7 +311523,7 @@
    "conflicts_with": [
     "pantypon.pink-party-member-hp-bar"
    ],
-   "download_count": 17,
+   "download_count": 18,
    "replaces_data": {
     "summary": "Replaces the monster HP gauge above enemies.",
     "loose": [
@@ -332467,7 +332467,7 @@
     "S1UI_OverlayMap2.gpk"
    ],
    "broken": "The published payload carries vanilla art. Its 44 textures were compared against the game’s own copies and 43 of them matched pixel for pixel; five of these packages were also decoded and looked at side by side, and they are indistinguishable. The earlier note blamed the deploy route, which was wrong — no route can make a vanilla texture look different. The original art needs re-harvesting from the author’s source and rebuilding; this payload was produced by round-tripping the v100 package without importing it.",
-   "download_count": 9,
+   "download_count": 10,
    "replaces_data": {
     "summary": "Replaces the overlay map (M).",
     "loose": [
@@ -334202,7 +334202,7 @@
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/taylorswiftmodding.bear-animal-mask/thumb.webp"
    ],
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Repaints the leather face mask with a bear face design.",
     "targets": [
@@ -335261,7 +335261,7 @@
    "gpk_files": [
     "TaylorswiftmoddingCandiedDragon.gpk"
    ],
-   "download_count": 3,
+   "download_count": 4,
    "deploy_strategy": "tmm",
    "replaces_data": {
     "summary": "Replaces the golden dragon flying mount model (from the Sunny Gold Dragon Box #138071).",
@@ -336058,7 +336058,7 @@
    "gpk_files": [
     "TaylorswiftmoddingPinkyKun.gpk"
    ],
-   "download_count": 4,
+   "download_count": 5,
    "deploy_strategy": "tmm",
    "replaces_data": {
     "summary": "Replaces the event skin of the partner (pet) KunKun.",
@@ -370954,7 +370954,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/tera.halloween-mummy-mod/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADQAQCdASoQAAkAA4BaJbACdAD2NMYmgAD8icmaReTrQu0y8emYV4agr6Vq9irkiX+qfklmWQQbfLSOGlOh+01yIVsPrkPgAAA=",
-   "download_count": 5,
+   "download_count": 6,
    "replaces_data": {
     "summary": "Replaces the regular business suit with a mummy costume.",
     "targets": [
@@ -384876,7 +384876,7 @@
    ],
    "compatibility_notes": "Ported offline from layer evidence; not yet verified in-game.",
    "updated_at": "2026-07-25T00:00:00Z",
-   "download_count": 2,
+   "download_count": 3,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/terabuns.candy-pop-face/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/terabuns.candy-pop-face/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADwAQCdASoMAAcAAoBCJQBdgCIj6vpOvHAA/u+v2yU7YSxifslJMTX/wf+9rOQHSP/94EvSO/+uX+dLNTBrHdRp+Ovnmjc+vjYMmNRTtqAAAA==",
@@ -385773,7 +385773,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/tetorichu.hey-guys-its-my-first-mods/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAAAQAgCdASoOABAAA4BaJbACdAELGHPJF53AAP7yujLAC7O2LaFDmXyWIlz34Ji/M1No0eWrd393KiY6UmDp/jqbRtJU7voYQ43iBu5zV5nleGJUojQugAAA",
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Restyles the red cap with an Adventure Time look.",
     "targets": [
@@ -385849,7 +385849,7 @@
    ],
    "compatibility_notes": "Ported offline from layer evidence; not yet verified in-game.",
    "updated_at": "2026-07-25T00:00:00Z",
-   "download_count": 5,
+   "download_count": 6,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/timeless-woods.predator-face/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/timeless-woods.predator-face/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAcAAoBCJQBWD+AQTpOdHD4YAP77GS6hB9zLPv3NiPVZR1apzVQ0dn0mLGdb4NQCnTKTBdFMEyTDe2pg2wlpVq2p3keSMxqIgAAA",
@@ -386056,7 +386056,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/timeless.woods-black-summer-sunglasses-mod/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAQCdASoQAAkAA4BaJagCdADcyPx9IAD+72r6DDJWq3WznDtqNtTwPgsbdzAFPxIerjk+qHX6dxoipjg9744L4fotXOL2l1DHDgsuKMXq12jOrW/f5EPgAAA=",
-   "download_count": 2,
+   "download_count": 3,
    "replaces_data": {
     "summary": "Turns the summer sunglasses black and opaque.",
     "targets": [
@@ -390428,7 +390428,7 @@
      "loose_vanilla_sha256": "17bc16aa35b7237b3864cee654a853a09fc64e4127d7920b24064b4746a6cd79"
     }
    ],
-   "download_count": 4,
+   "download_count": 5,
    "conflicts_with": [
     "cosy.digits-50-transp",
     "cosy.dragon-crit-orange-0",
@@ -390585,7 +390585,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/veinlace.black-pink-rose-didnt-really/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAADwAQCdASoPABAAA4BaJbACdAYv0+SEmtAA/uu8F22cu2apnzW9cseKnG1KqhF6uvpVmX9cQE8L+AvzsMZxuD+kIsHkMefHDajIgcZ7S04o9a9x3lush32alMxY/IepwMlxn4cG40tQV/c8O3WRmGpFcMlcsTHzc8FxggAA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Recolors the black rose eyepatch to a truer black and pink.",
     "targets": [
@@ -391696,7 +391696,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/veinlace.bony-visage-recolored-skull-mask/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAACwAQCdASoQAAgAA4BaJbACdADQZJ6wAP6nuUru0prTSe8pEDcNOiw/Bg0JP/MRmz8m9+NEA+hHdoxC8pfMaRkt/8EFj3dvPnYZq8AA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Recolors the skull mask from white to dark grey-black.",
     "targets": [
@@ -391990,7 +391990,7 @@
     "veinlace.party-monster-for-face-11-adornment-8",
     "pantypon.castanic-f11a8"
    ],
-   "download_count": 2,
+   "download_count": 3,
    "size_bytes": 66135,
    "last_verified_patch": "v100.02 (TMM on Tex.Decal_Castanic_F_AK0007_dup; TextureFileCacheName severed, FirstResourceMemMip 0, 10-mip resident chain; in-game render pending)",
    "source_url": "https://mods-of-tera.tumblr.com/post/166388348677/veinlace-jaded-af-u-come-into-my-inbox-and",
@@ -392072,7 +392072,7 @@
     "kanstria.pride-in-celebration-of-pride-month",
     "veinlace.love-letters-w-dark-brows-requested"
    ],
-   "download_count": 3,
+   "download_count": 4,
    "size_bytes": 67235,
    "last_verified_patch": "v100.02 (TMM on Tex.Decal_Castanic_F_AK0010_dup; TextureFileCacheName severed, FirstResourceMemMip 0, 10-mip resident chain; in-game render pending)",
    "source_url": "https://mods-of-tera.tumblr.com/post/165971904242/veinlace-jaded-face-11-adornment-11-red",
@@ -392285,7 +392285,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/veinlace.trauma-another-eyepatch-mod-but-for/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAACwAQCdASoQAAoAA4BaJZACdAD1lvEAAP7VwC0vA7r6GGCgutytnYruMay7NACO1KwiLur8Vv+uXr+A4nMmubTR+Y9CWegBAcHHEH7GCKaehmqhYfWO9gAA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Adds blood splatter to the white eyepad accessory.",
     "targets": [
@@ -392762,7 +392762,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yunachiu./thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoQAAoAA4BaJQBOgCHgQ0iv+S9AAPfZaMbRXeUAWGvd/VNQdtUV3KsOO7wrJSiUKXYCBmxQ4tzgIHvtwXYzInWiL+fPQJx3wRs3AAAA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Adds pattern variants to the qipao silk dress for all female characters.",
     "targets": [
@@ -395863,7 +395863,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yunachiu.qaq/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAoAA4BaJZQCdAYvrWK3nHgA/b/CR1UWZWLQ+S5GAWin4kElvCZcTr/6jsQ405TyHUwbwXE31emvU3FOUNoYJL+E9L9h5CinMs3hn0bxQAAA",
-   "download_count": 1,
+   "download_count": 2,
    "replaces_data": {
     "summary": "Turns the event swimsuit black, Elin only.",
     "targets": [
@@ -398706,7 +398706,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 17,
+   "download_count": 18,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Resolute Plate Armor (Elin) (#254708); Enlightenment Plate Armor (Elin) (#254720); Renegade Plate Armor (Elin) (#254912); Witchhunter Plate Armor (Elin) (#261624)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-armor/thumb.webp",
@@ -398800,7 +398800,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 16,
+   "download_count": 17,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Evil God's Armor (Elin) (#270943)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-evil-god/thumb.webp",
@@ -398878,7 +398878,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 19,
+   "download_count": 20,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Heavy Metal Star (Elin) (#152396); Elin Castanica Demons Outfit (#280388)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-heavy-metal/thumb.webp",
@@ -399044,7 +399044,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-17T20:30:00Z",
-   "download_count": 81,
+   "download_count": 84,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.elin-matching-ears-tails/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.elin-matching-ears-tails/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoOABIAPu1iqU2ppaOiMAgBMB2JYgAAVL5dIfolUUhMMAD9+iRnxUk5SLrP+NfoPxCfrbGYtD46RNW+FFlOkIDr02zLuJjmgPpA/jzVUU01nK/IKqGfSO40CAA=",
@@ -399411,7 +399411,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 31,
+   "download_count": 32,
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAA8AA4BaJbACdH8AE4jPRjYCaAD+mdjBXS/eKGA06ytBONU5FXVnFCfMHmKRfXGkEiylwSV3O3mxnpsizsnOiJm7LxuUjlj70O+ltlcX72V7Oh+fs1UAAAA=",
    "replaces": "Elin Devilicious Costume (#81159); Bewitching Elin Costume (#200126); Dyeable Bewitching Elin Costume (#200127)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.genshin-mona/thumb.webp",
@@ -402586,7 +402586,7 @@
    "conflicts_with": [
     "morcotulke.black-cheerleader"
    ],
-   "download_count": 2,
+   "download_count": 3,
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAA4AA4BaJYgCdADbTFYdX0AAAP4I3JeW9G3k4vOpYBfvjNin2SuC1PLmlKHIX1qfNzu3O6L0j7nnpJQ/RWiA4ZDPGVi9BQwAAA==",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/anastasik.fan-costume-recolor/thumb.webp",
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/anastasik.fan-costume-recolor/shot_0.webp",
@@ -405554,7 +405554,7 @@
     "purpleelf.steel-wings-to-demon",
     "purpleelf.steel-wings-to-demonic"
    ],
-   "download_count": 1,
+   "download_count": 2,
    "size_bytes": 667555,
    "alternatives": [
     "purpleelf.steel-wings-to-angel",
@@ -407133,7 +407133,7 @@
     "katmods.reaper-to-normal",
     "unknown.ninja-sit-gftime"
    ],
-   "download_count": 1,
+   "download_count": 2,
    "alternatives": [
     "katmods.gftime-dance"
    ]
@@ -407769,7 +407769,7 @@
     "katmods.reaper-to-normal",
     "unknown.ninja-sit-gftime"
    ],
-   "download_count": 1,
+   "download_count": 2,
    "shares_payload_with": [
     "unknown.ninja-sit-gftime"
    ],
@@ -408582,7 +408582,7 @@
     "katmods.reaper-to-ninja",
     "katmods.reaper-to-normal"
    ],
-   "download_count": 1,
+   "download_count": 2,
    "shares_payload_with": [
     "katmods.gftime-school-sit"
    ],
