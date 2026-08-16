@@ -69,6 +69,7 @@
  "foglio1024.ui-remover-party-window": "removes a UI element; the payload art is blank by design, and a picture of nothing is not a cover",
  "foglio1024.ui-remover-raid-window": "removes a UI element; the payload art is blank by design, and a picture of nothing is not a cover",
  "foglio1024.ui-remover-targetinfo": "removes a UI element; the payload art is blank by design, and a picture of nothing is not a cover",
+ "jio.reaper-chain-animations": "No image exists to use. The payload is animation data, so there is no texture to render into a thumbnail; a video clip from a tester would make a better cover and can be added later.",
  "jtera.japanese-voice-pack": "no media at the source and no presentable art in the payload",
  "kourinn.elena-elite-steward-swimsuit": "fresh intake from the Discord archive; a payload-art cover is queued",
  "kourinn.elleon-moon-weapons": "fresh intake; the source message shipped no screenshot, a payload-art cover is queued",
