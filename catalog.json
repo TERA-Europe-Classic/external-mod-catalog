@@ -411349,12 +411349,12 @@
    "short_description": "Jio's ported 71-sequence chain animation set, on every Reaper you see.",
    "long_description": "The full Reaper chain-weapon animation set, ported from FBX and verified sequence by sequence: 71 clips, every bone matched by name, every rotation key compared against the source.\n\nThe game builds the chain animset name from the class alone - there is one set for every race - so installing this changes the chains on every Reaper on your screen, Elin and Popori male alike. That is also why it ships as an opt-in mod instead of a server-side change.\n\nThe launcher downloads and installs this for you, and can cleanly uninstall it.",
    "credits": "Ported, baked and FBX-verified by Jio (2026). Packaged for the launcher by the Classic+ team.",
-   "source_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/tag/anim-jio-chains-v1",
-   "version": "2026-r1",
+   "source_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/tag/anim-jio-chains-v2",
+   "version": "2026-r2",
    "target_patch": "v100.02",
    "compatible_arch": "x64",
    "composite_flag": true,
-   "size_bytes": 1199426,
+   "size_bytes": 555960,
    "replaces": "Reaper chain weapons swing with Jio's ported 71-sequence animation set.",
    "replaces_data": {
     "summary": "Reaper chain weapons swing with Jio's ported 71-sequence animation set.",
@@ -411367,12 +411367,12 @@
     {
      "deploy_strategy": "composite_redirect",
      "target_object_path": "17d87899_97b82cab_11684.Anim.PC_Weapons_Class09_Anim_dup",
-     "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/anim-jio-chains-v1/jio_reaper_chains.gpk",
+     "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/anim-jio-chains-v2/jio_reaper_chains.gpk",
      "gpk_files": [
       "jio_reaper_chains.gpk"
      ],
-     "sha256": "3065a200fdda47a2db47ab6889a5ecda7718fff4358a2220145b6e6fe5a80495",
-     "size_bytes": 1199426
+     "sha256": "da1bb8e818f9e09af441cc7fb9df7cad8a6a397597896c39b29f56e8052bab8b",
+     "size_bytes": 555960
     }
    ],
    "download_count": 5
