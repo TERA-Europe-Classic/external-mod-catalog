@@ -22,18 +22,21 @@ client, and without the launcher you're doing that part by hand.
 
 ## What's in here
 
-522 mods from 109 creators, as of catalog version 177. All but two are GPK
+494 mods from 107 creators, as of catalog version 358. All but two are GPK
 mods:
 
 | Category | Count | | Category | Count |
 |---|--:|---|---|--:|
-| Costumes | 220 | | Mounts & Pets | 20 |
-| Eyes & Face | 89 | | Chat & Alerts | 10 |
-| HUD & Combat | 54 | | Removers | 9 |
-| Accessories | 49 | | Performance & FX | 9 |
-| Windows & Menus | 42 | | Weapon Skins | 9 |
-| Hair | 7 | | Sounds & Voice | 2 |
-| Tools | 2 | | | |
+| Costumes | 203 | | Removers | 12 |
+| Accessories | 72 | | Chat & Alerts | 9 |
+| HUD & Combat | 65 | | Sounds & Voice | 3 |
+| Windows & Menus | 54 | | Tools | 2 |
+| Mounts & Pets | 31 | | | |
+| Performance & FX | 25 | | | |
+| Weapon Skins | 18 | | | |
+
+The catalog no longer carries character customization mods: faces, eye
+decals, adornments and hairstyles.
 
 The two that aren't GPKs:
 [Shinra Meter (Classic+)](https://github.com/TERA-Europe-Classic/ShinraMeter)
