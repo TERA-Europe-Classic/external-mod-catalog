@@ -130,6 +130,9 @@ here, or the other way around, the build fails. So the table can't go stale.
 | `review_required` | string | optional | both | Internal note that a converted payload needs a second look before it can be trusted (e.g. a source texture that has no v100 counterpart). The launcher does not render it. |
 | `conflicts_with` | string[] | optional | both | Ids of mods that replace the same thing — colour variants of one costume, rival restyles of one window. Only one of a set can be active; the launcher lists them as links in the detail panel so the user can compare, and uses them for its conflict badges. Derived from shared deploy targets, not hand-authored. |
 | `collection` | string | optional | both | Free-form key linking variants that coexist (one eye pack's designs). The launcher lists members as chips in the detail panel; unlike `conflicts_with`, collection members can be enabled together. |
+| `alternatives` | string[] | optional | both | IDs of alternative entries for comparison. |
+| `extra_sources` | string[] | optional | both | Additional source or archive URLs. |
+| `shares_payload_with` | string[] | optional | both | IDs of other entries using the same shipped payload. |
 <!-- schema-table-end -->
 
 ### Scripts
