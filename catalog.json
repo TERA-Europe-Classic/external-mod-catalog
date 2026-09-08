@@ -1,6 +1,6 @@
 {
- "version": 381,
- "updated_at": "2026-09-07T16:21:23Z",
+ "version": 382,
+ "updated_at": "2026-09-08T06:08:30Z",
  "mods": [
   {
    "id": "2017.maid-dress-mod-dyeable-version",
@@ -140129,11 +140129,11 @@
    "name": "Rainbow Syringe",
    "author": "litterboxchan",
    "category": "Accessories",
-   "short_description": "Turns the red syringe accessory rainbow.",
-   "long_description": "Rainbow Syringe !\n( works on only the red colored syringe )\n\nOriginal by litterboxchan, shared on the mods-of-tera archive.",
-   "credits": "Shared on the mods-of-tera archive; original by litterboxchan. Source: https://mods-of-tera.tumblr.com/post/176269846202/litterboxchan-rainbow-syringe-works-on-only",
-   "source_url": "https://mods-of-tera.tumblr.com/post/176269846202/litterboxchan-rainbow-syringe-works-on-only",
-   "version": "2026-r1-composite",
+   "short_description": "Turns the green/blue needle accessory rainbow.",
+   "long_description": "Rainbow Syringe by litterboxchan, ported to the 64-bit client by reverie. This port replaces the green/blue needle accessory. Equip that color to see the rainbow design.\n\nThe original 2018 mod post describes a red-only version; this supplied port targets the green/blue needle instead. The gallery shows the original artwork.\n\nReported working on the 64-bit client through TMM. The launcher uses its TMM installation support for this unchanged port.",
+   "credits": "Original Rainbow Syringe design and mod by litterboxchan (https://litterboxchan.tumblr.com/post/176221067411/rainbow-syringe-works-on-only-the-red-colored). 64-bit port by reverie.",
+   "source_url": "https://litterboxchan.tumblr.com/post/176221067411/rainbow-syringe-works-on-only-the-red-colored",
+   "version": "2026-09-08-reverie-x64",
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.rainbow-syringe-works-on-only/cover.webp",
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.rainbow-syringe-works-on-only/src0.webp",
@@ -140145,92 +140145,35 @@
    "target_patch": "v100.02",
    "compatible_arch": "x64",
    "composite_flag": true,
-   "replaces": "Mega Syringe Green (All races) (#116239); Mega Syringe Red (All races) (#116244); Green Giant Needle (All races) (#150397, #150398, #150399); Red Giant Needle (All races) (#150412, #150413, #150414); Cold Medicine (All races) (#182326, #182327, #182328); Fever Medicine (All races) (#182341, #182342, #182343)",
-   "compatibility_notes": "Re-routed off the dropin layer, which the 64-bit client never reads: it resolves costumes through CompositePackageMapper, not by filename. The art now goes into every composite package that embeds it.",
-   "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
+   "replaces": "Green/blue needle accessory",
+   "compatibility_notes": "Use the green/blue needle with this port. The red-only restriction in the original post applies to the original release. Do not enable another mod that replaces the same needle at the same time.",
+   "last_verified_patch": "v100.02 (x64 port; community-confirmed through TMM; launcher install/remove smoke passed)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.rainbow-syringe-works-on-only/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADQAQCdASoJABAAA4BaJZACdADyAZkuAAD+8EdySwRSU25DpBTFDL2r0glEgTlleisD1OBz2SAAAA==",
    "download_count": 10,
    "replaces_data": {
-    "summary": "Turns the red syringe accessory rainbow.",
-    "targets": [
+    "summary": "Turns the green/blue needle accessory rainbow.",
+    "objects": [
      {
-      "race": "any",
-      "gender": "any",
-      "items": [
-       {
-        "id": 116239,
-        "name": "Mega Syringe Green"
-       },
-       {
-        "id": 116244,
-        "name": "Mega Syringe Red"
-       },
-       {
-        "id": 150397,
-        "name": "Green Giant Needle"
-       },
-       {
-        "id": 150398,
-        "name": "Green Giant Needle"
-       },
-       {
-        "id": 150399,
-        "name": "Green Giant Needle"
-       },
-       {
-        "id": 150412,
-        "name": "Red Giant Needle"
-       },
-       {
-        "id": 150413,
-        "name": "Red Giant Needle"
-       },
-       {
-        "id": 150414,
-        "name": "Red Giant Needle"
-       },
-       {
-        "id": 182326,
-        "name": "Cold Medicine"
-       },
-       {
-        "id": 182327,
-        "name": "Cold Medicine"
-       },
-       {
-        "id": 182328,
-        "name": "Cold Medicine"
-       },
-       {
-        "id": 182341,
-        "name": "Fever Medicine"
-       },
-       {
-        "id": 182342,
-        "name": "Fever Medicine"
-       },
-       {
-        "id": 182343,
-        "name": "Fever Medicine"
-       }
-      ]
+      "path": "Skel.Attach_312_Skel",
+      "what": "Green/blue needle accessory"
      }
     ]
    },
-   "parts": [
-    {
-     "deploy_strategy": "composite_redirect",
-     "target_object_path": "9dc1ecae_84adf364_5d09.Skel.Attach_319_Skel_dup",
-     "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/dropin-to-composite-v2/RainbowSyringeWorksOnOnly_Attach_319_Skel_130.gpk",
-     "gpk_files": [
-      "RainbowSyringeWorksOnOnly_Attach_319_Skel_130.gpk"
-     ],
-     "sha256": "a3f71426decfcc8c9bc473caf3c1c1682b1acb40a897cdd30b040d5e597dcc55",
-     "size_bytes": 348202
-    }
-   ],
-   "size_bytes": 348202
+   "size_bytes": 1362649,
+   "license": "Unknown",
+   "last_verified": {
+    "date": "2026-09-08",
+    "by": "Community report relayed by Lukas",
+    "mod_version": "2026-09-08-reverie-x64",
+    "note": "Reported working in the 64-bit client via TMM on the green/blue needle. Launcher parser and two isolated install/remove cycles passed using copies of local client mappers; no new in-game render test performed by the publisher."
+   },
+   "deploy_strategy": "tmm",
+   "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/mod-rainbow-syringe-v2026-09-08-reverie-x64/RainbowSyringe.gpk",
+   "sha256": "e37529c2dba294a5228d215ce8b5747d602c2cebb6b95669cbe111849ddc7371",
+   "gpk_files": [
+    "RainbowSyringe.gpk"
+   ]
   },
   {
    "id": "litterboxchan.ready-for-school-new-mod",

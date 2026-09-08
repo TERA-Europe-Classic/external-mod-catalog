@@ -117,7 +117,7 @@ Launch.log names the failing package.
 | Pink Snow Globe Mount | `litterboxchan.pink-snow-globe-removes-the` | equip Riding Skill: Wintera Snowbite #150656 (any race) |
 | Popo Backpack Recolors | `litterboxchan.popo-backpack-white-pink` | equip Racoon Pipe Backpack #131235 (any race) |
 | Rainbow Bunny Mount | `litterboxchan.rainbow-bunny-mount-changes-the` | equip [Event] Skill Manual: Cobalt Moon Bunny (30 Days) #206581 (any race) |
-| Rainbow Syringe | `litterboxchan.rainbow-syringe-works-on-only` | equip Mega Syringe Green #116239 (any race) |
+| Rainbow Syringe | `litterboxchan.rainbow-syringe-works-on-only` | equip the green/blue needle accessory; verify the rainbow design (reverie x64 port) |
 | Blue Airy Dress | `litterboxchan.ready-for-school-new-mod` | equip Cheerleader Outfit (Castanic Female) #151673 (castanic female) |
 | Seren's Night Uniform White Socks | `litterboxchan.serens-night-uniform-white-sock` | equip Schoolgirl Outfit (Elin) #179183 (elin female) |
 | Sheep Girl Pink Hood | `litterboxchan.sheep-girl-with-a-pink` | equip Little Hazel Riding Hood (Human Female) #268764 (human female) |
