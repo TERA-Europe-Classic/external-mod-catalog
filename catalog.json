@@ -1,5 +1,5 @@
 {
- "version": 386,
+ "version": 387,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -3123,7 +3123,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.hank-hill-is-impressed-by-your-ability-to/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAADwAQCdASoIABAAA4BaJQBOgB6UniEBZnAA/r5xA3gmeyePJ45gUP/2gBid/x7RFsCREL6fHwP2JsE7Ul0IYVf1H5pFMe28/Mvud8fKO4APN5RPFFr6rALfNMlTUAAA",
-   "download_count": 302,
+   "download_count": 304,
    "parts": [
     {
      "name": "i1cf",
@@ -3445,7 +3445,7 @@
    ],
    "compatibility_notes": "Verified in game 2026-07-31 (tester).",
    "updated_at": "2026-07-25T00:00:00Z",
-   "download_count": 595,
+   "download_count": 599,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.loading-bar-recolor/src0.png",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.loading-bar-recolor/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACwAQCdASoMAAcAAoBCJZACw7EOI/yAAP72zB+5DoyZsaEk/Ky6+9iiNJfjxjQy/J6ierUf2bL+iuAA",
@@ -3705,7 +3705,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.sparky-got-a-spiffy-new-makeover/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmgAAABXRUJQVlA4IFwAAACwAQCdASoQAA4AA4BaJbACdACnWCAAAP3qdbVgq+9Lf+GZJtEWRLW1Kv5Y5Jw7kFymn2YTuMs5vhAFatQl3wSCCgqOqzp2NfNp4tHmdli8/UjKIb7VvpDRWKaAAA==",
-   "download_count": 358,
+   "download_count": 360,
    "replaces_data": {
     "summary": "Recolors the Sparky pet with brighter colors.",
     "targets": [
@@ -3760,7 +3760,7 @@
    ],
    "compatibility_notes": "Verified in game 2026-07-31 on Tool & Die (Rare) #178007. Every weapon in the set is covered -- the eight names below, plain and Rare.",
    "updated_at": "2026-07-25T00:00:00Z",
-   "download_count": 548,
+   "download_count": 549,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.steam-powered-recolor/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/aioshe.steam-powered-recolor/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAAAQAgCdASoMAAcAAoBCJQBOgCPOqKBynDQAAP73y/wBQh8+JiBLFIaCG+pXGwxw9xbTMq2KHm+H+/IsBGTbiW2Tm05iYtBpmAAAAA==",
@@ -5331,7 +5331,7 @@
      "target_object_path": "ffe86d35_ee52dd0e_eb.Message_I1D2_dup"
     }
    ],
-   "download_count": 1101,
+   "download_count": 1110,
    "conflicts_with": [
     "aioshe.hank-hill-is-impressed-by-your-ability-to",
     "aunu.block-cat-peach",
@@ -5664,7 +5664,7 @@
      "target_object_path": "ffe86d35_ee52dd0e_eb.Message_I1D2_dup"
     }
    ],
-   "download_count": 516,
+   "download_count": 521,
    "conflicts_with": [
     "aioshe.hank-hill-is-impressed-by-your-ability-to",
     "artexlib.block-gigachad",
@@ -6119,7 +6119,7 @@
     "aioshe.loading-bar-recolor",
     "catannadev.red-loading-progress"
    ],
-   "download_count": 963,
+   "download_count": 969,
    "deploy_strategy": "composite_redirect",
    "last_verified": {
     "date": "2026-07-26",
@@ -6334,7 +6334,7 @@
    "updated_at": "2026-08-28T22:28:13Z",
    "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers.",
    "last_verified_patch": "patch 115",
-   "download_count": 16101,
+   "download_count": 16244,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwAA4BaJZQCdAEf9owUEAAA/ukEplWT3acmdkLDzSQKozoWKpGdPNAAAA==",
@@ -6379,7 +6379,7 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/cover.webp",
    "tagline": "Custom cooldowns, boss gauges and party UI.",
    "last_verified_patch": "patch 115",
-   "download_count": 3268,
+   "download_count": 2449,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbUZyEsrAAD+7nxlqEmt/p8z55sjET45d9xTqeCGTXXYKm32mr3hRplrVC1OB40wORatI5c8ICyhl5YMa0cAAAA=",
    "screenshots": [
@@ -6446,7 +6446,7 @@
      "loose_vanilla_sha256": "17bc16aa35b7237b3864cee654a853a09fc64e4127d7920b24064b4746a6cd79"
     }
    ],
-   "download_count": 6386,
+   "download_count": 6432,
    "conflicts_with": [
     "cosy.dragon-crit-orange-0",
     "cosy.dragon-crit-orange-50",
@@ -33262,7 +33262,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 560,
+   "download_count": 563,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-htmslf.rgb-scarf-v1.0.0/RGB_scarf.gpk",
    "sha256": "4466be298a6753d99d1309bbf1e850a19117802a50381ece515d3e44f79818d2",
    "size_bytes": 31901900,
@@ -33946,7 +33946,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 1623,
+   "download_count": 1635,
    "gpk_files": [
     "Crosshair_I5_dup.gpk",
     "normalBg_dup.gpk"
@@ -105696,7 +105696,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 521,
+   "download_count": 523,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-kawaakari.pastel-fishing-rods-v1.0.0/Pastel_Pink_Fishing_Rod.gpk",
    "sha256": "9da2cd2675d7eb5a2f0365e8347c2f3baec74ff31aa043bca5fec3c89da23724",
    "size_bytes": 9174639,
@@ -134885,7 +134885,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.not-gonna-stop-until-every/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAEAA4BaJZAC7AF1AAD+79nSf3WqPBIQznbaKf1y2wAA",
-   "download_count": 467,
+   "download_count": 469,
    "parts": [
     {
      "deploy_strategy": "composite_redirect",
@@ -146712,7 +146712,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/littleshistar.dark-blue-batwing-cape/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoLABAAA4BaJQBdgCHgV6KvBML4AP7ueHAzREZhlVkiclZ+DitsXWkNxalb3I0zG3Wwy2eC2Tmz6MYAAAA=",
-   "download_count": 590,
+   "download_count": 592,
    "replaces_data": {
     "summary": "Turns the Batwing Cape dark blue.",
     "targets": [
@@ -159861,7 +159861,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, converter pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/littleshistar.no-ears-governess-frills/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAAAQAgCdASoPABAAA4BaJbACdAYvNL1/suOQAP0Bj54QJ0Wq9C4xAJFbMulEXe8nRoo6U8uu6z1/cTQRYYzqw5Tt1u+mNTMzx4mdrzMiK/u8pDlbTNaPlz1z9W9bzDLsw2w4NM2XWcgAAA==",
-   "download_count": 343,
+   "download_count": 344,
    "replaces_data": {
     "summary": "Removes the cat ears from the Governess Frills accessory.",
     "targets": [
@@ -163091,7 +163091,7 @@
     "by": "Lukas (in-game summon)",
     "note": "Mount summons and renders (crown + geometric skin). Confirmed after removing the v1.6 spec part, whose SkeletalMesh composite_redirect crashed on summon."
    },
-   "download_count": 1048,
+   "download_count": 1052,
    "conflicts_with": [
     "pantypon.black-double-buns"
    ],
@@ -184967,7 +184967,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 1130,
+   "download_count": 1133,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-norukjerky.kitty-socks-v1.0.0/Kitty_Socks.gpk",
    "sha256": "cf553da62cbbf12cb370b57b28648dd202f9b94f1a6b11df5013fddea719701a",
    "size_bytes": 84071909,
@@ -187432,7 +187432,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:00:00Z",
-   "download_count": 2025,
+   "download_count": 2040,
    "download_url": "https://github.com/TERA-Europe-Classic/external-mod-catalog/releases/download/gpk-novatera.sailor-moon-hp-v1.0.0/Sailor_Moon_HP.gpk",
    "sha256": "acfe48ad2211511445510794290deb16a647f88a3c63c02194a46c4df824f3c1",
    "size_bytes": 882236,
@@ -193636,7 +193636,7 @@
    "gpk_files": [
     "PantyponCastanicSleepyRunningTogs_r19.gpk"
    ],
-   "download_count": 401,
+   "download_count": 404,
    "conflicts_with": [
     "litterboxchan.s-a-n-r-i-changes-all-the"
    ],
@@ -234110,7 +234110,7 @@
     "pantypon.tea-time-raincoats",
     "taylorswiftmodding.pikachu-raincoat"
    ],
-   "download_count": 572,
+   "download_count": 574,
    "deploy_strategy": "tmm",
    "objects": [
     "9dc1ecae_dfcb04fc_f167.Skel.PC_Event_42A_Popori_F_Skel_dup",
@@ -290180,7 +290180,7 @@
     "justcrazy.green-crosshair",
     "pantypon.static-heart-crosshair"
    ],
-   "download_count": 1136,
+   "download_count": 1145,
    "deploy_strategy": "composite_redirect",
    "last_verified": {
     "date": "2026-07-30",
@@ -297232,7 +297232,7 @@
     "litterboxchan.pastel-varsity-turns-the",
     "yupi.bns-plate-heavy-metal"
    ],
-   "download_count": 838,
+   "download_count": 843,
    "verification_status": "working",
    "gpk_files": [
     "PantyponWhiteCastanicaDemon.gpk"
@@ -385763,7 +385763,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 670,
+   "download_count": 672,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Resolute Plate Armor (Elin) (#254708); Enlightenment Plate Armor (Elin) (#254720); Renegade Plate Armor (Elin) (#254912); Witchhunter Plate Armor (Elin) (#261624)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-armor/thumb.webp",
@@ -385857,7 +385857,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 514,
+   "download_count": 516,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Evil God's Armor (Elin) (#270943)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-evil-god/thumb.webp",
@@ -385935,7 +385935,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 478,
+   "download_count": 481,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Heavy Metal Star (Elin) (#152396); Elin Castanica Demons Outfit (#280388)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-heavy-metal/thumb.webp",
@@ -386020,7 +386020,7 @@
    "compatibility_notes": "Each BnS Plate Armor variant replaces a different vanilla Elin costume, so they can be enabled alongside each other.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 441,
+   "download_count": 443,
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAQAgCdASoQAAoAA4BaJZQC7AYuREbCx/TAAP7YYUwSnz68vzMKoyImwQ5G0XPC8t2p6V+94+xjIu2XiXk31iSSk/97ZdYPB9QFxPhaUvOQrtCyGfPc/RJ8kXotGWn2MAAAAA==",
    "replaces": "Thunor’s Armor (Elin) (#271132); Woden’s Armor (Elin) (#271139)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.bns-plate-woden-thunor/thumb.webp",
@@ -386103,7 +386103,7 @@
    ],
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-19T00:00:00Z",
-   "download_count": 1404,
+   "download_count": 1414,
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwAgCdASoQAA8AA4BaJbACdH8AE4jPRjYCaAD+mdjBXS/eKGA06ytBONU5FXVnFCfMHmKRfXGkEiylwSV3O3mxnpsizsnOiJm7LxuUjlj70O+ltlcX72V7Oh+fs1UAAAA=",
    "replaces": "Elin Devilicious Costume (#81159); Bewitching Elin Costume (#200126); Dyeable Bewitching Elin Costume (#200127)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/yupi.genshin-mona/thumb.webp",
@@ -389134,7 +389134,7 @@
    "conflicts_with": [
     "morcotulke.black-cheerleader"
    ],
-   "download_count": 381,
+   "download_count": 384,
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAAAQAgCdASoQAA4AA4BaJYgCdADbTFYdX0AAAP4I3JeW9G3k4vOpYBfvjNin2SuC1PLmlKHIX1qfNzu3O6L0j7nnpJQ/RWiA4ZDPGVi9BQwAAA==",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/anastasik.fan-costume-recolor/thumb.webp",
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/anastasik.fan-costume-recolor/shot_0.webp",
@@ -393386,7 +393386,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.gftime-dance/shot_3.webp"
    ],
    "replaces": "The /dance emote becomes the KTERA GFTime dance (Elin).",
-   "download_count": 607,
+   "download_count": 615,
    "size_bytes": 29400464,
    "parts": [
     {
@@ -393826,7 +393826,7 @@
     "katmods.reaper-to-normal",
     "unknown.ninja-sit-gftime"
    ],
-   "download_count": 673,
+   "download_count": 676,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.reaper-to-ninja/shot_0.webp",
    "screenshots": [
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.reaper-to-ninja/shot_0.webp"
