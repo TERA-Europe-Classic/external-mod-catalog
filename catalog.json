@@ -1,5 +1,5 @@
 {
- "version": 394,
+ "version": 395,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -6334,7 +6334,7 @@
    "updated_at": "2026-08-28T22:28:13Z",
    "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers.",
    "last_verified_patch": "patch 115",
-   "download_count": 16721,
+   "download_count": 16724,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwAA4BaJZQCdAEf9owUEAAA/ukEplWT3acmdkLDzSQKozoWKpGdPNAAAA==",
@@ -6379,7 +6379,7 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/cover.webp",
    "tagline": "Custom cooldowns, boss gauges and party UI.",
    "last_verified_patch": "patch 115",
-   "download_count": 3369,
+   "download_count": 3375,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbUZyEsrAAD+7nxlqEmt/p8z55sjET45d9xTqeCGTXXYKm32mr3hRplrVC1OB40wORatI5c8ICyhl5YMa0cAAAA=",
    "screenshots": [
@@ -134885,7 +134885,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.not-gonna-stop-until-every/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAEAA4BaJZAC7AF1AAD+79nSf3WqPBIQznbaKf1y2wAA",
-   "download_count": 485,
+   "download_count": 486,
    "parts": [
     {
      "deploy_strategy": "composite_redirect",
@@ -163091,7 +163091,7 @@
     "by": "Lukas (in-game summon)",
     "note": "Mount summons and renders (crown + geometric skin). Confirmed after removing the v1.6 spec part, whose SkeletalMesh composite_redirect crashed on summon."
    },
-   "download_count": 1084,
+   "download_count": 1085,
    "conflicts_with": [
     "pantypon.black-double-buns"
    ],
