@@ -1,5 +1,5 @@
 {
- "version": 396,
+ "version": 397,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -5331,7 +5331,7 @@
      "target_object_path": "ffe86d35_ee52dd0e_eb.Message_I1D2_dup"
     }
    ],
-   "download_count": 1147,
+   "download_count": 1148,
    "conflicts_with": [
     "aioshe.hank-hill-is-impressed-by-your-ability-to",
     "aunu.block-cat-peach",
@@ -6119,7 +6119,7 @@
     "aioshe.loading-bar-recolor",
     "catannadev.red-loading-progress"
    ],
-   "download_count": 1005,
+   "download_count": 1006,
    "deploy_strategy": "composite_redirect",
    "last_verified": {
     "date": "2026-07-26",
@@ -6446,7 +6446,7 @@
      "loose_vanilla_sha256": "17bc16aa35b7237b3864cee654a853a09fc64e4127d7920b24064b4746a6cd79"
     }
    ],
-   "download_count": 6564,
+   "download_count": 6566,
    "conflicts_with": [
     "cosy.dragon-crit-orange-0",
     "cosy.dragon-crit-orange-50",
@@ -290180,7 +290180,7 @@
     "justcrazy.green-crosshair",
     "pantypon.static-heart-crosshair"
    ],
-   "download_count": 1193,
+   "download_count": 1194,
    "deploy_strategy": "composite_redirect",
    "last_verified": {
     "date": "2026-07-30",
