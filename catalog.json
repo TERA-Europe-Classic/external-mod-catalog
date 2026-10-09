@@ -1,5 +1,5 @@
 {
- "version": 399,
+ "version": 400,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -6334,7 +6334,7 @@
    "updated_at": "2026-08-28T22:28:13Z",
    "tagline": "Tera DPS Meter for the Evervyn and EU Classic Private Servers.",
    "last_verified_patch": "patch 115",
-   "download_count": 16726,
+   "download_count": 16727,
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/cover.webp",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.shinra/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAQCdASoQAAwAA4BaJZQCdAEf9owUEAAA/ukEplWT3acmdkLDzSQKozoWKpGdPNAAAA==",
@@ -6379,7 +6379,7 @@
    "featured_image": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/cover.webp",
    "tagline": "Custom cooldowns, boss gauges and party UI.",
    "last_verified_patch": "patch 115",
-   "download_count": 3378,
+   "download_count": 3379,
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/classicplus.tcc/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAACwAwCdASoQABQAPu1iqU2ppaOiMAgBMB2JbACdFQAAcbUZyEsrAAD+7nxlqEmt/p8z55sjET45d9xTqeCGTXXYKm32mr3hRplrVC1OB40wORatI5c8ICyhl5YMa0cAAAA=",
    "screenshots": [
