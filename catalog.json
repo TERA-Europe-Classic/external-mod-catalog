@@ -1,5 +1,5 @@
 {
- "version": 402,
+ "version": 403,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -1130,7 +1130,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/a.lysstaise-and-if-you-doubt-me-for-a/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoJABAAA4BaJYgCdADdrbOrdugA/mp/km9X83E/vwf9D7yH0ZOxK7LdgzUQ+y/jxWSNGe7XuMqozcBqy6BDoPGNFyyG+JnLKQUScQ2vp4gAAA==",
-   "download_count": 40,
+   "download_count": 41,
    "replaces_data": {
     "summary": "Turns the pink paw pads on the Elin Kitty Club costumes black.",
     "targets": [
@@ -18725,7 +18725,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/egonurse.plain-witchypooh-mod-quick-mod-i-did/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwAgCdASoOABAAA4BaJYwC7AYubq/OmG8VTwIAAP7zUgaYbQ4kUekTSiqMwEj5aOPfTs9nUVUofdVIZ7VGqbI+fwPSnFvd+hAdAZiq7pocXJvxKafdGkxskWaySSZOSUgAAA==",
-   "download_count": 41,
+   "download_count": 42,
    "replaces_data": {
     "summary": "Gives the Witchypooh accessory a plain look.",
     "targets": [
@@ -134885,7 +134885,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.not-gonna-stop-until-every/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRjQAAABXRUJQVlA4ICgAAABwAQCdASoQAAEAA4BaJZAC7AF1AAD+79nSf3WqPBIQznbaKf1y2wAA",
-   "download_count": 487,
+   "download_count": 488,
    "parts": [
     {
      "deploy_strategy": "composite_redirect",
@@ -136696,7 +136696,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.pastel-varsity-turns-the/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAQCdASoNABAAA4BaJagCsAD5PODBAAD+9N/Ug+PezElvKOXNf8ovGKPRvUEEBrdZ2hktkSvYHjFNO9UK/ZJ09Gwj+3VA+MSX12emCAAAAA==",
-   "download_count": 19,
+   "download_count": 20,
    "replaces_data": {
     "summary": "Ships a full replacement of this package, so any of these can be affected, dyeable versions included.",
     "targets": [
@@ -144788,7 +144788,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/litterboxchan.white-pink-kitten-paws/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAADwAQCdASoQAAQAA4BaJYgCdADpLsRxZOAA/td+hDKJa6X9Si9xa4lzFMGhZd6F1ufIkxWgWQAAAA==",
-   "download_count": 17,
+   "download_count": 18,
    "replaces_data": {
     "summary": "Recolors the Brawler White Kitten Paws' ribbons and claws from black to pink.",
     "targets": [
@@ -285124,7 +285124,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/pantypon.just-bows-hello-kitty-pink-headband/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAgCdASoKABAAA4BaJZQAD5CRenPzej8UfsgA+OWrdknOCjaX9Xzy2EE8+vrN5JimswQYbsTmn66VZuFsJjKBOSPad0KWEyRpVxvyG7DD2HFTAu7nO75TrEdNRz9AAAA=",
-   "download_count": 13,
+   "download_count": 14,
    "replaces_data": {
     "summary": "Removes the cat-ear headband from the Hello Kitty accessory, leaving just the pink bow.",
     "targets": [
@@ -319545,7 +319545,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/recolor.of-snowsilk-winter-dress-for-elin/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAQCdASoNABAAA4BaJQBWABjPwNdUeoIA/qN4xFV+x9oQaNcCHtUxez/QF6t88He/P5f/K1UrEt2Ohub0HqpPV01OkbePODwTpshUdySHYHBAAAA=",
-   "download_count": 17,
+   "download_count": 18,
    "replaces_data": {
     "summary": "Ships a full replacement of this package, so any of these can be affected, dyeable versions included.",
     "targets": [
@@ -324548,7 +324548,7 @@
    "gpk_files": [
     "TaylorswiftmoddingPeachesAndJeans.gpk"
    ],
-   "download_count": 30,
+   "download_count": 31,
    "deploy_strategy": "tmm",
    "objects": [
     "9dc1ecae_19a36e87_f421.Skel.PC_Event_53_Human_F_Skel_dup",
@@ -324727,7 +324727,7 @@
     "pantypon.elin-rose-gold-raincoat",
     "pantypon.tea-time-raincoats"
    ],
-   "download_count": 20,
+   "download_count": 21,
    "deploy_strategy": "tmm",
    "objects": [
     "9dc1ecae_dfcb04fc_f167.Skel.PC_Event_42A_Popori_F_Skel_dup",
