@@ -1,5 +1,5 @@
 {
- "version": 403,
+ "version": 404,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -6059,7 +6059,7 @@
      "the HP bar in the character window"
     ]
    },
-   "download_count": 16,
+   "download_count": 17,
    "parts": [
     {
      "deploy_strategy": "composite_redirect",
