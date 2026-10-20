@@ -1,5 +1,5 @@
 {
- "version": 405,
+ "version": 406,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -52748,7 +52748,7 @@
    "last_verified_patch": "v100.02 (x32->x64 reconvert, pixel-verified; dropin; in-game render pending)",
    "icon_url": "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/katmods.recolour-for-the-designer-shirt-3-some/thumb.webp",
    "blur_data": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAQCdASoMABAAA4BaJaACdAEQ+b8IgAD9dsmlwup4QTCPspm5aCD92iAWBIFVdbb0AC47aC3s53Av3UUHWQ9k34P3x+vZDw4tyJiyvCuJgAAA",
-   "download_count": 18,
+   "download_count": 19,
    "replaces_data": {
     "summary": "Recolors details of the designer shirt red.",
     "targets": [
@@ -388448,7 +388448,7 @@
     "readeyedghost.black-and-white-sakura-staff",
     "yunachiu.i-make-a-mod-of-the-rogues-weapon"
    ],
-   "download_count": 23,
+   "download_count": 24,
    "size_bytes": 9709947
   },
   {
