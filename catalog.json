@@ -1,5 +1,5 @@
 {
- "version": 408,
+ "version": 409,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -186240,7 +186240,7 @@
    "compatibility_notes": "Use v2.0 or newer; older versions could crash the client on launch. Disabling the mod restores the vanilla voices exactly.",
    "last_verified_patch": "patch 100.02",
    "updated_at": "2026-07-23T05:30:00Z",
-   "download_count": 646,
+   "download_count": 647,
    "parts": [
     {
      "name": "voice-pcfemale_voice01",
