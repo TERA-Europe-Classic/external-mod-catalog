@@ -1,5 +1,5 @@
 {
- "version": 413,
+ "version": 414,
  "updated_at": "2026-09-22T06:42:26Z",
  "mods": [
   {
@@ -23813,7 +23813,7 @@
     "https://cdn.jsdelivr.net/gh/TERA-Europe-Classic/external-mod-catalog@main/media/foglio1024.toolbox-gagebar-topscreen/thumb.webp"
    ],
    "broken": "SUPERVISED FIRST TEST -- the first movie-route mod offered. The author's compiled window layout now sits in the composite object the client resolves, and the rebuilt slice matches vanilla's export table exactly. A composite redirect of a Flash movie crashed the client once before, so if the game fails to launch, uninstall in the launcher (that restores everything) and report. A working window unlocks the other 17 built the same way.",
-   "download_count": 18,
+   "download_count": 19,
    "replaces_data": {
     "summary": "Replaces the gauge bar (class resource).",
     "loose": [
